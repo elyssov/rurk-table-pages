@@ -1,0 +1,1181 @@
+{
+ "chapters": [
+  {
+   "id": "prolog",
+   "title": "Mở đầu: Trò chơi này nói về điều gì",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "16:9",
+     "caption": "Вечный Город — панорама на закате",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Stiletto thép xuyên qua tai một patrician — lưỡi mảnh chạm vào não. Con rối với mũi dài và mắt cháy tan thành tro bạc không chạm sàn. Trong hầm Vĩnh Đô, ác sĩ Craabas del Baarbos tháo nhẫn — một năm nữa cuộc đời mua bằng cái chết của người khác.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Bên kia mép thực tại — ở một thế giới khác, thời gian khác — một đặc vụ ORPP nắm chặt GSh-18 và đẩy cửa hầm. Sau đó — không phải người. Sau đó — kẻ đã giả làm người ba tháng, cho đến khi trẻ con bắt đầu mất tích ở Nizhny Novgorod. Ánh đèn pin xé ra từ bóng tối khuôn mặt cười quá rộng — rộng hơn giải phẫu cho phép.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Hai thế giới. Hai thể loại. Một hệ thống luật chơi.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "RURK không phải câu chuyện về một thế giới riêng. Đó là ngôn ngữ trong đó có thể kể bất kỳ câu chuyện nào. Động cơ phổ quát mô tả chính xác như nhau cú gladius vào khiên đồng và loạt bắn Bizon trong hành lang tối. Xí ngầu — cùng một loại. Toán học — cùng một loại. Adrenaline — cùng một loại.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Trong app này bạn sẽ tìm thấy luật. Bảng. Công thức. Bộ tạo nhân vật đếm mọi thứ cho bạn. Danh mục kỹ năng có tìm kiếm. Lăn xí ngầu kèm gợi ý chính xác bạn đang kiểm tra gì. Tất cả cho trò chơi — trong một màn hình. Nhưng trước khi nhấn nút đầu tiên — chúng tôi muốn bạn hiểu điều quan trọng.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Luật là bộ xương. Thịt là bạn. Quyết định bạn, sai lầm bạn, chiến thắng giành được không phải bằng cheese mà bằng mồ hôi và máu (kể cả tưởng tượng). RURK xây dựng để anh hùng bạn là người sống, không phải tập hợp số tối ưu. Người có thể là bác sĩ phẫu thuật xuất sắc và hoàn toàn bất lực trong ẩu đả phố. Bắn pistol như thần — nhưng trượt với súng trường bắn tỉa, vì đó là kỹ năng khác, tay khác, thần kinh khác. Có thể nâng trăm ký — nhưng không chạy trăm mét trong mười hai giây, vì cơ nâng và cơ chạy là cơ khác nhau.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Đó không phải lỗi. Đó là tính năng. Tính năng duy nhất và chính.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Chào mừng đến RURK.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Lăn xí ngầu. Đưa ra lựa chọn. Sống.",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "chast-pervaya",
+   "title": "Phần một: Anh hùng",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "9:16",
+     "caption": "Оперативник ОРПП в дверях заброшенного здания",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chương 1. Bạn là ai?",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Đại úy tuần tra Hạ Đô đứng trong mưa và nghĩ rằng mình bốn mươi tuổi. Theo tiêu chuẩn tuần tra — đã già. Tấm giáp ngực thép đánh bóng hắn đeo tự hào hai mươi năm trước nay đè lên vai khác — không phải bằng trọng lượng kim loại mà bằng trọng lượng trống rỗng. Hắn bắt cướp. Nhận hối lộ. Trung thực — trong chừng mực từ đó còn nghĩa trong Hạ Đô. Hắn được biết. Được sợ. Được tôn trọng.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Và dù vậy — đêm hắn trò chuyện với Thành Phố. Phàn nàn về số phận chưa từng cho hắn cơ hội thật sự.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Thành Phố lắng nghe. Thành Phố thích trò đùa hay.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Mong ước đại úy sắp thành sự thật…",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Anh hùng không phải tập hợp số. Số là công cụ, không phải mục tiêu. Trước khi chi điểm đầu, hãy trả lời ba câu cho mình:",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Người này là ai?** Không phải «chiến binh, cấp năm» và không phải «pháp sư, trí tuệ 18». Hắn là ai? Từ đâu? Đã thấy gì? Đã mất ai? Vì điều gì hắn sẵn sàng chết? Sợ gì hơn cái chết?",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Hắn muốn gì?** Không phải «cày kinh nghiệm». Người sống bạn cầm trong tay muốn gì? Đại úy tuần tra muốn chiến công. Tên trộm trẻ muốn sống sót. Kesarevna muốn tự do. Ác sĩ muốn thêm một năm. Tất cả họ là anh hùng. Không ai trong họ là «tập hợp chỉ số».",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Giá hắn là gì?** Mỗi lựa chọn tốn gì đó. Đại úy đặt tất cả vào sức mạnh và sức bền — sẽ không tỏa sáng trong phòng khách. Học giả dành đời trên sách — sẽ không sống sót cận chiến. RURK không cho bạn mọi thứ. RURK buộc bạn chọn. Và mỗi lựa chọn — là câu chuyện.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Tạo nhân vật: cơ bản",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Bạn có **460 điểm**. Đó là tất cả thế giới đã cho người của bạn từ khi sinh đến đầu game. Cơ thể, tâm trí, thần kinh, phản ứng, ý chí, sức hấp dẫn, cảm nhận — tất cả trả từ pool này.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Người trung bình là 40–55 ở mỗi thuộc tính. Một trăm là trần con người, dành cho ít người. Dưới hai mươi — hạn chế nghiêm trọng. Dưới mười — khuyết tật.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "460 điểm chia tám thuộc tính. Tính đi: nếu muốn xuất sắc mọi nơi (80 mỗi), cần 640. Có 460. Chọn. Gì quan trọng hơn — chân nhanh hay đầu sắc? Cơ thể bền hay ý chí mạnh? Sức hút hay cảm nhận?",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Không có câu trả lời đúng. Có câu trả lời của bạn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Bảng tóm tắt thuộc tính cơ bản",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chương 2. Cơ thể",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Sức mạnh",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Một Đứa Trẻ Băng lên bờ. Một mình, như luôn. Số còn lại đợi trên thuyền vỏ cây — vuông góc, dè dặt, như cắt từ băng không tan. Hai mét sáu. Tóc trắng. Mắt — xanh như bầu trời đông cứng thành băng.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Thương gia xin hắn giúp khiêng thùng. Người Phương Bắc nhìn thùng, nhìn thương gia — cách nhìn đứa trẻ xin lấy quả táo từ cành — và nâng thùng hai trăm cân lên vai bằng một tay.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Thương gia làm rơi ví.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Người Phương Bắc rút từ túi viên ruby cỡ nắm tay. Gõ lên quầy, nghe. Bóp trong lòng bàn tay. Hơi gồng. Đổ ra quầy hàng tá ruby nhỏ hơn và một đám bụi ruby nhỏ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "«Cái này — cho thùng,» hắn nói.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Thương gia ngồi xuống sàn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Sức mạnh không phải «sức chiến đấu» trừu tượng. Đó là kilogram cụ thể cơ bắp bạn có thể nâng, mang, giữ. Đó là cú đòn có khối lượng phía sau. Đó là cái bắt tay có thể gãy xương. Hoặc không — nếu Sức 30, bạn sẽ không gãy gì ngoài bút chì.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Sức xác định: bạn jerk-lift được bao nhiêu, mang mười cây số bao nhiêu, và bonus sát thương tay không. Sức 40 bonus là không — người trung bình, đấm trung bình. Sức 80 — nắm đấm cộng +5 sát thương. Sức 100 — +9. Đó là khác biệt giữa «trúng và choáng» và «trúng và gãy hàm».",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Nhưng Sức đòi cơ thể. Ở giá trị Sức cao Toughness tối thiểu tăng — không thể là cọng rơm với cánh tay thợ rèn. Vật lý không cho.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Sức — tham số dẫn xuất",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Sức bền",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Lính Sea Legion gỡ mũ và lau máu khỏi trán. Trireme vừa abord tàu buôn lậu — đánh nhỏ, mười phút, không gì nghiêm trọng. Nhưng một tên cướp biển đã bắt hắn bằng dao ngang sườn, và bây giờ vết thương đập theo nhịp tim.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Centurion xem vết cắt. «Trầy. Khâu lại và ngày mai mày trong hàng.»",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Ngày mai. Legionary biết centurion đúng. Cơ thể hắn biết tự lành — nhanh hơn hầu hết. Vết cắt khép trong ngày, bầm tan trong giờ. Hai mươi năm mái chèo và abord đã rèn hắn đến trạng thái mà dao ngang sườn thực sự là vết trầy.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Sức bền là biên độ an toàn cơ thể bạn. Hits. Regeneration. Stamina. Khối lượng.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Đó là thuộc tính «phòng thủ» nhất: xác định bạn chịu bao nhiêu hits trước khi bất tỉnh, vết thương lành nhanh thế nào, và bạn cầm cự bao lâu ở giới hạn sức bền.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Hits trong RURK không phải «life points» trừu tượng. Chúng phân bố trên cơ thể. Mỗi bộ phận có biên độ riêng, tính từ hits toàn cục. Đầu dễ tổn thương hơn chân. Háng — dễ hơn tất cả. Không phải quy ước — là giải phẫu.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Regeneration — bao nhiêu hits bạn phục hồi mỗi ngày. Toughness 50 — hai hits/ngày. Vết thương nặng lành một tuần. Toughness 100 — năm hits, và vết thương đó lành trong ba ngày. Có surgeon tốt — nhanh hơn. Không có giúp đỡ y tế — chậm hơn và biến chứng.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Stamina — pool sức bền. Bạn có thể chạy, đánh, chèo, mang người bị thương — cho đến khi stamina cạn. Khi cạn — bạn ngã. Không phải vì vết thương, không phải vì cú đánh — vì cơ thể nói «đủ».",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Sức bền — tham số dẫn xuất",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Phối hợp",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Ác sĩ Craabas ngồi bất động. Tám nhẫn trong hộp ngọc bích, mỗi cái trong hốc riêng. Litany dài, phức tạp, và mỗi âm tiết phải phát hoàn hảo. Một lỗi — và quỷ trong rối tỉnh sớm. Lỗi khác — và nhẫn đốt ngón tay thay vì vào.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Ngón tay Craabas không run. Không bao giờ. Trong ba mươi năm hành nghề — không một lần. Ác sĩ với ngón tay run là ác sĩ chết.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Phối hợp là chính xác. Không phải lực, không phải tốc độ — chính xác. Khả năng đặt kim vào nơi cần. Bóp cò mượt mà không giật. Vẽ dao mổ dọc đường, không cạnh đó. Cắm chìa khóa và xoay — không gãy.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Phối hợp ở hầu hết kỹ năng liên quan tay: bắn, đấu kiếm, phẫu thuật, sửa chữa, mở khóa, vẽ, âm nhạc. Nhân vật Phối hợp thấp có thể biết lý thuyết hoàn hảo — nhưng tay sẽ phản bội.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Phối hợp — bonus cho hành động chính xác",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Tốc độ",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Phù thủy Quần Đảo đứng trên sàn clipper của mình — chân trần, vì giày cản cảm nhận sàn. Gió đập vào mặt. Mèo có cánh ngồi trên chỗ đậu trên đầu, tai cụp — không vì sợ, vì khoái.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Tàu hải quan cách nửa dặm. Phù thủy đặt tay lên bánh lái và quay nhẹ — clipper ngoan ngoãn trượt phải, cắt sóng. Hai thân. Sáu mươi feet. Một phụ nữ ở bánh lái.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Cô có thể thuê thủy thủ. Nhưng thủy thủ là người phản ứng trong một giây. Còn phù thủy, qua familiar, cảm thấy gió một phần mười giây trước khi nó đổi hướng. Giữa một giây và một phần mười — vực thẳm. Vào vực thẳm đó vừa một mạng người.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Tốc độ không phải «chạy». Đó là tốc độ co cơ. Tốc độ tín hiệu đi từ não đến tay. Tốc độ bạn kịp phản ứng với dao bay vào mặt.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Tốc độ xác định sáng kiến trong chiến đấu — ai đánh trước. Xác định bao nhiêu action points mỗi round. Xác định bạn né hay bị bắt đứng.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Nhưng Tốc độ giới hạn Toughness: người rất nhanh không thể vô hạn khối lượng. Cơ sprinter và cơ heavy-lifter là đối kháng. Tốc độ 90, Toughness tối đa của bạn là 50. Muốn nhanh — phải nhẹ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Tốc độ — tham số dẫn xuất",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Sức hút",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Kesarevna ra với sứ giả trong váy màu trời mây bão. Cô mười sáu tuổi. Sứ giả trung bình trên năm mươi. Họ đến giao chú rể — được chọn bởi Patrician, không phải cô.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Cô mỉm cười. Không phải nụ cười gia sư dạy — cô đã đuổi họ một năm trước. Khác. Cái Thư Viện Lớn dạy, nếu đọc đúng sách.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Một giờ sau sứ giả rời sảnh ngai vàng với niềm tin chắc rằng hôn lễ nên hoãn — và đây là ý của họ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Sức hút không phải sắc đẹp. Sắc đẹp là trường hợp đặc biệt. Sức hút là ấn tượng bạn tạo. Giọng. Dáng. Ánh nhìn. Khả năng lấp đầy phòng không nói lời nào. Hoặc ngược lại — khả năng trở nên vô hình, không đáng kể, kẻ-không-ai-nhớ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Sức hút 30 — người ta tránh xa bạn. 50 — không để ý. 70 — lắng nghe. 100 — bạn vào phòng và phòng thay đổi.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Sức hút hoạt động hai chiều: Sức hút cao cho bonus vào ấn tượng đầu — nhưng cũng có thể dùng làm modifier chống lại kiểm tra can đảm của đối thủ. Nếu bạn đối mặt với gã hai mét Sức hút 90 nhìn bạn như đang quyết định — giết bây giờ hay sau bữa trưa — Spirit của bạn có thể chao đảo.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Sức hút — bonus phản ứng đầu và giao tiếp",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Thông minh",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Đặc vụ ORPP ngồi trên báo cáo. Ba trẻ mất tích trong một tháng. Khu — khu công nghiệp ngoại ô. Cả ba — từ gia đình không ổn. Cảnh sát đã đóng vụ như bỏ trốn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Hắn đọc lại lời chứng lần thứ tư. Lấy bản đồ. Đinh ghim. Sợi chỉ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Ba điểm. Ba lần. Ba lộ trình.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Và — điểm thứ tư không ai để ý vì không ai nhìn. Cống bỏ hoang. Cách đều cả ba điểm mất tích. Hình học hoàn hảo.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Đặc vụ đóng báo cáo. Rút GSh-18 từ két. Kiểm magazine — mười tám viên xuyên giáp 7N31. Rồi magazine hai — bạc và sắt lạnh. Cho thứ trong cống. Nếu nó còn sống.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Thông minh không chỉ giúp giải quyết vấn đề. Thông minh nói cho bạn biết khi nào ngừng giải — và bắt đầu hành động.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Thông minh là suy nghĩ. Không phải «kiến thức» — suy nghĩ. Kiến thức sống trong kỹ năng. Thông minh là tốc độ bạn áp dụng kiến thức đó. Độ sâu phân tích. Khả năng thấy điều người khác bỏ sót.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Nhưng điều chính Thông minh làm — đặt trần kỹ năng bạn. Bạn thành thạo bao nhiêu kỹ năng, đến mức nào. Thông minh 50 (IQ 100, người trung bình) — một expert, ba high, tám medium, hai mươi low. Thông minh 100 (IQ 200) — năm expert, tám high, mười tám medium, bốn mươi low. Thiên tài giữ được nhiều hơn — vì não chứa nhiều hơn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Thông minh 75 trở lên mở khóa psionics — nếu mass cho phép module siêu nhiên. Tâm trí có thể bẻ thực tại phải đủ mạnh để không vỡ trong quá trình.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Thông minh — IQ, giới hạn kỹ năng, psi-power",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Cảm nhận",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Thượng Inquisitor của Ordo Maleficarum đứng trong phòng tối và lắng nghe. Không phải bằng tai — bằng thứ khác. Bằng cái đã tỉnh ba mươi năm trước trong cô bé mười hai tuổi đã thấy bóng tối nuốt gia đình mình. Và không hét — đã nhớ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Phòng trống. Ít nhất với mắt thường.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Inquisitor từ từ nâng tay. Chỉ ngón tay vào góc.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "«Ở đó,» cô nói.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Lính canh đập bằng cuốc. Dưới vữa hiện ra một chỗ giấu. Trong chỗ giấu — một hộp. Trong hộp — tám hốc cho nhẫn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Bảy trống.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Cảm nhận là giác quan và quan sát. Không phải thị lực bản thân — mà khả năng thấy điều quan trọng. Nghe nốt sai trong lời chứng. Ngửi lưu huỳnh trong phòng nơi không nên có. Để ý cuốn sách trên kệ đứng sâu hơn chút so với phần còn lại — vì sau nó là chỗ giấu.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Cảm nhận không có bảng dẫn xuất riêng — nhưng nó vào hầu hết kỹ năng. Bắn, theo dõi, y học, cẩn trọng, theo dấu, tìm kiếm, hiểu biết — mắt cần ở mọi nơi. Nhân vật Cảm nhận thấp có thể là master lý thuyết nghề, nhưng trên thực địa sẽ bỏ sót điều rõ ràng.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Tinh thần",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Legionary đứng trong khe tường. Sau hắn — bốn mươi người bị thương chưa kịp evacuate. Trước hắn — bóng tối, từ đó vọng ra âm thanh không nên từ bóng tối. Ướt, chóp chép, đói.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Hắn sợ. Rất. Đầu gối run. Tay run trên chuôi kiếm. Dạ dày co thành nắm.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Hắn không chạy.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Không phải vì không sợ. Vì sau hắn là bốn mươi người không thể chạy. Và vì centurion của hắn, đã chết một giờ trước, từng nói: «Can đảm không phải vắng mặt nỗi sợ. Can đảm là sợ và đứng. Hèn nhát là sợ và chạy. Khác biệt ở chân.»",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Legionary kiểm tra chân ở nơi nên.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Đứng.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Vậy thì được.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Tinh thần là ý chí. Không phải sức bền thể chất — đó là Toughness. Không phải lý trí — đó là Intelligence. Tinh thần là điều ngăn bạn chạy khi chạy là hợp lý. Điều làm bạn đứng dậy sau cú knockdown thứ ba. Điều cho phép bạn nhìn vào mắt quỷ và không quay đi.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Tinh thần xác định leadership — khả năng dẫn dắt người. Xác định Grace — tài nguyên cho lớp tâm linh. Và xác định kiểm tra can đảm: lăn d100, nếu thất bại — nhân vật bạn chạy, nôn hoặc ngất. Bất kể bạn, người chơi, muốn làm gì. Vì sợ là thật. Và vượt qua nó là kỹ năng cũng phải rèn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Tinh thần — leadership, grace, kiểm tra can đảm",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "chast-vtoraya",
+   "title": "Phần hai: Bạn có thể làm gì",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "9:16",
+     "caption": "Снайпер «Ласточка» на крыше",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chương 3. Kỹ năng",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Tên trộm trẻ trượt dọc tường. Bóng giữa bóng. Phường Nghệ Tinh dạy không phải chạy — bơi. Không bằng nước — bằng không khí, bằng đá, bằng ánh trăng. Là ở nơi không ai ngờ, và không ở nơi người ta nhìn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Hắn giỏi nhất khóa học. Master trẻ nhất trong một thế kỷ. Mẹ — gái điếm cảng. Cha — không rõ. Tất cả hắn có là đôi tay không run, đôi mắt nhìn trong tối, và một món nợ với Grandmaster của Life-Takers, thua bài.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Trước mặt hắn là Thư Viện Lớn. Hợp đồng viết: vào, lấy, ra. Không viết: sống sót.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Tên trộm biết ba mươi hai cách mở khóa. Mười hai cách qua mặt lính canh. Bảy cách vượt bẫy không chạm cơ chế kích hoạt. Và không một cách đi qua Inquisitor của Ordo Maleficarum nếu cô ấy nhìn thấy hắn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Vì điều đó cần một bộ kỹ năng hoàn toàn khác.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Kỹ năng là điều bạn đã học. Không phải điều bạn sinh ra với — đó là thuộc tính. Kỹ năng là năm huấn luyện, học tập, thực hành, sai lầm và sẹo biến khả năng tự nhiên thành nghề chuyên nghiệp.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Trong RURK có nhiều kỹ năng. Cố ý nhiều. Vì thế giới phức tạp, và không có người vạn năng. Bác sĩ phẫu não không phải y tá chiến trường khâu vết thương dưới hỏa lực. Lính bắn tỉa từ một cây số không phải xạ thủ làm việc trong tòa nhà. Nhà ngoại giao thuyết phục bằng lý lẽ không phải nữ quyến rũ thuyết phục bằng nụ cười.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Mỗi kỹ năng gắn với thuộc tính cụ thể. Và đây phép thuật hệ thống bắt đầu.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Công thức ZPN:** giá trị kiểm tra kỹ năng là trung bình cộng các thuộc tính liên kết và mức kỹ năng. Không phải tổng. Trung bình.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Có nghĩa: nếu Phối hợp 80, Tốc độ 80, Cảm nhận 80, và kỹ năng «Pistols» ở mức Expert (100) — ZPN của bạn = (80+80+80+100)/4 = 85. Bạn trúng 85% lần.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Nhưng nếu Cảm nhận 20 (mù nửa) — ZPN = (80+80+20+100)/4 = 70. Một mắt xích yếu — và cả chuỗi yếu đi.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Vì thế bạn không thể giỏi mọi thứ. Vì thế minmaxing không hoạt động. Vì thế anh hùng bạn là người sống với tiểu sử, không phải chiến binh hình cầu trong chân không.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Hồ sơ kỹ năng — rurc_skills_v1.1.md",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Cách hoạt động ở bàn",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Bạn muốn mở khóa. Mass nói: «Kỹ năng — Lockpicking. Thuộc tính: CO + INT + PER. Tính ZPN.»",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Bạn tính: Phối hợp 65, Thông minh 70, Cảm nhận 55, kỹ năng High (75). ZPN = (65+70+55+75)/4 = 66.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Bạn lăn d100. Ra 42. 42 < 66 — khóa mở.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Nếu ra 3? Thành công tới hạn — khóa mở im lặng, trong nửa thời gian thông thường, và bạn còn để ý nó có cơ chế phụ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Nếu ra 97? Thất bại tới hạn — móc khóa gãy trong. Khóa kẹt. Bây giờ kể cả chìa khóa cũng không giúp.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Nếu ra 66? Hoàn thành một phần — khóa mở, nhưng có tiếng lạo xạo. Ai đó có thể đã nghe.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Và bây giờ thêm: tối (SVD −10), mưa (SVD −5), lính canh hai mươi bước (SVD −5). ZPN bạn rơi từ 66 xuống 46. Cùng khóa, cùng tên trộm — nhưng tình huống khác. Và tỷ lệ — khác.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Đó là RURK. Không phải «Tôi tự động mở khóa vì tôi là tên trộm.» Mà «Tôi là tên trộm, và thường mở khóa, nhưng đêm nay có mưa, tối, và tôi rất, rất sợ, vì sau góc tường là Inquisitor.»",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "chast-tretya",
+   "title": "Phần ba: Chiến đấu",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "16:9",
+     "caption": "Морской Легион — абордаж",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chương 4. Khi từ ngữ cạn",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Mỏ thép của trireme cắm vào hông tàu buôn lậu với tiếng rắc làm răng ê ẩm trên cả hai tàu. Móc câu bay — khóa hai con tàu. Thang xung kích đập xuống sàn. Và xăng-đan Sea Legion dậm trên gỗ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Không phải nô lệ ngồi mái chèo. Bạn không giao vũ khí cho nô lệ. Anh em chiến đấu — trăm người vừa chèo và bây giờ giết. Khoang chật: bạn không mệt khi vượt mười verst trên mái chèo. Nhưng trong chiến đấu — thêm trăm thanh kiếm.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Centurion là người đầu trên sàn địch. Khiên về trước. Gladius — ngắn, vì trên sàn bạn không thể vung lưỡi dài. Đòn đầu — vào cổ tên cướp biển chưa kịp giơ cutlass. Đòn hai — khiên vào mặt đồng bọn. Đòn ba…",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Không có đòn ba. Chiến đấu trên sàn kéo dài sáu mươi giây. Mười hai tên cướp. Bốn chết. Còn lại — quỳ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Sea Legion không bắt tù binh. Sea Legion thu thuế.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Và đây là một trận chiến một ngàn tám trăm năm sau. Một hầm gần Moscow. Phái sùng bái cố triệu hồi Thần Cổ. Trên bàn thờ nằm partner của hắn — bị cởi và sơn bằng đất son và henna trong dấu hiệu đã biết, dấu hiệu bắt đầu biến đổi cơ thể cô ấy trước mắt hắn. Xung quanh — hai chục tín đồ, đa số với vũ khí lưỡi. Hắn có GSh-18 và pyrokinesis.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Tên đầu lãnh viên đạn giữa mắt. Tên hai — đốm lửa từ tay trái vào ngực; tín đồ bị bọc trong lửa, cố chạy, ngã trong hai giây. Tên ba — cái nhìn ngắn và lời «Cháy» khẽ; chuyển động Brownian của mỗi phân tử trong cơ thể tín đồ nhảy lên một ngàn độ ngay lập tức, như một tia chớp duy nhất.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Thêm một phát — tín đồ với dao găm nhổ vào viên đạn nở, vung tay trước mình và ngã. ESP cảm thấy chuyển động từ phía sau — đặc vụ quay đúng chút nhanh hơn cần thiết, và cú đẩy psychokinetic không dẫn tín đồ với liềm vào ngực mà bôi hắn lên tường đá đủ mạnh để nứt tường.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Sau sáu mươi giây hắn đứng một mình giữa hai mươi xác. Partner trên bàn thờ không còn thở. Đặc vụ hạ GSh-18, đi tới, phủ áo choàng cho cô ấy, cẩn thận nâng lên. Trong một ngàn tám trăm năm tiếng ồn chiến đấu không thay đổi. Vũ khí thì có.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Chiến đấu trong RURK không phải trừu tượng. Không phải «Tôi tấn công, hắn đỡ, trừ hits». Đó là những giây trong đó tất cả được quyết định: ai đánh trước, đòn đánh vào đâu, giáp có bị xuyên không, lưỡi vào sâu bao nhiêu, người bị thương có mất ý thức vì pain-shock không, và hắn có đủ máu cầm cự đến medic không.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Một round** kéo dài 5 giây. Đó là ít. Rất ít. Trong 5 giây bạn có thể chết ba lần.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Chiến đấu trong RURK đồng bộ. Không lượt từng người. Round bắt đầu với **giai đoạn lập trình**: mỗi người — cả người chơi và mass cho NPC của hắn — bí mật và đồng thời viết hành động đấu sĩ của mình trong AP. «Chạy đến cửa, bắn vào tên ở cửa sổ, quỳ xuống.» Không ai thấy chương trình của người khác.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Nếu bạn chơi trong app ORPP — chương trình ghi trong kênh bảo vệ, đối thủ không thấy được. Nếu chiến đấu diễn ra bằng lời ở bàn — mass ghi chú về chương trình NPC trong sổ tay, hoặc đơn giản giữ trong đầu, và lời khai báo người chơi được nhận sau. Vâng, mass có thể gian lận. Không, chúng tôi hy vọng hắn sẽ không — sẽ chỉ làm hỏng trò chơi cho mọi người. Nếu bạn không yên tâm — dùng app.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Rồi — **giai đoạn thực thi**. Tất cả chương trình giải quyết cùng lúc, như thể mọi thứ xảy ra trong cùng một giây thực. Bạn giết kẻ thù — nhưng nếu hắn đã nhấn cò trong cùng giây đó, đạn hắn vẫn bay ra. Trong chiến đấu người chết đồng thời.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Một thang đo.** Trong RURK mọi thứ lăn đều là d100. Không d20 cho xuyên giáp, không d10 cho sáng kiến, không d4–d12 cho sát thương. Một xí ngầu. Một thang. Tất cả kỹ năng và thuộc tính — 1 đến 100. Tất cả lăn — d100. Mục tiêu — để người chơi nghĩ không phải «lăn xí ngầu nào», mà «tôi đang làm gì và tỷ lệ là gì».",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Sáng kiến** không phải hàng đợi. Đó là **gián đoạn**. Khi hệ thống chạy round, hai đối thủ có thể lần đầu thấy nhau qua góc tường — và lúc đó việc giải quyết đóng băng. **d100 + Speed bonus** cho mỗi; ai ra cao hơn được viết lại phần còn lại của chương trình. Ai chậm hơn thực hiện điều đã lên kế hoạch một phút trước, khi chưa biết sau góc là gì.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Trúng** — kiểm tra kỹ năng với vũ khí. d100 ≤ ZPN của bạn với kiếm cụ thể đó, pistol cụ thể đó, trong điều kiện cụ thể đó (SVD — situational verbose difficulty — mass thêm hoặc trừ). Trúng? Vào đâu chính xác — d100 khác theo vùng cơ thể: trúng ngực rộng dễ gấp ba lần đầu. Đầu? Tệ cho đối thủ. Chân? Ít tệ hơn. Háng? Rất, rất tệ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Xuyên giáp** — d100 + **AP** của vũ khí so với **AC** giáp + 50 (ngưỡng). Kiếm thép (AP 60) so với áo da (AC 15) — gần chắc xuyên: 60+50 = 110, cần d100 ≥ 65 (36% trượt, 64% xuyên). Cùng kiếm so với giáp tấm (AC 90) — gần chắc không: 60+50 = 110, cần d100 ≥ 140, không thể. Với chain mail (AC 50) — năm-năm. Lăn xí ngầu. Cầu nguyện.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Sát thương** — d100 chia calibre, cộng modifier. Dao găm — d100/25, khoảng 1–4. Kiếm dài — d100/15+2, khoảng 3–9. Bastard — d100/10+4, khoảng 5–14. Kalashnikov — d100/9+3, khoảng 4–14. Súng SVD — d100/7+4, khoảng 5–18. ASh-12 — d100/5+5, khoảng 6–25. Barrett — d100/4+6, khoảng 7–31. Dao găm sắt rác — trừ ba, trừ không. Bulat bastard tinh xảo — cộng năm, cộng ba mươi vào xuyên. Khác biệt — như giữa pháo nổ và đạn pháo.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Shock** — d100 ≤ **BR** của vũ khí + **Toughness** của bạn. Thất bại? Bạn mất ý thức. Giữa trận. Kiếm vẫn trong tay. Vì đau là thật, và cơ thể không xin phép khi quyết định tắt.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Can đảm** — tương tự. d100 ≤ SPIRIT của bạn + tình huống. Thất bại — anh hùng bạn chạy, nôn hoặc ngất. Bất kể bạn, người chơi, muốn gì. Vì sợ là thật. Và vượt qua nó là kỹ năng cũng phải rèn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Các pha hành động chiến đấu — tóm lược",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Vị trí trúng — d100, trọng số theo vùng",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Mức độ vết thương — hậu quả",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "chast-chetvertaya",
+   "title": "Phần bốn: Trang bị",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "9:16",
+     "caption": "Оружейная: ГШ-18 и два магазина",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chương 5. Bạn giết bằng gì và bằng gì cứu được bạn",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Đặc vụ ORPP đẩy magazine vào GSh-18. Đạn xuyên giáp 7N31 — mười tám viên, chín nhân mười chín, lõi xuyên Class III ở năm mươi mét. Cửa tiêu chuẩn — ở một trăm. «G-piece» của hắn — nhẹ, polymer, 580 gram không magazine. Pistol tốt nhất thế giới, trừ phần mài bạn phải làm tay.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Nhưng sau cửa đó — không phải người trong giáp. Sau cửa đó — kẻ đã giả làm người.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Đặc vụ rút magazine thứ hai từ pouch. Đạn sắt lạnh rèn trong vỏ bạc. Iarann fuar — sắt lửa chưa chạm. Rèn lạnh lặp lại. Với phantom trung bình một hoặc hai cú trúng đủ: sinh vật bùng với viền vàng-lửa quanh vết đạn, viền chạy khắp cơ thể, và cơ thể tan thành tro đen.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Một pistol. Hai magazine. Hai thế giới.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Hắn nhét cái bạc vào.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Vũ khí trong RURK không phải «kiếm +2». Mỗi lưỡi, mỗi pistol, mỗi crossbow có bộ đặc tính quyết định hành vi trong chiến đấu: sát thương, xuyên, độ chính xác, tốc độ bắn, trọng lượng, yêu cầu với người dùng.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Vật liệu quan trọng. Kiếm đồng thua kiếm thép không phải vì «đồng tệ hơn» — mà vì thép xuyên 20% tốt hơn. Bulat — 30%. Caesar-alloy — 50%. Thiên thạch — 75%. Khác biệt vật liệu là khác biệt giữa «trúng giáp và bật ra» và «cắt như bơ».",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Chất lượng chế tạo — từ rác (penalty −3 vào sát thương) đến unique (+8 sát thương và +15 xuyên). Kiếm rác là sắt gỉ nhặt từ xác. Unique là lưỡi rèn bởi master dành một năm đời. Khác biệt trong chiến đấu là giữa sống và chết.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Giáp không chỉ «trừ sát thương». Giáp có loại cấu trúc (mềm, bán-cứng, cứng), diện tích che phủ (áo giáp che ngực, không che chân), cấu trúc (giáp tự có hits — hỏng từ cú đánh), và trọng lượng (giáp nặng làm chậm).",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Chain mail cứu khỏi cú cắt — nhưng móp từ chùy. Cuirass chặn mũi tên — nhưng không che tay. Plate kỵ binh đầy đủ bảo vệ mọi thứ — nhưng bạn di chuyển như rùa bụng bầu, với −30 vào Tốc độ và −20 vào mọi kỹ năng gắn Tốc độ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Hãy chọn. Bảo vệ hay di động. Như luôn trong RURK — bạn không thể có tất cả.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Bảng vũ khí — cận chiến, tầm xa, súng",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Bảng giáp — loại, vật liệu, chất lượng",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Bảng đạn — cho module công nghệ cao",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "chast-pyataya",
+   "title": "Phần năm: Bên kia Bức màn",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "9:16",
+     "caption": "Малефик Краабас и демоническая кукла",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chương 6. Những kẻ nhìn xuyên",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Craabas del Baarbos nhắm mắt. Lắng nghe. Không phải bằng tai — bằng thứ phía sau chúng. Bằng thứ nhìn thấy dải đỏ đập của sự sống qua ba tầng đá. Bằng thứ cảm nhận nỗi sợ người khác như mùi — chua, kim loại, đặc.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Quỷ trong con rối đói. Luôn đói. Craabas cho hắn ăn linh hồn người khác — và quỷ cho hắn thời gian. Năm này qua năm khác. Linh hồn này qua linh hồn khác.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Từng có Craabas là sinh viên. Học giả kim ở phòng thí nghiệm nhỏ tại Thư Viện. Rồi — một sai lầm. Một. Không phải của hắn — của thầy. Vụ nổ giết sáu người và đốt cánh tay trái Craabas đến xương.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Cánh tay lành. Với một giá nhất định.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Ba mươi năm đã qua. Craabas từ lâu thôi đếm bao nhiêu linh hồn đã đi vào «gói thuê bao» của hắn. Quen rồi. Hơn nữa, nghề hắn luôn có nhu cầu.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Psionics không phải phép thuật. Không phải pháp thuật. Không phải hợp đồng với quỷ (đó là chuyện khác, và nó kết thúc tệ — hỏi Craabas). Psionics là khả năng của tâm trí tác động lên thực tại trực tiếp. Không trung gian, không nghi lễ, không giá — trừ một: đốt cháy não chính mình.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Sức mạnh psi là tài nguyên. Có hạn. Phục hồi bằng giấc ngủ. Và tiêu vào mọi thứ: di chuyển đá, đọc suy nghĩ, dừng tim, làm chậm thời gian, phân rã vật chất thành nguyên tử và lắp lại.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Mỗi disciplines psi là kỹ năng riêng với công thức INT + SPIRIT + PER. Ba thuộc tính. Cần tâm trí mạnh (INT) để không vỡ. Cần ý chí (SPIRIT) để không mất kiểm soát. Cần cảm nhận (PER) để thấy thứ ta tác động.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Psionic không phải thần. Psionic là người nhìn thấy mã của thực tại. Và có thể viết vài dòng riêng. Chừng nào sức còn. Chừng nào não chưa cháy. Cho đến khi quỷ gõ cửa và đề xuất giao kèo tốt hơn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Psionics — disciplines, chi phí, giới hạn",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "epilog",
+   "title": "Kết: Thế giới của bạn",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "16:9",
+     "caption": "Встреча двух миров — трещина в реальности",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Bạn đã đọc luật. Bảng. Công thức. Học cách tính ZPN, cách lăn để xuyên giáp, cách quyết định nhân vật bạn có sống sót cú kiếm vào đầu hay không.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Bây giờ hãy quên tất cả.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Không phải theo nghĩa đen — bạn sẽ cần bảng lại. Nhưng nhớ: luật là ngôn ngữ. Câu chuyện là điều bạn kể bằng ngôn ngữ đó.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "RURK có thể là thế giới legion thép và rối quỷ. Có thể là thế giới xe BTR và đặc vụ siêu nhiên. Có thể là space opera, post-apocalypse, lịch sử thay thế, cyberpunk, western với rồng.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Động cơ một. Thế giới — vô hạn.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Lăn xí ngầu. Anh hùng bạn đang đợi.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "«Tôi đã đưa tất cả họ vào tường của ngươi hôm nay, Vĩnh Đô. Đã đến lúc ngươi tỉnh, người bạn cũ.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Đã đến lúc thay đổi…»",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  }
+ ]
+}

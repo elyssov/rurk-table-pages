@@ -1,0 +1,1343 @@
+{
+ "perks": [
+  {
+   "id": "rasputnost",
+   "name": "TRỤY LẠC",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Bạn không thể chung thủy. Không quan hệ nào sống qua thói thức dậy trong giường người khác.",
+     "mechanics": "SPIRIT chống cám dỗ (DC 10). Thất bại — bạn đuổi mục tiêu bỏ qua hậu quả."
+    },
+    {
+     "cost": 6,
+     "desc": "Satyriasis. Nymphomania. Bạn nghĩ về sex liên tục — không «thường», liên tục. Đó là nhiễu nền át đi mọi thứ.",
+     "mechanics": "SPIRIT chống bất kỳ subtext sex (DC 20). Thất bại tới hạn — sẵn sàng phản bội đổi tiếp xúc."
+    },
+    {
+     "cost": 9,
+     "desc": "Một phút đến chết vì khát. Bạn không kiểm soát điều này. Succubus không che bản chất — bạn sẽ đi. Cơ thể cháy.",
+     "mechanics": "SPIRIT chống BẤT KỲ tiếp xúc với người hấp dẫn (DC 30). Mỗi 24 giờ không tiếp xúc — phạt tăng."
+    }
+   ],
+   "vignette": "Sau tám giờ dọn sạch sanguinophage trong khu công nghiệp, Lori đứng đến đầu gối trong thứ đen đặc, với GSh-18 rỗng và mạng sống của partner trên vai. Đêm đó cô tỉnh trong căn hộ kẻ lạ.",
+   "desc": "Không thể chung thủy, nền ham muốn liên tục — qua ba giai đoạn từ tật làm hỏng quan hệ đến bệnh lý làm hỏng chiến dịch.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "paranoyya",
+   "name": "HOANG TƯỞNG",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Bạn thấy mẫu nơi không có. Đồng nghiệp muộn không phải muộn — đang báo cáo về bạn. Xe sửa không phải sửa — gài bug.",
+     "mechanics": "INSIGHT chống phán quyết «không, không có âm mưu» (DC 10). Thất bại — tiến từ giả thuyết âm mưu."
+    },
+    {
+     "cost": 6,
+     "desc": "Paranoia theo nghĩa lâm sàng. Mọi trùng hợp có ý nghĩa. Mọi cửa là phục kích tiềm năng.",
+     "mechanics": "INSIGHT chống tin tưởng (DC 20). Thất bại tới hạn — hành động chống kế hoạch đội vì «họ thông đồng»."
+    },
+    {
+     "cost": 9,
+     "desc": "Paranoia phá hủy toàn diện. Đội là kẻ thù. Gia đình là kẻ thù. Suy nghĩ riêng là kẻ thù.",
+     "mechanics": "INSIGHT chống paranoia cực (DC 30). Thất bại — hành động phòng ngừa chống ai đó. Phạt vĩnh viễn −10 social."
+    }
+   ],
+   "vignette": "Căn hộ Thiếu tá Sokolov đã được quét bug bốn lần trong tháng qua. Bằng tay riêng. Ba lần đầu không tìm; lần bốn tìm thấy, trong vỏ ổ cắm.",
+   "desc": "Không tin thế giới hữu cơ, trượt từ nghi ngờ vô hại qua paranoia lâm sàng đến trạng thái đặc vụ bắn đội mình trước.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "razdrazhitelnost",
+   "name": "CÁU GIẬN",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Bạn nổ vì việc vặt. Trò đùa đồng nghiệp sai lúc, ấm nước không sôi, nhân chứng chậm — và bạn bùng.",
+     "mechanics": "SPIRIT chống kích động trong tình huống căng (DC 10). Thất bại — −2 social trong giờ tiếp + chú ý xung quanh."
+    },
+    {
+     "cost": 6,
+     "desc": "Bạn phá đồ. Tay nắm cửa, smartphone, hàm nhân chứng. Trong đội có bộ giấy tờ riêng — cho thay thế tài sản.",
+     "mechanics": "SPIRIT chống cơn giận từ trigger rõ (DC 20). Thất bại — hành động vật lý có hậu quả. Tới hạn — đã đánh dân thường."
+    },
+    {
+     "cost": 9,
+     "desc": "Cơn giận bệnh lý. Bất kỳ thất vọng là đấm bàn, tường, ai đó. Bạn không cố kìm.",
+     "mechanics": "SPIRIT chống giận bệnh lý (DC 30). Thất bại — bạo lực không kiểm soát. Kiềm chế cần INSIGHT riêng."
+    }
+   ],
+   "vignette": "Đại úy Voronin đứng ở cửa sổ bác sĩ trực và nghe lễ tân giải thích lần thứ tư rằng không có giấy giới thiệu không được. Cú đấm vào tường để lại lỗ và bàn tay gãy.",
+   "desc": "Tính khí dễ bùng từ sôi nhẹ đến hung hăng lâm sàng. Đặc vụ phá đồ, rồi tài sản, rồi người.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "neterpelivost",
+   "name": "NÓNG VỘI",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Bạn không biết chờ. Stake-out hành hạ bạn, brief kéo dài, nhân chứng nói quá chậm. Chân đập dưới bàn.",
+     "mechanics": "SPIRIT chống mất kiên nhẫn quan sát dài (DC 10). Thất bại — bạn tự lộ hoặc đi sớm."
+    },
+    {
+     "cost": 6,
+     "desc": "Không thể giữ vị trí. Sau nửa giờ chờ bạn bắt đầu improvise; sau giờ bạn di chuyển trên mặt.",
+     "mechanics": "SPIRIT chống chờ (DC 20). Thất bại — phá vị trí. Tới hạn — kéo chiến dịch vào liên hệ sớm."
+    },
+    {
+     "cost": 9,
+     "desc": "Mất kiên nhẫn bệnh lý. Không thể chờ hai phút ấm nước. Đập cửa thay vì thử nắm.",
+     "mechanics": "SPIRIT chống mất kiên nhẫn bệnh lý (DC 30). Thất bại — hành động không kiểm soát không nghĩ hậu quả."
+    }
+   ],
+   "vignette": "Trung úy Khasanova nằm bốn mươi lăm phút trên mái Babushkin với optics chĩa vào tầng ba tòa đối diện, chờ mục tiêu xuất hiện. Bốn mươi sáu phút thì mất kiên nhẫn — và đứng dậy chỉ để duỗi chân. Mục tiêu nhìn lên.",
+   "desc": "Không thể chờ. Khó chịu trước đứng yên phát triển từ bồn chồn thành hành động bất chấp hậu quả.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "fobiya",
+   "name": "ÁM ẢNH",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Phobia cụ thể (người chơi và master thỏa thuận một): độ cao, nước, tối, nhện, không gian kín, v.v.",
+     "mechanics": "SPIRIT chống trigger (DC 10). Thất bại — −3 mọi check khi còn tiếp xúc với trigger."
+    },
+    {
+     "cost": 6,
+     "desc": "Phobia nghiêm trọng. Tiếp xúc trigger kích hoạt hoảng loạn: thở nông, tunnel vision, tay run.",
+     "mechanics": "SPIRIT chống hoảng loạn (DC 20). Thất bại — −10 mọi check, chỉ tìm lối ra khỏi trigger."
+    },
+    {
+     "cost": 9,
+     "desc": "Phobia tê liệt. Bạn KHÔNG THỂ ở trong tiếp xúc với trigger. Bạn rút lui, đẩy qua đội, bỏ bị thương.",
+     "mechanics": "SPIRIT chống hoảng loạn cực (DC 30). Thất bại — chạy không kiểm soát; tới hạn — bỏ chiến dịch."
+    }
+   ],
+   "vignette": "Trung sĩ Petrov sợ không gian kín. Câu chuyện thời thơ ấu: bị anh lớn nhốt trong tủ ba giờ, không ai nghe gọi. Trong cuộc sống thường nỗi sợ không cản — đến khi nhiệm vụ trong hầm.",
+   "desc": "Phobia cụ thể chọn lúc tạo nhân vật. Trigger lo âu ở dạng nhẹ, hoảng loạn ở trung bình, chạy trốn không kiểm soát ở nặng.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "kompleks-betmena",
+   "name": "PHỨC CẢM BATMAN",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    6,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Từ chối cá nhân giết người. Kẻ không thánh bạn hạ không do dự, nhưng với người bạn giữ ngón tay khỏi cò.",
+     "mechanics": "SPIRIT chống lệnh giết người (DC 10). Thất bại — bắn lệch, vào chi, cạnh mục tiêu."
+    }
+   ],
+   "vignette": "Đại úy Ryabov là cựu binh ORPP mười sáu năm phục vụ. Hắn đã giết ma cà rồng, vurdalak, leprechaun, shaman sebekit. Hắn không thể giết người. Đội phải bù.",
+   "desc": "Từ chối giết người, phát triển từ thiên hướng đạo đức thành khối sinh lý. Đội phải bù.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "himicheskaya-zavisimost",
+   "name": "NGHIỆN HÓA CHẤT",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Liều ngày: rượu, nicotine, kích thích nhẹ. Bạn vẫn hoạt động — nhưng sáng khó, tối trôi.",
+     "mechanics": "Mỗi 24h không liều — −2 mọi check. Hai ngày — −5. Hangover đầu ca — phạt riêng."
+    },
+    {
+     "cost": 6,
+     "desc": "Liều nặng: nghiện rượu, opiate, amphetamine. Không liều tay run, không ngủ, không tập trung.",
+     "mechanics": "Mỗi 12h không liều — −5. Sau 24h — hội chứng cai, không thể đấu. Phục hồi cần liều."
+    },
+    {
+     "cost": 9,
+     "desc": "Chết. Bạn không hoạt động không có thuốc. Ngón tay không bóp tay cầm pistol.",
+     "mechanics": "Mỗi 6h không liều — −10. Sau 12h — nằm liệt. Cai có thể giết không hỗ trợ y tế."
+    }
+   ],
+   "vignette": "Trung úy Antipov của khu Khabarovsk dùng heroin hai năm rưỡi. Bắt đầu sau chiến dịch chống tà giáo «Children of the Amur», nơi partner hắn bị xé sống.",
+   "desc": "Phụ thuộc hóa học vào chất cụ thể. Liều ngày — hoạt động. Nặng — suy giảm. Chết — lâm sàng không thể không có liều.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "zhestokost",
+   "name": "TÀN ÁC",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Bạn lấy khoái cảm bạo lực. Đòn rơi không vì phải rơi, mà vì bạn muốn nó rơi.",
+     "mechanics": "SPIRIT chống bạo lực vô cớ (DC 10). Thất bại — đi xa hơn cần. Nhân chứng tạo vấn đề pháp lý."
+    },
+    {
+     "cost": 6,
+     "desc": "Bạn lấy khoái cảm đau. Bạn thích không phải thắng mà khoảnh khắc đối thủ nhận đang thua.",
+     "mechanics": "SPIRIT chống tàn nhẫn (DC 20). Thất bại — sadistic action có nhân chứng. Tới hạn — giết người không cần giết."
+    },
+    {
+     "cost": 9,
+     "desc": "Sadism nghĩa lâm sàng. Chiến dịch không cho phép giết chậm đối thủ hành hạ bạn.",
+     "mechanics": "SPIRIT chống sadism (DC 30). Thất bại — tội ác chiến tranh theo luật bất kỳ. Tới hạn — nhân chứng là đồng đội."
+    }
+   ],
+   "vignette": "Thượng úy Khromov có đặc điểm đội để ý tháng đầu: trong thẩm vấn người tín đồ hắn không nâng giọng, không đánh. Hắn chỉ giữ lâu, mỉm cười.",
+   "desc": "Khoái cảm gây bạo lực và đau. Từ đòn thừa trong thẩm vấn đến sadism lâm sàng. Đội và ngành bù bằng tách đặc vụ khỏi dân thường.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "mstitelnost",
+   "name": "THÙ HẰN",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    9
+   ],
+   "levels": [
+    {
+     "cost": 9,
+     "desc": "Bạn không quên xúc phạm. Xúc phạm, phản bội, lời hứa nửa — giữ trong thư mục riêng của đầu.",
+     "mechanics": "SPIRIT chống cơ hội thanh toán điểm nhỏ (DC 10). Thất bại — hành động chống lợi ích chiến dịch để thanh toán."
+    }
+   ],
+   "vignette": "Thiếu tá Kostina giữ một sổ tay. Sổ nhỏ, đen, vỏ da Ấn Độ, chứa tên mọi người, trong mười lăm năm phục vụ, đã làm Kostina mất lòng cá nhân hoặc nghề.",
+   "desc": "Không thể quên xúc phạm. Trả thù từ làm khó nhẹ âm thầm đến chiến dịch chỉ để hạ kẻ xúc phạm cũ.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "kodeks-chesti",
+   "name": "LUẬT DANH DỰ",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    12
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Luật cá nhân bạn không vi phạm. Không đánh người ngã. Không nói dối đồng nghiệp. Không đánh phụ nữ.",
+     "mechanics": "SPIRIT chống phá luật (DC 10). Thất bại — hành động theo luật, chiến dịch chịu."
+    },
+    {
+     "cost": 6,
+     "desc": "Luật nặng. Bạn sẽ không vi phạm dù mất chiến dịch. Lời khai nhân chứng nếu nó có nghĩa giữ luật.",
+     "mechanics": "SPIRIT (DC 20). Thất bại — từ chối lệnh. Tới hạn — chiến dịch mất vì luật."
+    },
+    {
+     "cost": 12,
+     "desc": "Tuyệt đối. Bạn sẽ chết trước khi phá luật. Bạn sẽ để mình, đội, chiến dịch chết trước khi.",
+     "mechanics": "SPIRIT (DC 30). Thất bại — từ chối hoàn toàn ở bất kỳ giá."
+    }
+   ],
+   "vignette": "Đại úy Reshetnikov có bộ luật ba dòng, dòng thứ ba: «không phản bội đồng nghiệp». Năm 2024, chiến dịch chống tế bào «White Hand» ở Saratov.",
+   "desc": "Bộ luật cá nhân đặc vụ không vi phạm. Giá tăng với độ cứng: từ mất nhỏ chiến dịch qua từ chối lệnh đến mất bản thân để giữ luật nguyên vẹn.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "krovnyy-vrag",
+   "name": "KẺ THÙ TRUYỀN KIẾP",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    6,
+    12,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "**−6. Kẻ thù (địa phương).** Tên trùm địa phương, người yêu cũ bị tổn thương, hàng xóm điên. Đủ nguy để buộc kiểm tra phố.",
+     "mechanics": "Master đưa kẻ thù vào chơi đều đặn. −6: mỗi 3–5 session. −12: mỗi 1–2. −24: đe dọa liên tục."
+    }
+   ],
+   "vignette": "Châm ngôn Đại Nhà Pauletti viết «Pauletti luôn trả». Khó nói nghĩa gốc là nợ hay trả thù, nhưng vì không hậu nhân biết câu trả lời đúng, Pauletti trả mọi tài khoản.",
+   "desc": "Kẻ thù hoạt động chống đặc vụ. Ba mức: địa phương có thể làm hỏng ngày; người ảnh hưởng đóng thành phố; tổ chức.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "geroy",
+   "name": "XUNG ĐỘNG ANH HÙNG",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    2,
+    4,
+    6
+   ],
+   "levels": [
+    {
+     "cost": 2,
+     "desc": "Bạn không thể đi qua khi ai đó gặp khó. Tiếng hét trong hẻm — bạn đã chạy.",
+     "mechanics": "SPIRIT (DC 5) KHÔNG can thiệp vào khó người khác. Thất bại — chạy giúp."
+    },
+    {
+     "cost": 4,
+     "desc": "Bạn tích cực tìm hành động anh hùng. Bạn liều mạng vì người lạ. Không thể không.",
+     "mechanics": "SPIRIT (DC 15). Thất bại — liều mạng. Tới hạn — hy sinh không đánh giá tình huống."
+    },
+    {
+     "cost": 6,
+     "desc": "Hy sinh là phản xạ. Bạn che bằng cơ thể riêng. Cơ thể quyết định cho đầu.",
+     "mechanics": "SPIRIT (DC 25) KHÔNG che. Thất bại — ném mình bảo vệ bất kể chiến thuật, logic, lẽ thường."
+    }
+   ],
+   "vignette": "Serov lao xuống. Không lệnh, không kế hoạch, không suy nghĩ — lao xuống, và thân Sheremetyeva bay vào trống rỗng đập vào tay hắn thay vì bê tông bốn tầng dưới.",
+   "desc": "Bạn không thể đi qua khi ai đó gặp khó. Tiếng hét trong hẻm — bạn đã chạy. Bạn không nghĩ. Chân tự đưa.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "fanatizm",
+   "name": "CUỒNG TÍN",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Tận tâm với ý tưởng, tổ chức hoặc niềm tin. Bạn không nghe phản đề — vì vấn đề không mở thảo luận.",
+     "mechanics": "SPIRIT (DC 10) hành động CHỐNG đối tượng cuồng tín. Thất bại — không thể."
+    },
+    {
+     "cost": 6,
+     "desc": "Bạn sẵn sàng hy sinh vì Sự nghiệp. Riêng, người khác — không quan trọng. Nhiệm vụ đòi phản bội bạn — phản bội.",
+     "mechanics": "SPIRIT (DC 20). Thất bại — hy sinh bất cứ gì cho đối tượng. −10 social với «người không tin»."
+    },
+    {
+     "cost": 9,
+     "desc": "Sẵn sàng chết. Và giết. Vì Sự nghiệp. Khủng bố, thập tự, cách mạng — banner khác, cơ chế giống.",
+     "mechanics": "SPIRIT (DC 30). Thất bại — bất kỳ hành động vì Sự nghiệp, bao gồm tấn công tự sát. +5 đe dọa."
+    }
+   ],
+   "vignette": "Brother Thomas của Order of One Flame đọc bản trial pháp phù thủy từ Archipelago lần thứ ba. Phù thủy khẳng định sức mạnh cô là tự nhiên. Thomas không nghe.",
+   "desc": "Tận tâm với ý tưởng, tổ chức hoặc niềm tin. Bạn không nghe phản đề — không phải vì ngu, mà vì vấn đề không mở thảo luận.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "zamknutost",
+   "name": "KHÉP MÌNH",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Lạnh lùng. Bạn tránh tiếp xúc. Trả lời đơn âm.",
+     "mechanics": "−5 social skills. Không khởi xướng tiếp xúc trừ khi cần."
+    },
+    {
+     "cost": 6,
+     "desc": "Bạn không thể tạo gắn bó. Người là chức năng với bạn. Tên bạn nhớ khó.",
+     "mechanics": "−15 social. Không thể kết bạn không SPIRIT check (DC 15). Không phản ứng với cảm xúc."
+    },
+    {
+     "cost": 9,
+     "desc": "Tiếp xúc với người gây khó chịu vật lý. Giọng họ — như tiếng kim loại. Hiện diện họ — như nhiệt từ lò.",
+     "mechanics": "−25 social. SPIRIT (DC 15) cho mọi đối thoại dài hơn hai câu. Không thể đứng trong đám đông không check."
+    }
+   ],
+   "vignette": "Analyst Zimin, OPI, không đi căng tin. Ăn ở bàn lab, một mình, lưng quay cửa. Không chào — không phải vì thô lỗ mà vì quên.",
+   "desc": "Lạnh lùng. Bạn tránh tiếp xúc. Trả lời đơn âm. Đồng nghiệp mời uống sau ca — bạn từ chối. Luôn.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "nedoverchivost",
+   "name": "KHÔNG TIN",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Bạn không tin lời ai. Đôi khi hữu ích. Thường xúc phạm và chậm.",
+     "mechanics": "−5 social. Xác minh lại thông tin (tốn thời gian và tài nguyên)."
+    },
+    {
+     "cost": 6,
+     "desc": "Bằng chứng không giúp. Bạn thấy bằng mắt — và vẫn không tin.",
+     "mechanics": "−10 social. Từ chối thông tin không có «xác nhận tuyệt đối» (không tồn tại)."
+    },
+    {
+     "cost": 9,
+     "desc": "Bạn không tin chính mình. Ký ức — lừa? Cảm nhận — ảo? Thực tại — kịch?",
+     "mechanics": "−20 social. Có thể từ chối hành động theo kế hoạch. SPIRIT (DC 20) để thực thi lệnh."
+    }
+   ],
+   "vignette": "Thượng analyst Boris Fomin, OPI, nhận tin tình báo từ ba nguồn cùng lúc. Cả ba nói cùng: hang quỷ-tín đồ. Fomin không tin, kiểm tra thêm hai tuần. Tà giáo dời đi.",
+   "desc": "Bạn không tin lời ai. Người báo cho tip — bạn kiểm ba lần. Vợ nói «trễ» — bạn kiểm.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "razdvoenie-lichnosti",
+   "name": "ĐA NHÂN CÁCH",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    24
+   ],
+   "levels": [
+    {
+     "cost": 24,
+     "desc": "Dưới stress hoặc theo gọi master xuất hiện nhân cách thứ hai do master tạo. Bạn không kiểm soát chuyển.",
+     "mechanics": "Dưới stress hoặc theo gọi master — SPIRIT (DC 20). Thất bại — chuyển. Nhân cách phụ master tạo."
+    }
+   ],
+   "vignette": "Andrey Karpov, thư ký lưu trữ OPI. Người trầm lặng, không gây chú ý, đeo kính. Phân tài liệu. Uống trà. Rời lúc sáu. Lính canh đêm thấy hắn ra lúc sáu — và vào lúc bảy, qua cổng khác, không kính, áo da.",
+   "desc": "Trong bạn có hai. Hoặc hơn. Người thứ hai xuất hiện dưới stress — hoặc khi nó muốn. Bạn không kiểm soát chuyển. Người thứ hai có thể bình tĩnh hơn, giận hơn, thông minh hơn, ngu hơn.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "tormoz",
+   "name": "PHẢN ỨNG CHẬM",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Phản ứng chậm. Một giây xử lý câu hỏi. Hai — trả lời.",
+     "mechanics": "Không bao giờ thắng initiative trên interrupt. −5 SPD cho AP."
+    },
+    {
+     "cost": 6,
+     "desc": "Mọi người đã bắn — bạn vẫn xử lý. Mọi người chạy — bạn quyết đi đâu.",
+     "mechanics": "Tự động mất initiative. −10 SPD cho AP. Round đầu — mất 1/3 AP."
+    },
+    {
+     "cost": 9,
+     "desc": "Thế giới di chuyển nhanh hơn bạn. Đáng kể. Cơ thể như dưới nước. Mỗi chuyển động nỗ lực.",
+     "mechanics": "Tự động mất initiative luôn. −15 SPD cho AP. Round đầu — mất nửa AP. −10 kỹ năng cần phản ứng."
+    }
+   ],
+   "vignette": "Trung úy Borshchov của «Epsilon» là analyst sáng. Samoylov chuyển hắn từ OPI vì «nhìn liên kết người khác bỏ sót». Giữa thấy và làm là khoảng cách. Trên thực địa khoảng đó giết.",
+   "desc": "Phản ứng chậm. Một giây xử lý câu hỏi. Hai — trả lời. Chịu được trong đối thoại. Chết người trong chiến đấu.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "istericheskaya-amneziya",
+   "name": "MẤT TRÍ NHỚ",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "Mất ký ức dưới stress. Khoảng trống tháng/năm. Kỹ năng giữ — bạn nhớ CÁCH bắn, không nhớ AI dạy.",
+     "mechanics": "Sau shock — SPIRIT (DC 20). Thất bại — amnesia. Độ sâu: d6 tháng."
+    }
+   ],
+   "vignette": "Sister Adelaide ra khỏi catacombs bằng chân riêng. Lính canh giúp — dẫn bằng tay, đi quanh bậc cô không thấy vì mắt nhìn nhưng không thấy.",
+   "desc": "Mất ký ức dưới stress. Không phải «quên tên» — khoảng trống tháng và năm cuộc đời. Trigger: stress nặng, shock, chấn thương.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "kompleks-nepolnocennosti",
+   "name": "PHỨC CẢM TỰ TI",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Bạn biết bạn không đủ tốt. Bạn bù: làm hai lần, kiểm ba lần, tránh trách nhiệm.",
+     "mechanics": "−3 leadership. SPIRIT để chấp nhận trách nhiệm."
+    },
+    {
+     "cost": 6,
+     "desc": "Bù trượt vào phá hoại. Bạn từ chối nhiệm vụ: «tôi không xử lý được».",
+     "mechanics": "−6. SPIRIT (DC 15) chấp nhận lệnh."
+    },
+    {
+     "cost": 9,
+     "desc": "Tự ghét. Mỗi sai xác nhận: bạn không là gì. Thành công không tính vì «may».",
+     "mechanics": "−9. SPIRIT (DC 20) chấp nhận chỉ huy. Thất bại — từ chối."
+    }
+   ],
+   "vignette": "Thượng úy Nina Lesovaya của Group «Zeta» là tactician giỏi nhất ORPP. Không theo ý quản lý — theo kết quả. Samoylov ba lần đề chỉ huy. Ba lần cô từ chối.",
+   "desc": "Bạn biết bạn không đủ tốt. Bạn không nghĩ — bạn biết. Mọi thành công ăn may. Mọi lời khen lịch sự.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "navyazchivaya-ideya",
+   "name": "ÁM ẢNH",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Suy nghĩ lặp lại bạn quay lại. Nó đeo bám, ngăn ngủ.",
+     "mechanics": "SPIRIT (DC 10) xử lý công việc không liên quan. Ngủ kém."
+    },
+    {
+     "cost": 6,
+     "desc": "Suy nghĩ chiếm ưu thế. Trong giờ. Trong ngày. Phân nhánh, ăn rễ vào mọi quyết định.",
+     "mechanics": "SPIRIT (DC 20). −5 mọi thứ off-topic."
+    },
+    {
+     "cost": 9,
+     "desc": "Ám ảnh. Bạn ngừng ngủ, ngừng ăn. Theo đuổi Suy nghĩ như thợ săn mồi.",
+     "mechanics": "SPIRIT (DC 30). −10 mọi off-topic, ngủ rối loạn."
+    },
+    {
+     "cost": 2,
+     "desc": "Vấn đề người khác là của bạn. Bạn leo vào mọi xung đột.",
+     "mechanics": "SPIRIT DC 5 KHÔNG can thiệp."
+    },
+    {
+     "cost": 4,
+     "desc": "Bạn tích cực can thiệp vào điều tra, gia đình, chiến tranh người khác.",
+     "mechanics": "SPIRIT DC 15."
+    }
+   ],
+   "vignette": "Investigator Rogov đóng vụ cậu bé mất tích sau hai tuần. Chính thức — tai nạn. Cậu bé đi sông, chết đuối, dòng cuốn xác. Mọi bằng chứng khớp. Nhưng Rogov biết: cậu không đi sông một mình.",
+   "desc": "Suy nghĩ lặp lại bạn quay lại. «Nếu nghi can đó vô tội.» Nó đeo bám, ngăn ngủ, làm xao nhãng brief.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "eto-moe-delo",
+   "name": "«VIỆC CỦA TÔI!»",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    2,
+    4,
+    6
+   ],
+   "levels": [
+    {
+     "cost": 2,
+     "desc": "Vấn đề người khác là của bạn. Bạn leo vào mọi xung đột.",
+     "mechanics": "SPIRIT (DC 5) KHÔNG can thiệp."
+    },
+    {
+     "cost": 4,
+     "desc": "Bạn tích cực can thiệp vào điều tra, gia đình, chiến tranh người khác.",
+     "mechanics": "SPIRIT (DC 15)."
+    },
+    {
+     "cost": 6,
+     "desc": "Đã bắt đầu — bạn không bỏ. Đội đi, bạn ở lại.",
+     "mechanics": "SPIRIT (DC 25). Không thể bỏ đã bắt đầu."
+    }
+   ],
+   "vignette": "Đặc vụ Zuyev có lệnh: dọn ổ, về căn cứ. Ổ dọn. Tám sinh vật. Đội tập hợp. Bay 20 phút. Zuyev tìm thấy nhật ký. Người. Trước biến đổi chủ là giáo viên. Trong nhật ký — tên học sinh.",
+   "desc": "Vấn đề người khác là của bạn. Bạn leo vào mọi xung đột.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "slomya-golovu",
+   "name": "LIỀU LĨNH",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Chân ga sát đáy. Luôn. Mỗi lái — Driving check (DC 10).",
+     "mechanics": "+5 Speed in transit. Mỗi lái Driving DC 10. Thất bại tới hạn — đâm."
+    }
+   ],
+   "vignette": "Tài xế Group «Gamma», Lyokha Kirillov, từng đua xe máy thời trẻ. Qua thành phố đêm, không mũ. Ba tai nạn, hai gãy xương, một episode lâm sàng — khi tim ngừng bốn mươi giây.",
+   "desc": "Chân ga sát đáy. Luôn. Mỗi lái — Driving check (DC 10). Thất bại — sát. Tới hạn — đâm. Bonus: +5 Speed transit. Phạt: nguy chết liên tục.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "plohoy-son",
+   "name": "NGỦ KÉM",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Mất ngủ nhẹ hoặc ngủ rất sâu khó tỉnh.",
+     "mechanics": "−1 regen/ngày HOẶC SPIRIT (DC 10) tỉnh trong nguy."
+    }
+   ],
+   "vignette": "Sniper Vorontsov ngủ như chết. Không phải metaphor — bác sĩ trung đoàn kiểm mạch hai lần tuần đầu, vì Vorontsov không phản ứng với ánh sáng, âm thanh, lay vai.",
+   "desc": "Hai biến thể: **A: Mất ngủ.** −1/−2/−3 regeneration. **B: Ngủ chết.** Khó tỉnh, mất round đầu chiến.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "psihicheskaya-neperenosimost",
+   "name": "KHÔNG CHỊU NỔI TÂM LÝ",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Phản ứng bệnh lý với trigger cụ thể. SPIRIT (DC 10) chống hung hăng.",
+     "mechanics": "SPIRIT (DC 10) trên tiếp xúc trigger. Thất bại — hung hăng."
+    }
+   ],
+   "vignette": "Chỉ huy Group «Beta» Kovalyov không chịu được hèn nhát. Không phải «không tôn trọng» — vật lý không chịu được. Khi người cạnh hắn hèn — Kovalyov cảm gì đó nóng, tối, ngạt.",
+   "desc": "Phản ứng bệnh lý với hiện tượng cụ thể: lừa dối, phản bội, không có năng lực, hèn nhát.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "psihicheskaya-zavisimost",
+   "name": "PHỤ THUỘC TÂM LÝ",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    12
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Phụ thuộc vào vật/người/nghi lễ. Không có nó — phạt −5 mọi thứ.",
+     "mechanics": "−5 không có vật."
+    }
+   ],
+   "vignette": "Kostin không thể bắn không có găng. Không «thích» — vật lý không thể. Không có chúng ngón tay trở thành lạ, cò trượt và lạ lùng.",
+   "desc": "Phụ thuộc vào người, vật hoặc nghi lễ. Không có — phạt −5/−10/−20 mọi thứ. Ở −12: hoảng loạn không có vật dưới stress.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "rasizm",
+   "name": "PHÂN BIỆT CHỦNG TỘC",
+   "kind": "disadvantage",
+   "category": "Tinh thần",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Không tin nhóm cụ thể. Không hận tích cực — ý kiến đã hình thành.",
+     "mechanics": "−5 social với nhóm mục tiêu."
+    }
+   ],
+   "vignette": "Đặc vụ Stryapchev lớn lên ở thị trấn nơi thập niên 90 bratva không phải người Nga. Bà nội khóa cửa; cửa bị đá vỡ mỗi hai tuần. Khi cần đàm phán với cộng đồng đó — Stryapchev không thể.",
+   "desc": "Không tin nhóm người cụ thể: theo dân tộc, theo tín ngưỡng, theo tầng lớp xã hội, theo nghề. Không phải hận tích cực — ý kiến đã hình thành.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "zapominayuschayasya-lichnost",
+   "name": "NGOẠI HÌNH ĐẶC BIỆT",
+   "kind": "disadvantage",
+   "category": "Thể chất",
+   "costs": [
+    9
+   ],
+   "levels": [
+    {
+     "cost": 9,
+     "desc": "Vẻ ngoài/giọng/sẹo nổi bật. Bonus charm, vấn đề cover.",
+     "mechanics": "−10 Stealth, Disguise. +3 Charm hoặc Intimidation theo lựa chọn master."
+    }
+   ],
+   "vignette": "Đại úy Shchur cao hai mét, vai như tủ, có sẹo trắng mảnh từ thái dương đến cằm. Người nhớ Shchur. Không phải «nhớ mặt» — nhớ.",
+   "desc": "Vẻ ngoài nổi bật. Hoặc giọng. Hoặc sẹo. Điều gì làm bạn nổi bật khỏi đám đông, người lạ nhớ.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "odnorukiy",
+   "name": "MỘT TAY",
+   "kind": "disadvantage",
+   "category": "Thể chất",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "Mất một tay. Bù bằng prosthetic.",
+     "mechanics": "Vũ khí hai tay không dùng. −20 kỹ năng cần hai tay. Pistol ngắm — không phạt."
+    }
+   ],
+   "vignette": "Trung úy Voloshin mất tay phải vì Turned ở Smolensk. Turned cắn, tay tan ở khuỷu, bác sĩ thực địa cắt phần còn lại — sạch đến vai.",
+   "desc": "Mất một tay. Chọn: trái hoặc phải. Đặc vụ bù bằng prosthetic, huấn luyện, ý chí. Nhưng vũ khí hai tay, leo, phẫu thuật, lắp tinh — không thể hoặc phạt nặng.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "odnonogiy",
+   "name": "MỘT CHÂN",
+   "kind": "disadvantage",
+   "category": "Thể chất",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "Mất một chân. Bù bằng prosthetic.",
+     "mechanics": "SPD −30 cho chạy và né. Leo, bơi, balancing — không thể không hỗ trợ đội. Ngắm bắn — không phạt nếu nằm/ngồi."
+    }
+   ],
+   "vignette": "Đại úy Dyomin mất chân trái vì mìn ở biên giới Caucasus, hai mươi năm trước khi ORPP nhận hắn. Hắn đến với prosthetic và lời hứa viết theo kịp đội trên thực địa.",
+   "desc": "Mất một chân. Đặc vụ đi trên prosthetic hoặc nạng. Cơ động giảm; chạy, leo, núi, bơi — phạt hoặc không thể.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "odnoglazyy",
+   "name": "MỘT MẮT",
+   "kind": "disadvantage",
+   "category": "Thể chất",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "Một mắt. Mất nhận thức độ sâu, vấn đề ngắm bắn xa.",
+     "mechanics": "−5 ngắm bắn ở bất kỳ khoảng cách. −10 lái. Sniper không thể không tái hiệu chuẩn."
+    }
+   ],
+   "vignette": "Thiếu tá Vorobyov mất mắt trái vì mảnh gỗ dương trong vụ ma cà rồng ba năm trước. Mảnh vào sạch, làm việc, ra sạch. Mắt không sống sót. Vorobyov sống.",
+   "desc": "Một mắt. Mất nhận thức độ sâu, trường nhìn hẹp, vấn đề ngắm bắn ở khoảng cách. Bù bằng thực hành và góc, nhưng không bao giờ hoàn toàn.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "gluhota",
+   "name": "ĐIẾC",
+   "kind": "disadvantage",
+   "category": "Thể chất",
+   "costs": [
+    9
+   ],
+   "levels": [
+    {
+     "cost": 9,
+     "desc": "−10 kỹ năng PER. Không nghe radio và kẻ bò gần.",
+     "mechanics": "−10 PER-based skills. Không liên lạc âm."
+    }
+   ],
+   "vignette": "Đặc vụ Tikhonov điếc vì lựu đạn trong phòng kín. Màng nhĩ — tan. Trợ thính giúp ở đời thường nhưng vô dụng trong chiến đấu: mỗi phát bắn quá tải vào chế độ bảo vệ.",
+   "desc": "−10 kỹ năng PER. Trong module chiến thuật: không tiếp xúc âm thanh. Không nghe radio. Không nghe kẻ bò gần. Đọc môi — Linguistics.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "slepota",
+   "name": "MÙ",
+   "kind": "disadvantage",
+   "category": "Thể chất",
+   "costs": [
+    36
+   ],
+   "levels": [
+    {
+     "cost": 36,
+     "desc": "−50 PER, −20 CHR. Phạt đắt nhất.",
+     "mechanics": "−50 PER skills. −20 CHR skills. Không thông tin thị giác."
+    }
+   ],
+   "vignette": "Master cartographer Wang Shi mất thị lực trong lab OPI. Chớp khi test artefact — và thế giới tắt. Wang Shi không bỏ. Học «thấy» bằng tay — bản đồ relief sờ chính xác hơn máy tính.",
+   "desc": "−50 kỹ năng PER. −20 kỹ năng CHR. Không có tactical comms — không thông tin thị giác. Phạt vật lý đắt nhất.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "blizorukost",
+   "name": "CẬN THỊ",
+   "kind": "disadvantage",
+   "category": "Thể chất",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Cận thị nhẹ. −5 PER không kính.",
+     "mechanics": "−5 PER không correction. Kính gỡ."
+    }
+   ],
+   "vignette": "Forensic Lenka chỉ tháo kính khi tắm và khi hôn. Ở hiện trường luôn có dự phòng — trong túi, ví, xe, két văn phòng.",
+   "desc": "−5/−10/−15 kỹ năng PER không correction. Kính/contact gỡ phạt. Mất trong chiến — phạt đầy ngay. Đòn vào mặt: d6, 1–2 = gãy.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "allergiya",
+   "name": "DỊ ỨNG",
+   "kind": "disadvantage",
+   "category": "Thể chất",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Dị ứng với chất cụ thể. Tiếp xúc — cascade phản ứng.",
+     "mechanics": "Stage 1 −15%. Stage 2 −30%. Stage 3 anaphylaxis, TOUGH hoặc bất tỉnh."
+    }
+   ],
+   "vignette": "Chuẩn úy Kolesnikov không sợ ma cà rồng cũng không sợ sebekit. Kolesnikov sợ lạc. Khoảng tuổi mười mẹ cho bơ lạc, và Kolesnikov sống sót kỳ diệu.",
+   "desc": "Trigger — chất gây dị ứng cụ thể. Trên tiếp xúc cascade: stage 1 (−15%, hắt hơi), stage 2 (−30%, khó thở), stage 3 (−60%, anaphylaxis, TOUGH hoặc bất tỉnh).",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "impotenciya",
+   "name": "BẤT LỰC",
+   "kind": "disadvantage",
+   "category": "Thể chất",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Rối loạn ngắt quãng.",
+     "mechanics": "−3 CHR trong thân mật."
+    }
+   ],
+   "vignette": "Sergeyev là người thứ ba của một vampiress trong tháng. Các sanguinophage, cảm thấy với thứ này hắn không tốt từ vết thương Afghanistan, nhanh chóng mất quan tâm.",
+   "desc": "**−3:** Rối loạn ngắt quãng. −3 CHR trong tình huống thân mật. **−6:** Vĩnh viễn. Không thể đời sống thân mật. Phức cảm.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "specializaciya",
+   "name": "CHUYÊN MÔN",
+   "kind": "advantage",
+   "category": "Chiến đấu",
+   "costs": [
+    6,
+    12,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "+15 vào một kỹ năng. Trọn đời.",
+     "mechanics": "+15 kỹ năng chọn."
+    }
+   ],
+   "vignette": "Callsign của cô là Lastochka — «Chim Én». Sniper tốt nhất Group «Zakat». Cha mua súng hơi cho cô lúc sáu tuổi, vì mẹ phản đối. Đến mười hai bắn sóc ở hai mươi mét vào mắt.",
+   "desc": "+15/+30/+60 vào một kỹ năng chọn. Trọn đời, không hoàn lại. Đây không phải «giỏi» — đây là mức người ngừng là người và trở thành dụng cụ.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "mehanicheskiy-simbioz",
+   "name": "CỘNG SINH CƠ KHÍ",
+   "kind": "advantage",
+   "category": "Chiến đấu",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Hiểu cơ trực giác.",
+     "mechanics": "+10 bất kỳ tech skill ở tiếp xúc đầu. Thời gian học tech mới — nửa."
+    }
+   ],
+   "vignette": "Maks sáu tuổi khi tháo điện cạo râu của cha và lắp ráp shocker cao áp. Không theo hướng dẫn — không internet ở làng. Hắn chỉ nhìn motor, tụ điện và cuộn, và trong đầu hình thành sơ đồ.",
+   "desc": "Hiểu trực giác cơ. Máy, thiết bị, hệ thống «vâng» bạn. Bạn không đọc manual — bạn cảm cách nó hoạt động.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "terminator",
+   "name": "KẺ HỦY DIỆT",
+   "kind": "advantage",
+   "category": "Chiến đấu",
+   "costs": [
+    32
+   ],
+   "levels": [
+    {
+     "cost": 32,
+     "desc": "Không vết thương tới hạn. Máy.",
+     "mechanics": "Không critical wounds. Không bleed. Bất tỉnh chỉ sau 3/4 hits."
+    }
+   ],
+   "vignette": "Thượng đặc vụ Gromov ăn ba phát 7.62 vào thân trong bốn giây. Ngực — qua áo giáp. Bụng — dưới tấm. Vai. Không ngã. Nhìn xuống — ba vết tối. Nhìn lên. Xạ thủ đang nạp.",
+   "desc": "Không vết thương tới hạn. Không chảy máu. Ý thức mất chỉ sau 3/4 hits toàn cục. Bạn là máy. Có thể bị giết. Nhưng không thể bị dừng.",
+   "requirement": "ТЕЛ 80+. Самое дорогое боевое достоинство. 32 очка — почти весь бюджет с максимальными дизадвами.",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "dvoerukost",
+   "name": "THUẬN HAI TAY",
+   "kind": "advantage",
+   "category": "Chiến đấu",
+   "costs": [
+    9
+   ],
+   "levels": [
+    {
+     "cost": 9,
+     "desc": "Hai tay. Không phạt off-hand.",
+     "mechanics": "Không phạt off-hand. Hai pistol/lưỡi cùng lúc."
+    }
+   ],
+   "vignette": "Đặc vụ Yezhov vào phòng với hai GSh-18. Trái — xuyên giáp. Phải — bạc. Vì trong phòng có cả người và undead. Hai phát cùng lúc.",
+   "desc": "Không phạt cho hành động bằng tay yếu. Hai pistol cùng lúc. Hai lưỡi. Dưới 1% bẩm sinh.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "zhivuchest",
+   "name": "BỀN BỈ",
+   "kind": "advantage",
+   "category": "Chiến đấu",
+   "costs": [
+    3,
+    9,
+    15
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "+2 hits toàn cục.",
+     "mechanics": "+2 global hits."
+    }
+   ],
+   "vignette": "Đại tá Serov ăn ba viên vào ngực, hai bụng, một vai trong vụ bắn nhau ở Nizhny Novgorod. Theo mọi giao thức hắn nên chết. Serov chết ngày thứ mười bảy — vì viêm phổi.",
+   "desc": "+2/+4/+6 hits toàn cục. Ở TOUGH 50 (10 hits) thậm chí +2 là +20% sống sót.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "uskorennaya-regeneraciya",
+   "name": "HỒI PHỤC NHANH",
+   "kind": "advantage",
+   "category": "Chiến đấu",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "+2 regen/ngày.",
+     "mechanics": "+2 regen hits/ngày."
+    }
+   ],
+   "vignette": "Khi đặc vụ Velikhov đến bác sĩ lần thứ ba tháng đó với chân mày khâu, bác sĩ cau mày. «Anh trở lại với tôi lần ba trong hai tuần?» — «Mọi thứ ổn.»",
+   "desc": "+2/+4/+6 hits regeneration/ngày. Vết thương đóng nhanh 2-3 lần.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "aktivnost",
+   "name": "NHANH NHẸN",
+   "kind": "advantage",
+   "category": "Chiến đấu",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "+2 AP mỗi round.",
+     "mechanics": "+2 AP per round."
+    }
+   ],
+   "vignette": "Khi Malakhov vào phòng, trong một round hắn xoay sở: bắn gần nhất, bước qua thân, nạp lại, bắn tên hai, đá ghế ngã chặn khung cửa. Mọi người khác trong đội kịp tối đa bắn hai.",
+   "desc": "+2 AP mỗi round. Một hành động thừa. *(Giá 12, không 3 — trong hệ thống đồng bộ mỗi AP tới hạn.)*",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "tonkoe-lezvie",
+   "name": "LƯỠI MỎNG",
+   "kind": "advantage",
+   "category": "Chiến đấu",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Vùng tới hạn rộng. Người cực đoan.",
+     "mechanics": "Critical zone 1–15 / 85–100."
+    }
+   ],
+   "vignette": "Người chơi Renzo ở bàn Grandmaster ném ba lần liên tiếp dưới 15. Ba thành công tới hạn. Dao găm vào đúng khe giáp. Lần thứ tư — 97. Thất bại tới hạn.",
+   "desc": "Vùng tới hạn mở rộng: 1–15 và 85–100 (thay 1–5 và 95–100). Thành công gấp đôi và thất bại gấp đôi. Bạn là người cực đoan.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "chuvstvo-opasnosti",
+   "name": "CẢM NHẬN NGUY HIỂM",
+   "kind": "advantage",
+   "category": "Chiến đấu",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Cảnh báo nguy hiểm thỉnh thoảng.",
+     "mechanics": "d10: 1–2 cảm trước."
+    }
+   ],
+   "vignette": "Grigoryev dừng ở ngưỡng căn hộ. Căn hộ thường. Nhà chín tầng. Tầng ba. Vụ poltergeist. Nhưng tóc ở gáy đứng lên.",
+   "desc": "Cảnh báo nguy hiểm khoảnh khắc trước khi nó đến. d10: thành công 1–2 / 1–4 / 1–6. Tóc gáy đứng. Ngón lạnh dọc xương sống.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "vezunchik",
+   "name": "MAY MẮN",
+   "kind": "advantage",
+   "category": "Tinh thần (vận)",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Lăn lại một lăn thất bại mỗi session.",
+     "mechanics": "1 re-roll/session, theo gọi master."
+    }
+   ],
+   "vignette": "Serov ngắm tín đồ. Mũ trùm, áo đen, dao nghi lễ trong tay — possessed cổ điển. Sau tín đồ — Katya Sheremetyeva, trói vào trụ. Serov NHÌN THẤY trước khi cò gãy.",
+   "desc": "Lăn lại một lăn thất bại mỗi session. Theo gọi master — có thể dùng ở thời điểm tới hạn. Không đảm bảo thành công: chỉ cơ hội thứ hai.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "hranimyy-sudboyu",
+   "name": "CON CỦA SỐ PHẬN",
+   "kind": "advantage",
+   "category": "Tinh thần (vận)",
+   "costs": [
+    9
+   ],
+   "levels": [
+    {
+     "cost": 9,
+     "desc": "+20 kỹ năng tới hạn ở khoảnh khắc tới hạn. 1×/session.",
+     "mechanics": "+20 critical skill at critical moment, 1×/session."
+    }
+   ],
+   "vignette": "Kho. Tối. Rusalka — không phải kiểu truyện cổ tích với đuôi và vỏ sò. Loại thật: da xám, mắt đen không đồng tử, miệng mở 180°.",
+   "desc": "+20 vào kỹ năng tới hạn quan trọng ở thời điểm tới hạn. Một lần mỗi session. Khi tất cả mất, khi thất bại nghĩa chết — số phận nháy mắt.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "stalnoy-sterzhen",
+   "name": "LÕI THÉP",
+   "kind": "advantage",
+   "category": "Tinh thần (vận)",
+   "costs": [
+    6,
+    12,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Lõi đạo đức. Quyết định đúng tự đến.",
+     "mechanics": "+5 SPIRIT cho quyết định đạo đức."
+    }
+   ],
+   "vignette": "Group «Epsilon» vào tòa trường ở phút mười hai. Tà giáo Satanist — thật, không cải trang, không điên với chalk pentagram — đã trú trong sảnh. Bộ lõi cho phép qua choáng.",
+   "desc": "**6:** Trong dao động đạo đức — quyết định «đúng» tự đến. Không đạo đức — một lõi. Bạn không vật vã chọn.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "seksapilnost",
+   "name": "SỨC HÚT",
+   "kind": "advantage",
+   "category": "Xã hội",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "+3 quyến rũ và social.",
+     "mechanics": "+3 seduction + social."
+    }
+   ],
+   "vignette": "Interrogator Roshchina không phải mỹ nhân — mũi quá dài, cằm quá nặng. Nhưng khi cô vào phòng, đàn ông quên đang nói gì.",
+   "desc": "+3/+6/+9 vào quyến rũ và kỹ năng xã hội. Không phải sắc đẹp — từ tính.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "vliyatelnye-druzya",
+   "name": "BẠN CÓ THẾ",
+   "kind": "advantage",
+   "category": "Xã hội",
+   "costs": [
+    6,
+    12,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Quyền địa phương.",
+     "mechanics": "Đồng minh địa phương, đáp ơn cần."
+    }
+   ],
+   "vignette": "Thợ rèn Taddeo rèn kiếm ở Hạ Đô ba mươi năm. Không master vĩ đại — thợ thủ công trung thực. Một đêm vào xưởng rơi vào người bị thương quý tộc.",
+   "desc": "Đồng minh có thể nhờ ưu ái. Không miễn phí — phải đáp ơn. **6:** quyền địa phương. **12:** patrician, gild head. **24:** một trong cao nhất.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "sostoyatelnost",
+   "name": "GIÀU CÓ",
+   "kind": "advantage",
+   "category": "Xã hội",
+   "costs": [
+    6,
+    12,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Thoải mái.",
+     "mechanics": "Tài nguyên thoải mái."
+    }
+   ],
+   "vignette": "Amir al-Budati al-Sindbad — không phải tên thật, nhưng duy nhất hắn được biết từ Quần Đảo đến Vùng Băng — sở hữu ba tàu, hai caravanserai, kho gia vị ở Bến Cảng Hoàng Gia.",
+   "desc": "Tài nguyên khởi đầu và lối sống. **6:** thoải mái. **12:** giàu. **24:** một trong giàu nhất.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "chelovek-mira",
+   "name": "NGƯỜI ĐA VĂN HÓA",
+   "kind": "advantage",
+   "category": "Xã hội",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Cảm văn hóa trực giác.",
+     "mechanics": "+10 Etiquette mọi văn hóa. Không phạm thuần."
+    }
+   ],
+   "vignette": "Schooner Lorenzo vỡ vào đá ba dặm bờ Vùng Băng. Hai ngày trên xác. Khi bị ném lên bờ — nửa chết, mặn, xanh. Trẻ Băng tìm hắn lúc bình minh.",
+   "desc": "Cảm trực giác etiquette và phong tục bất kỳ văn hóa. Bạn không học — bạn cảm. Vào đền người khác — bạn biết gì không được phép.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "toksicheskiy-immunitet",
+   "name": "MIỄN ĐỘC",
+   "kind": "advantage",
+   "category": "Sinh học",
+   "costs": [
+    6,
+    9,
+    15
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "+25% kháng độc.",
+     "mechanics": "+25% chống độc."
+    }
+   ],
+   "vignette": "Ghulbsh của Vòng Hai không hiểu vấn đề. Người tí đứng sau cửa trong trang phục buồn cười với vòi — như thể vải mỏng có thể cứu khỏi cái hắn thở.",
+   "desc": "+25% / +50% / miễn dịch hoàn toàn với chất độc.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "biologicheskiy-immunitet",
+   "name": "MIỄN SINH HỌC",
+   "kind": "advantage",
+   "category": "Sinh học",
+   "costs": [
+    3,
+    6,
+    12
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Miễn bệnh thường.",
+     "mechanics": "Miễn cúm, viêm phổi, v.v."
+    }
+   ],
+   "vignette": "Dịch đến Hạ Đô trên tàu buôn từ Budati Caliphate. Đến ngày ba phố Khu Cá chất xác. Bác sĩ trong mặt nạ mỏ dài, không đi nam Bức Tường Ba.",
+   "desc": "Miễn dịch bệnh: thường / nghiêm / tất cả bao gồm siêu nhiên.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "vneshnee-zrenie",
+   "name": "THỊ GIÁC NGOẠI",
+   "kind": "advantage",
+   "category": "Sinh học",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Thị giác ẩn tự phát.",
+     "mechanics": "d10 trong cảnh chính (bí mật, theo master). 1–2 — gợi ý thị giác."
+    }
+   ],
+   "vignette": "Hắn từ lâu quên tên. Lâu — bao lâu? Trong thế giới hắn không có thời gian. Có tường hắn nhớ. Có phòng từng thuộc về hắn. Có cửa sổ.",
+   "desc": "Thị giác tự phát, không kiểm soát của ẩn. Quà hoặc lời nguyền.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "seyf",
+   "name": "KHÓA AN TOÀN",
+   "kind": "advantage",
+   "category": "Sinh học",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "Miễn dịch siêu nhiên trực tiếp.",
+     "mechanics": "Miễn hoàn toàn: telepathy, pyrokinesis, biokinetics, possession, mental attacks, mind control, psi-scanning."
+    }
+   ],
+   "vignette": "Biệt thự ở Đại lộ Kamennoostrovsky tự bộc lộ hôm qua. Ba mươi năm — nhà thường, gia đình, sửa chữa, trẻ. Và rồi — trong một đêm — haunting giết cha và con gái lớn.",
+   "desc": "Miễn dịch bẩm sinh với tác động siêu nhiên trực tiếp. Telepath không đọc suy nghĩ. Pyrokinetic không đốt. Quỷ không nhập. Tấn công mental đứt khúc.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  }
+ ]
+}

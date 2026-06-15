@@ -1,0 +1,1462 @@
+{
+  "templates": [
+    {
+      "id": "clerk",
+      "name": "Office Clerk",
+      "description": "Linh hồn giấy tờ. Phích, con dấu, hàng đợi đến trưa.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 35,
+        "TGH": 38,
+        "COR": 48,
+        "SPD": 40,
+        "CHR": 45,
+        "INT": 58,
+        "PER": 50,
+        "SPR": 40
+      },
+      "keySkills": [
+        {
+          "skillId": "finansy",
+          "name": "Tài chính",
+          "level": 50
+        },
+        {
+          "skillId": "yurisprudenciya",
+          "name": "Luật học",
+          "level": 25
+        },
+        {
+          "skillId": "kompyuting",
+          "name": "Tin học",
+          "level": 50
+        },
+        {
+          "skillId": "etiket",
+          "name": "Nghi thức",
+          "level": 50
+        }
+      ],
+      "variance": 7,
+      "inventory": [],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "guard",
+      "name": "City Guardsman",
+      "description": "Halberd, áo giáp lưới, bình rượu giấu trong áo. Hai mươi năm ở cổng Thành Vĩnh.",
+      "setting": "ВГ",
+      "attrs": {
+        "STR": 62,
+        "TGH": 60,
+        "COR": 52,
+        "SPD": 50,
+        "CHR": 42,
+        "INT": 40,
+        "PER": 55,
+        "SPR": 52
+      },
+      "keySkills": [
+        {
+          "skillId": "drevkovoe-oruzhie",
+          "name": "Vũ khí dài",
+          "level": 50
+        },
+        {
+          "skillId": "tyazhelye-klinki",
+          "name": "Lưỡi nặng",
+          "level": 25
+        },
+        {
+          "skillId": "schitovoy-boy",
+          "name": "Đánh khiên",
+          "level": 50
+        },
+        {
+          "skillId": "zapugivanie",
+          "name": "Đe dọa",
+          "level": 50
+        }
+      ],
+      "variance": 9,
+      "inventory": [
+        "Шашка казачья",
+        "Топор пожарный"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "policeman",
+      "name": "Policeman",
+      "description": "Súng phục vụ, biên bản, mệt mỏi cuối ca. Cảnh sát đế quốc.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 55,
+        "TGH": 54,
+        "COR": 56,
+        "SPD": 52,
+        "CHR": 48,
+        "INT": 50,
+        "PER": 58,
+        "SPR": 52
+      },
+      "keySkills": [
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Súng ngắn & Tiểu liên",
+          "level": 50
+        },
+        {
+          "skillId": "rukopashnyy-boy",
+          "name": "Cận chiến cơ bản",
+          "level": 50
+        },
+        {
+          "skillId": "dopros",
+          "name": "Thẩm vấn",
+          "level": 50
+        },
+        {
+          "skillId": "vozhdenie",
+          "name": "Lái xe",
+          "level": 50
+        },
+        {
+          "skillId": "pronicatelnost",
+          "name": "Đọc người",
+          "level": 25
+        }
+      ],
+      "variance": 8,
+      "inventory": [
+        "ПМ (Пистолет Макарова)",
+        "Наручники полицейские",
+        "Шокер «Каракурт-7»",
+        "Фонарь Fenix PD36R"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "patrician",
+      "name": "Patrician",
+      "description": "Nhà cao quý của Thành Vĩnh. Quyền lực, độc dược, trí nhớ dài.",
+      "setting": "ВГ",
+      "attrs": {
+        "STR": 40,
+        "TGH": 42,
+        "COR": 50,
+        "SPD": 46,
+        "CHR": 72,
+        "INT": 68,
+        "PER": 60,
+        "SPR": 62
+      },
+      "keySkills": [
+        {
+          "skillId": "diplomatiya",
+          "name": "Ngoại giao",
+          "level": 75
+        },
+        {
+          "skillId": "etiket",
+          "name": "Nghi thức",
+          "level": 75
+        },
+        {
+          "skillId": "torgovlya",
+          "name": "Mặc cả",
+          "level": 50
+        },
+        {
+          "skillId": "pronicatelnost",
+          "name": "Đọc người",
+          "level": 50
+        },
+        {
+          "skillId": "blef",
+          "name": "Lừa phỉnh",
+          "level": 50
+        }
+      ],
+      "variance": 8,
+      "inventory": [],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "operative",
+      "name": "ORPP Operative",
+      "description": "Đội phản ứng nhanh ORPP. GSh-18, bạc và sắt lạnh trong băng đạn thứ hai.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 62,
+        "TGH": 64,
+        "COR": 66,
+        "SPD": 64,
+        "CHR": 48,
+        "INT": 58,
+        "PER": 66,
+        "SPR": 64
+      },
+      "keySkills": [
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Súng ngắn & Tiểu liên",
+          "level": 75
+        },
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Vũ khí tấn công",
+          "level": 50
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Sambo chiến đấu",
+          "level": 50
+        },
+        {
+          "skillId": "taktika",
+          "name": "Chiến thuật",
+          "level": 50
+        },
+        {
+          "skillId": "pervaya-pomosch",
+          "name": "Sơ cứu",
+          "level": 25
+        }
+      ],
+      "variance": 10,
+      "inventory": [
+        "ГШ-18",
+        "ПП «Витязь-СН»",
+        "Нож разведчика НР-43 «Вишня»",
+        "Спецбоеприпас «Тризубец-С» 9×19",
+        "Бронекомбидресс ОРПП",
+        "УГТ (Универсальный Головной Терминал)",
+        "Аптечка АИ-Я",
+        "Святая вода в фляге"
+      ],
+      "img": "operative.jpg"
+    },
+    {
+      "id": "thug",
+      "name": "Street Thug",
+      "description": "Cú đấm sắt, sự ngạo mạn, sợ hãi dưới lớp ngạo mạn.",
+      "setting": "У",
+      "attrs": {
+        "STR": 58,
+        "TGH": 54,
+        "COR": 46,
+        "SPD": 52,
+        "CHR": 38,
+        "INT": 35,
+        "PER": 44,
+        "SPR": 44
+      },
+      "keySkills": [
+        {
+          "skillId": "udarnye-edinoborstva",
+          "name": "Nghệ thuật đấm đá",
+          "level": 50
+        },
+        {
+          "skillId": "legkie-klinki",
+          "name": "Lưỡi nhẹ",
+          "level": 25
+        },
+        {
+          "skillId": "zapugivanie",
+          "name": "Đe dọa",
+          "level": 50
+        },
+        {
+          "skillId": "vorovstvo",
+          "name": "Trộm cắp",
+          "level": 25
+        }
+      ],
+      "variance": 11,
+      "inventory": [
+        "Кастет латунный",
+        "ПМ (Пистолет Макарова)"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "field-medic",
+      "name": "Field Medic",
+      "description": "Làm những điều kinh khủng bằng dao bếp dưới hầm bẩn — và cứu mạng.",
+      "setting": "У",
+      "attrs": {
+        "STR": 45,
+        "TGH": 50,
+        "COR": 64,
+        "SPD": 54,
+        "CHR": 50,
+        "INT": 68,
+        "PER": 62,
+        "SPR": 56
+      },
+      "keySkills": [
+        {
+          "skillId": "polevaya-medicina",
+          "name": "Y học chiến trường",
+          "level": 75
+        },
+        {
+          "skillId": "pervaya-pomosch",
+          "name": "Sơ cứu",
+          "level": 75
+        },
+        {
+          "skillId": "hirurgiya",
+          "name": "Phẫu thuật",
+          "level": 50
+        },
+        {
+          "skillId": "farmakologiya",
+          "name": "Dược học",
+          "level": 50
+        }
+      ],
+      "variance": 8,
+      "inventory": [
+        "Гемостатик «Целокс» (Celox)",
+        "Жгут CAT (Combat Application Tourniquet)",
+        "Аптечка АИ-Я",
+        "Полевая аптечка ОПИ (универсальная антипаранормальная)"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "professor",
+      "name": "Professor",
+      "description": "Học giả phòng giấy. Biết nhiều về một thứ, bất lực với mọi thứ khác.",
+      "setting": "У",
+      "attrs": {
+        "STR": 32,
+        "TGH": 36,
+        "COR": 48,
+        "SPD": 38,
+        "CHR": 52,
+        "INT": 80,
+        "PER": 60,
+        "SPR": 50
+      },
+      "keySkills": [
+        {
+          "skillId": "fizika",
+          "name": "Vật lý",
+          "level": 75
+        },
+        {
+          "skillId": "matematika",
+          "name": "Toán học",
+          "level": 75
+        },
+        {
+          "skillId": "istoriya",
+          "name": "Lịch sử",
+          "level": 50
+        },
+        {
+          "skillId": "himiya",
+          "name": "Hóa học",
+          "level": 50
+        }
+      ],
+      "variance": 7,
+      "inventory": [],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "merc",
+      "name": "Mercenary",
+      "description": "Làm vì tiền, sống nhờ hoang tưởng.",
+      "setting": "У",
+      "attrs": {
+        "STR": 60,
+        "TGH": 62,
+        "COR": 60,
+        "SPD": 60,
+        "CHR": 44,
+        "INT": 48,
+        "PER": 62,
+        "SPR": 58
+      },
+      "keySkills": [
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Vũ khí tấn công",
+          "level": 50
+        },
+        {
+          "skillId": "tyazhelye-klinki",
+          "name": "Lưỡi nặng",
+          "level": 50
+        },
+        {
+          "skillId": "vyzhivanie",
+          "name": "Sinh tồn",
+          "level": 50
+        },
+        {
+          "skillId": "skrytnost",
+          "name": "Lén lút",
+          "level": 50
+        },
+        {
+          "skillId": "taktika",
+          "name": "Chiến thuật",
+          "level": 25
+        }
+      ],
+      "variance": 10,
+      "inventory": [
+        "АК-74М",
+        "Кукри",
+        "Бронежилет 6Б23-1",
+        "РГД-5",
+        "Дымовая РДГ-2"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "priest",
+      "name": "Combat Priest",
+      "description": "Súng săn tự động, đạn bạc, Đức tin Đích thực làm đạn dược.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 58,
+        "TGH": 60,
+        "COR": 52,
+        "SPD": 48,
+        "CHR": 56,
+        "INT": 52,
+        "PER": 54,
+        "SPR": 78
+      },
+      "keySkills": [
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Vũ khí tấn công",
+          "level": 50
+        },
+        {
+          "skillId": "teologiya",
+          "name": "Thần học",
+          "level": 75
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Huyền học",
+          "level": 50
+        },
+        {
+          "skillId": "krasnorechie",
+          "name": "Hùng biện",
+          "level": 50
+        }
+      ],
+      "variance": 9,
+      "inventory": [
+        "Святая вода в фляге",
+        "Освящённая соль (в кожаном мешочке)",
+        "Освящённый мел",
+        "Серебряный кинжал ОРПП"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "zaika",
+      "name": "Svetlana «Thỏ Con» Ryan-Caoranach",
+      "description": "Rougarou dòng Tara. Cao 1m93, tàn nhang, tóc đỏ. Trông như sống ở phòng tập — chưa bao giờ tới, đó là gen cơ bản. Trung thành như chó, tốt bụng đến mức không đứng đắn. Trong văn phòng cô có một chú cún. Cụ thể: cún của Garm, Chó Đen. Thỏ Con đã thuần phục nó. Đặt tên Bánh.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 72,
+        "TGH": 78,
+        "COR": 70,
+        "SPD": 72,
+        "CHR": 88,
+        "INT": 75,
+        "PER": 82,
+        "SPR": 85
+      },
+      "keySkills": [
+        {
+          "skillId": "pronicatelnost",
+          "name": "Bắt nói dối",
+          "level": 90
+        },
+        {
+          "skillId": "obolschenie",
+          "name": "Quyến rũ",
+          "level": 85
+        },
+        {
+          "skillId": "priruchenie-zhivotnyh",
+          "name": "Thuần phục thú",
+          "level": 85
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Súng ngắn và SMG",
+          "level": 75
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Sambo chiến đấu",
+          "level": 70
+        },
+        {
+          "skillId": "psihiatriya",
+          "name": "Tâm thần học",
+          "level": 70
+        }
+      ],
+      "variance": 5,
+      "inventory": [
+        "GSh-18",
+        "Đạn đặc biệt «Tridzubets-S» 9×19",
+        "Combidress giáp ORPP",
+        "UHT (Đầu cuối Đa năng)",
+        "Ống thuốc «Nhật thực» (3)",
+        "Hộp y tế AI-Ya",
+        "Mặt dây chuyền có ảnh Bánh"
+      ],
+      "img": "npc/zaika.jpg",
+      "gallery": [
+        "npc/zaika.jpg",
+        "scene-combat.jpg"
+      ],
+      "legend": true,
+      "vignette": "Cô ngồi mép bàn, đung đưa giày, và cún của Garm — đúng cái Chó Đen rít trên ngưỡng người chết — ngủ trên đùi, dựa vào áo giáp combidress. «Bánh, nhả ra, đó là tang vật,» cô nói, và Bánh ngượng ngùng nhả khúc xương ngón tay của ai đó. Thỏ Con gãi sau tai nó. Cô có mùi thuốc súng, mùi chó ướt, và không hiểu sao — mùi vani. Ai cho rằng lòng tốt của cô là điểm yếu sẽ học được khác biệt giữa «vuốt ve» và «xé toạc» trong khoảng một phần ba giây.",
+      "mechanics": "Rougarou (dòng Tara). HỒI PHỤC TĂNG CƯỜNG: hồi sát thương mỗi vòng, trừ bạc và lửa (đối với chúng — như người thường). «Giác quan thú»: +20 Tri giác và Bắt nói dối khi tiếp xúc trực tiếp, thấy sợ hãi và ý định. Khi biến hình một phần +1 STR/SPD và móng vuốt (vũ khí lạnh nhẹ). Bánh (cún của Garm) — thú đồng hành: ngửi thấy xác sống và ô uế trong bán kính, tấn công theo lệnh (STR 60, hiệu ứng «kinh hoàng» cho mục tiêu SPR < 50). Điểm yếu: lệnh hoặc đe dọa với người cô bảo vệ phá vỡ tính toán lạnh lùng của cô (xem ANH HÙNG).",
+      "perks": [
+        {
+          "id": "uskorennaya-regeneraciya",
+          "level": 2
+        },
+        {
+          "id": "chuvstvo-opasnosti",
+          "level": 2
+        },
+        {
+          "id": "seksapilnost",
+          "level": 1
+        },
+        {
+          "id": "geroy",
+          "level": 1
+        }
+      ],
+      "scenes": [
+        {
+          "img": "scene-combat.jpg",
+          "caption": "RSh-12, одной рукой, в полуобороте. Левая занята щенком.",
+          "vignette": "Кексик скулил.\n\nЗайка подхватила его одной рукой — щенок Гарма, две недели, мокрый нос, дрожит. Прижала к броне, к груди, накрыла подбородком. Кексик ткнулся ей в шею, замолчал.\n\nДемон был большой. Тонна с лишним, третий ярус Унгкоси. В реестре его имя стоит в скобках: вслух не произносят, чтобы не накликать. Сейчас он шёл на запах — кровь у Зайки за бронёй пахла сильно, как у живой.\n\nБок горел. Серебро не серебро — она не успела разглядеть, что туда зашло. Кровь сворачивалась со шипением, регенерация работала с задержкой, как старый чайник с накипью. Левая рука держала Кексика. Правая была свободна.\n\nЗайка достала РШ-12.\n\nТот самый, под которым штурмовики «Альфы» приседают: 12,7 на 55, четыре с половиной килограмма брутто, отдача такая, что в музее старых стрелков для него отдельный стенд с подписью «здесь умерло запястье». Мужики держат его двумя руками. Стреляют лёжа.\n\nЗайка ушла в полуоборот — не до зверя, только в правое плечо. У ругару в обороте правая рука это не рука. Это инструмент.\n\nПодняла. Повела стволом. Дышала ровно — Кексик не должен слышать, как у мамы дрожит грудная клетка.\n\n— Извини, маленький, — шепнула в макушку. — Будет громко.\n\nВыстрел.\n\nДемон сложился на колени, потом на плечи, потом на то, что у демонов вместо лица. Между бровей у него — дыра в кулак.\n\nЗайка опустила револьвер. Кексик не заплакал. Высунул язык, лизнул ей висок.\n\n— Молодец, — сказала Зайка. — Папа бы гордился.\n\nПапа Кексика выл на пороге мёртвых. Кому-то другому. Этой ночью — не им."
+        }
+      ]
+    },
+    {
+      "id": "dilan-hmuryy",
+      "name": "Дилан «Хмурый» О'Брайан",
+      "description": "Ругару, линия Бренна-Скалы. Инструктор ОРПП по рукопашному бою. 210 см, размером со шкаф. Молчаливый, угрюмый. На задания идёт неохотно, но если идёт — задача выполняется. Известен фразой «нет» которую может растянуть на восемь секунд так, что собеседник за это время успевает передумать.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 92,
+        "TGH": 95,
+        "COR": 65,
+        "SPD": 62,
+        "CHR": 42,
+        "INT": 62,
+        "PER": 70,
+        "SPR": 88
+      },
+      "keySkills": [
+        {
+          "skillId": "rukopashnyy-boy",
+          "name": "Рукопашный бой",
+          "level": 95
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Боевое самбо",
+          "level": 95
+        },
+        {
+          "skillId": "tyazhelaya-atletika",
+          "name": "Тяжёлая атлетика",
+          "level": 90
+        },
+        {
+          "skillId": "schitovoy-boy",
+          "name": "Щитовой бой",
+          "level": 80
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Пистолеты и ПП",
+          "level": 65
+        }
+      ],
+      "variance": 5,
+      "inventory": [
+        "Бронекомбидресс ОРПП",
+        "УГТ (Универсальный Головной Терминал)",
+        "Кастет (привычка)",
+        "Спортивная сумка с боксёрскими бинтами"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "otto-von-grimberg",
+      "name": "Отто фон Граймберг",
+      "description": "300 лет охоты. Бывший лютеранский пастор из Саксонии. Семью забрал вампир — Отто продержался три дня, Семя Тьмы выгорело. С тех пор охотится. Два заговорённых арбалета: один — болтами со святой водой и серебром, второй — зажигательными. Перфекционист тактики засад. С ОРПП — не союзник, не враг.",
+      "setting": "Германия / весь мир",
+      "attrs": {
+        "STR": 62,
+        "TGH": 82,
+        "COR": 88,
+        "SPD": 58,
+        "CHR": 55,
+        "INT": 80,
+        "PER": 92,
+        "SPR": 95
+      },
+      "keySkills": [
+        {
+          "skillId": "arbalety",
+          "name": "Арбалеты",
+          "level": 95
+        },
+        {
+          "skillId": "taktika",
+          "name": "Тактика",
+          "level": 90
+        },
+        {
+          "skillId": "lovushki",
+          "name": "Ловушки",
+          "level": 90
+        },
+        {
+          "skillId": "skrytnost",
+          "name": "Скрытность",
+          "level": 85
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Оккультизм",
+          "level": 85
+        },
+        {
+          "skillId": "teologiya",
+          "name": "Теология",
+          "level": 80
+        }
+      ],
+      "variance": 3,
+      "inventory": [
+        "Зачарованный арбалет (святая вода + серебро)",
+        "Зачарованный арбалет (зажигательные болты)",
+        "Латинский требник",
+        "Амулет анти-психики",
+        "Святая вода в стеклянной фляге",
+        "Серебряный кинжал",
+        "Кольчуга под старым плащом"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "anton-vojcek",
+      "name": "Антон Войцек",
+      "description": "Сангвинофаг, 268 лет. Открыто. В корпоративной анкете в графе «здоровье»: «гематологическая зависимость, требуется специализированное питание». Начальник отдела Перспективных Биологических Исследований корпорации Зетек. Дружит с Мареком. В кампусе Зетека — научно описуемый организм (вампиризм как бешенство-вирус), на улице Праги — нормальный сангвинофаг.",
+      "setting": "Зетек / Прага",
+      "attrs": {
+        "STR": 78,
+        "TGH": 82,
+        "COR": 82,
+        "SPD": 76,
+        "CHR": 90,
+        "INT": 95,
+        "PER": 82,
+        "SPR": 75
+      },
+      "keySkills": [
+        {
+          "skillId": "biologiya",
+          "name": "Биология",
+          "level": 95
+        },
+        {
+          "skillId": "himiya",
+          "name": "Химия",
+          "level": 90
+        },
+        {
+          "skillId": "biotehnologii",
+          "name": "Биотехнологии",
+          "level": 92
+        },
+        {
+          "skillId": "farmakologiya",
+          "name": "Фармакология",
+          "level": 90
+        },
+        {
+          "skillId": "krasnorechie",
+          "name": "Красноречие",
+          "level": 85
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Оккультизм",
+          "level": 75
+        }
+      ],
+      "variance": 3,
+      "inventory": [
+        "Лабораторный халат",
+        "Тонкое медицинское стекло для забора крови",
+        "Корпоративный пропуск Зетека",
+        "Телефон с экранированной связью с Мареком",
+        "Кейс с пробами",
+        "Безупречные манеры (не оружие, но работает как)"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "padre-alejandro",
+      "name": "Падре Алехандро Сепеда",
+      "description": "Один из трёх Верховных Инквизиторов Истинной Инквизиции — испанских раскольников от Ватикана. Доктор теологии Саламанкского университета, доктор истории Толедского. Сторонник принципиальной гибкости: с не-враждебными существами Сумрака можно и нужно договариваться. Лучший внешний контакт ОРПП в католическом мире.",
+      "setting": "Истинная Инквизиция / Толедо",
+      "attrs": {
+        "STR": 60,
+        "TGH": 65,
+        "COR": 60,
+        "SPD": 50,
+        "CHR": 82,
+        "INT": 92,
+        "PER": 82,
+        "SPR": 92
+      },
+      "keySkills": [
+        {
+          "skillId": "teologiya",
+          "name": "Теология",
+          "level": 95
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Оккультизм",
+          "level": 90
+        },
+        {
+          "skillId": "istoriya",
+          "name": "История",
+          "level": 92
+        },
+        {
+          "skillId": "diplomatiya",
+          "name": "Дипломатия",
+          "level": 90
+        },
+        {
+          "skillId": "liderstvo",
+          "name": "Лидерство",
+          "level": 85
+        },
+        {
+          "skillId": "lingvistika",
+          "name": "Лингвистика",
+          "level": 90
+        }
+      ],
+      "variance": 3,
+      "inventory": [
+        "Розарий из обсидиана",
+        "Латинский требник 1576 г.",
+        "Освящённый кинжал (символический)",
+        "Мобильный с прямой связью с двумя другими Верховными",
+        "Чёрная сутана с золотым крестом",
+        "Истинная Вера (как боеприпас)"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "samoilov",
+      "name": "Полковник Самойлов",
+      "description": "Командир ОРПП. Орёт на всех. Кроме Зайки — на неё почти не орёт (раз сорвался — она расплакалась, он три дня извинялся). Имеет рабочие каналы со всеми крупными охотничьими фракциями: с Патриархией РПЦ ↔ Ватикан (Псы Господни), с Падре Алехандро (Истинная Инквизиция), с старшинами Багрового Щита, с Чернитским из Януса лично. Тактик и стратег уровня академии.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 65,
+        "TGH": 75,
+        "COR": 65,
+        "SPD": 60,
+        "CHR": 85,
+        "INT": 88,
+        "PER": 82,
+        "SPR": 92
+      },
+      "keySkills": [
+        {
+          "skillId": "liderstvo",
+          "name": "Лидерство",
+          "level": 95
+        },
+        {
+          "skillId": "strategiya",
+          "name": "Стратегия",
+          "level": 92
+        },
+        {
+          "skillId": "taktika",
+          "name": "Тактика",
+          "level": 90
+        },
+        {
+          "skillId": "diplomatiya",
+          "name": "Дипломатия",
+          "level": 85
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Пистолеты и ПП",
+          "level": 75
+        },
+        {
+          "skillId": "zapugivanie",
+          "name": "Запугивание",
+          "level": 85
+        }
+      ],
+      "variance": 3,
+      "inventory": [
+        "ГШ-18",
+        "Бронекомбидресс ОРПП",
+        "УГТ (Универсальный Головной Терминал)",
+        "Рация Р-187П1 «Азарт»",
+        "Прямой телефон Патриархия РПЦ",
+        "Личный канал с Падре Алехандро",
+        "Сигары (привычка, не функционально)"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "sniper-orpp",
+      "name": "Снайпер ОРПП (специалист)",
+      "description": "Специализированный шаблон: оперативник ОРПП-снайпер. Работает в паре со спотером. Готов лежать пять часов в одной позе ради одного выстрела. ВССК «Выхлоп» в основном комплекте, СВД для дальних дистанций.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 60,
+        "TGH": 68,
+        "COR": 88,
+        "SPD": 62,
+        "CHR": 48,
+        "INT": 72,
+        "PER": 88,
+        "SPR": 82
+      },
+      "keySkills": [
+        {
+          "skillId": "snayperskoe-oruzhie",
+          "name": "Снайперское оружие",
+          "level": 90
+        },
+        {
+          "skillId": "maskirovka",
+          "name": "Камуфляж",
+          "level": 88
+        },
+        {
+          "skillId": "orientirovanie",
+          "name": "Ориентирование",
+          "level": 75
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Пистолеты и ПП",
+          "level": 65
+        },
+        {
+          "skillId": "taktika",
+          "name": "Тактика",
+          "level": 65
+        }
+      ],
+      "variance": 8,
+      "inventory": [
+        "ВССК «Выхлоп»",
+        "СВД (для дальних дистанций)",
+        "ГШ-18",
+        "Спецбоеприпас «Тризубец-С» 12.7×55",
+        "Бронекомбидресс ОРПП",
+        "Тепловизор IRay Saim SCH35",
+        "Дальномер-сетка",
+        "Маскхалат «гилли»",
+        "Термос (всегда)"
+      ],
+      "img": "sniper.jpg"
+    },
+    {
+      "id": "viktor-demonoboy",
+      "name": "Viktor «Diệt Quỷ» Zarnitskii",
+      "description": "Đặc vụ ORPP biệt phái cho nhóm trừ tà. Cựu lính xung kích, sau sự cố Chișinău đi vào đức tin — đến mức đức tin đi vào trong ông. Tóc bạc ở tuổi 39, bình tĩnh đến đáng sợ, đeo thập tự ngực trên áo giáp combidress. Nói nhỏ, bắn lớn. Hỏi «sao ông còn sống», ông đáp: «Chẳng còn gì để bắt.»",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 70,
+        "TGH": 85,
+        "COR": 68,
+        "SPD": 62,
+        "CHR": 55,
+        "INT": 60,
+        "PER": 74,
+        "SPR": 96
+      },
+      "keySkills": [
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Vũ khí xung kích",
+          "level": 82
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Súng ngắn và SMG",
+          "level": 78
+        },
+        {
+          "skillId": "teologiya",
+          "name": "Thần học",
+          "level": 80
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Huyền học",
+          "level": 72
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Sambo chiến đấu",
+          "level": 70
+        },
+        {
+          "skillId": "zapugivanie",
+          "name": "Hăm dọa",
+          "level": 65
+        }
+      ],
+      "variance": 6,
+      "inventory": [
+        "AK-12",
+        "Đạn đặc biệt «Tridzubets-S» 5.45×39",
+        "GSh-18",
+        "Combidress giáp ORPP",
+        "Thập tự ngực (đã hiến tế)",
+        "Nước thánh trong bình chiến thuật",
+        "Hộp y tế AI-Ya",
+        "Sách kinh trong túi"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "Con vật giáng vào ông tất cả những gì nó biết: nỗi sợ ngừng tim, ảo giác làm điếc lý trí, tiếng thì thầm thối rữa từ dưới sàn. Viktor làm dấu thánh giá, lên đạn, nói «Không hứng thú» và bước tới — đều như ở trường bắn. Quỷ không hiểu một điều: muốn phá người bằng sợ, người đó phải còn gì để mất. Người này không còn gì. Chỉ còn đức tin và khẩu súng.",
+      "mechanics": "SEYF (miễn nhiễm toàn diện với ảnh hưởng siêu nhiên trực tiếp — sợ, ảo giác, ô uế, kiểm soát tinh thần không tác động lên ông; kiểm tra SPR vs siêu nhiên — tự động thành công). «Đức tin chân chính» (thưởng NPC): mọi đòn tấn công của ông tính là được hiến tế — bỏ qua kháng cự và hồi phục của zác sống/quỷ và gây +50% sát thương lên chúng; nước thánh và thập tự đạt đỉnh trong tay ông. Cái giá: CUỒNG TÍN — ông không lùi trước kẻ bị nhập và không thương lượng với cái ác, ngay cả khi cần.",
+      "perks": [
+        {
+          "id": "seyf",
+          "level": 1
+        },
+        {
+          "id": "stalnoy-sterzhen",
+          "level": 2
+        },
+        {
+          "id": "zhivuchest",
+          "level": 2
+        },
+        {
+          "id": "fanatizm",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "lorenzo-pauletti",
+      "name": "Lorenzo Pauletti, Người đứng đầu Nhà",
+      "description": "Người đứng đầu Nhà Pauletti và đương kim Chủ tịch Hội đồng các Nhà Lớn, nhiệm kỳ thứ ba. Tóc hai bên thái dương đã bạc, nhung màu máu khô, nhẫn gắn mảnh Nguồn. Ông cười kiểu khiến bạn muốn kiểm tra ví và linh hồn còn đó không. Cộng hưởng với Nguồn Tĩnh Lặng — và vì thế trong sự hiện diện của ông, kẻ nói dối nghe thấy lời nói dối của chính mình trước khi nói hết.",
+      "setting": "ВГ",
+      "attrs": {
+        "STR": 42,
+        "TGH": 48,
+        "COR": 56,
+        "SPD": 50,
+        "CHR": 86,
+        "INT": 90,
+        "PER": 82,
+        "SPR": 80
+      },
+      "keySkills": [
+        {
+          "skillId": "diplomatiya",
+          "name": "Ngoại giao",
+          "level": 92
+        },
+        {
+          "skillId": "pronicatelnost",
+          "name": "Tri giác",
+          "level": 88
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Cộng hưởng (Nguồn Tĩnh Lặng)",
+          "level": 80
+        },
+        {
+          "skillId": "blef",
+          "name": "Mưu mô",
+          "level": 85
+        },
+        {
+          "skillId": "istoriya",
+          "name": "Lịch sử Thành phố",
+          "level": 78
+        },
+        {
+          "skillId": "etiket",
+          "name": "Lễ tiết",
+          "level": 80
+        }
+      ],
+      "variance": 5,
+      "inventory": [
+        "Nhẫn-mảnh Nguồn Tĩnh Lặng",
+        "Dao găm Tổng đốc (nghi lễ, rất sắc)",
+        "Ấn của Nhà Pauletti",
+        "Độc «Nụ hôn Goá» (phương án cuối)"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "Cộng hưởng với Nguồn Tĩnh Lặng không sấm chớp. Nó chỉ làm im. Trong phòng hội đồng, lời đồn tắt, mưu mô đông cứng, và mỗi người chợt nghe — trong đầu mình, rất rõ — điều mình đang định giấu. Lorenzo không làm gì. Lorenzo chỉ lắng nghe. Và khi cuối cùng ông nói — khẽ, một từ — từ đó đã đáng giá ba cuộc xử tử và một liên minh.",
+      "mechanics": "Cộng hưởng với Nguồn Tĩnh Lặng: trong tầm nghe giọng Tổng đốc, mọi nỗ lực nói dối với ông bị phạt −40 và ông tự động cảm nhận được nói dối (Tri giác = thành công tự động). Có thể «làm im» một âm thanh/phép thuật dựa trên lời nói một lần mỗi cảnh (phản cộng hưởng). Không phải chiến binh: yếu trong cận chiến, nhưng BẠN BÈ QUYỀN LỰC và GIÀU CÓ nghĩa là chuyện hiếm khi đến cận chiến — người khác làm thay.",
+      "perks": [
+        {
+          "id": "vliyatelnye-druzya",
+          "level": 3
+        },
+        {
+          "id": "sostoyatelnost",
+          "level": 3
+        },
+        {
+          "id": "hranimyy-sudboyu",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "demetrio-orsini",
+      "name": "Condottiere Demetrio Orsini",
+      "description": "Thanh kiếm của Nhà Orsini, lính đánh thuê ăn lương của ai trả thật. Tháp người hai mét trong nửa giáp, râu xẻng, kích cao hơn kỵ sĩ. Không mưu mô — đó không phải tài của ông. Tài của Demetrio là Nguồn Đất Cứng: chừng nào ông đứng trên đất và giữ hàng, hàng giữ tất cả.",
+      "setting": "ВГ",
+      "attrs": {
+        "STR": 82,
+        "TGH": 84,
+        "COR": 70,
+        "SPD": 58,
+        "CHR": 64,
+        "INT": 60,
+        "PER": 68,
+        "SPR": 66
+      },
+      "keySkills": [
+        {
+          "skillId": "drevkovoe-oruzhie",
+          "name": "Vũ khí cán dài",
+          "level": 90
+        },
+        {
+          "skillId": "tyazhelye-klinki",
+          "name": "Lưỡi nặng",
+          "level": 80
+        },
+        {
+          "skillId": "schitovoy-boy",
+          "name": "Chiến đấu khiên",
+          "level": 78
+        },
+        {
+          "skillId": "taktika",
+          "name": "Chiến thuật",
+          "level": 82
+        },
+        {
+          "skillId": "liderstvo",
+          "name": "Lãnh đạo",
+          "level": 85
+        },
+        {
+          "skillId": "zapugivanie",
+          "name": "Hăm dọa",
+          "level": 72
+        }
+      ],
+      "variance": 7,
+      "inventory": [
+        "Kích «Bão Vạn»",
+        "Kiếm rưỡi",
+        "Khiên tháp của Nhà Orsini",
+        "Nửa giáp kiểu Gatton",
+        "Tù-và cộng hưởng (tập hợp hàng)"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "Kỵ binh xông tới như tường, và tường đó nặng hàng tấn. «Giữ!» — Demetrio gầm lên, và đóng cán kích xuống đất. Đất đáp lại. Cộng hưởng Đất Cứng lăn qua hàng, và bốn mươi cán giáo đứng như một rễ. Ngựa lao vào — và vỡ tan vào những con người mà trong giây đó cứng hơn đá. Demetrio thậm chí không lắc lư. Ông hiếm khi lắc lư. Họ bảo, đó là di truyền.",
+      "mechanics": "Cộng hưởng với Nguồn Đất Cứng: khi Demetrio không di chuyển và giữ hàng, ông và mọi đồng minh trong 10 m được +20 Thể chất chống đẩy/lật và không vỡ hàng vì sợ. LÃNH ĐẠO cho đồng minh +1 hành động khi ông có mặt. Kích «Bão Vạn» — tầm 2 ô, +50% sát thương vào kỵ binh và quái lớn. Yếu: ngoài hàng, trong cận chiến đơn độc chật chội, cộng hưởng tắt.",
+      "perks": [
+        {
+          "id": "zhivuchest",
+          "level": 2
+        },
+        {
+          "id": "stalnoy-sterzhen",
+          "level": 2
+        },
+        {
+          "id": "kodeks-chesti",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "oleg-volkov",
+      "name": "Thiếu tá Oleg Volkov",
+      "description": "Chỉ huy nhóm tác chiến «Gamma», ORPP. 37 tuổi, mười lăm năm trong ngành, dáng nhà binh, tóc thường dân. «Lính chiến» — nhưng không lên chỉ huy chỉ bằng nắm đấm: trực giác nguy hiểm sắc đến mức các nhà phân tích Trung tâm ghen tị. Quan trọng hơn: Volkov là SEYF. Siêu nhiên vỡ ra trên ông như sóng vỡ vào bê tông. Trên cõi mỏng ông gần như vô hình — âm bản phai. Ông đã mất một người trong vụ trước, Maxim. Sẽ không mất ai nữa.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 72,
+        "TGH": 80,
+        "COR": 74,
+        "SPD": 70,
+        "CHR": 70,
+        "INT": 72,
+        "PER": 84,
+        "SPR": 78
+      },
+      "keySkills": [
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Vũ khí xung kích",
+          "level": 85
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Súng ngắn và SMG",
+          "level": 82
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Sambo chiến đấu",
+          "level": 80
+        },
+        {
+          "skillId": "liderstvo",
+          "name": "Lãnh đạo",
+          "level": 82
+        },
+        {
+          "skillId": "taktika",
+          "name": "Chiến thuật",
+          "level": 78
+        },
+        {
+          "skillId": "istoriya",
+          "name": "Lịch sử (thế kỷ 17–19)",
+          "level": 65
+        }
+      ],
+      "variance": 6,
+      "inventory": [
+        "Súng xung kích «Vikhr» (rút gọn)",
+        "GSh-18",
+        "Áo choàng giáp (lớp 6, gốm-titan)",
+        "UHT (Đầu cuối Đa năng)",
+        "Bộ đồ runa",
+        "Thuốc kích thích «Forsazh»"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "Con vật vươn tay khủng bố tới nhóm — Marina tái mặt, Serov nghiến răng. Volkov tháo kính UHT, gập gọng, treo lên túi áo. «Ilya, hạ súng. Marina — vào ghế.» Phẳng, công việc, như thể thực tại không cuộn thành xoáy cách ông ba mét. Bẩn thỉu ném mọi thứ vào ông — và mọi thứ xuyên qua, không vướng. Ông không để ý. Ông đang nhìn người của mình.",
+      "mechanics": "SEYF: ảnh hưởng siêu nhiên trực tiếp hoàn toàn không tác dụng lên Volkov (sợ, ảo giác, kiểm soát tinh thần, ô uế — tự động thành công SPR; gần như không dò được trên cõi mỏng). «Trực giác chỉ huy»: một lần mỗi cảnh GM có thể cho ông một gợi ý đúng về vụ việc. LÃNH ĐẠO: đồng minh giữ hàng trong sự hiện diện của ông và không hoảng loạn (quan trọng khi sóng ghê tởm từ bẩn thỉu ập đến). Mặt trái: bản thân ông gần như không thể khuếch đại siêu nhiên (đồ vật, nghi lễ) — với cõi mỏng ông như không có ở đó.",
+      "perks": [
+        {
+          "id": "seyf",
+          "level": 1
+        },
+        {
+          "id": "chuvstvo-opasnosti",
+          "level": 2
+        },
+        {
+          "id": "stalnoy-sterzhen",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "marina-sheremeteva",
+      "name": "Trung úy Marina Sheremetyeva",
+      "description": "Chuyên gia OPI, nhà siêu cảm nhóm «Gamma». Thần giao cách cảm và sinh giả — và, như mọi sinh giả, cô bắt đầu từ chính mình: mắt tím, gương mặt búp bê hoàn hảo, giọng nhung. «Búp bê sống». Cô biết tiếng Chaldean, Ả Rập cổ, Iceland cổ, Ireland và Latin. Y tế, đàm phán, đôi khi — thẩm vấn mềm. Phê bình ngoại hình cô bị nghiêm cấm theo quy trình: phá vỡ tự tin — phá vỡ năng lực.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 38,
+        "TGH": 44,
+        "COR": 60,
+        "SPD": 55,
+        "CHR": 92,
+        "INT": 88,
+        "PER": 86,
+        "SPR": 90
+      },
+      "keySkills": [
+        {
+          "skillId": "psihiatriya",
+          "name": "Tâm thần học",
+          "level": 85
+        },
+        {
+          "skillId": "pronicatelnost",
+          "name": "Tri giác",
+          "level": 88
+        },
+        {
+          "skillId": "hirurgiya",
+          "name": "Phẫu thuật healer",
+          "level": 80
+        },
+        {
+          "skillId": "lingvistika",
+          "name": "Ngôn ngữ chết",
+          "level": 82
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Huyền học",
+          "level": 78
+        },
+        {
+          "skillId": "obolschenie",
+          "name": "Quyến rũ",
+          "level": 80
+        }
+      ],
+      "variance": 5,
+      "inventory": [
+        "Bộ đồ runa",
+        "UHT (có mô-đun X-quang)",
+        "Hộp y tế AI-Ya",
+        "«Psi-Forsazh» khẩn cấp",
+        "PSM (mang theo, không thích)"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "«Hai người. Đang tới phòng ta. Tướng quân và, có vẻ là, người mới.» Cô lắng nghe điều gì đó bên trong — mắt lóe xanh. Đọc tâm trí người khác luôn là đau, như có ai vặn dây nung đỏ trong thái dương. Marina trả giá đó im lặng. Và khi ký ức bệnh nhân đầy ác đến mức chảy lý trí, cô đập «psi-Forsazh» — mắt bùng lửa. Rồi cô sẽ ngất bốn mươi tám giờ. Cô biết. Cô vẫn làm.",
+      "mechanics": "THẦN GIAO CÁCH CẢM: đọc tâm trí, sửa ký ức, có thể ép buộc hành vi — mỗi hành động cần kiểm tra SPR khó và gây đau thể xác (sát thương/vòng khi làm lâu). SINH GIẢ: chữa vết thương trung bình bằng đặt tay (như hai healer), phẫu thuật tay, thay đổi ngoại hình (bản thân và người khác). «Psi-Forsazh» (thuốc kích): tháo giới hạn một cảnh → sau đó 48 giờ bất lực. Yếu trong chiến đấu (STR/TGH thấp) — đội bảo vệ cô.",
+      "perks": [
+        {
+          "id": "seksapilnost",
+          "level": 2
+        },
+        {
+          "id": "zapominayuschayasya-lichnost",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "pavel-grigoriev",
+      "name": "Đại úy Pavel Grigoriev",
+      "description": "Điều tra viên về vụ đặc biệt, nhóm «Gamma». Gầy, kính gọng mảnh, hơi hói — hóa trang yêu cầu giống Lavrentiy Pavlovich. Không có năng lực, và đó là niềm tự hào của ông: mọi thứ ông biết, ông tự làm. Nhà tâm lý, hình sự, bậc thầy thẩm vấn, chuyên gia điện tử. Bình tĩnh đến mức hoài nghi, đùa với giọng đều ngay cả với một viên đạn trong áo choàng.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 58,
+        "TGH": 62,
+        "COR": 66,
+        "SPD": 60,
+        "CHR": 70,
+        "INT": 86,
+        "PER": 84,
+        "SPR": 64
+      },
+      "keySkills": [
+        {
+          "skillId": "doprosy",
+          "name": "Thẩm vấn",
+          "level": 88
+        },
+        {
+          "skillId": "psihiatriya",
+          "name": "Tâm lý học",
+          "level": 80
+        },
+        {
+          "skillId": "kriminalistika",
+          "name": "Khoa học hình sự",
+          "level": 82
+        },
+        {
+          "skillId": "elektronika",
+          "name": "Hệ thống điện tử",
+          "level": 80
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Súng ngắn và SMG",
+          "level": 72
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Cận chiến",
+          "level": 68
+        }
+      ],
+      "variance": 6,
+      "inventory": [
+        "GSh-18",
+        "Áo choàng giáp (lớp 6)",
+        "UHT",
+        "Bộ đồ runa",
+        "«Express» (bút tiêm thẩm vấn)",
+        "Bộ kit hình sự"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "Viên đạn ném ông lên gã côn đồ phía dưới — áo choàng giáp giữ Kalashnikov ở năm mét. Grigoriev đứng dậy, phủi bụi, rút bút tiêm. «Được rồi, giữ thằng này. Sẽ hỏi nó dưới «Express».» Giọng phẳng, như bàn thời tiết. Một phút sau gã côn đồ đang nói giọng mộ địa mọi điều nó biết, và Pavel gật và ghi chú — phương pháp, như kế toán đếm tội lỗi của người khác.",
+      "mechanics": "Không năng lực — bậc thầy kỹ năng. «Express» (thuốc): người bị hỏi trả lời chân thật và không kháng cự (mạnh, nhưng để dấu vết — áp dụng theo quy trình). Đọc người: +20 Tri giác và Thẩm vấn, thấy nói dối qua vi biểu cảm. Hình sự và điện tử: phá khóa, hệ thống, dựng lại bức tranh từ bằng chứng. Trong chiến đấu — chuyên nghiệp vững, không lá bài siêu nhiên — thắng bằng đầu và áo choàng giáp.",
+      "perks": [
+        {
+          "id": "stalnoy-sterzhen",
+          "level": 2
+        },
+        {
+          "id": "chelovek-mira",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "ilya-serov",
+      "name": "Đại úy Ilya Serov",
+      "description": "Người mới của nhóm «Gamma», thay Maxim đã hy sinh. 93% trong bài kiểm tra chuẩn. Cựu binh xung đột Ả Rập, đánh chiếm Kabul với nhóm đặc biệt SIB «Netopyr» — và không nhận một vết thương nào, đó là điều kỳ lạ. Không năng lực, nhưng huấn luyện chiến đấu hạng nhất và «trời ạ, gì thế này!» rất lành mạnh với bẩn thỉu. Ông làm dấu thánh giá khi đồng đội đùa về quỷ.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 78,
+        "TGH": 78,
+        "COR": 82,
+        "SPD": 80,
+        "CHR": 64,
+        "INT": 66,
+        "PER": 76,
+        "SPR": 70
+      },
+      "keySkills": [
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Vũ khí xung kích",
+          "level": 86
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Súng ngắn và SMG",
+          "level": 84
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Sambo chiến đấu",
+          "level": 82
+        },
+        {
+          "skillId": "taktika",
+          "name": "Chiến thuật",
+          "level": 75
+        },
+        {
+          "skillId": "vyzhivanie",
+          "name": "Sinh tồn",
+          "level": 72
+        },
+        {
+          "skillId": "skrytnost",
+          "name": "Lén lút",
+          "level": 70
+        }
+      ],
+      "variance": 7,
+      "inventory": [
+        "Súng xung kích «Vikhr»",
+        "GSh-18",
+        "Áo choàng giáp (lớp 6)",
+        "UHT + nhẫn nhắm",
+        "Bộ đồ runa",
+        "Thuốc kích thích «Forsazh»"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "«Mà cái này dùng sao?» — ông xoay kính UHT như đứa trẻ với đồ chơi mới. Cắm cáp, đeo lên — qua tầm nhìn chạy dòng khởi động, tâm bắn bừng sáng. Ông rút GSh, quét nòng súng — tâm bắn nhảy theo nòng, như trong game bắn. «Đỉnh.» Trên cõi mỏng ông trông như người bình thường. Hoàn toàn bình thường. Và trong căn phòng nơi thực tại đang phát điên, đó gần như hiếm như là SEYF.",
+      "mechanics": "Không năng lực — chiến binh hạng nhất thuần túy. Xạ thủ và đấu sĩ giỏi nhất nhóm (vũ khí xung kích, súng ngắn, sambo 80+). UHT với nhẫn nhắm: tô màu mục tiêu, bắn «như game». «May mắn dưới hỏa lực bất thường» — chưa từng bị thương trong sự nghiệp (GM có thể coi như MAY MẮN). Yếu: không biết gì về siêu nhiên, dựa vào đội và vào dấu thánh giá.",
+      "perks": [
+        {
+          "id": "zhivuchest",
+          "level": 2
+        },
+        {
+          "id": "vezunchik",
+          "level": 2
+        },
+        {
+          "id": "specializaciya",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "kot-bratslavskiy",
+      "name": "Lev Bratslavskiy «Kot» (Mèo)",
+      "description": "«Cái nút của Chúa». Thấp, không nổi bật, nghỉ phép nhiều hơn làm — nhưng luôn xuất hiện nơi tình huống tệ nhất. Hệ số may mắn bị phá vỡ bất thường; OPI xếp vào loại «người mang thực tại ổn định» và không biết sự thật. Trong Sách Số Phận, anh được ghi là **Lưỡi Kiếm của Michael**. Anh không biết. Hoặc biết mà không nghĩ tới.",
+      "setting": "ОРПП",
+      "attrs": {"STR": 55, "TGH": 58, "COR": 62, "SPD": 60, "CHR": 48, "INT": 68, "PER": 70, "SPR": 88},
+      "keySkills": [
+        {"skillId": "pistolety-i-pp", "name": "Súng ngắn / SMG", "level": 70},
+        {"skillId": "rukopashnyy-boy", "name": "Cận chiến", "level": 60},
+        {"skillId": "vyzhivanie", "name": "Sinh tồn", "level": 85},
+        {"skillId": "pronicatelnost", "name": "Phán đoán", "level": 75}
+      ],
+      "variance": 6,
+      "inventory": ["GSh-18 (cấp phát)", "Dao gấp, đã dùng nhiều", "Quần áo dân thường, không nổi bật", "Bật lửa Zippo — không hút thuốc, chỉ tiện"],
+      "legend": true,
+      "img": "",
+      "vignette": "Kot đi dọc hành lang bệnh viện tâm thần Polukhov, súng trong tay, trên máu của người khác. Bên tường có một y tá đã chết — bên thắt lưng có một con dao, đúng loại Kot cần lúc đó. Anh lấy. Hai khúc cua sau, anh gặp «bác sĩ phẫu» ba tay. Tay thứ ba kẹt — gân bị kẹp. Kot đi ra còn sống. Flash, đồng đội anh, ở lại trong phòng đó. Bảo vệ của Michael chỉ cho một. Tự do ý chí là thiêng liêng. Đó là lời nguyền của Kot.",
+      "mechanics": "BẤT TỬ THỐNG KÊ: mỗi cảnh một lần, GM đưa vào «sự trùng hợp tiện lợi» quanh Kot. Không phải phép thuật — *chỉnh sửa thực tại hồi tố* ngoài hình. KHÔNG kích hoạt khi tung xúc xắc. ĐỒNG ĐỘI KHÔNG ĐƯỢC BẢO VỆ. Các thực thể siêu nhiên cấp cao cảm nhận Michael sau vai Kot: thiên thần quỳ; quỷ cấp cao lùi hoặc nổi điên.",
+      "perks": [{"id": "vezunchik", "level": 3}, {"id": "chuvstvo-opasnosti", "level": 3}]
+    },
+    {
+      "id": "otec-nikita",
+      "name": "Cha Nikita",
+      "description": "Linh mục chiến đấu của tuyến tuyên uý SIB. Mẫu mực. Cao, vạm vỡ, râu dài đến giữa ngực, áo dòng mặc trên quần da và giày chiến đấu. Thánh giá Tổ Phụ vàng nặng, vòng cổ bạc gai (mỗi gai được phong thánh riêng). Súng săn tự động trong yên Harley. Lời cầu nguyện đến Tổng lãnh thiên thần Michael hoạt động **theo nghĩa đen**. Không nhại — Nikita **tin**, và lời cầu nguyện của ông **làm việc**.",
+      "setting": "ОРПП",
+      "attrs": {"STR": 75, "TGH": 78, "COR": 58, "SPD": 50, "CHR": 68, "INT": 60, "PER": 72, "SPR": 95},
+      "keySkills": [
+        {"skillId": "drobovik", "name": "Súng săn", "level": 80},
+        {"skillId": "ekzorcizm", "name": "Trừ tà", "level": 90},
+        {"skillId": "okkultizm", "name": "Huyền học (ma quỷ)", "level": 80},
+        {"skillId": "rukopashnyy-boy", "name": "Cận chiến", "level": 65},
+        {"skillId": "pronicatelnost", "name": "Phán đoán", "level": 75}
+      ],
+      "variance": 7,
+      "inventory": ["Súng săn tự động (đúc cá nhân; đạn được phong thánh)", "Thánh giá vàng Tổ Phụ", "Vòng cổ bạc gai", "Lư hương với than và trầm", "Bình dầu thánh", "Harley-Davidson trong garage"],
+      "legend": true,
+      "img": "",
+      "vignette": "Nikita dựng Harley ở cửa. Cởi kính. Làm dấu thánh. Nâng súng săn. Từ tầng ba phát ra âm thanh — không phải tiếng nói, không phải khóc, gì đó ở giữa. Nikita nói bình tĩnh vào lồng cầu thang: «Tôi tớ của Chúa, ra đây. Không thì tệ hơn.» Âm thanh ngừng. Sau một giây có thứ gì đó dài, xám, hai miệng chảy xuống thang. Nikita giơ thánh giá tay trái. «Tổng lãnh Michael, chiến cùng chúng tôi!» — và thứ xám **rú lên** như mèo dưới bánh xe rồi chảy ngược lên.",
+      "mechanics": "CẦU NGUYỆN ĐẾN TỔNG LÃNH MICHAEL: mỗi cảnh một lần, gây kinh hoàng siêu nhiên ở quỷ-bất tử (cứu Tinh thần DC 18; thất bại — hoảng 1d4 vòng). Vòng cổ bạc gai — bảo vệ thụ động chống cắn vampire/ghoul (kẻ tấn công nhận 2d6 sát thương bỏng). Đạn phong thánh — gấp đôi xuyên giáp với bất tử. TRỪ TÀ: nghi lễ 10 phút trừ một thực thể quỷ cấp dưới Archon tự động; ngang cấp — cứu Ý chí DC 22. Chi phí: 1d4 vòng mệt nặng sau đó.",
+      "perks": [{"id": "vera", "level": 3}, {"id": "fanatizm", "level": 2}, {"id": "stalnoy-sterzhen", "level": 2}]
+    }
+  ]
+}

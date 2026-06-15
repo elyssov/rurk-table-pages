@@ -1,0 +1,2609 @@
+{
+  "chapters": [
+    {
+      "id": "sangvinofagi",
+      "title": "MA CÀ RỒNG",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Сангвинофаг в салонной форме — двести лет, и всё ещё слишком красив",
+          "image": "mon-vampir.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Hắn ngồi đối diện bạn ở quầy bar. Đẹp. Quá đẹp — kiểu khiến người ta quay đầu. Mua bạn ly rượu. Cười với bạn."
+        },
+        {
+          "type": "prose",
+          "text": "Hắn chết hai trăm năm. Nhưng có mùi nước hoa đắt tiền. Và cười khiến bạn quên điều đó."
+        },
+        {
+          "type": "heading",
+          "text": "Bản chất"
+        },
+        {
+          "type": "prose",
+          "text": "Ma cà rồng là không-chết. Xác mà linh hồn hòa tan trong máu. Không phải virus, không phải đột biến. Là tội lỗi hóa thân."
+        },
+        {
+          "type": "prose",
+          "text": "Ma cà rồng là kẻ hưởng lạc. Mỗi người có nghiện riêng: tình dục, rượu, thao túng. Thích ẩn giữa người, quyến rũ."
+        },
+        {
+          "type": "heading",
+          "text": "Biến đổi"
+        },
+        {
+          "type": "vignette",
+          "text": "Cô không nhớ khi nào ngừng kháng cự. Ngày đầu — còn giữ. Tự nhốt mình trong căn hộ, nhai đá. Cơ thể cháy. Ngày thứ ba — chết. Đêm — mở mắt."
+        },
+        {
+          "type": "prose",
+          "text": "**Biến đổi chậm:** ma cà rồng cắn, tiêm độc — tinh chất pha máu nạn nhân. Ba ngày cám dỗ. Đầu hàng — phấn khích. Kháng cự — cai nghiện. Ngày ba — chết. Đêm — sống dậy. Trói buộc Máu với Cha mẹ: hai mươi năm nô lệ."
+        },
+        {
+          "type": "prose",
+          "text": "**Biến đổi nhanh:** ma cà rồng hút cạn, tiêm tinh chất phút cuối. Sống dậy mười-mười lăm phút. Đấu tranh yếu hơn, trói buộc yếu hơn — nhưng kháng cự cũng dễ hơn."
+        },
+        {
+          "type": "prose",
+          "text": "**Nếu chịu được ba ngày** — phép màu. Hạt Bóng tối không bị phá hủy — bị xử lý. Miễn dịch hoàn toàn. Khổ hạnh. Trong trăm — ba."
+        },
+        {
+          "type": "heading",
+          "text": "Máu như Tiền"
+        },
+        {
+          "type": "prose",
+          "text": "Linh hồn hòa tan trong máu. Có thể giết ma cà rồng bằng cách hút hết máu và để khô. Đừng để — anh ta hấp thụ lại."
+        },
+        {
+          "type": "prose",
+          "text": "**Dự trữ:** 5 lít trong cơ thể + tới 5 trong dạ dày. Cổ xưa giữ thêm bên ngoài — «ngân hàng máu»."
+        },
+        {
+          "type": "prose",
+          "text": "**Chi tiêu:** ~100 ml/ngày chỉ để «sống». Thở giả: thêm 100. Ăn: 100/bữa. Tình dục: 100/đêm. Chế độ chiến đấu: 100/PHÚT."
+        },
+        {
+          "type": "prose",
+          "text": "**Khát** — sau mất hơn lít rưỡi. Tại bốn — ngủ đông."
+        },
+        {
+          "type": "heading",
+          "text": "Chế độ chiến đấu"
+        },
+        {
+          "type": "prose",
+          "text": "Tốc độ và sức mạnh × 10. Trường năng lượng dọc biểu bì. Đâm xuyên — viên đạn hoạt động như cơ thể thường. Mắt nhắm vẫn nhìn bằng thân vía."
+        },
+        {
+          "type": "heading",
+          "text": "Điểm yếu"
+        },
+        {
+          "type": "prose",
+          "text": "**Lửa** — cháy như củi. **Chặt đầu** — chết tức thì. **Ánh nắng** — từ khó chịu tới tự bốc cháy. **Biểu tượng đức tin** — tương tự. **Tỏi** — khứu giác tăng, mùi không chịu nổi. **Cọc dương** — chảy máu. **Hạt rắc** — chủ nghĩa hoàn hảo. **Thép lạnh phép** — bỏ qua trường, hoạt động như cơ thể thường."
+        },
+        {
+          "type": "heading",
+          "text": "Xã hội"
+        },
+        {
+          "type": "prose",
+          "text": "Gia đình. Hội đồng Đỏ Nhỏ (thành phố), Tướng (quốc gia), Lớn (thế giới). Một ma cà rồng cho trăm nghìn người. «Tự do» — ngoài Hội đồng."
+        },
+        {
+          "type": "prose",
+          "text": "Người tích hợp bất tử: nghìn năm tuổi, tìm được cân bằng. Làm thợ kẹo và bác sĩ. Có gia đình. Đi nắng. Nếu vượt qua hoàn toàn tội lỗi — cháy."
+        },
+        {
+          "type": "heading",
+          "text": "Upyr (Nô lệ)"
+        },
+        {
+          "type": "prose",
+          "text": "Upyr là người tự nguyện xin làm nô lệ. Lúc đầu có vẻ tốt: ma cà rồng cho liều nhỏ tham nhũng của mình."
+        },
+        {
+          "type": "prose",
+          "text": "Giá ẩn không trong cơ thể mà trong tính cách — trả chậm tới mức upyr không để ý. Nô lệ vẫn nhớ mình đã tự do, nhưng quên vị nó thế nào. Và — tệ nhất — gần như luôn hài lòng."
+        },
+        {
+          "type": "heading",
+          "text": "Vurdalak"
+        },
+        {
+          "type": "illustration",
+          "text": "Vurdalak xuất hiện do bất cẩn. Ma cà rồng uống cạn người, vứt xác mà không xử lý — và vào thịt rỗng, qua cửa sổ mở, các phát xuất Bóng tối của Hoàng hôn tràn vào và đứng dậy.",
+          "caption": "Вурдалак — тело, выпитое досуха и брошенное, оживлённое тёмными эманациями",
+          "image": "mon-vurdalak.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Vurdalak bắt đầu với bất cẩn. Ma cà rồng uống cạn người, vứt xác — và phát xuất Bóng tối đứng dậy. Không phải hồi sinh. In dấu."
+        },
+        {
+          "type": "prose",
+          "text": "Cơn đói vurdalak đặc biệt. Ăn không phải máu — chính sự sống. Mỗi 100ml hút làm nạn nhân già đi năm năm. Mặt trời không sợ — miễn dịch."
+        },
+        {
+          "type": "prose",
+          "text": "Với ma cà rồng, sự xuất hiện vurdalak vừa là xấu hổ vừa là bằng chứng. Có ai đó trong Gia đình ăn cẩu thả."
+        },
+        {
+          "type": "heading",
+          "text": "Savan và Buka"
+        },
+        {
+          "type": "illustration",
+          "text": "Một Savan — tinh-linh không thịt; kéo ấm và ý chí như gió qua linh hồn",
+          "caption": "Саван — дух-эманация без плоти; тянет тепло и волю, как сквозняк в душу",
+          "image": "mon-savan.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Giết vurdalak già — chưa xong việc. Từ xác phân rã đứng dậy Khách đó, tinh-linh, không có thịt. Hình thức đầu — **Savan**: tấm trong suốt trôi, mảnh không khí lạnh hình người."
+        },
+        {
+          "type": "prose",
+          "text": "Savan được cho ăn không bị quấy rầy phát triển thành **Buka**. Buka chọn trẻ con. Đến giữa ngủ và thức, ngồi lên ngực với liệt ngủ, ăn nỗi sợ. Cách chống Buka đơn giản: «Cha của chúng ta» đọc với đức tin chân thật."
+        }
+      ],
+      "illustration": "mon-vampir-bar.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "mavki",
+      "title": "MAVKI",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "На обочине ночной трассы — попутчица, которую не стоило подбирать",
+          "image": "mon-mavka-trassa.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Cô đứng bên đường cao tốc đêm. Hay tại quầy bar nơi tiếng bass đập vào xương sườn. Hay đứng ngập đầu gối trong hồ rừng, ngẩng đầu lên trăng, nước trượt xuống xương quai xanh — đến nơi mắt anh đã nhìn rồi."
+        },
+        {
+          "type": "prose",
+          "text": "Anh đã nhìn rồi."
+        },
+        {
+          "type": "prose",
+          "text": "Mavka không phải quái vật. Mavka là bản án. Không phải tuyên với anh. Tuyên với cô — từ rất lâu, ở một đời khác, trong thân xác khác, khi cô còn là cô gái bình thường, và cô gái bình thường tin một kẻ tồi bình thường, và kẻ tồi bình thường phản bội cô."
+        },
+        {
+          "type": "heading",
+          "text": "Họ sinh ra như thế nào"
+        },
+        {
+          "type": "prose",
+          "text": "Luôn cùng một cách. Luôn là cô gái mà MỐI tình này là cuối cùng. Xấu, hoặc cô đơn, hoặc đơn giản là người mà thế giới đã quá lâu không thèm chú ý. Người dồn hết vào quan hệ — không dự phòng, không bảo hiểm, không Kế hoạch B. Và nhận lại trống rỗng. Sỉ nhục công khai. Ảnh trong nhóm chat. Cười sau lưng."
+        },
+        {
+          "type": "prose",
+          "text": "Cô về nhà. Khóa cửa. Lấy dây. Hay mở cửa sổ. Hay đổ đầy bồn tắm."
+        },
+        {
+          "type": "prose",
+          "text": "Và khoảnh khắc thân xác cô bắt đầu chết — thế giới đóng băng. Theo nghĩa đen: kim giây dừng lại, bụi treo trong không khí, và trong im lặng tuyệt đối cô nghe một giọng nói."
+        },
+        {
+          "type": "prose",
+          "text": "Không phải giọng quỷ, không sấm sét. Khẽ. Mệt mỏi. Quen thuộc — như giọng người bạn gái cô chưa từng có."
+        },
+        {
+          "type": "prose",
+          "text": "Giọng không hứa thiên đường. Không hứa hạnh phúc. Chỉ hứa một điều: kẻ đã làm điều này sẽ trả giá. Và rằng cô sẽ đẹp. Lần đầu trong đời — đẹp."
+        },
+        {
+          "type": "prose",
+          "text": "Nếu cô nói «có» — thân xác cũ rơi xuống. Chết. Trống rỗng. Và cô — không còn ở đây. Cô trong thân xác mới. Hoàn hảo, không thể, làm từ bóng tối và đau khổ và nước mắt sẽ không bao giờ rơi nữa."
+        },
+        {
+          "type": "prose",
+          "text": "Vì mavka không khóc."
+        },
+        {
+          "type": "heading",
+          "text": "Họ trông như thế nào"
+        },
+        {
+          "type": "prose",
+          "text": "Một hiện thân. Không phải của vẻ đẹp — của ham muốn. Mavka trông đúng như mọi người đàn ông trong vòng một trăm năm mươi cây số MUỐN nhìn cô. Không cụ thể — trung bình, từ tổng các tưởng tượng, bìa tạp chí, màn hình. Chuẩn mực sắc đẹp hiện thân trong xương thịt sống, trôi êm theo thời đại."
+        },
+        {
+          "type": "prose",
+          "text": "Tóc — chỉ hai màu. Đen, như đáy giếng cô đã từng nhìn xuống. Hoặc vàng, như cánh đồng cô đi qua về nhà — lần cuối đó. Không có lựa chọn thứ ba."
+        },
+        {
+          "type": "prose",
+          "text": "Và cô bất khả xâm phạm. Không như ma cà rồng có thể đâm xuyên nếu đánh đủ mạnh. Mavka là bức tường. Viên đạn vào cô và… không gì. Không vết thương. Không máu. Không tác động. Lựu đạn ném cô — cô đứng dậy. Mỉm cười. Cùng nụ cười đã làm khô miệng anh năm phút trước."
+        },
+        {
+          "type": "heading",
+          "text": "Họ săn như thế nào"
+        },
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Переулок за клубом, погасший фонарь — и рука на горле",
+          "image": "mon-mavka-pereulok.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Cô đến gần. Mỉm cười. Nói gì đó — không quan trọng nói gì, anh sẽ không nhớ lời nào đâu, chỉ giọng nói, chỉ mùi hương, chỉ cảm giác rằng không khí quanh cô ấm hơn, đặc hơn, ngọt hơn. Anh đi theo cô, vì không đi theo là không thể. Không phải về thể chất — mọi tế bào cơ thể anh thét lên: đi theo."
+        },
+        {
+          "type": "prose",
+          "text": "Mavka theo bản năng chọn kẻ tồi tệ nhất. Linh hồn người đàn ông càng bẩn — anh ta càng sáng rực trong cảm nhận của cô. Kẻ hiếp dâm. Kẻ dối trá. Kẻ bẻ gãy trái tim như que diêm — tình cờ, không nhận ra."
+        },
+        {
+          "type": "prose",
+          "text": "Nhưng người bình thường cũng có thể vấp ngã. Mavka không kiểm tra hộ chiếu."
+        },
+        {
+          "type": "prose",
+          "text": "Và sau đó — cô giết. Không nhanh. Không thương xót. Với sự tàn nhẫn đã tích tụ từ khoảnh khắc những bức ảnh xuất hiện trên điện thoại người khác, và một thân xác trong thòng lọng đung đưa trong căn hộ trống."
+        },
+        {
+          "type": "vignette",
+          "text": "Câu lạc bộ «Zero», thứ Bảy, hai giờ sáng. Dima — hai mươi sáu, thân hình phòng gym, tiệm cắt tóc, BMW trong bãi đỗ — phát hiện cô ngay. Họ không tồn tại. Đơn giản không: chân, ngực, mặt, váy ít vải hơn khăn tay anh. Cô nhìn anh — và Dima đi. Không câu hỏi. Không kế hoạch. Bạn bè anh không bao giờ thấy anh nữa."
+        },
+        {
+          "type": "heading",
+          "text": "Bốn đêm"
+        },
+        {
+          "type": "prose",
+          "text": "Và dù vậy — không phải mọi thứ mất với mavka. Vì linh hồn cô gái — linh hồn thật, người đã tin và yêu và vỡ — không chết. Cô ngủ. Sâu thẳm trong cỗ máy được xây từ uất hận. Như hành khách trong xe do thịnh nộ lái."
+        },
+        {
+          "type": "prose",
+          "text": "Linh hồn có thể đánh thức."
+        },
+        {
+          "type": "prose",
+          "text": "**Đêm một: im lặng.**"
+        },
+        {
+          "type": "prose",
+          "text": "Anh không với tay cô. Không đặt tay lên đùi cô. Không cố dẫn cô về phòng. Anh — trò chuyện. Hỏi. Lắng nghe. Và đâu đó cuối giờ thứ hai — điều gì đó nhấp nháy trong mắt cô không đáng có. Sự bối rối. Trong một giây — qua mặt nạ hoàn hảo — ló ra điều thật."
+        },
+        {
+          "type": "prose",
+          "text": "Cô sẽ kể những điều cô không biết. Mảnh vỡ quá khứ trôi ra ngoài ý muốn — như từ ngữ tiếng nước ngoài anh hiểu nhưng không nhớ học ở đâu."
+        },
+        {
+          "type": "prose",
+          "text": "Trước bình minh cô sẽ kể sự thật. Cô là ai. Cô làm gì với đàn ông. Và sẽ xin anh đừng quay lại."
+        },
+        {
+          "type": "prose",
+          "text": "**Đêm hai: món quà.**"
+        },
+        {
+          "type": "prose",
+          "text": "Anh đến. Với hộp màu vẽ — vì cô đã buột miệng. Hoặc với cuốn sách. Hay tấm ảnh chính con mèo đó. Với điều gì thuộc về không phải mavka — mà cô gái bên trong."
+        },
+        {
+          "type": "prose",
+          "text": "Cô sẽ nhìn món quà. Rồi nhìn anh. Và sẽ khóc. Mavka không khóc — nhưng cô này sẽ, vì trong một giây cô không phải mavka mà là Lena, hay Masha, hay Aigul, hay người cô là trước thòng lọng."
+        },
+        {
+          "type": "prose",
+          "text": "Cô sẽ ôm anh. Anh có thể ôm lại. Hôn — không. «Anh chưa xứng đáng. Em muốn nụ hôn của anh là thật.»"
+        },
+        {
+          "type": "prose",
+          "text": "Và cả đêm hai người sẽ nói chuyện. Cô sẽ nhớ lại cách cô thành mavka. Sẽ kể — vấp váp, lạc lối, nuốt từ. Anh chỉ cần nghe. Và vuốt đầu cô — cẩn thận, như vuốt đứa trẻ vừa có giấc mơ xấu."
+        },
+        {
+          "type": "prose",
+          "text": "**Đêm ba: lửa.**"
+        },
+        {
+          "type": "prose",
+          "text": "Cô sẽ ngừng khóc. Sẽ ngừng nói. Sẽ nhìn anh — và trong ánh nhìn đó sẽ không có cô gái. Chỉ mavka. Chỉ thân xác làm từ ham muốn, mỗi cử động nói: hãy lấy em."
+        },
+        {
+          "type": "prose",
+          "text": "Cô sẽ làm mọi thứ. Mọi điều anh muốn, và nhiều điều anh không biết mình muốn. Không bị ép — tự nguyện, dịu dàng, tuyệt vọng. Như sinh mạng cô phụ thuộc vào đó."
+        },
+        {
+          "type": "prose",
+          "text": "Không khuất phục là có thể. Về thể chất. Nhưng mỗi giây sẽ tốn ý chí bằng một năm một người đàn ông bình thường tiêu hết. Vì trước anh đứng — theo nghĩa đen — lý tưởng. Ấm, sống, đang xin."
+        },
+        {
+          "type": "prose",
+          "text": "Anh giữ vững — cuồng loạn. Nước mắt. La hét. Nắm tay nhỏ đập ngực anh. «Em ghê tởm anh! Đi đi!»"
+        },
+        {
+          "type": "prose",
+          "text": "Đi. Cô sẽ đứng ở cửa nhìn anh đi. Và nếu anh ngoảnh lại — sẽ thấy không phải mavka. Một cô gái. Sợ hãi, nước mắt, không hiểu chuyện gì vừa xảy ra."
+        },
+        {
+          "type": "prose",
+          "text": "**Đêm bốn: lại im lặng.**"
+        },
+        {
+          "type": "prose",
+          "text": "Cô tự đến. Sau nửa đêm. Khẽ, như tuyết. Anh sẽ không nghe — sẽ cảm thấy. Môi trên trán anh. Ngón tay run trên má anh."
+        },
+        {
+          "type": "prose",
+          "text": "Rồi — lời thú nhận."
+        },
+        {
+          "type": "prose",
+          "text": "Nếu cô hai mươi tuổi — đó là mười cái tên. Nếu cô nghìn tuổi — cô sẽ không kể xong trước bình minh. Mỗi cái tên — một khuôn mặt, một giọng nói, một âm thanh cuối. Cô nhớ tất cả. Và cô kể anh, nghẹn lời, vì nếu không kể bây giờ — sẽ không bao giờ."
+        },
+        {
+          "type": "prose",
+          "text": "Hãy lắng nghe. Quấn chăn quanh cô. Rót cô trà — bình thường, có đường. Ôm chặt. Đừng buông."
+        },
+        {
+          "type": "prose",
+          "text": "Khi cô lặng im — cô sẽ nhìn vào mắt anh. Và anh sẽ thấy cả hai: mavka và cô gái, kẻ săn và con mồi, ngàn năm cô đơn và một phút hy vọng."
+        },
+        {
+          "type": "prose",
+          "text": "«Em yêu anh.»"
+        },
+        {
+          "type": "prose",
+          "text": "Ba từ. Và đằng sau — vực thẳm. Một hướng — sự sống. Hướng kia — cái chết. Cho cả hai."
+        },
+        {
+          "type": "heading",
+          "text": "Sau đó"
+        },
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Четвёртая ночь прошла, первый настоящий поцелуй — мавка стала человеком",
+          "image": "mon-mavka-dom.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Nếu anh trả lời — thế giới sẽ thay đổi. Khẽ, không tia chớp, không sấm. Trong khoảnh khắc đó anh sẽ đơn giản biết: đây là thật. Đây đã luôn là thật. Anh yêu cô — như chưa yêu ai. Và sẽ yêu — luôn luôn."
+        },
+        {
+          "type": "prose",
+          "text": "Nụ hôn thật đầu tiên — và mavka thành người. Không tức thì: chậm, như mặt trời mọc. Da cô sẽ ấm. Hơi thở sẽ nhanh. Tim — đã đập — sẽ đập khác. Như lần đầu."
+        },
+        {
+          "type": "vignette",
+          "text": "Anton là lập trình viên. Ba mươi hai, râu ngắn, kính, áo phông có cánh cụt Linux. Không xấu — chỉ không ai cả. Loại đàn ông phụ nữ không chú ý, như không chú ý đồ đạc. Hai giờ sáng, đường cao tốc Leningrad qua Zelenograd. Cô đứng bên lề — một mình, váy ngắn không phù hợp tháng mười."
+        },
+        {
+          "type": "prose",
+          "text": "Cô sẽ vẫn đẹp. Mãi mãi. Nhưng vẻ đẹp sẽ ngừng làm vũ khí — sẽ đơn giản là cô. Khả năng chiến đấu vẫn còn — ngắn, để phòng thủ. Sự bất khả xâm phạm — mất."
+        },
+        {
+          "type": "prose",
+          "text": "Cô sẽ yêu anh theo cách chỉ những ai biết thế nào là không được yêu mới có thể yêu. Tuyệt đối. Vô điều kiện. Tới hơi thở cuối, sẽ trùng với hơi thở anh — vì linh hồn hai người đã ràng buộc, và một không thể tồn tại không có người kia."
+        },
+        {
+          "type": "prose",
+          "text": "Cô sẽ ghen — dữ dội, tuyệt vọng, đến nước mắt. Với mọi phụ nữ, mọi ánh nhìn. Không vì giận — vì sợ. Vì cô đã từng mất tất cả, và nỗi sợ ấy không đi đâu cả, kể cả qua nghìn năm hạnh phúc."
+        },
+        {
+          "type": "prose",
+          "text": "Cô thích nghi tức thì. Trở thành bất kỳ ai anh cần. Không vì khuất phục — vì khao khát. Thế giới anh là thế giới cô. Sở thích anh là của cô. Nếu anh là lập trình viên — trong năm cô sẽ viết code. Nếu thợ săn — tháo rời súng trường. Nếu chỉ là người đàn ông trầm lặng thích trà buổi tối — cô sẽ ngồi cạnh."
+        },
+        {
+          "type": "prose",
+          "text": "Và nếu ai cố làm cô đau — họ sẽ rất nhanh khám phá ra rằng ex-mavka vẫn là mavka. Chỉ với chế độ săn tắt. Bật lại mất một giây. Và Chúa giúp kẻ đã nhấn nút đó."
+        }
+      ],
+      "illustration": "mon-mavka-trassa-new.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "poludenica",
+      "title": "NỮ THẦN GIỮA TRƯA",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Полдень, тени коротки — и бежать уже некуда",
+          "image": "mon-poludenica.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Nếu đêm thứ tư kết thúc bằng từ chối — linh hồn cô gái chết. Mãi mãi. Thân xác mavka còn lại — trống rỗng, như ngôi nhà bị bể cửa sổ. Vào sự trống rỗng đó, ác quỷ bước vào."
+        },
+        {
+          "type": "prose",
+          "text": "Kết quả không phải mavka. Không phải phụ nữ. Không phải người. Một sinh vật khủng khiếp, méo mó, với cánh tay dài tới đầu gối và móng vuốt cào vào đá. Khuôn mặt — biếm họa của vẻ đẹp nữ tính."
+        },
+        {
+          "type": "prose",
+          "text": "Tất cả phẩm chất chiến đấu của mavka — tốc độ báo, nhảy mười mét — cộng với cơn thịnh nộ ác quỷ và dịch chuyển tức thời."
+        },
+        {
+          "type": "prose",
+          "text": "Chúng rất hiếm. Yếu trước biểu tượng đức tin: quỷ vẫn là quỷ."
+        }
+      ],
+      "illustration": "mon-poludenica-new.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "rusalki",
+      "title": "RUSALKI",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Не верёвка, а вода: утопленница на службе у водяного",
+          "image": "mon-rusalka-1.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Một loại thòng lọng khác. Không phải dây — nước. Những cô gái tự dìm mình vì tình yêu không hạnh phúc. Linh hồn họ bị Vodyanoy bắt — chủ nhân của vùng nước."
+        },
+        {
+          "type": "prose",
+          "text": "Rusalka là sinh vật chết sống — nhưng thở. Ấm. Đẹp — với vẻ đẹp lạnh lẽo của dòng sông."
+        },
+        {
+          "type": "prose",
+          "text": "Khi chủ nhân thức — các rusalka làm việc: dụ khách bộ hành, dìm họ. Khi Vodyanoy ngủ — họ có tự do."
+        },
+        {
+          "type": "prose",
+          "text": "Rusalka có thể bị giết. Cô sẽ tái sinh trong vùng nước gần nhất. Cách duy nhất giải phóng — giết Vodyanoy."
+        },
+        {
+          "type": "prose",
+          "text": "Tự do và cái chết — một từ. Với rusalka, là một."
+        },
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Когда хозяин спит — русалка получает автономию, и видно, кто она на самом деле",
+          "image": "mon-rusalka-2.jpg"
+        }
+      ],
+      "illustration": "mon-rusalka-luna.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "mumii",
+      "title": "XÁC ƯỚP",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Душа, запертая в высохшем теле бинтами-некросимбионтами",
+          "image": "mon-mumiya.jpg"
+        },
+        {
+          "type": "vignette",
+          "text": "Ông nằm trên bàn đá và nhìn lên trần. Đuốc lập lòe. Các tư tế hát. Ông cảm nhận mọi cú chạm của dao, mọi đường cắt."
+        },
+        {
+          "type": "prose",
+          "text": "Xác ướp là linh hồn người bị giam trong thân xác khô đét bởi băng vải — sinh vật cộng sinh chết chóc."
+        },
+        {
+          "type": "prose",
+          "text": "Không phải ai cũng có thể biến đổi. Từ linh hồn yếu sinh ra kẻ hầu. Từ linh hồn mạnh sinh ra lich mạnh."
+        },
+        {
+          "type": "prose",
+          "text": "Điểm yếu: phá hủy 51% băng vải = linh hồn thoát ra → tức thì sang thế giới bên kia."
+        },
+        {
+          "type": "prose",
+          "text": "Tính cách: không hung dữ. Có thể thân thiện. Lý trí thuần khiết điều khiển họ."
+        },
+        {
+          "type": "prose",
+          "text": "Xác ướp Ai Cập — một số vẫn sống. Từ những thế kỷ ấy. Im lặng, kiên nhẫn, hoàn toàn lý trí."
+        }
+      ],
+      "illustration": "mon-mumiya-new.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "lichi",
+      "title": "LICH",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Лич — маг, дошедший до конца пути некромантии; душа в филактерии",
+          "image": "mon-lich.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Lich là pháp sư đã đi con đường tử thuật quá xa và quá lâu rồi một ngày con đường kết thúc."
+        },
+        {
+          "type": "prose",
+          "text": "Cần nhiều năm chuẩn bị. Đầu tiên pháp sư tạo phylactery — bình chứa nơi linh hồn sẽ chuyển vào."
+        },
+        {
+          "type": "heading",
+          "text": "Phylactery"
+        },
+        {
+          "type": "prose",
+          "text": "Lich giữ phylactery riêng khỏi cơ thể. Phá hủy phylactery, lich chết tức thì."
+        },
+        {
+          "type": "heading",
+          "text": "Cơ thể — chiếc găng"
+        },
+        {
+          "type": "prose",
+          "text": "Cơ thể chết của chính mình, với lich, chỉ là vỏ đầu tiên. Khi vỏ mòn — chiếm cơ thể chết khác."
+        },
+        {
+          "type": "prose",
+          "text": "Lich không có cảm xúc. Chúng đã không có trước nghi lễ."
+        },
+        {
+          "type": "prose",
+          "text": "Khác xác ướp: lich không bị xích vào một xác. Linh hồn trong phylactery tự do, thay đổi cơ thể như quần áo."
+        }
+      ],
+      "illustration": "mon-lich-new.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "inkorporalnye-formy",
+      "title": "HÌNH DẠNG VÔ HÌNH",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Không phải mọi người chết không yên đều là quái vật. Đôi khi cái chết để lại không phải sinh vật mà dấu ấn."
+        },
+        {
+          "type": "heading",
+          "text": "Tàn dư"
+        },
+        {
+          "type": "prose",
+          "text": "Tàn dư là bức ảnh sống của người đã chết. Bản đúc tâm linh. Đi cùng hành lang, ngồi cùng ghế, lặp lại cùng cử chỉ."
+        },
+        {
+          "type": "heading",
+          "text": "Revenant"
+        },
+        {
+          "type": "prose",
+          "text": "Revenant đã thực sự trở lại. Thở, đi, ăn, cảm, nhớ mình. Được Thiên đường hoặc Địa ngục dựng dậy để hoàn thành việc dở dang."
+        },
+        {
+          "type": "heading",
+          "text": "Einherjar"
+        },
+        {
+          "type": "prose",
+          "text": "Einherjar là Revenant đẩy tới cực hạn. Hồi phục khổng lồ. Sức bền quái vật."
+        }
+      ],
+      "illustration": "mon-buka.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "feyri",
+      "title": "TIÊN (TUATHA DÉ DANANN)",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Альва Высшего двора — солнечный рыцарь Туата Де Данаан",
+          "image": "mon-feyri.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Tiên là sinh vật tinh tế nhất. Cao hơn người, đẹp hơn, thông minh hơn — và xa lạ hơn bất cứ thứ gì khác trong cuốn sách này."
+        },
+        {
+          "type": "prose",
+          "text": "Tuatha Dé Danann — Triều Cao. Sinh vật cổ xưa từ Ireland. Tới Nga qua Belarus và Karelia vào thế kỷ X."
+        },
+        {
+          "type": "heading",
+          "text": "Tiên Cao đứng cao như con người. Bề ngoài — khuôn mặt người đẹp đến mức gần như không thực, đôi mắt với đồng tử khe thẳng đứng (chỉ có khi tức giận, bình thường tròn). Da xanh xao. Tóc — bất kỳ màu nào nhưng có ánh kim loại."
+        },
+        {
+          "type": "prose",
+          "text": "Yếu trước sắt lạnh — thép thực không qua lửa rèn. Sắt thường không hại. Sắt lạnh tan họ như acid."
+        },
+        {
+          "type": "heading",
+          "text": "Tiên Cao là quý tộc. Không tấn công trực tiếp. Mọi thứ qua kế hoạch dài, hợp đồng, thủ tục."
+        },
+        {
+          "type": "prose",
+          "text": "Alva không điên cũng không ngu — họ đơn giản được xây trên các trục khác. Tâm trí con người dựa vào nguyên nhân, tội lỗi, lòng thương. Tâm trí Alva dựa vào khuôn mẫu, đối xứng, nợ, tên, lời thề, vẻ đẹp. Một giao kèo bị phá vỡ, với hắn, là vết thương thực. Một đứa trẻ chết là sự trừu tượng. Alva không biết nói dối: lời dối trá là vết nứt trong khuôn mẫu, và khuôn mẫu là hắn. Nhưng sự thật trên môi tiên là lưỡi kiếm. Hắn sẽ chỉ nói với anh những điều thật — và sắp xếp những sự thật đó sao cho anh tự hủy hoại mình, và hắn sẽ ngưỡng mộ tác phẩm anh, vì anh đã làm, còn hắn chỉ… nói."
+        },
+        {
+          "type": "heading",
+          "text": "Triều Seelie — không có nghĩa là tốt"
+        },
+        {
+          "type": "prose",
+          "text": "Tuatha Dé Danann là mùa hè, triều Seelie. Anh nghe «Seelie» và thở phào. Đừng. Seelie không có nghĩa là tốt. Seelie có nghĩa họ giữ hình thức. Họ sẽ không nói dối anh. Họ sẽ thực hiện giao kèo đến chữ cuối cùng. Dưới mái nhà họ sẽ không hại khách. Họ hoàn hảo, lịch sự tinh tế — và lịch sự không phải tử tế; lịch sự là luật chơi, và anh không phải người chơi, anh là bàn cờ. Triều Seelie sẽ làm điều tàn nhẫn với anh — và lịch sự khi làm điều đó, sắp xếp sao cho theo chữ viết của một luật anh chưa bao giờ đọc, lỗi là tại anh. Triều Unseelie đơn giản không phí công lịch sự. Đó là khác biệt duy nhất. Những ai thoát Seelie không ghen tị ai — nhưng họ thương xót những ai gặp Unseelie."
+        },
+        {
+          "type": "heading",
+          "text": "Trò đùa tàn nhẫn"
+        },
+        {
+          "type": "prose",
+          "text": "Tiên không phải kẻ ác: ác cần thù hận, và thù hận cần anh có ý nghĩa. Anh không có ý nghĩa với họ. Họ giải trí. Và điều giải trí tiên là một trò đùa tàn nhẫn — thanh lịch, đúng lúc, nơi một Fomorian chịu đau và nỗi đau có hình dạng. Sự sụp đổ của anh là cú chốt, và một cú chốt hay tiên thật sự coi trọng. Vì vậy giúp đỡ từ tiên nguy hiểm hơn làm hại: nếu tiên đã ban điều ước của anh, đâu đó cái bẫy đang được lắp ráp, và sự giúp đỡ chỉ là nửa đầu trò đùa."
+        },
+        {
+          "type": "heading",
+          "text": "Glamour"
+        },
+        {
+          "type": "prose",
+          "text": "Glamour là ảo ảnh dệt tinh vi đến mức lừa không chỉ mắt mà cả thiết bị. Nó rơi xuống chỉ trước một thứ — chạm vào sắt lạnh. Dưới glamour là hình dạng thật, và nó hầu như không bao giờ giống mặt nạ."
+        },
+        {
+          "type": "heading",
+          "text": "Tên, lời thề, nợ"
+        },
+        {
+          "type": "prose",
+          "text": "Tên thật cho quyền lực trên tiên — vì thế họ không bao giờ cho. Lời thề đã nói, Alva sẽ không phá: không phải «không muốn», không thể. Nợ họ tính tàn nhẫn và nhớ mãi mãi. Đừng cảm ơn tiên: «cảm ơn» là thừa nhận nợ, và nợ tiên là dây xích. Đừng nhận thức ăn của họ. Đừng cho tên anh. Và không bao giờ, trong bất kỳ hoàn cảnh nào, giao kèo với tiên — kể cả khi có vẻ anh đang thắng. Đặc biệt nếu có vẻ thế."
+        },
+        {
+          "type": "heading",
+          "text": "Sắt lạnh"
+        },
+        {
+          "type": "prose",
+          "text": "*Iarann fuar* — sắt lạnh, kim loại lửa chưa chạm: lấy được bằng cách rèn lạnh lặp lại. Với cái không thánh thiện đó là độc; với Alva của Triều Cao đó là độc bản thể — không phải vết thương, mà tan rã. Giáp họ rèn để chệch sắt lạnh. Nhưng giáp có khe hở — da trần ở cánh tay, bụng, đùi. Đó là mục tiêu. Alva để chúng trần có chủ đích: để anh thấy — hắn không tin anh có thể đánh trúng. Đâm sắt lạnh vào một gang da trần trên sinh vật di chuyển nhanh hơn mắt anh — Thợ Săn dành năm học điều này, và hầu hết chết không học xong."
+        },
+        {
+          "type": "heading",
+          "text": "Chiến đấu"
+        },
+        {
+          "type": "prose",
+          "text": "Kiếm mặt trời — lưỡi kiếm ánh sáng đặc. Tuatha Dé Danann được gọi là hiệp sĩ mặt trời. Họ đánh bằng các thế từ thời đại anh hùng đã kết thúc trước Rome — và các thế vẫn thắng, vì kiếm sĩ già hơn, nhanh hơn, và không sợ chết như anh sợ. Vũ khí tầm xa gần như vô dụng: phép thuật làm chệch đạn trong bay. Câu trả lời là đạn sắt lạnh. Sau đó, xem trên: đánh trúng."
+        },
+        {
+          "type": "heading",
+          "text": "Leprechaun"
+        },
+        {
+          "type": "prose",
+          "text": "Không phải tất cả tiên là hiệp sĩ mặt trời. Leprechaun là tiên nhỏ của Cõi Bên Kia: trong giao chiến trung thực không mạnh hơn đứa trẻ năm tuổi, không dây vào Fomorian công khai. Vũ khí của hắn là giao kèo. Đạt bất kỳ thỏa thuận nào với leprechaun và, theo luật xoắn của tiên, hắn có quyền hoàn toàn trên anh, và trong giao kèo đó phép thuật hắn lớn hơn của bất kỳ Alva nào. Leprechaun là người mặc cả tinh tế nhất thế giới từng biết. Tài năng và may mắn kinh doanh của một số người giàu đến từ thỏa thuận kiểu đó. Và trò đùa vẫn đang chạy."
+        },
+        {
+          "type": "heading",
+          "text": "Changeling"
+        },
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Подменыш: фейри стар, и старость его выдаёт",
+          "image": "mon-podmenysh.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Changeling là tiên đã thế chỗ ai đó. Một cấu trúc phép thuật hay tiên nhỏ dưới glamour, nó thay thế con người — thường là trẻ sơ sinh — với sự bắt chước hoàn hảo: cả mẹ lẫn bác sĩ sẽ không phân biệt. Xác định changeling không có người thấu thị gần như không thể — nhưng tiên già, và tuổi họ phản bội họ. Changeling không chịu được thứ có hình dạng sai và tự hào về tuổi mình: dàn dựng điều đủ vô lý trước mặt hắn — đun nước trong vỏ trứng, câu cá trong bể — và sinh vật cổ không thể giữ im lặng, sẽ lên tiếng, sẽ tự lộ."
+        },
+        {
+          "type": "vignette",
+          "text": "Một nhà đàm phán ORPP đặt vỏ trứng lên bếp, đổ nước vào, và đợi. Đứa trẻ sơ sinh trong nôi nhìn theo anh ta với ánh mắt không trẻ con. Đến vỏ thứ năm đứa trẻ không chịu được và nói bằng giọng trầm: «Ta già hơn cây trong sân nhà này — và lần đầu thấy người ta đun nước trong vỏ trứng.» «Bắt được rồi,» nhà đàm phán nói. Changeling nhận ra đã tự phản bội — và rít lên, không còn cố làm âm trẻ con."
+        },
+        {
+          "type": "prose",
+          "text": "Đôi khi changeling mang trong mình «hạt Cổng» — quả bom đếm giờ. Họ thay người một hai ngày trước khi kích hoạt. Nếu không kịp bắt — đã muộn."
+        },
+        {
+          "type": "heading",
+          "text": "Arcadia"
+        },
+        {
+          "type": "prose",
+          "text": "Vương quốc họ — Cõi Bên Kia, Mặt Trái của thế giới. Vùng đất đẹp: hiệp sĩ, kỳ diệu, ánh sáng dịu vĩnh cửu. Và sau vẻ đẹp — con dao, như con dao giấu sau bó hoa. Họ đưa Fomorian đến đó làm nô lệ máu; thời gian chảy sai ở đó — anh trở về sau khi tưởng một tuần và không tìm thấy ai còn sống trong số người anh biết. Vào Beltane biên giới giữa các thế giới mỏng đi, và tiên hơi điên: đó là khi họ trồng changeling, khi người ta đi vào vòng đá — và không ra."
+        }
+      ],
+      "illustration": "mon-feyri-tuatha.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "sebekity",
+      "title": "SEBEKIT (CON CỦA SOBEK)",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Дитя Полудня — полная трансформация: рот до ушей, чужеродная психика",
+          "image": "mon-sebekit.jpg"
+        },
+        {
+          "type": "heading",
+          "text": "Trẻ Con của Sobek"
+        },
+        {
+          "type": "prose",
+          "text": "Sebekit là con cháu của thần cá sấu Ai Cập Sobek. Người với máu sebekit thay đổi: theo thời gian thân thể có nét cá sấu — da sần, răng, sức mạnh hàm."
+        },
+        {
+          "type": "heading",
+          "text": "Sebekit thuần khiết — sinh vật cao bằng người, đầu cá sấu, thân hình người với da sần xanh-xám. Sức mạnh × 5 con người. Đuôi mạnh — vũ khí cận chiến."
+        },
+        {
+          "type": "illustration",
+          "text": "Sebekit thường sống dưới nước, lên bờ săn. Thông minh hơn cá sấu — có ngôn ngữ riêng, hệ tôn giáo.",
+          "caption": "Дитя Восхода — чешуя и вертикальный зрачок, человек ещё проступает",
+          "image": "mon-sebekit-2.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Yếu trước lửa. Yếu trước biểu tượng đức tin (Kitô giáo, không Ai Cập — họ là sinh vật Ai Cập, nhưng đức tin sống của thần linh khác hại họ)."
+        },
+        {
+          "type": "heading",
+          "text": "Nhịp ngày"
+        },
+        {
+          "type": "prose",
+          "text": "Sebekit phụ thuộc mặt trời. Tối anh ta bình tĩnh, đêm rơi vào trạng thái đứng yên — gần như an toàn, một số đã qua đêm cùng phòng và ra đi sống sót. Sáng bắt đầu hoang dã. Đến trưa đạt đỉnh: mặt trời càng cao và nóng, anh ta càng hoang dã và nhanh. Trong sa mạc giữa hè sebekit nguy hiểm gấp nhiều lần ban đêm."
+        },
+        {
+          "type": "heading",
+          "text": "Lời Nguyền Nhật Thực"
+        },
+        {
+          "type": "prose",
+          "text": "Điều khủng khiếp nhất về họ không phải răng. Trước cái chết sebekit nguyền nhân chứng. Tất cả những ai giết hắn và những ai đứng cạnh đều bị nhiễm: lời nguyền chậm, qua nhiều năm, bắt đầu biến họ thành cùng loại. Đầu tiên — sức kéo không thể giải thích về phía mặt trời. Rồi — ham muốn cào da đến chảy máu, vì có gì đó đang mọc dưới đó. Rồi — Cuộc Hành Hương: một người vẫn tự coi mình là người đi bộ, mòn chân đến máu, về nơi nhiễm bệnh, và không gì ngăn được. Giết kẻ di cư trên đường, lời nguyền đơn giản nhảy sang kẻ đã giết. Vòng kín. Vấn đề không giải được — vì thế ORPP được chỉ thị: sebekit không phải tiêu diệt mà cô lập."
+        },
+        {
+          "type": "heading",
+          "text": "Nhật Thực"
+        },
+        {
+          "type": "prose",
+          "text": "Cứ mười hai năm một lần, vào ngày nhật thực lớn, sebekit ăn mừng lễ hội nhân loại không được mời. Họ giả người — ở giai đoạn Hoàng Hôn việc này dễ dàng — và xâm nhập thành phố. Vào ngày Nhật Thực một cuộc tàn sát diễn ra. Đây là cách họ sinh sản: mọi nhân chứng cái chết kẻ tấn công đều nhiễm lời nguyền. Một ngày tận thế cá sấu địa phương, sau đó trong thành phố sinh ra trẻ với chút vàng trong mắt lâu dài. ORPP chuẩn bị cho Nhật Thực từ trước — và mỗi lần không xử lý được hoàn toàn."
+        },
+        {
+          "type": "heading",
+          "text": "Điểm yếu"
+        },
+        {
+          "type": "prose",
+          "text": "Hai điểm, cả hai buồn cười với loài bò sát. **Đêm** — sebekit rơi vào uể oải, mọi đòn trúng. **Nước** — sebekit không biết bơi; hồ sâu là tường với hắn. Còn lại — sống lâu: 200–600 năm, nhiều người già hơn hầu hết các quốc gia họ sống."
+        }
+      ],
+      "illustration": "mon-sebekit-koladets.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "mimiki",
+      "title": "KẺ BẮT CHƯỚC",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Колония простейших с единым разумом — научилась притворяться мебелью",
+          "image": "mon-mimik.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Lấy phòng ở khách sạn rẻ tiền, vứt túi lên ghế — và sáng hôm sau bạn sẽ không tìm thấy cả túi lẫn chính mình."
+        },
+        {
+          "type": "prose",
+          "text": "Mimic không phải quái vật. Mimic là hệ sinh thái. Thuộc địa các sinh vật đơn bào có một tâm trí."
+        },
+        {
+          "type": "heading",
+          "text": "Mimic nhỏ"
+        },
+        {
+          "type": "prose",
+          "text": "Thuộc địa trẻ cỡ con mèo vô hại. Sống trong góc, dưới sàn. Ăn vụn, bụi, tất bị mất."
+        },
+        {
+          "type": "heading",
+          "text": "Mimic lớn"
+        },
+        {
+          "type": "prose",
+          "text": "Nếu thuộc địa lớn tới kích thước đồ đạc — bắt đầu giả dạng. Ghế. Tủ. Túi du lịch."
+        },
+        {
+          "type": "prose",
+          "text": "Khó phát hiện. Bài kiểm tra: đá mạnh mảnh đồ đạc đáng ngờ. Ghế thật im. Mimic giật mình."
+        }
+      ],
+      "illustration": "mon-mimik-new.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "rohlya",
+      "title": "SLUGGART",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Прячется под кроватью — паразит мужской жизненной силы",
+          "image": "mon-rohlya.jpg"
+        },
+        {
+          "type": "vignette",
+          "text": "Thị trấn yên tĩnh. Chín nghìn dân. Không tội phạm, không ly hôn, không scandal. Mọi người hài lòng. ORPP đến sau cuộc gọi nặc danh."
+        },
+        {
+          "type": "prose",
+          "text": "Sluggart là sinh vật siêu nhiên nhỏ, ký sinh trên sinh lực nam. Không xé, không uống máu. Chỉ làm bạn không muốn dậy."
+        },
+        {
+          "type": "prose",
+          "text": "Đã định cư, Sluggart dần đẩy nạn nhân vào lối sống nằm. Hút ý chí, ham muốn, tò mò, giận dữ."
+        },
+        {
+          "type": "prose",
+          "text": "Trông như cục mỡ xanh đập nhịp với mắt đầy mủ — bạn rất có thể không bao giờ nhìn thấy nó."
+        },
+        {
+          "type": "prose",
+          "text": "Giai đoạn cuối — «thị trấn yên tĩnh»: cả khu định cư dưới một sinh vật đã lớn."
+        },
+        {
+          "type": "prose",
+          "text": "Có thuốc: mèo cái sẽ giết Sluggart. Mèo đực có thể hợp tác."
+        },
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Разросшаяся рохля — тридцать семь гноящихся глаз; так начинается «тихий городок»",
+          "image": "mon-rohlya-2.jpg"
+        }
+      ],
+      "illustration": "mon-rohlya-new.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "sineperyy-vestnik",
+      "title": "SỨ GIẢ LÔNG XANH",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Увидели синюю птицу в небе — готовьтесь к беде",
+          "image": "mon-vestnik.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Giữa bồ câu trên dây có một con chim khác. Lông xanh đậm với ánh tím, mỏ dài mảnh, chân năm ngón giống tay người. Sứ giả Lông Xanh."
+        },
+        {
+          "type": "prose",
+          "text": "Sứ giả là kẻ săn lòng tin. Chọn người không ai sẽ tìm ngay: cô đơn, già, trẻ nhỏ. Bắt chước giọng và thôi miên."
+        },
+        {
+          "type": "prose",
+          "text": "Sứ giả tự nó gần như vô hại — nguy hiểm là cái sau nó. Thấy chim xanh đậm — đừng ngắm. Chuẩn bị."
+        }
+      ],
+      "illustration": "mon-vestnik-new.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "sumrachnyy-iskatel",
+      "title": "KẺ THEO BÓNG TỐI",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Зверёк на службе ОРПП: глаза желтеют, когда рядом Сумрак",
+          "image": "mon-iskatel.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Không phải tất cả Bóng tối muốn bạn chết. Kẻ theo Bóng tối là đồng minh hữu ích nhất của ORPP."
+        },
+        {
+          "type": "prose",
+          "text": "Động vật nhỏ giống chồn. Lông nâu hoặc trắng, mắt như hạt đen. Bắt bằng tay gần như không thể."
+        },
+        {
+          "type": "prose",
+          "text": "Đặc điểm chính là mũi. Cảm nhận Bóng tối trước bất kỳ thiết bị nào. Mắt chuyển vàng-xanh khi cảm nhận."
+        }
+      ],
+      "illustration": "mon-iskatel-new.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "kladbischenskie-slizni",
+      "title": "GIUN NGHĨA TRANG",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Ở đáy kim tự tháp thức ăn của Bóng tối sống Giun Nghĩa Trang. Sinh vật cấu thành từ năng lượng thuần khiết."
+        },
+        {
+          "type": "prose",
+          "text": "Sống trong nghĩa trang. Ăn các phát xuất tiêu cực: buồn, đau, sợ. Không tấn công, không hại."
+        },
+        {
+          "type": "prose",
+          "text": "Không nhìn thấy bằng mắt — máy ảnh kỹ thuật số bắt được. Cơ sở của chuỗi thức ăn siêu nhiên."
+        }
+      ],
+      "illustration": "placeholder_bestiary.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "rugaru",
+      "title": "RUGARU (NGƯỜI SÓI)",
+      "subtitle": "Câu trả lời Celt cho La Mã. Mười ba dòng. Tỏi tùy chọn.",
+      "illustration": "placeholder_bestiary.jpg",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "16:9",
+          "caption": "Rugaru — hình dạng nửa người nửa sói cổ điển; trong mắt chưa hẳn là thú, nhưng cũng không còn là người hoàn toàn"
+        },
+        {
+          "type": "vignette",
+          "text": "Sean O'Donnell đóng nắp ca-pô chiếc Dodge. Một ngàn tám trăm mã lực dưới ca-pô, bình nitro, khung gia cố — chiếc xe có thể đi xuống Hades và trở về. Sân của câu lạc bộ biker «Caoránach» có mùi dầu và cao su cháy. Sean lau tay, cười nhếch mép."
+        },
+        {
+          "type": "vignette",
+          "text": "«Xong,» hắn nói với đồng đội. «Chỉ đừng để mẹ vợ mày lái thử.»"
+        },
+        {
+          "type": "vignette",
+          "text": "Mẹ vợ của Dick chắc đã phát điên sau vô-lăng. Nhưng bà không đến. Có thứ khác đến: bên kia sông có tiếng tru. Không phải chó. Sean ngẩng đầu, hít không khí — và họng hắn tự đáp lại bằng tiếng gầm im lặng."
+        },
+        {
+          "type": "vignette",
+          "text": "Một bầy. Không phải của bọn họ. Trên lãnh thổ của bọn họ."
+        },
+        {
+          "type": "vignette",
+          "text": "Sean ném giẻ. Tính xem có kịp mặc quần jeans lại không (không, không kịp, sẽ rách theo đường khâu), nhún vai, và bước ra sân. Xương vai rắc — dài, chậm, như tiếng băng ấm nứt dưới sức nặng. Hàm dài ra. Mắt chuyển vàng. Áo nứt."
+        },
+        {
+          "type": "vignette",
+          "text": "Hai mươi giây sau, một sinh vật cao hai mét nửa người nửa sói bước qua sân, với vai như bò mộng và nụ cười của người sắp giải quyết một hiểu lầm với khá nhiều thích thú."
+        },
+        {
+          "type": "vignette",
+          "text": "«Anh em,» hắn gọi qua nanh vào gara, «mở bia cho khách đi. Tao về ngay.»"
+        },
+        {
+          "type": "heading",
+          "text": "Bản chất"
+        },
+        {
+          "type": "prose",
+          "text": "Rugaru là **người sống**. Đó là điều đầu tiên phải hiểu. Không phải undead, không phải sinh ra từ Bóng Tối, không phải bị nhập. Họ là người — với genome đặc biệt và kết nối đặc biệt với các nguyên tố. Ánh sáng không làm họ sợ kể cả ở dạng thú; thánh giá không tác dụng, nước thánh chỉ là nước, cọc gỗ dương chỉ là gậy. Họ ăn, ngủ, yêu, già đi (dù chậm hơn người thường), và cuối cùng chết như mọi sinh linh: vì tuổi già, bệnh tật, hoặc viên đạn bạc."
+        },
+        {
+          "type": "prose",
+          "text": "Điều quan trọng thứ hai: **tên dân tộc tự gọi mình là Rugaru**. Đó vừa là tên hình dạng nửa người nửa sói cổ điển, vừa là tên của bộ tộc, vừa là từ họ dùng gọi nhau. «Werewolf» và «người sói» là thuật ngữ người ngoài dùng: đáng sợ, mơ hồ, và thường bị hiểu sai."
+        },
+        {
+          "type": "heading",
+          "text": "Ba hình dạng"
+        },
+        {
+          "type": "prose",
+          "text": "Rugaru có ba hình dạng, chuyển đổi **bất kỳ lúc nào** — tự nguyện, theo ý chí, không cần trăng, không cần trăng tròn, không cần nghi lễ."
+        },
+        {
+          "type": "prose",
+          "text": "**1. Người.** Bề ngoài không phân biệt được với người thường, chỉ có điều đàn ông trung bình có thân hình như bodybuilder trong «Twilight» — vai rộng, cơ bắp, không mỡ; phụ nữ — vẻ đẹp đầy đặn, rất nữ tính, vận động viên. Già đi chậm hơn người 1.5 lần. Giác quan nhạy hơn bình thường, nhưng không có bất thường rõ — vượt qua mọi khám sức khỏe trừ khi xét nghiệm DNA marker đặc biệt."
+        },
+        {
+          "type": "prose",
+          "text": "**2. Rugaru (hình dạng cổ điển).** Sinh vật cao 2 đến 2.5 mét nửa người nửa sói: đầu sói, vai mạnh, tay dài có móng vuốt, cơ thể bán đứng thẳng. Sức mạnh — khủng. Tốc độ — chỉ hơi cao hơn người (đó không phải điểm mạnh của họ). Sức bền — khổng lồ. Regeneration hoạt động đầy đủ. **Không chạy lâu được ở hình dạng này:** Rugaru mệt và quay về người trong **30 phút đến 2 giờ**, tùy sức bền cá nhân và cường độ."
+        },
+        {
+          "type": "prose",
+          "text": "**3. Werewolf (hình dạng sói).** Sói khổng lồ — kích thước direwolf của Martin, sói trên steroid. Hơi cứng cáp hơn sói thường cùng kích thước (tức vẫn chết vì loạt đạn cự ly gần), nhưng **nhanh hơn nhiều** sói thường, với **khứu giác mạnh hơn nhiều**, và khả năng độc đáo **ngụy trang**: Rugaru kỳ cựu có thể nhận hình một giống chó cụ thể — với tất cả đặc điểm hình thái trừ kích thước. Chihuahua nặng 90 kg với hàm pit bull và đôi mắt biết cười. Ở Werewolf có thể bao lâu cũng được, nhưng mỗi **3 giờ** — lăn Tinh thần để giữ lý trí."
+        },
+        {
+          "type": "heading",
+          "text": "Mặt Trăng"
+        },
+        {
+          "type": "prose",
+          "text": "Rugaru liên kết với mặt trăng — nhưng không như folklore. Mặt trăng không **biến đổi** họ (biến đổi là hành động ý chí). Mặt trăng **làm mờ tâm trí**: khuếch đại tiếng gọi của thú, đè lên phần ý thức, đẩy về phía mất kiểm soát."
+        },
+        {
+          "type": "prose",
+          "text": "Trong hình dạng Rugaru dưới bầu trời đêm, đặc biệt gần trăng tròn, werewolf phải lăn giữ lý trí mỗi **10 phút** (DC 15, trăng tròn DC 20). Thất bại — **mất kiểm soát**: cơ thể tự động chuyển sang dạng Rugaru nếu chưa, phần ý thức tắt 1d6 phút, và thú làm điều nó cho là đúng. Thường là gây hỗn loạn. ORPP biết điều này và thường giữ điệp viên werewolf trực trong Tổng cục những đêm như vậy, dưới mái nhà."
+        },
+        {
+          "type": "heading",
+          "text": "Hồi phục"
+        },
+        {
+          "type": "prose",
+          "text": "Hồi phục ở dạng Rugaru — **tương đương Wolverine từ X-Men**. Đạn vào thân — đóng trong vài chục giây, thịt mọc lại. Xương gãy — trong vài phút. Vết thương rách — trong nửa giờ. Mọi vết thương bình thường đều phục hồi."
+        },
+        {
+          "type": "prose",
+          "text": "Ngoại lệ: **bạc**. Vết thương từ bạc không hồi phục — lành như người thường, với mọi hậu quả. Đạn bạc vào tim là chết như mọi sinh linh. Sợi bạc để trong vết thương ngăn nó đóng cho đến khi lấy ra. Đây là sự thật folklore duy nhất: bạc thật sự hoạt động."
+        },
+        {
+          "type": "prose",
+          "text": "**Tỏi** thì không làm họ sợ. Nhưng khứu giác Rugaru mạnh hơn người hàng chục lần, và với họ mùi tỏi như mercaptan (mùi khí rò) với chúng ta. Hoặc trong trường hợp xấu nhất, chloropicrin. Không giết. Chỉ rất, rất khó chịu. Meme nổi tiếng trên mạng: «Có thể. Nhưng để làm gì?»"
+        },
+        {
+          "type": "heading",
+          "text": "Nguồn gốc: mười ba chiến binh"
+        },
+        {
+          "type": "vignette",
+          "text": "Năm DXI ab urbe condita. Quân đoàn La Mã của Tiberius tiến lên phía bắc Britain, và các bộ tộc Celt chết với tốc độ mà chỉ những người chưa từng thấy testudo mới chết được. Các druid tụ tập trên hòn đảo sau này sẽ gọi là Anglesey."
+        },
+        {
+          "type": "vignette",
+          "text": "Mười ba. Tất cả — giỏi nhất. Mỗi người với năng khiếu, tính cách, lý do đồng ý của mình. Một — thợ rèn, đã thấy quân La Mã đốt làng. Một — người lần dấu, mất vợ và ba con gái. Một — cậu bé đưa tin, vừa tròn mười bảy, tự xin tham gia vì muốn được trưởng thành."
+        },
+        {
+          "type": "vignette",
+          "text": "Nghi lễ kéo dài chín đêm. Sáng thứ mười, mười ba ra gặp legion. Tiberius sau viết trong báo cáo rằng đã gặp «demones lupini» — «quỷ sói». Thực ra hắn đã gặp khởi đầu."
+        },
+        {
+          "type": "prose",
+          "text": "Năng khiếu truyền theo huyết thống. Ở Rugaru hiện đại có thể truy — đôi khi khá chính xác — họ đến từ ai trong mười ba. Mỗi dòng giữ đặc điểm riêng."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Cearan Cáo** (Cearan): mưu trí, nhạy cảm với dối trá, bản năng chiến lược. Từ họ ra điều tra viên, sĩ quan tham mưu, kỳ thủ, và những người chồng tệ nhưng có duyên. ORPP yêu họ."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Branán Đá** (Branán): sức mạnh và sức bền hoang dã — ngay cả so với Rugaru thường. Từ họ — thợ rèn, vận động viên cử tạ, võ sĩ Premier League. Thanh rebar vừa trong nắm tay và sau đó không thể duỗi thẳng."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Liarán Sét** (Liarán): tầm vóc nhỏ, thân nhẹ, tốc độ không ai có. Những Rugaru này thường thấp, gầy, không nổi bật — cho đến khi cần chạy. Từ họ ra giao hàng, parkour, đua xe đạp, ăn trộm xe."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Ogma Thợ Rèn** (Ogma): bản năng kỹ thuật. Những Rugaru này cảm máy móc như người thường cảm người bên cạnh. Từ họ — thợ máy giỏi nhất, kỹ sư thiết kế, thợ làm súng, lập trình viên hệ thống. Nửa cảnh muscle-car Detroit ở Mỹ là dòng Ogma."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Cai Thầy Thuốc Cỏ** (Cai): y học, thực vật, tự nhiên. Y tá thực địa, thầy thuốc thảo, dược lý. OPI yêu."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Evan Biển** (Evan): liên kết với nước và sức bền trong nước. Vận động viên bơi đại dương, cứu hộ, thợ lặn chiến đấu, ngư dân. Ở Sevastopol và Murmansk họ nhiều bất cân xứng."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Finn Hát** (Finn): giọng nói, sức hút, khả năng dẫn dắt bằng lời. Lãnh đạo câu lạc bộ biker, người rao giảng tà giáo, diễn viên, ca sĩ opera. Một trong những tenor Ireland vĩ đại nhất thế kỷ XX là dòng Finn — Vatican biết nhưng im lặng."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Cernunn Thú** (Cernunn): liên kết với động vật, khả năng thuần hóa khác thường và nói chuyện với thiên nhiên hoang dã. Từ họ ra huấn luyện viên chó, huấn luyện thú, bác sĩ thú y, và những người duy nhất trên thế giới có thể hòa hợp với lạc đà."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Aidan Lửa** (Aidan): cơn thịnh nộ berserker. Dòng này — đau đầu của ORPP: họ mất kiểm soát dễ hơn cả, mặt trăng đè lên họ mạnh hơn, ở dạng Rugaru họ mạnh hơn thường nhưng kiểm soát kém hơn. Lính xung kích tốt nhất khi «hạ mọi thứ di động», tệ nhất khi cần phân biệt."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Morgan Bóng** (Morgan): tàng hình, trinh sát, khả năng biến mất trước mắt. Không phải phép thuật — Rugaru dòng này đơn giản di chuyển sao cho mắt mất họ. Lính bắn tỉa, biệt kích, thám tử tư. Cảnh sát Nga vẫn không hiểu vì sao dòng Morgan thường chọn việc trong phòng truy nã."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Brenn Đá Tảng** (Brenn): bướng bỉnh, phòng thủ, khả năng chịu đòn. Dòng này là khiên. Vệ sĩ, bảo vệ cá nhân, xạ thủ súng máy cố định. Nếu Rugaru-Brenn đứng ở cửa và nói «không qua» — không ai qua."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Tara Sao** (Tara): empathy, tâm lý học, khả năng đọc người. Dòng nữ duy nhất trong mười ba (Tara là một trong hai phụ nữ giữa các chiến binh; người thứ hai, Brigid Bạc, để lại dòng đã tàn vào thế kỷ VI). Từ dòng Tara — nhà tâm lý trị liệu, đàm phán viên, nhân sự, và đa số các bà mẹ có con «tự kể mọi chuyện»."
+        },
+        {
+          "type": "prose",
+          "text": "**Dòng Lugh Mang Ánh Sáng** (Lugh): lãnh đạo, chỉ huy, uy quyền tự nhiên. Từ họ — chỉ huy đơn vị, sếp, chủ tịch công ty. Để thành chỉ huy nhóm trong ORPP, không cần phải là dòng Lugh. Nhưng thống kê tự nói lên."
+        },
+        {
+          "type": "heading",
+          "text": "Lây nhiễm"
+        },
+        {
+          "type": "prose",
+          "text": "Trở thành Rugaru không thể tình cờ. Đó **chỉ là hành động có chủ đích** từ phía Rugaru hiện có, và là **lựa chọn của cả hai**."
+        },
+        {
+          "type": "prose",
+          "text": "Cơ chế đơn giản: Rugaru ở dạng cổ điển (nửa người nửa sói) có một nanh rỗng ở hàm trên, qua đó Rugaru có thể tiêm **huyết thanh**. Đây không phải độc và không phải virus — đó là cocktail hormone-gene phức tạp đánh thức gene ngủ. Gene ngủ có ở **tất cả** hậu duệ của mười ba — tức ở một phần người Ireland, Scotland, Wales, và một số nhỏ Breton, Bỉ, và hậu duệ Ireland diaspora khắp thế giới."
+        },
+        {
+          "type": "prose",
+          "text": "Nếu người bị cắn không có gene ngủ — sẽ không có gì xảy ra, có thể vài ngày sốt nhẹ. Nếu có — sau 3 tuần người đó sẽ lần đầu chuyển sang dạng Rugaru, thường vào thời điểm bất tiện nhất. Sau đó phải học cách sống lại."
+        },
+        {
+          "type": "prose",
+          "text": "Cắn **tình cờ** ở dạng Rugaru về kỹ thuật là có thể (nanh rỗng vẫn đó), nhưng không hoạt động: không có tiêm huyết thanh có ý thức, vết cắn chỉ là vết thương từ nanh. ORPP bắt được kẻ giả danh vài năm một lần."
+        },
+        {
+          "type": "heading",
+          "text": "Tính cách và hành vi"
+        },
+        {
+          "type": "prose",
+          "text": "Rugaru — **đám tốt nhưng không có đầu óc**. Trên thang alignment — chaotic good với lệch nặng về chaotic. Tất cả đều có tính cách Ireland: với tốc độ như nhau sẽ đập mặt anh và sau đó kéo anh đi nhậu và ôm nhau như anh em."
+        },
+        {
+          "type": "prose",
+          "text": "Nghề nghiệp họ chọn: biker, thợ máy (đặc biệt thợ xây muscle car và monster truck), lính cứu hỏa, cứu nạn, đặc nhiệm quân sự, đôi khi thám tử tư và huấn luyện viên sinh tồn. Ít hơn — giáo viên, bác sĩ, nhạc sĩ. Gần như không bao giờ — chủ ngân hàng, kế toán, công chức (chán và có mùi sai)."
+        },
+        {
+          "type": "prose",
+          "text": "Nhược điểm chính: **họ liên tục bị hút vào phiêu lưu**. Đa số Rugaru bẩm sinh có khuynh hướng các perk «Đây là việc của tôi», «Người hùng», «Liều mạng». Họ tìm phiêu lưu với độ đều đặn đáng ngạc nhiên, và những phiêu lưu này thường kết thúc bằng điều gì đó nổ và công khai. Nửa những gì ORPP phân loại là «sự cố liên quan Rugaru» thực ra là một trong số họ cố giúp và làm quá."
+        },
+        {
+          "type": "prose",
+          "text": "Rủi ro chính: **mất kiểm soát**. Rugaru mất kiểm soát ở nơi đông người là sự cố cấp vùng. Vì vậy ORPP giữ sổ tất cả Rugaru có quốc tịch Đế quốc, buộc họ đăng ký, khám hàng năm, và những đêm rủi ro cao (trăng tròn, chấn thương cá nhân nghiêm trọng, chấn động) ở qua đêm dưới quan sát trong khu đặc biệt."
+        },
+        {
+          "type": "heading",
+          "text": "Rugaru trong ORPP"
+        },
+        {
+          "type": "vignette",
+          "text": "Hai người phục vụ ORPP: «Thỏ» và «Khẽ»."
+        },
+        {
+          "type": "vignette",
+          "text": "**Svetlana «Thỏ» Ryan-Caoránach** — tóc đỏ, tàn nhang, với vóc dáng mà các họa sĩ cổ điển gọi là «vẻ đẹp đầy đặn khỏe mạnh», còn phòng nhân sự hiện đại gọi là «không phù hợp dress code, đã thảo luận»."
+        },
+        {
+          "type": "vignette",
+          "text": "Thỏ mặc quần áo che đúng những gì luật yêu cầu che, đôi khi ít hơn chút. Hỗn với cấp trên, tán tỉnh cấp dưới, và qua mười lăm năm ở OPI đã ngủ với khoảng hai phần ba nam giới trong phòng (tin đồn còn nói một phần ba nữ giới nữa, nhưng Thỏ im lặng về điều này)."
+        },
+        {
+          "type": "vignette",
+          "text": "Song song, Thỏ là điệp viên thực địa trung thành nhất, liều lĩnh nhất, đáng tin nhất ORPP có. Sẽ che cho bất cứ ai, kéo bất cứ ai khỏi bất cứ hỏa lực nào, không bao giờ bỏ ai. Samoylov — chỉ huy quát mắng mọi người — **gần như** không quát Thỏ. Một lần ông nổi nóng, cô khóc (Thỏ — khóc, tưởng tượng?), ông xin lỗi ba ngày."
+        },
+        {
+          "type": "vignette",
+          "text": "Thỏ tự thử nghiệm thuốc thử nghiệm «Nhật Thực» — chất ổn định tâm thần Rugaru, phát triển OPI. Hiệu ứng — gần như đè hoàn toàn tiếng gọi của trăng. Tác dụng phụ tệ, trong ghi chú Thỏ mô tả bằng từ vựng khiến cả nhân viên mã hóa cũng đỏ mặt, nhưng Thỏ tiếp tục."
+        },
+        {
+          "type": "vignette",
+          "text": "Trong văn phòng cô gần như luôn có một chú cún. Bị bỏ rơi, đang được nuôi, mới nhất. Thỏ sưu tầm chúng — ở nhà có phòng riêng cho lũ cún này, và năm con chó riêng buộc phải hành xử như người lớn trong phòng đó. OPI từng kiểm tra một con cún — hóa ra là **cún của Black Dog Garm**, con chó huyền bí được cho là không thể thuần hóa."
+        },
+        {
+          "type": "vignette",
+          "text": "Thỏ thuần hóa được. Đặt tên Cupcake."
+        },
+        {
+          "type": "prose",
+          "text": "**Dylan «Khẽ» O'Brian** — người thứ hai, đối lập với Thỏ. Dòng Brenn-Đá. Ít nói, ủ rũ, to bằng tủ. Huấn luyện viên cận chiến ORPP. Đi nhiệm vụ miễn cưỡng, nhưng nếu đi — nhiệm vụ hoàn thành. Nổi tiếng với từ «không» có thể kéo dài tám giây sao cho người đối thoại kịp đổi ý."
+        },
+        {
+          "type": "heading",
+          "text": "Cơ chế trò chơi"
+        },
+        {
+          "type": "prose",
+          "text": "**Thuộc tính Rugaru ở dạng Rugaru:** tất cả vật lý +20 (STR, TGH, SPD), -10 CHR (khó quyến rũ với mặt sói), -20 INT (thú đè lý trí). Thuộc tính ở dạng Werewolf: STR +30, TGH +20, SPD +40, CHR −30, INT −40, COR −20 (khó làm việc với bốn chân). Ở dạng người — không bonus không phạt, người thường với gene ngủ."
+        },
+        {
+          "type": "prose",
+          "text": "**Hồi phục ở Rugaru:** 1d6 HP mỗi round, mọi vết thương trừ vết bạc. Vết bạc lành như người (1 HP/ngày khi nghỉ và có hỗ trợ y tế)."
+        },
+        {
+          "type": "prose",
+          "text": "**Lăn Tinh thần giữ lý trí dưới trăng (dạng Rugaru):** mỗi 10 phút dưới bầu trời đêm mở. DC 15 đêm thường, DC 20 trăng tròn, DC 25 đêm nguyệt thực. Thất bại — mất kiểm soát."
+        },
+        {
+          "type": "prose",
+          "text": "**Lăn Tinh thần ở dạng Werewolf:** mỗi 3 giờ. DC 15. Thất bại — mất lý trí, werewolf thành sói khổng lồ thường 24 giờ, không nhận ra bạn bè. Sau ngày — lăn lại."
+        },
+        {
+          "type": "prose",
+          "text": "**Chuyển Rugaru → người:** trong 30 phút đến 2 giờ (theo quyết định mass, thường 1 giờ ở hoạt động vừa, 30 phút trong chiến đấu, 2 giờ khi nghỉ). Người chơi không chọn — biến đổi tự động, ý thức giữ, cơ thể thành người."
+        },
+        {
+          "type": "prose",
+          "text": "**Chuyển Werewolf → Rugaru → người:** cần quyết định có ý thức và một round nghỉ cho mỗi biến đổi. Tức là tức thì không được."
+        },
+        {
+          "type": "prose",
+          "text": "**Điểm yếu:** bạc (không hồi phục, sát thương ×1.5), mùi tỏi (-5 mọi check ở dạng Rugaru, -15 ở dạng Werewolf do khứu giác mạnh hơn), tiếng động mạnh và siêu âm (-3 ở dạng Werewolf)."
+        },
+        {
+          "type": "prose",
+          "text": "**Ưu thế:** thị giác hồng ngoại ở dạng Rugaru và Werewolf, khứu giác (theo dấu đến một tuần ở dạng Werewolf), hồi phục, sức mạnh, tốc độ tùy dạng."
+        },
+        {
+          "type": "prose",
+          "text": "**Xã hội:** Rugaru nhận ra nhau qua mùi ngay lập tức. Theo dòng — thường cũng vậy, đặc biệt các dòng gần. Ở Đế quốc đa số Rugaru quen biết nhau qua chuỗi họ hàng và bạn bè, như một gia đình Ireland lớn. Mà về cơ bản đúng là vậy."
+        },
+        {
+          "type": "heading",
+          "text": "Điều này có nghĩa gì với đặc vụ"
+        },
+        {
+          "type": "prose",
+          "text": "Nếu bạn gặp Rugaru và hắn về phía bạn — bạn có một người bạn sẽ đi cùng bạn đến Hades và quay về. Nếu hắn không về phía bạn — bạn có vấn đề: bạc sẽ giúp, nhưng Rugaru thứ nhất rất giận, thứ hai rất nhanh, thứ ba rất bướng."
+        },
+        {
+          "type": "prose",
+          "text": "Nếu Rugaru mất kiểm soát — ưu tiên của bạn là đưa thường dân ra ngoài và **chờ đến bình minh**. Rugaru mất kiểm soát hoàn toàn hiếm khi giết có chủ đích (tiềm thức vẫn còn người); họ phá. Điều nguy hiểm nhất là bị dính tình cờ."
+        },
+        {
+          "type": "prose",
+          "text": "Nếu chính bạn thành Rugaru — đừng hoảng. Trong hai tuần tại trại đặc biệt OPI sẽ dạy bạn sống với điều này, và nếu bạn là công dân Đế quốc — nghỉ ốm có lương."
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "id": "ohotniki",
+      "title": "NHỮNG NGƯỜI THỢ SĂN",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "illustration",
+          "text": "",
+          "caption": "Охотник — человек, сказавший Сумраку «нет». Поздно, но сказал",
+          "image": "mon-hunter.jpg"
+        },
+        {
+          "type": "prose",
+          "text": "Một Thợ Săn — người nói «không» với Hoàng hôn. Muộn, nhưng nói. Và dành phần còn lại đời để lặp lại «không» đó với nòng súng và lửa."
+        },
+        {
+          "type": "prose",
+          "text": "Vị trí Thợ Săn đơn giản tới tàn nhẫn: tiêu diệt toàn bộ. Không phân loại, không hồ sơ. Đốt tất cả."
+        },
+        {
+          "type": "prose",
+          "text": "ORPP và Thợ Săn không phải đồng minh không phải thù. Đôi khi đường họ giao, và sinh vật có đêm rất tồi."
+        },
+        {
+          "type": "prose",
+          "text": "Otto von Grimberg — hai nỏ pháp, ba trăm năm săn"
+        },
+        {
+          "type": "heading",
+          "text": "Bạn có thể gặp ai"
+        },
+        {
+          "type": "prose",
+          "text": "Thợ săn không phải một tổ chức. Có nhiều nhóm rải rác, đa số không biết về sự tồn tại của nhau. Dưới đây là tám nhóm mà ORPP gặp thường xuyên nhất. Danh sách chưa đủ theo định nghĩa: ở đâu đó tại Ghana ngay lúc này ba ông già với mã tấu bạc đang ngồi trong lều chờ người sói đến, họ cũng là thợ săn, không ai biết."
+        },
+        {
+          "type": "heading",
+          "text": "Chó của Chúa"
+        },
+        {
+          "type": "vignette",
+          "text": "Brother Enrico thuộc dòng Saint Dominic đáp xuống Sheremetyevo với hộ chiếu ngoại giao Vatican và đi thẳng đến văn phòng Samoylov. Trên bàn — hồ sơ vụ Orekhovo-Zuevo: bé gái 11 tuổi bị nhập, trừ tà của linh mục địa phương thất bại, OPI ghi nhận sự hiện diện demonid vòng hai."
+        },
+        {
+          "type": "vignette",
+          "text": "«40 phút đến Orekhovo,» Samoylov nói. «Xe ở dưới.»"
+        },
+        {
+          "type": "vignette",
+          "text": "Enrico gật đầu, mở túi: Kinh Thánh 1693, dải lụa, dầu thánh từ Tòa Thượng Phụ Jerusalem, Beretta 92 đóng dấu Vatican Inc. «Đi.»"
+        },
+        {
+          "type": "prose",
+          "text": "**Tổ chức thợ săn Vatican**, chủ yếu từ dòng Dominic. Đặc điểm chính — **tỉnh táo**. Không cực đoan, không cuồng tín theo nghĩa xấu, hiểu rõ đang đối phó với gì. Hoạt động khắp thế giới dưới vỏ ngoại giao Vatican."
+        },
+        {
+          "type": "prose",
+          "text": "Tuyển chọn nghiêm: Vatican tìm trong dòng Dominic những người có **Niềm Tin Thật** (loại hoạt động — thánh giá thật sự đẩy lùi undead, nước thánh đốt quỷ), huấn luyện toàn diện: vũ khí hiện đại và truyền thống, Latin, Hebrew, Aramaic, kiến thức huyền học từ kho Vatican kín."
+        },
+        {
+          "type": "prose",
+          "text": "**Nhược điểm 1:** mục tiêu — **quỷ học**. Quỷ, người bị nhập, pháp sư hắc ám, tà giáo. Ma cà rồng và người sói thường bỏ qua nếu không trùng nhiệm vụ."
+        },
+        {
+          "type": "prose",
+          "text": "**Nhược điểm 2:** cứng nhắc. Tuân theo lệnh chỉ huy theo chữ. Ứng biến giáp ranh dị giáo."
+        },
+        {
+          "type": "prose",
+          "text": "**Với ORPP:** kênh **Tòa Thượng Phụ RPC ↔ Vatican** có hợp tác. Khi nhiệm vụ liên quan quỷ — phối hợp. Samoylov tôn trọng họ: «làm việc với họ như thợ đồng hồ Thụy Sĩ — giá gấp đôi, độ chính xác gấp đôi»."
+        },
+        {
+          "type": "heading",
+          "text": "Tòa Án Dị Giáo Thật"
+        },
+        {
+          "type": "vignette",
+          "text": "Toledo, Tây Ban Nha. Tầng hầm tu viện trung cổ, ba người gặp: Padre Alejandro Sepeda, Sister Maria Guevara, Don Mauricio de Castro. Ba Thượng Tòa Án — ba phiếu, một quyết định."
+        },
+        {
+          "type": "vignette",
+          "text": "Vấn đề: trẻ shapeshifter ở Seville, sáu tuổi, cha mẹ shapeshifter, hành xử như trẻ thường. Người báo đề xuất «dọn cả gia đình». Alejandro: «Tẩy sạch theo tồn tại — đó là Vatican 1490.» Maria: «Gia đình chưa giết.» Mauricio: «Theo dõi. Phản ứng khi có nguy.» 3:0. Người báo bị giao cảnh sát — hắn từ lâu làm cho Pháp Quan Puritan."
+        },
+        {
+          "type": "prose",
+          "text": "**Tây Ban Nha.** Ly khai Vatican: cho rằng Tòa Thánh đã chệch khỏi con đường thật sau Vatican II. Tự xếp mình là **người kế thừa thật** truyền thống Inquisition — nhưng với tâm trí hiện đại."
+        },
+        {
+          "type": "prose",
+          "text": "**Linh hoạt nguyên tắc.** Khác biệt chính: Inquisition **sẵn sàng hợp tác với sinh vật Sumrak không thù địch**. Leshy, mavka, fae không ác, đôi khi cả ma cà rồng khổ hạnh — tiếp xúc được phép. Mục tiêu — hài hòa và kiểm soát, không tiêu diệt toàn bộ."
+        },
+        {
+          "type": "prose",
+          "text": "**Lãnh đạo.** Ba **Thượng Tòa Án** — quyết định bằng đồng thuận. Chậm nhưng loại bỏ cuồng tín cá nhân. Tất cả ba người là tiến sĩ thần học cộng ít nhất một ngành thế tục."
+        },
+        {
+          "type": "prose",
+          "text": "**Cấu trúc.** Masters of the Way — vận hành. Keepers of Faith — quản lý hàng ngày, huấn luyện. Leagues of Accord — các tế bào khu vực, tự trị trong chiến lược chung."
+        },
+        {
+          "type": "prose",
+          "text": "**Phương pháp.** Chiến dịch bí mật, nghi lễ cổ VÀ công nghệ hiện đại. Theo dõi thay vì đột kích. Bắt thay vì thanh trừng nếu có thể. Thẩm vấn cứng chỉ khi đàm phán thất bại."
+        },
+        {
+          "type": "prose",
+          "text": "**Với ORPP: quan hệ tốt nhất trong tất cả thợ săn.** Cùng ý tưởng nền: Sumrak không phải «mọi thứ phải diệt», mà là hệ sinh thái phức tạp cần hiểu và điều tiết. Samoylov có kênh làm việc với Padre Alejandro. Nhiệm vụ ngoài Đế quốc đôi khi chuyển cho Inquisition. Một lần Inquisition đưa nhóm mavka tị nạn ra khỏi Budapest bị Pháp Quan Puritan truy đuổi — theo yêu cầu cá nhân Samoylov."
+        },
+        {
+          "type": "heading",
+          "text": "Tình Huynh Đệ Khiên Đỏ"
+        },
+        {
+          "type": "vignette",
+          "text": "Làng Lezhnevo, Kostroma Oblast, 03:40 sáng. Câu lạc bộ bỏ hoang ba ngày bị vurdalak với bầy bảy con chiếm. ORPP còn một giờ lái. Đội OPI địa phương giữ ngoại vi. Bốn xe Ural lên đường đất, mười tám gã có râu trong kaftan đen ra, với tiểu liên, biểu tượng trên ngực, thập tự."
+        },
+        {
+          "type": "vignette",
+          "text": "Trưởng nhóm tiếp cận Đại úy Orlov OPI. «Ivan Terentiev. Khiên Đỏ. Việc của chúng tôi. Không cản. Cũng không rời.»"
+        },
+        {
+          "type": "vignette",
+          "text": "Orlov biết. Orlov biết bọn này đã đếm thuốc nổ, volkhv đang đọc bùa trong cabin xe ba, và bảy phút nữa nơi câu lạc bộ là hố sâu ba mét. «Hố — của các anh. Báo cáo — của tôi. Cho mượn xe chở thương binh?» «Được.»"
+        },
+        {
+          "type": "prose",
+          "text": "**Người Nga.** Tổ chức cũ. Được Old Believers tạo trong liên minh với volkhv giữ truyền thống ở vùng hẻo lánh sau Nikon. Tìm được tiếng nói chung khó, nhưng được — hóa ra ở chuyện sau-Sumrak họ có nhiều điểm chung hơn bất đồng."
+        },
+        {
+          "type": "prose",
+          "text": "Tên từ biểu tượng: khiên hình giọt nước với **Mandylion trên nền đỏ thẫm**. Tự gọi mình «Khiên giữ con người»."
+        },
+        {
+          "type": "prose",
+          "text": "**Phương pháp mang tính huyền bí cao:** cầu nguyện, vũ khí thánh, di tích — và bùa, vật trừ, artefact thực sự hoạt động. Không mâu thuẫn: họ không cho rằng tất cả Sumrak đều xấu. Leshy có thể ủy quyền lấy lời chứng. Với mavka — kết nghĩa, thậm chí cưới (cái thứ hai gần như nghi lễ khai mở cấp cao. Không đùa). Với quỷ — chặt ngay."
+        },
+        {
+          "type": "prose",
+          "text": "**Cuồng tín nhưng không cực đoan.** Nghe nghịch lý. Giải thích: với **mục tiêu** — tàn nhẫn đến độ tàn ác. Họ không chỉ vô hiệu hóa nguy hiểm, mà **trừng phạt cái ác**. Sẵn sàng chết nếu cần — tranh ai mang mìn. Nhưng phân biệt hợp lý cái ác và không. Không giết mọi thứ động đậy. Không giết mavka vô cớ. Không giết leshy hoàn toàn."
+        },
+        {
+          "type": "prose",
+          "text": "**Vạn năng.** Săn mọi thứ họ cho là nguy hiểm. Huấn luyện xuất sắc: **tất cả đã từng phục vụ quân đội**. Trang bị nghiêm túc. Nếu cần — có thể kiếm cả vũ khí hạt nhân chiến thuật: Old Believers có ở khắp nơi, gồm ngành liên quan."
+        },
+        {
+          "type": "prose",
+          "text": "**Số ít.** Old Believers không đông; thành viên Khiên chỉ đếm bằng phần trăm. Nhưng **cả cộng đồng biết**, ủng hộ, không phản bội. Quy tắc: «Phản bội chiến binh của Chúa cho kẻ thù — nguyền linh hồn mình. Với cơ thể — làm gì tùy ý.»"
+        },
+        {
+          "type": "prose",
+          "text": "**Với ORPP:** Khiên không chịu quản lý của SiB hay Đế quốc. Hoạt động trên lãnh thổ riêng theo luật riêng. ORPP biết mặt (OPI có hồ sơ) nhưng **không động**. Cộng đồng sẽ đóng cửa như sò. Bọn họ thật sự hiệu quả. SiB tránh hai mặt trận. Đôi khi **hợp tác không chính thức**. Samoylov có kênh cá nhân với ba elder Khiên; gọi khi nhiệm vụ tuyệt đối cần volkhv."
+        },
+        {
+          "type": "heading",
+          "text": "ROMS (Liên Hiệp Toàn Pháp Thuật Nga)"
+        },
+        {
+          "type": "vignette",
+          "text": "Los Angeles, biệt thự Beverly Hills. Trên tường — ảnh ông nội của chủ, Đại úy Lữ đoàn Cận vệ, di cư 1920. Hiện trong phòng khách năm đàn ông và một phụ nữ: bốn họ, hai gia đình. Trưởng — Alexei Lebedev, 64 tuổi, người đứng đầu Nhà Lebedev."
+        },
+        {
+          "type": "vignette",
+          "text": "«Artefact xuất hiện ở Prague. Zetek đến đó, Janus theo sau. Một người của chúng ta phải đứng giữa và không cho cả hai mang đi.» Phụ nữ trẻ, Anna Vorontsova-Lebedeva, ngẩng đầu. «Tôi ở Prague trong mười hai giờ. Mang theo em trai.» Lebedev gật. Hội đồng giải tán."
+        },
+        {
+          "type": "prose",
+          "text": "**Từ Liên Hiệp Toàn Quân sự Nga đến tàn dư.** Sinh từ ROVS sau Nội chiến: sĩ quan Bạch di cư cho rằng Đế quốc sụp vì siêu nhiên. Sáng lập — Mason, linh mục, oculist. Mục tiêu trên giấy: cứu Nga khỏi siêu nhiên + diệt «huyền học sai». Trong thực tế lâu phục vụ như công cụ của Mason châu Âu để loại bỏ các nhóm para-mystical bất tiện."
+        },
+        {
+          "type": "prose",
+          "text": "**1941 — ly khai.** Một phần gia nhập Ahnenerbe. Một phần làm cho Liên Xô. Một phần đến châu Mỹ. Tổ chức còn mỗi cái tên."
+        },
+        {
+          "type": "prose",
+          "text": "**Hiện tại.** Cấu trúc gần như thoái hóa. Không có lãnh đạo: mỗi thành viên ROMS chỉ trả lời cho người đứng đầu **Nhà** — gia đình thợ săn có quan hệ. Nhà — Lebedev (LA), Shuvalov (Paris), Vorontsov (Argentina), Benkendorff (Canada), thêm chục nhỏ hơn. Cũng có **Trường** — nhóm theo sở thích hoặc chuyên môn, không huyết thống. Tất cả gọi chung ROMS nhưng không phối hợp thực sự, không chiến dịch toàn liên minh ba mươi năm nay."
+        },
+        {
+          "type": "prose",
+          "text": "**Phương pháp.** Khung quân sự + nhiều thập kỷ kinh nghiệm như đặc nhiệm para-magic. Thu thập thông tin đầy đủ về mục tiêu — rồi **hành động chớp nhoáng**. Huấn luyện cá nhân: đấu kiếm, bắn súng, tôn giáo học, nghi lễ, bùa chống các loại tà."
+        },
+        {
+          "type": "prose",
+          "text": "**Pháp thuật.** Pháp sư thật — mạnh, có thể ném quả cầu lửa — rất hiếm. Một trên trăm ngàn. ROMS không phải pháp sư; pháp sư trong ROMS chỉ là solo-support. ROMS dùng **artefact**: thuốc tiên, bùa, vật chú, lấy từ pháp sư hoặc người kế nghiệp. Bộ sưu tập tốt nhưng có giới hạn."
+        },
+        {
+          "type": "prose",
+          "text": "**Triết lý.** Đơn giản: **bất kỳ pháp thuật và huyền học nào hại người đều phải tiêu diệt**. Không «pháp thuật = ác» (tỉnh hơn Pháp Quan Puritan). Không «diệt tất cả bí hiểm» (tỉnh hơn Tử Đạo). Cụ thể — hại → diệt."
+        },
+        {
+          "type": "prose",
+          "text": "**Với ORPP:** phức tạp. Đa số Nhà trung lập — di cư, ORPP không với tới. Những Nhà hoạt động trong Đế quốc (Nhà Golitsyn ở Petersburg, hai Trường ở Moscow) — kênh làm việc. ORPP viết: «Biết. Cẩn thận. Nếu khẩn cấp — có thể có ích». Samoylov có quan hệ huyết thống một phần: chú họ ở Argentina, Nhà Vorontsov."
+        },
+        {
+          "type": "heading",
+          "text": "Tử Đạo Mỹ"
+        },
+        {
+          "type": "vignette",
+          "text": "Baxter Green, Alabama, 45 tuổi, cựu tài xế xe tải. Sáu năm trước trên Highway 65 vợ và con trai biến mất khỏi cabin xe pickup trong thời gian Baxter đi tiểu bụi cây. Cảnh sát ghi là bắt cóc, đóng vụ sau một năm, không xác."
+        },
+        {
+          "type": "vignette",
+          "text": "Hai tháng sau khi đóng vụ, ba người trong áo sơ mi kẻ giống hệt nhau gõ cửa motel. «Ông Green, chúng tôi biết chuyện gì đã xảy ra. Đi với chúng tôi.»"
+        },
+        {
+          "type": "vignette",
+          "text": "Một năm sau Baxter là xạ thủ chính của tế bào Tử Đạo Alabama. Tám sanguinophage, hai vurdalak, một polednica. Không tìm được vợ và con trai. Trong garage có mười hai «thiết bị»: pickup, AR-15, đạn bạc, ảnh gia đình dán trên thước ngắm."
+        },
+        {
+          "type": "prose",
+          "text": "**Hiệp hội toàn Mỹ.** Gồm **toàn người sống sót sau tiếp xúc chấn thương với Sumrak**. Cực đoan không tưởng. Mục tiêu — **xóa Sumrak hoàn toàn**."
+        },
+        {
+          "type": "prose",
+          "text": "**Thuần khiết.** Không vũ khí pháp thuật (gần như). Không bùa chú (hoàn toàn). Súng, bạc, đạn thánh, đôi khi thập tự và nước thánh. Bùa là pháp thuật. Pháp thuật là Sumrak. Sumrak là kẻ thù. Logic thép."
+        },
+        {
+          "type": "prose",
+          "text": "**Huấn luyện bắn xuất sắc.** Đa số là thành viên NRA, cựu chiến binh, thợ săn, redneck nghĩa tốt. **Kiến thức rời rạc**, thường từ truyền thuyết thành phố và phim tài liệu kém."
+        },
+        {
+          "type": "prose",
+          "text": "**Số lượng.** Lớn. Tăng. **Tuyển qua báo chí**: bài về «sự cố bí ẩn» trên Birmingham News — và một tuần sau ba người trong áo kẻ đến thăm nhân chứng. Tiết lộ Sumrak. Hứa mục đích. Bơm hoang tưởng."
+        },
+        {
+          "type": "prose",
+          "text": "**Đoàn kết.** Thợ săn bắt đầu chiến dịch ở bang nào sẽ tập hợp một chục chiến binh có kinh nghiệm trong ngày. Đánh theo **bầy** — nhấn mạnh hỏa lực và «tiểu đoàn lớn». Không đếm tổn thất; cái chết của đồng đội chỉ củng cố cực đoan."
+        },
+        {
+          "type": "prose",
+          "text": "**Với ORPP:** không có gì. ORPP **không cho vào Đế quốc**. Cảnh báo biên giới. Nếu lọt qua — đuôi, thường trục xuất. Không có chiến tranh mở (ORPP không có thẩm quyền ở Mỹ, Tử Đạo không hoạt động ở RF), nhưng khi giao thoa xung đột tức thì và thường chết người cho Tử Đạo. Họ đến bắt một cựu chiến binh werewolf ở Moscow Oblast; cựu chiến binh hóa ra là **sĩ quan ORPP**."
+        },
+        {
+          "type": "prose",
+          "text": "Samoylov nói đúng một câu về Tử Đạo: «Đốt thành tro. Đáng.» Trong phòng hút thuốc, không vào báo cáo."
+        },
+        {
+          "type": "heading",
+          "text": "Pháp Quan Puritan"
+        },
+        {
+          "type": "vignette",
+          "text": "Manchester, Anh. Tầng hầm nhà phố Victorian trên đường Cheadle. Sanctified Edward Holloway ngồi với Kinh Thánh 1611, dao nghi lễ từ sắt thiên thạch, laptop với cơ sở dữ liệu mục tiêu, và cốc trà Earl Grey."
+        },
+        {
+          "type": "vignette",
+          "text": "Trên tường: chân dung Oliver Cromwell. Chữ Gothic: «Thuần khiết không biết thỏa hiệp»."
+        },
+        {
+          "type": "vignette",
+          "text": "Holloway đọc hồ sơ về mavka ở Holborn. «Chưa giết ai,» báo cáo viết. «Không săn. Sống thuê, làm bồi bàn.» Holloway đóng file. «Thanh tẩy,» viết trong nhật ký. «Hạng nhất. Không trì hoãn.»"
+        },
+        {
+          "type": "prose",
+          "text": "**Anh.** Tổ chức cực đoan ở Anh hiện đại, có gốc sâu trong nguyên tắc Puritan. Tư tưởng — cuồng tín tôn giáo + tuyệt đối đạo đức. Bất kỳ huyền học nào là báng bổ."
+        },
+        {
+          "type": "prose",
+          "text": "**Lãnh đạo.** Pháp Quan trả lời một nhân vật — «**Inquisitor**». Bí hiểm, cuồng tín, không bao giờ xuất hiện cá nhân. Kỷ luật sắt."
+        },
+        {
+          "type": "prose",
+          "text": "**Phương pháp.** Khác Tử Đạo Mỹ, Pháp Quan **dùng tất cả**: khoa học hiện đại VÀ nghi lễ cổ. Vũ khí thánh, trừ tà, lễ tẩy uế song hành với drone, liên lạc mã hóa, mạng lưới tình báo tinh vi. Cách tiếp cận: «không quan trọng bằng cách nào — quan trọng là nó hoạt động». Nghịch lý Puritan giải đơn giản: «tất cả đều là công cụ trong tay Chúa»."
+        },
+        {
+          "type": "prose",
+          "text": "**Phương pháp Inquisition.** Điều tra bí mật cao, theo dõi, người báo, chiến dịch ẩn. Thẩm vấn — tâm lý hiện đại + trung cổ nếu cái đầu thất bại. Pháp Quan đáng sợ ngay cả giữa các thợ săn khác."
+        },
+        {
+          "type": "prose",
+          "text": "**Cấu trúc.** Sanctified — đội ngũ chính, đã được nhồi sọ. Congregation — tế bào khu vực 5-12 người, tự trị. Mạng hỗ trợ — người báo ở cảnh sát, học viện, nhà thờ, truyền thông."
+        },
+        {
+          "type": "prose",
+          "text": "**Với ORPP:** **thù địch, không chiến tranh mở**. Pháp Quan không hoạt động chính thức trong Đế quốc nhưng **xâm nhập**. Mục tiêu Nga thường là siêu nhiên di cư. ORPP đuôi ngay khi phát hiện; nếu Pháp Quan giết ở Đế quốc — đó là **truy tố hình sự trực tiếp**, công hàm ngoại giao, và thường thanh trừ im lặng. Pháp Quan biết và hoạt động **rất cẩn thận**."
+        },
+        {
+          "type": "prose",
+          "text": "Sự cố nổi tiếng: 2023, một cựu mavka từ Moscow (cưới sĩ quan ORPP Velikhov, được Samoylov cá nhân mua chuộc) thăm mẹ ở Tula. Congregation Manchester gửi bộ ba. Bộ ba không quay về. Velikhov không nói chuyện hai tuần. ORPP có thù riêng với Inquisitor từ đó."
+        },
+        {
+          "type": "heading",
+          "text": "Tập đoàn Zetek"
+        },
+        {
+          "type": "vignette",
+          "text": "Hội đồng quản trị tập đoàn Zetek, Prague, trụ sở phố Pařížská, tầng 32. Marek Zetek — 52 tuổi, hói, đeo kính, áo cổ lọ đen. Giám đốc tài chính bên trái, Anton Vojcek (trưởng phòng Nghiên cứu Sinh học Tiên tiến) bên phải."
+        },
+        {
+          "type": "vignette",
+          "text": "Anton Vojcek — 268 tuổi. Sanguinophage. Công khai. Trong hồ sơ y tế công ty ghi: «phụ thuộc huyết học, cần tiếp cận dinh dưỡng chuyên biệt»."
+        },
+        {
+          "type": "vignette",
+          "text": "«Chương trình Tempest,» Marek nói, «đã ra khỏi giai đoạn lab. Anton, ý kiến?» Anton đứng. «Thuốc hoạt động. Bốn mươi phút cơn giận có kiểm soát giữ chức năng nhận thức. Mẫu mười hai cá thể, gồm tôi.» Hội đồng phê duyệt."
+        },
+        {
+          "type": "prose",
+          "text": "**Một biến thể thợ săn rất kỳ lạ.** Về kỹ thuật Zetek là **tập đoàn dược phẩm và hóa chất** tầm trung (doanh thu ~$8 tỷ/năm). Dân sự, hợp pháp, niêm yết trên sàn Warsaw. Bên trong có phòng «Nghiên cứu Sinh học Tiên tiến» — chính là «thợ săn»."
+        },
+        {
+          "type": "prose",
+          "text": "**Mục tiêu nghiên cứu, không phá hủy.** Marek Zetek, sáng lập và CEO, khi biết về Sumrak **mê đắm ý tưởng phân loại và phục vụ nó**. Không phải ác — vì tò mò và thực dụng."
+        },
+        {
+          "type": "prose",
+          "text": "Triết lý: «**Bất kỳ công nghệ đủ tiên tiến nào đều không phân biệt được với pháp thuật.**» Sumrak = hiện tượng khoa học chưa được nghiên cứu, không phải pháp thuật. Cái ta gọi pháp thuật = các quá trình vật lý/hóa học/sinh học phức tạp ta chưa học mô tả bằng ngôn ngữ khoa học. Nhiệm vụ — mô tả, lặp lại, triển khai."
+        },
+        {
+          "type": "prose",
+          "text": "**Bắt thay vì diệt.** Nhóm thực địa Zetek mang thuốc an thần thay vì đạn, bẫy từ tính thay vì bạc, máy phun aerosol gây liệt thay vì nước thánh. Mục tiêu bị bắt → lab → phân tích → công nghệ → sản phẩm. Một số sản phẩm Zetek đã hoạt động thống kê trong khi WHO không giải thích được."
+        },
+        {
+          "type": "prose",
+          "text": "**Ma cà rồng công khai trong ban điều hành.** Anton Vojcek — sanguinophage, thành viên hội đồng, bạn Marek, công khai, đời sống xã hội nguyên vẹn. Lý do chính thức — «đặc điểm di truyền». Một phần nhân viên phòng cũng siêu nhiên, tự nguyện. Lương xuất sắc, bảo hiểm phủ «dinh dưỡng chuyên biệt»."
+        },
+        {
+          "type": "prose",
+          "text": "**Điều kỳ lạ nhất.** Marek Zetek là **pháp sư chưa thức tỉnh**. Hắn không biết. Nhưng hắn **bẻ cong thực tại** quanh mình. Trong bán kính hắn hiện diện (3-4 km từ trụ sở, cộng lab và bãi thử) luật Sumrak **thực sự thay đổi**: vampirism ở đó hoạt động như virus, gần với bệnh dại, với mọi thay đổi sinh lý và tâm thần của nạn nhân. Không huyền bí. Không «thức dậy» sau khi chết. Chỉ là bệnh truyền qua nước bọt. Anton ở văn phòng Zetek — sinh vật mô tả được bằng khoa học. Anton trên đường phố Prague — sanguinophage bình thường theo mô hình thông thường."
+        },
+        {
+          "type": "prose",
+          "text": "Khoảng năm người biết — hai trong tập đoàn (Marek không trong số đó) và ba bên ngoài, gồm tư vấn volkhv của ORPP. **Không ai có lợi** từ việc nói Marek sự thật: mô hình của ông hoạt động, sản phẩm Zetek cần thiết, và nếu ông biết mình là pháp sư, thế giới quan sụp đổ, hậu quả không rõ."
+        },
+        {
+          "type": "prose",
+          "text": "**Với ORPP: chuyên nghiệp-lịch sự với quan tâm.** ORPP theo dõi Zetek kỹ (gồm Anton), thanh tra lab thường xuyên qua kênh y tế và dược, đôi khi **trao đổi dữ liệu**. Marek là công dân Ba Lan, công ty Séc, nên thẩm quyền ORPP hạn chế. Nhưng Zetek mở chi nhánh ở Moscow và Petersburg — hợp pháp và dưới giám sát. Samoylov gặp Marek hai lần ở Prague. Nói: «người thông minh, nhưng nhìn về tương lai chỉ một thế hệ»."
+        },
+        {
+          "type": "heading",
+          "text": "Dòng Janus (Tập đoàn Janus)"
+        },
+        {
+          "type": "vignette",
+          "text": "Sahara Bắc, 30 km từ Timbuktu. Trại PMC Janus: sáu jeep, hai lều chỉ huy, drone trên không, ba mươi chiến binh trong quân phục không phù hiệu. Trung tâm: Alexei Chernitsky (67, tóc bạc, gầy, áo sơ mi vải lanh) và Vlado Milanovic (54, Serb, da sậm, nặng)."
+        },
+        {
+          "type": "vignette",
+          "text": "Trước mặt — artefact. Đá đen kích thước nắm tay, các mặt phản chiếu thứ không có trên trời. Nhà khảo cổ của công ty mất ý thức nửa giờ trước chỉ vì chạm vào nó qua găng tay."
+        },
+        {
+          "type": "vignette",
+          "text": "«Cái thứ ba,» Chernitsky nói. «Artefact N ở Sahara là cái đầu, Andes cái thứ hai, cái này thứ ba. Tìm thêm hai — hệ thống lắp ráp.» Milanovic im lặng. Trên trại drone ký hiệu Zetek bay thấp — trinh sát cao. Có ai đó biết."
+        },
+        {
+          "type": "prose",
+          "text": "**Mặt tối của Zetek.** Ít kén chọn phương tiện hơn và mục tiêu đen tối hơn nhiều. Thành lập thế kỷ XIX bởi Hoàng tử-Decembrist **Eugene Obolensky** trên cơ sở Hội Tam điểm «Janus», từ đó phát triển thành nhóm gọn, tổ chức tốt với mục tiêu rõ ràng: **dùng sức mạnh Sumrak để chiến thắng cái chết**."
+        },
+        {
+          "type": "prose",
+          "text": "**Triết lý.** Pha trộn nổ giữa transhumanism, gnosticism, occultism. Cái chết xa lạ với bản chất con người. Trái đất từng là thiên đường — nơi cư trú của người bất tử — bị sự can thiệp của Demiurge phá hủy. Con đường duy nhất: thăng đến cấp thần thánh và sửa những gì Demiurge đã làm. Mục tiêu — không phải quyền lực, không phải tiền, mà **thần thánh tính**."
+        },
+        {
+          "type": "prose",
+          "text": "**Lãnh đạo — Người Thăng.** Hai **Grandmaster**: Alexei Chernitsky và Vlado Milanovic. Vĩnh viễn. Với người theo họ là tiên tri, lời họ là chân lý, ý họ là luật."
+        },
+        {
+          "type": "prose",
+          "text": "**Cho đến đầu thế kỷ 21** Dòng là cảnh tượng đáng thương — nhóm oculist vô hại, bị các cộng đồng khác cười nhạo. Mọi thứ thay đổi khi hậu duệ Obolensky là Alexei Chernitsky tìm thấy ở Sahara **Artefact N** — vật có sức mạnh đưa Janus lên cấp khác biệt. Từ đó Janus tìm thêm các artefact loại này."
+        },
+        {
+          "type": "prose",
+          "text": "**Nhóm chiến đấu.** Gồm cuồng tín có súng và dao nghi lễ. Ở một số bang Maghreb và châu Phi nhiệt đới hoạt động dưới vỏ **PMC Janus**, săn các vương quốc cổ huyền thoại và artefact mạnh."
+        },
+        {
+          "type": "prose",
+          "text": "**Biểu tượng:** mặt đôi (Janus), đỏ tươi trên đen."
+        },
+        {
+          "type": "prose",
+          "text": "**Xung đột với Zetek.** Cả hai theo đuổi artefact Sumrak nhưng từ phía đối lập: Zetek để nghiên cứu, Janus để chiếm đoạt. Xung đột không tránh khỏi và đều đặn. Ít nhất bốn đụng độ thực địa trong năm năm qua. Zetek thường thua quân sự nhưng thắng thông tin — nhiều tiền hơn và luật sư giỏi hơn."
+        },
+        {
+          "type": "prose",
+          "text": "**Với ORPP: thù địch tích cực.** Janus hoạt động trong Đế quốc qua PMC vỏ và tế bào tà giáo nhắm vào kurgan Scythian, tu viện Tibet ở các nước thân thiện, và đôi khi chính nước Nga. ORPP đang chạy nhiều chiến dịch chống tế bào Janus — với tổn thất hai bên. Chernitsky biết Samoylov bằng tên và ngược lại; gặp một lần ở Thụy Sĩ qua trung gian Inquisition Thật. Không đồng thuận được."
+        },
+        {
+          "type": "heading",
+          "text": "Cá nhân"
+        },
+        {
+          "type": "prose",
+          "text": "Không phải mọi thợ săn đều thuộc nhóm. Nhiều người là đơn độc hoặc làm trong nhóm nhỏ truyền qua gia đình. ORPP biết họ qua tên trong sổ «đã biết». Nổi tiếng nhất là Otto von Grimberg, và câu chuyện của ông xứng đáng một khối riêng."
+        },
+        {
+          "type": "heading",
+          "text": "Ba trăm năm trước là mục sư Lutheran. Đã có vợ, bốn con, giáo xứ yên ở Saxony. Một đêm — ma cà rồng. Ném Otto vào tường, gãy tay và chân. Biến vợ và bốn con."
+        },
+        {
+          "type": "illustration",
+          "text": "Ba ngày Otto nằm trong chính nhà mình với xương gãy và xem gia đình biến thành quái vật.",
+          "caption": "Отто фон Граймберг — два заговорённых арбалета, триста лет охоты",
+          "image": "mon-otto.jpg"
+        },
+        {
+          "type": "vignette",
+          "text": "Ngày thứ ba — anh chịu được. Hạt Bóng tối tự cháy. Xương chưa lành."
+        },
+        {
+          "type": "prose",
+          "text": "Anh giết gia đình mình đêm đó. Vợ — cuối cùng. Bà cười khi anh đóng cọc."
+        },
+        {
+          "type": "heading",
+          "text": "Hắn trông thế nào"
+        },
+        {
+          "type": "prose",
+          "text": "Bề ngoài — người đàn ông rắn rỏi khoảng bốn mươi, nhiều nhất bốn mươi lăm: vai rộng, lưng thẳng, dáng quân nhân mà mục sư làng không nên có. Ba trăm năm săn đã đặt nó. Tóc đen pha bạc. Mắt xám — chăm chú, phai, mắt người đã nhìn quá lâu và quá kỹ vào những điều khủng khiếp. Hắn mặc đen, với chi tiết kiểu cũ lâu lỗi mốt — không phải để khoe: một phần hắn đơn giản còn ở lại thế kỷ đó, và y phục hắn nói thật điều đó."
+        },
+        {
+          "type": "heading",
+          "text": "Hắn làm việc thế nào"
+        },
+        {
+          "type": "prose",
+          "text": "Hai nỏ phép nhẹ — đôi tay hắn. Một bắn tên với nước thánh và bạc, cái kia — gây cháy. Nỏ thay vì súng vì hai lý do: Otto già hơn thời đại thuốc súng và tin vào điều hắn học đầu tiên; và có thể nạp vào tên những thứ không vào được viên đạn. Cuốn sách kinh và bùa chú — không phải vì đức tin (đức tin hắn từ lâu nén thành điều cứng và lạnh hơn đức tin), mà cho công việc: từ ngữ trên trang sách củng cố quyết tâm và làm chệch ý chí kẻ khác. Dây bùa trên cổ hắn dập tắt ảnh hưởng phép thuật — thôi miên ma cà rồng trôi khỏi Otto như nước khỏi đá."
+        },
+        {
+          "type": "heading",
+          "text": "Hắn săn thế nào"
+        },
+        {
+          "type": "prose",
+          "text": "Một mình hoặc trong nhóm nhỏ. Phục kích, bẫy, mưu kế tính toán. Otto không giao chiến trực diện với sinh vật mạnh hơn người gấp mười lần — hắn sắp xếp cuộc gặp sao cho khi nó xảy ra sinh vật đã đang thua. Ba trăm năm thực hành đã làm hắn thành chiến thuật gia hành quyết hoàn hảo. Với ma cà rồng thù hắn không đáy không bờ — riêng tư, không lành; và thù hận đó hắn không coi là khuyết điểm. Hắn coi đó là điều duy nhất còn lại từ đêm đó, điều không thể phản bội. Với phần còn lại của Hoàng Hôn Otto đôi khi — đôi khi — để lại cơ hội cứu chuộc. Với ma cà rồng — không bao giờ."
+        },
+        {
+          "type": "heading",
+          "text": "Bên trong hắn là gì"
+        },
+        {
+          "type": "prose",
+          "text": "Otto bị vỡ, và hắn biết. Hai người sống trong hắn: kẻ phụng sự cuồng tín tin tay mình thực thi bản án cao hơn, và kẻ săn lạnh lùng tính toán với người mà sinh vật chỉ là vấn đề có cách giải. Bất tử trở thành cả phần thưởng và hình phạt: cho hắn ba thế kỷ trả thù — và không một ngày yên. Hắn nhớ khuôn mặt vợ và con. Nhớ nụ cười trên môi vợ khi hắn đóng cọc. Hắn tin cuộc chiến mình có ý nghĩa cao hơn, rằng qua đó hắn chuộc tội — cho gì? Cho một giây yếu đuối vào ngày thứ ba, khi hắn gần như khuất phục? Cho việc sống sót một mình? Otto không chắc. Nhưng không được dừng: chừng nào còn săn, hắn không phải trả lời câu hỏi đó."
+        }
+      ],
+      "illustration": "mon-otto-1.jpg",
+      "setting": "ОРПП"
+    },
+    {
+      "id": "o-vechnom-gorode",
+      "title": "О Вечном Городе",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Вечный Город"
+        },
+        {
+          "type": "heading",
+          "text": "ОСНОВА СЕТТИНГА"
+        },
+        {
+          "type": "heading",
+          "text": "Что это такое"
+        },
+        {
+          "type": "prose",
+          "text": "Вечный Город — **универсальный сеттинг фэнтези**, скроенный как Forgotten Realms, но с другим тематическим ядром. Здесь у мастера есть инструменты под любой жанр приключения, и почти под любой популярный фэнтезийный архетип найдётся регион, который этот архетип честно поддерживает. Хотите Багдад и сказки 1001 ночи — едете в Будатский Халифат. Хотите северных викингов с рунами, драккарами и Йотунами — отправляетесь в Ледяные Земли. Хотите классическое европейское рыцарское фэнтези с замками, феодами, странствующими паладинами и таинственным лесом — это Восточные Княжества. Хотите гомеровских пиратов и Одиссея — Архипелаг. Хотите конкистадоров, неизведанных богов и пирамиды в джунглях — Заокеанские Колонии. Хотите монгольских ханов на лошадях — Северо-Восточные Степи."
+        },
+        {
+          "type": "prose",
+          "text": "И при этом — у мира есть **центр тяжести**, и центр этот — сам Вечный Город. Стилистически это **SPQR × Ренессанс одновременно**. Сенат и народ Города (Senatus Populusque Aeternae) — формула, написанная на штандартах легионов. Но при этом банкиры Дома Паулетти играют роль Медичи, оплачивая искусство, политику и кондотьеров. Гладиаторы режут друг друга в Колизее, как при позднем Риме, — а в патрицианских палаццо на стенах висят холсты, которые в нашей реальности писал бы Караваджо. Алхимики варят порох, оптики шлифуют линзы для подзорных труб, картографы рисуют новооткрытые земли. Великая Библиотека объединяет в себе Александрию и Ватиканскую библиотеку Ренессанса. Кесарь правит — но Сенат заседает, голосует, плетёт интриги, и иногда ему отвечают «нет»."
+        },
+        {
+          "type": "prose",
+          "text": "Тон сеттинга — **высокий, но не пафосный**. Это мир, где достоинство ещё имеет цену, клятва весомее папируса, кровная месть — не пережиток а юридический инструмент. Где обвинение в подлоге может закончиться дуэлью или ядом в кубке за ужином. Где Сестра Малефикариума охотится на демоническую нежить в катакомбах под форумом, а тремя этажами выше Сенат обсуждает Будатский договор. Где плебс на рынке знает о делах патрициев больше, чем сами патриции, потому что у плебса есть уши на всех кухнях, а у патрициев — только подкупленные слуги."
+        },
+        {
+          "type": "prose",
+          "text": "Это мир, где мастер может рассказать **любую большую историю**. Возвышение и падение Дома. Раскрытие демонического заговора. Война с Будатом. Подвиг легионера. Побег раба, ставшего гладиатором, ставшего консулом. Странствие через все известные земли. Дуэль в палаццо, заканчивающаяся вендеттой между Домами на три поколения. Открытие нового материка. У каждого жанра — свой инструментарий, свои противники, свои союзники."
+        },
+        {
+          "type": "heading",
+          "text": "Эпоха и стиль"
+        },
+        {
+          "type": "prose",
+          "text": "**Венеция и Флоренция в одеждах Республики Цицерона.** Это не Конан-варвар, не Толкин, не «Игра престолов». Это мир, в котором Сенат всё ещё собирается каждую неделю, консулы ведут легионы в поход, а вечерами те же сенаторы заходят в палаццо Дома Паулетти послушать музыку, заплатить за фреску и обсудить новый сонет, который патриций Лебедев написал к свадьбе. Архитектура — мрамор и колонны, но с куполами, плафонной живописью, лестничными маршами в стиле Палладио. Одежда — туники и тоги для официальных случаев, дублеты и камзолы — для светской жизни. Дамы в стoлax — для торжественных храмовых шествий, в платьях с корсажами — для приёмов."
+        },
+        {
+          "type": "prose",
+          "text": "Технологически — **переходный Ренессанс на античном фундаменте**. Холодное оружие господствует, но не безраздельно. **Кесарь Анастасий, выигравший большую войну с Будатом столетие назад, после битвы при Сордисе сказал: «Тысячу лет научимся стрелять — за час стрелу метнём дальше и точнее. Гладиус не подведёт никогда.»** С тех пор имперские легионы вооружают пиростиками только по одной декурии на манипулу — для дыма, грохота и психологического давления на варваров, не для убийства. У Будата пороховое оружие развито лучше — их алхимики первыми достигли стабильного производства, и при штурме крепостей их **тяжёлые пиростики** уже бывают решающим аргументом. Дальнее оружие основного спектра — арбалет (тяжёлый имперский, лёгкий охотничий, скорострельный гильдейский), лук (короткий имперский, длинный архипелажский, степной составной), праща (для бедноты и лёгкой пехоты). Защита — кольчуги, бригантины (новая мода последних десятилетий), полная лорика-сегментата у центурионов, инкрустированные кирасы у патрициев на парадах. Артиллерия — баллисты, скорпионы, требушеты для осад; новейшие будатские бомбарды — редкость в имперских арсеналах, в основном трофеи."
+        },
+        {
+          "type": "prose",
+          "text": "**Алхимия и оптика — на подъёме.** В Великой Библиотеке работают шлифовальные мастерские, делают подзорные трубы (моряки готовы за такую отдать корабль). Алхимики варят зелья — от перевязочных мазей до ядов. Печатный станок недавно изобретён архивариусом Велизарием на основе будатского устройства для нанесения узоров на ткань — первые имперские книги уже сошли с печатных прессов, и церковь Огня Единого тревожится: тиражи распространяют идеи быстрее, чем инквизиция успевает их жечь."
+        },
+        {
+          "type": "prose",
+          "text": "**Корабли — парусные.** Триремы античного образца — основа Морского Легиона, по двести гребцов на каждой, тарана на носу из имперской стали (не бронзовая, как у древних, и не как у конкурентов — это знаменитая «холодная игла» имперских кораблестроителей). У торговцев — поздние галеоны архипелажской работы, более вместительные, лучше идущие против ветра. У будатов — длинные узкие дау с косыми парусами. У северных варваров — драккары. Магеллан в этом мире уже состоялся: имперский капитан **Камиллус Толстый** обогнул мир тридцать лет назад и привёз отчёт, который Сенат публично не признал (политически опасно), но Великая Библиотека хранит и изучает."
+        },
+        {
+          "type": "prose",
+          "text": "**Магия реальна и распространена.** Но не как в высоком фэнтези, где каждый второй швыряется огнешарами. Скорее как в позднеантичном мире, окрашенном суевериями Ренессанса: магия повсюду, но опасна, подозрительна и неравномерно распределена. Жрецы Огня Единого совершают чудеса. Малефики продают души за силу. Алхимики варят зелья. Гадатели читают по внутренностям жертвенных птиц, по картам, по линиям ладони. Простой народ верит в сглаз, носит обереги, плюёт через левое плечо. Малефикариум выслеживает тёмных колдунов. Ordo Ignis Unius жжёт ведьм и еретиков. Это всё — обыденность."
+        },
+        {
+          "type": "heading",
+          "text": "Культурная ткань Империи"
+        },
+        {
+          "type": "prose",
+          "text": "Империя — это **многонациональное государство**, цементированное общим языком (латиной с провинциальными диалектами), общей верой (Огнь Единый как государственный культ при допустимом существовании местных культов в провинциях), общим правом (Кодекс Юстиниана I, ныне действующая редакция — Кесаря Юстиниана IV, прадеда нынешнего Юстиниана VI) и общей структурой власти. Этнически — пёстрая мозаика: коренные имперцы со светлой кожей и волосами от золотистого до тёмно-каштанового, южные провинциалы с оливковой кожей, восточные купцы будатских кровей, северяне с примесью Детей Льда, отпущенные рабы со всех концов мира, осевшие в Городе как свободные ремесленники."
+        },
+        {
+          "type": "prose",
+          "text": "Старшие Дома — носители древних родовых имён, восходящих к Эпохе Основания. **Дом Паулетти** держит банковскую империю и контролирует половину торговли в Средиземном Море. **Дом Шереметев** — это землевладельцы и военная знать, дают Империи лучших центурионов. **Дом Голицын** — дипломаты и интриганы, у них всегда люди в Сенате. **Дом Воронцов** — фамильное проклятие магической одарённости (поговаривают о фейской крови в роду), Архонты, гадатели, иногда — Носители Искры. **Дом Лебедев** — ремесленники и инженеры, владельцы стальных мануфактур, без них не было бы тарана на триремах. И ещё с десяток Домов чуть помельче."
+        },
+        {
+          "type": "prose",
+          "text": "Имена Старших Домов в Империи говорят сами за себя. Произнести «Дом Паулетти не платит» — это серьёзное обвинение, потому что главный девиз Дома — *«Паулетти всегда платят»*. Произнести «Воронцов сошёл с ума» — это значит сказать что-то очень плохое, потому что у Воронцовых *действительно* бывает фейская кровь, и она проявляется по-разному."
+        },
+        {
+          "type": "prose",
+          "text": "Простой плебс к Старшим Домам относится со смесью почтения, страха и затаённой ненависти. Восстания случаются раз в поколение и подавляются Сухопутным Легионом жёстко и без церемоний."
+        },
+        {
+          "type": "heading",
+          "text": "Магия — общая концепция"
+        },
+        {
+          "type": "prose",
+          "text": "Магия в Вечном Городе работает через **резонанс с Источниками**. Источник — это место или сущность, в которой нити мира тоньше обычного. Источников несколько типов:"
+        },
+        {
+          "type": "prose",
+          "text": "**Природные** — родники, пещеры, древние деревья, каменные круги, точки силы на пересечении магических линий. В горах Аппеннинских есть знаменитый Семизвучный Грот, где звук распадается на семь эхо разной высоты — гадатели приходят туда раз в год, на равноденствие. Маленьких природных Источников по Империи — сотни. Большинство известны местным, часть запечатана Малефикариумом «во избежание»."
+        },
+        {
+          "type": "prose",
+          "text": "**Сотворённые** — алтари, святыни, реликвии. Алтарь Огня Единого в столичной базилике — Источник, через который жрецы черпают силу для чудес. Реликвии — кости святых, фрагменты древних артефактов, благословлённые предметы — действуют как малые мобильные Источники."
+        },
+        {
+          "type": "prose",
+          "text": "**Демонические** — пакты, печати, кровавые алтари в катакомбах. Малефик не получает силу из ниоткуда — он *арендует* её у демона, расплачиваясь годами своей души. Чем сильнее ритуал, тем больше года долой."
+        },
+        {
+          "type": "prose",
+          "text": "**Внутренние** — это редкость. Раз в поколение рождается ребёнок, в котором Источник изначально. Его называют **Носитель Искры**. Без обучения он жжёт всё вокруг себя — буквально или метафорически. С обучением — становится Архонтом, жрецом, малефиком, гадателем. Многие Носители кончают плохо: Орден Огня Единого охотится на них, потому что Искра вне Ордена — ересь. Малефикариум охотится на них, потому что Искра без направления слишком часто открывает двери, через которые приходит то, что не должно приходить."
+        },
+        {
+          "type": "prose",
+          "text": "Простой человек магией не владеет. Может зачерпнуть из Источника единожды — в момент крайней нужды, в момент истинной молитвы, в момент любви или смертельной злобы. Тогда Источник *отвечает*. Поэтому в Империи такие сильные традиции молитвы, обетов, проклятий — простой народ знает, что слово, сказанное в правильный момент, может реально сработать. И боится."
+        },
+        {
+          "type": "heading",
+          "text": "Краткие тезисы"
+        },
+        {
+          "type": "prose",
+          "text": "- Технологический уровень: переходный Ренессанс на античном фундаменте. Холодное оружие господствует. Порох есть (у Будата лучше), оптика, печатный станок, парусный флот. - Эпоха и стиль: SPQR × Ренессанс. Сенат, Кесарь, патриции-Медичи, кондотьеры, фрески, гладиаторы, банкиры, путешественники-картографы. - Сеттинг: универсальный фэнтези-мир в духе Forgotten Realms, с регионами под разные жанры — арабские сказки, северное фэнтези, рыцарское фэнтези, морские походы, фронтир Нового Света, степи кочевников. - Магия: через Источники. Природные, сотворённые, демонические, внутренние. - Социум: жёсткое сословное деление, Сенат и Кесарь, патрицианские Дома с многовековой памятью. - Религия: государственный культ Огня Единого, периферийные культы, остатки старых богов, демонические пакты, ведьмовство."
+        },
+        {
+          "type": "heading",
+          "text": "ГЕОГРАФИЯ"
+        },
+        {
+          "type": "heading",
+          "text": "Вечный Город (столица)"
+        },
+        {
+          "type": "prose",
+          "text": "Вечный Город стоит там, где смыкаются челюсти Севера и Юга — на узком перешейке между двумя морями, который называется **Пасть**. С востока к нему подходит Древняя дорога, идущая от далёкого Будата, с запада — Морская дорога вдоль архипелажского побережья, с севера — Дикий тракт из Ледяных Земель, с юга — Купеческий шлях из колоний."
+        },
+        {
+          "type": "prose",
+          "text": "Сам Город огромен — около миллиона жителей в нормальные годы, до полутора миллионов в эпохи активной торговли. Он разделён на пятна, не на кварталы: пятно живёт своей жизнью, говорит на своём диалекте, носит свою одежду, торгует своим товаром. Имперская стража патрулирует магистрали, но в глубь пятен заходит редко — там действуют свои правила."
+        },
+        {
+          "type": "prose",
+          "text": "**Верхний Город** — патрицианский, на трёх холмах: Палатий, Капитолий и Велий. Дворцы Старших Домов, святилища, форум, базилика Огня Единого, дворец Кесаря на Палатии. Тишина, мраморные фасады, охрана с двумя клинками наготове, шёпот посланников. Каждый камень здесь оплачен чужой кровью или чужим золотом, обычно — и тем и другим."
+        },
+        {
+          "type": "prose",
+          "text": "**Средний Город** — гильдейский. Где живут торговцы, банкиры, ремесленники-мастера, риторы, врачи. Гильдия Тонких Искусств держит здесь академию (под видом школы танцев). Гильдия Жизнеотъёмцев — нет, у них только конспиративные дома, гильдии официально не существует. Тут же — Великая Библиотека, отделённая от остального города собственной стеной, и Сад Мира на двенадцати ярусах, парящих друг над другом."
+        },
+        {
+          "type": "prose",
+          "text": "**Нижний Город** — плебс, рабы, иноземцы. Рынки, инсулы по шесть этажей, в которых живут как сельди в бочке. Бордели, харчевни, кулачные арены. Капитан стражи Нижнего Города — должность собачья: жалование смешное, риск огромный, никто не задерживается дольше года. Зато тот, кто продержался — становится живой легендой среди плебса."
+        },
+        {
+          "type": "prose",
+          "text": "**Гавань** — отдельный пятно, со своим уставом. Здесь швартуются триремы Морского Легиона (в Военной гавани), торговые суда (в Купеческой), пиратские суда под флагом перемирия (в Сером причале). Здесь же — Морская биржа, банк Дома Паулетти, склады, конторы, таможня. Гавань живёт по ночам ярче, чем днём."
+        },
+        {
+          "type": "prose",
+          "text": "**Катакомбы** — то, что под Городом. Дренажные тоннели, склепы, заброшенные алтари, тайные ходы, кладбища (легально и нелегально). Сёстры Ordo Maleficarum знают катакомбы лучше, чем сам Город — они там воюют каждую ночь. Простой человек туда не суётся. Кто сунулся — обычно остаётся."
+        },
+        {
+          "type": "prose",
+          "text": "**Акведуки** — пять больших и десяток малых. Вода в Город идёт с гор Аппеннинских, за двести вёрст. Акведуки — гордость инженерной школы и слабое место обороны: перерубить акведук — отрезать пятно от воды на месяцы. Поэтому акведуки охраняются круглосуточно манипулами Сухопутного Легиона."
+        },
+        {
+          "type": "heading",
+          "text": "Архипелаг"
+        },
+        {
+          "type": "prose",
+          "text": "Шестьдесят семь островов к югу от Города, в тёплом море. Никогда не были покорены Империей — раз за разом Морской Легион высаживался, раз за разом был выбит обратно. Не потому что архипелажцы лучше воюют — потому что их шестьдесят семь, у них сотни бухт, тысячи скал, и они *знают свои воды*. Имперские капитаны их не знают."
+        },
+        {
+          "type": "prose",
+          "text": "**Архипелажцы** — морской народ. Дома на сваях, корабли на каждого взрослого мужчину, дети плавают раньше, чем ходят. Религия — пантеистическая, главное божество — Морская Мать. Государства как такового нет — конфедерация капитанов, советы старейшин, иногда ненадолго появляется Адмирал-Объединитель, потом всё снова рассыпается."
+        },
+        {
+          "type": "prose",
+          "text": "**Ведьмы Архипелага** — отдельная сила. Живут на маленьких отдельных островах, держат фамильяров-винджед-котов. Винджед-кот — это кошка с маленькими кожистыми крыльями, размах метра, летает плохо но летает. С ведьмой связан на крови. Через кота ведьма чувствует ветер, направление, грозовые фронты. Поэтому архипелажские капитаны платят ведьмам — за прогноз, за попутный ветер, за защиту от шторма. Имперская церковь Огня Единого считает ведьм еретичками. Брат Томас и десятки таких как он постоянно охотятся на тех ведьм, которые уплывают на материк по торговым делам."
+        },
+        {
+          "type": "prose",
+          "text": "**Пиратство** — норма. Но не варварское, а регулируемое: каждая капитанская династия имеет свой Кодекс, нарушение которого карается изгнанием из общества. Грабить нельзя у своих. Грабить можно у чужих — имперцев, будатов, северян. Заложников отпускают за выкуп, не за смерть. Это делает архипелажских пиратов одновременно ужасом купцов и предпочтительным выбором — у имперских наёмников этики меньше."
+        },
+        {
+          "type": "heading",
+          "text": "Будатский Халифат"
+        },
+        {
+          "type": "prose",
+          "text": "К востоку от Империи, за горами Сордийскими и пустыней Серебряной — Будатский Халифат. Государство веры, ислама будатского толка. Письменность — арабская. Архитектура — купольная, изразцовая, с минаретами и медресе. Города — Великий Будат (столица), Самаркун (центр торговли), Эль-Кахира (порт на Море Юга)."
+        },
+        {
+          "type": "prose",
+          "text": "**Халиф** — наследный правитель, потомок Пророка Будата (мифический основатель веры). Действующий — Халиф Абдулхаким VII, средних лет, умный, осторожный, на тонком балансе между Имперскими послами, степными ханами на севере и собственными визирями, которые мечтают каждый о своём."
+        },
+        {
+          "type": "prose",
+          "text": "**Мухарадибы** — низложенная династия, правившая до текущего Халифа. После их свержения уцелевшие либо казнены, либо в изгнании. Часть Мухарадибов осела в Империи под крылом Дома Паулетти. Часть собирает войска в южных пустынях. Часть надеется на возвращение — и финансирует подрывную деятельность."
+        },
+        {
+          "type": "prose",
+          "text": "**Алхимики Будата** — лучшие в мире. Первыми получили чёрный порох, первое огнестрельное оружие, первые сложные ядовитые смеси. Имперские шпионы Тайной Канцелярии Кесаря активно крадут будатские разработки. Будатские алхимики активно крадут имперскую сталь."
+        },
+        {
+          "type": "prose",
+          "text": "Войны с Империей — раз в поколение. Не до полного разгрома, а до изматывания. Будатские армии — лёгкая конница, лучники, мамлюки (тяжёлая ударная пехота), и таинственные **Чёрные Дервиши** — религиозный орден, который, по слухам, владеет своей магией, основанной на пустынных духах. Имперский Малефикариум считает их еретиками и противниками, но воевать с ними прямо не приходится почти никогда — Чёрные Дервиши крайне редко покидают пустыню."
+        },
+        {
+          "type": "heading",
+          "text": "Ледяные Земли"
+        },
+        {
+          "type": "prose",
+          "text": "К северу от Империи, за горами Аппеннинскими и Седыми Перевалами — Ледяные Земли. Народ **Детей Льда** — рослые (мужчины часто за два метра, женщины не намного ниже), белые волосы, голубые глаза «как небо, замёрзшее в лёд», синие глиняные татуировки на лицах и руках. Древнее народ, дружелюбен к чужим *пока чужие не приходят с оружием*."
+        },
+        {
+          "type": "prose",
+          "text": "Дети Льда живут общинами по сорок-двести человек. Государства нет, но есть **Старейшины Льда** — собрание мудрейших, которое раз в семь лет собирается у Северного Корня (огромного древнего ясеня в центре Ледяных Земель). Решения Старейшин для общин не обязательны, но обычно соблюдаются."
+        },
+        {
+          "type": "prose",
+          "text": "Религия — анимистическая. Каждое дерево, каждый поток, каждый камень имеет дух. Самый священный — Северный Корень. Его охраняют двенадцать Стражей, которые меняются раз в десять лет. Быть Стражем — высшая честь."
+        },
+        {
+          "type": "prose",
+          "text": "Морская сторона Ледяных Земель — мореходы. Драккары, длинные пути, торговля и набеги. С Архипелагом у них хрупкое перемирие, с Империей — устойчивая торговля (Империя покупает их меха, серебро и янтарь; продаёт сталь и зерно). С Будатом не знакомы — слишком далеко."
+        },
+        {
+          "type": "prose",
+          "text": "Магия Детей Льда — рунная. Каждая руна — слово древнего языка, который не имеет звукового эквивалента. Руны режут на дереве, на коже, на камне. Сильнейшие резчики могут уйти в Лес и не вернуться — потому что прорезали свою судьбу слишком глубоко."
+        },
+        {
+          "type": "heading",
+          "text": "Восточные Княжества"
+        },
+        {
+          "type": "prose",
+          "text": "Узкая полоса между Империей и Будатским Халифатом — буферные княжества. Древние, мелкие, постоянно сменяемые. **Княжество Сордис, Княжество Эфра, Княжество Каркес, Княжество Самир-под-Горой** и ещё с десяток. Каждое — двести-тысяча воинов, один город-крепость, кучка деревень."
+        },
+        {
+          "type": "prose",
+          "text": "Это **классическое европейское рыцарское фэнтези**. Замки на скалах, рыцари в латах, феоды, мечи на стенах в Большом Зале, странствующие паладины, таинственные леса, в которых живёт что-то, что лучше не тревожить. Дворянство у княжеств — собственное, более старое, чем имперское в провинциях. Княжеские роды восходят к до-имперским временам — те самые племенные вожди, которые в Эпоху Войн откупились от Кесаря данью, сохранив автономию."
+        },
+        {
+          "type": "prose",
+          "text": "Княжества играют в политику обоих империй. Шлют послов в Вечный Город, шлют послов в Будат, заключают браки с обеими сторонами, продают одной то, что украли у другой. Это их способ выживать."
+        },
+        {
+          "type": "prose",
+          "text": "Магически — пёстрая каша. Где-то остатки старых культов, где-то Будатские дервиши проникли с проповедями, где-то Огнь Единый поставил миссию. Малефикариум здесь работает мало — слишком много суверенитетов, в каждый не сунешься. В княжестве Эфра, по слухам, до сих пор стоит древний храм Лесной Госпожи, который имперская церковь не смогла снести: четыре экспедиции пропали без вести."
+        },
+        {
+          "type": "prose",
+          "text": "Для мастера: княжества — идеальная локация для рыцарских историй, интриг, шпионажа, тайных операций. Если игроки любят дуэли, феодальную политику и таинственный лес — везите их в Сордис или Эфру."
+        },
+        {
+          "type": "heading",
+          "text": "Северо-Восточные Степи"
+        },
+        {
+          "type": "prose",
+          "text": "Между Империей, Будатом и Ледяными Землями раскинулась гигантская степь. Здесь живут **степные ханства** — десятки кочевых племён, объединённых в свободные конфедерации. Раз в поколение появляется великий хан, который объединяет племена и идёт на Империю или Будат — тогда история записывает войну. В остальное время степи торгуют лошадьми, конями, мехами, ловчими птицами."
+        },
+        {
+          "type": "prose",
+          "text": "**Степняки** — лёгкая конница, мастера лука. Не покоряются никому надолго. Не строят городов (несколько торговых поселений у границ — исключение). Религия — шаманистская, с поклонением Вечному Небу и духам-предкам. Шаманы степей умеют входить в транс и говорить с духами буквально — это известно, потому что несколько шаманов в плену у Малефикариума подтвердили это под пытками, прежде чем умереть."
+        },
+        {
+          "type": "prose",
+          "text": "Для мастера: степи — отличная локация для кампаний «Имперский легион против бесконечной конницы», для авантюр в духе торгового каравана, для мистических историй про шаманские посвящения. Великое Небо — отдельный религиозный пласт, который Имперская церковь не понимает и боится больше, чем понятный ей Будатский ислам."
+        },
+        {
+          "type": "heading",
+          "text": "Заокеанские Колонии"
+        },
+        {
+          "type": "prose",
+          "text": "К западу за Великим Океаном — земли, которые имперские мореходы открыли двести лет назад. **Колония Новая Олимпия** — единственное крупное поселение, около ста тысяч жителей. Управляется Имперским Наместником, формально подчиняется Кесарю, фактически — самостоятельна (далеко, медленно, дорого слать приказы)."
+        },
+        {
+          "type": "prose",
+          "text": "Земли богаты: золото, серебро, странные растения, неизвестные звери, **аборигены** разных народов. Часть аборигенов воюет с колонией. Часть торгует. Часть была обращена в Огнь Единый брат-миссионерами."
+        },
+        {
+          "type": "prose",
+          "text": "В колонии активно действует Гильдия Тонких Искусств — здесь меньше надзора Кесаря, легче проворачивать дела. Здесь же — несколько Малефиков в изгнании, которым в Империи стало слишком жарко. Здесь же — несколько святынь местных богов, которые имперским жрецам не нравятся, но и сил вычистить их у имперской церкви на таком расстоянии нет."
+        },
+        {
+          "type": "prose",
+          "text": "Для мастера: Колонии — идеальный сеттинг для приключенческих историй в духе позднего колониального фронтира. Имперское высокомерие, аборигены, золото, малярия, лес, в котором живёт что-то."
+        },
+        {
+          "type": "heading",
+          "text": "ИСТОРИЯ"
+        },
+        {
+          "type": "heading",
+          "text": "Эпоха Основания (год 0 от основания Города)"
+        },
+        {
+          "type": "prose",
+          "text": "Легендарный основатель — **Ромул Лютый**. Военачальник одного из коренных племён, объединивший двенадцать кланов вокруг семи холмов. Убил своего брата-соправителя Рема в спорной истории — по одной версии за измену, по другой за то, что Рем перепрыгнул не достроенную стену будущего Города в ритуальном жесте презрения. Стал первым Кесарем. Правил девяносто два года, что в эпоху, когда обычная продолжительность жизни — сорок лет, считается невозможным. Историки Великой Библиотеки полагают, что под именем «Ромул Лютый» правили несколько человек, между которыми династия не делала разницы; альтернативная версия — что Ромул был Носителем Искры и пил из Источника. Обе версии не доказуемы."
+        },
+        {
+          "type": "heading",
+          "text": "Эпоха Войн (год 1 — год 320)"
+        },
+        {
+          "type": "prose",
+          "text": "Триста лет постоянной экспансии. Город захватывает окружающие племена, доходит до моря, строит первый флот, начинает выходить за пределы изначальной долины. Войны с этрусками, латинами, самнитами — каждое из этих племён имело свою столицу, свой пантеон, свои легенды; все были постепенно поглощены или истреблены. К концу периода — три провинции, армия в пять легионов, флот в восемьдесят трирем, население Города около двухсот тысяч."
+        },
+        {
+          "type": "heading",
+          "text": "Эпоха Морских Походов (год 320 — год 480)"
+        },
+        {
+          "type": "prose",
+          "text": "Освоение Архипелага (неудачное), Будатского побережья (частично удачное — захвачена Эль-Кахира на полтора века, потом отбита), Ледяных Земель (мирная торговля, имперские агенты проникают вглубь). Открытие Заокеанских колоний (год 472). Это эпоха, когда формируется Морской Легион как отдельная сила, отдельный кодекс, отдельная гордость."
+        },
+        {
+          "type": "heading",
+          "text": "Эпоха Кесарей-Магов (год 480 — год 640)"
+        },
+        {
+          "type": "prose",
+          "text": "Период, когда несколько Кесарей подряд оказались Носителями Искры или приближены к Источникам. Кесарь Анастасий (отказался от пиростиков, см. выше), Кесарь Феликс (учредил «Кодекс Алхимика» — свод законов, регулирующих изготовление зелий, ядов и порохов на территории Империи; нарушение — каторга на серебряные рудники), Кесарь Сильвестр (построил Великую Библиотеку в нынешнем виде, объединив три более ранних книгохранилища), Кесарь Аврелий (основал Ordo Maleficarum для борьбы с демоническими пактами Малефиков). Это золотой век Империи — стабильность, расширение, расцвет искусств и магии под контролем государства."
+        },
+        {
+          "type": "heading",
+          "text": "Эпоха Раскола (год 640 — год 780)"
+        },
+        {
+          "type": "prose",
+          "text": "Гражданская война между двумя ветвями династии после смерти бездетного Кесаря Лукиана. Шестьдесят лет вражды Старших Домов, два разных Кесаря коронуются в один год, провинции отпадают, Колонии фактически выходят из подчинения. Заканчивается компромиссом: Старшие Дома согласовывают выборного Кесаря (Аугуста Восстановителя), который правит чисто символически, оставляя реальную власть Совету Старших Домов."
+        },
+        {
+          "type": "heading",
+          "text": "Эпоха Восстановления (год 780 — год 920)"
+        },
+        {
+          "type": "prose",
+          "text": "Восемь Кесарей за этот период, все из Старших Домов, по очереди. Империя медленно восстанавливает влияние. Большая часть Колоний возвращена под имперскую руку. Будатский Халифат набирает силу — это новый и страшный враг, к войне с которым ещё никто не привык. Малефикариум становится самостоятельной силой, почти как Сенат — Domina Interrogator Magna (главная инквизиторка) приравнена по чину к консулу."
+        },
+        {
+          "type": "heading",
+          "text": "Текущая эпоха (год 920 — настоящее, год 1024 ab urbe condita)"
+        },
+        {
+          "type": "prose",
+          "text": "Сто лет относительной стабильности с двумя крупными войнами с Будатом (одна выигранная, одна вничью), несколькими восстаниями в Колониях, перманентной пограничной войной с Архипелагом. **Действующий Кесарь — Юстиниан VI**, шестьдесят два года, на престоле уже двадцать один год. Образован, осторожен, склонен к интригам больше, чем к войнам. Овдовел восемь лет назад — после смерти Кесариссы Меланции, которую он любил больше, чем приличествует Кесарю. С тех пор не женился — что нервирует Старшие Дома: у него только одна наследница, **Кесаревна Аэлита**, семнадцати лет."
+        },
+        {
+          "type": "prose",
+          "text": "Аэлита — та самая «шестнадцатилетняя, обманувшая посланников Патрициев». Теперь ей семнадцать. Тонкий ум, образование в Великой Библиотеке (выучилась «нужным» книгам, как полагается, но втайне читала и тайные — Архивариус Велизарий ей попустительствует, потому что она единственная за тридцать лет, кто *понимает*, что читает). Не замужем — все три предложения от Старших Домов отклонила, и каждый раз — публично, с тонким унижением для предложивших. Кесарь это поощряет (он сам хочет выбрать ей жениха) и боится (если он умрёт раньше, чем выберет, Старшие Дома разорвут Аэлиту между собой как голодные псы)."
+        },
+        {
+          "type": "prose",
+          "text": "Интрига последнего года: посланник Будатского Халифата Абдул эль-Хаджи привёз письмо от Халифа Абдулхакима VII — официальное предложение династического брака между Аэлитой и наследным принцем Будатского престола Юсуфом. Кесарь публично ответил уклончиво, неофициально — был в ярости. Но среди Старших Домов часть (Паулетти, Лебедевы) выступила *за*: династический мир с Будатом выгоден торговцам, а они контролируют золото. Часть (Шереметевы, Голицыны, Воронцовы) — *против*: брак с иноверцем оскорбит Огнь Единый, и церковь поднимется. Дом Паулетти давно играет долгую игру — поговаривают, что они даже финансируют Мухарадибов в надежде вернуть прежнюю династию Будата, более лояльную к торговле."
+        },
+        {
+          "type": "prose",
+          "text": "В катакомбах под Городом происходит что-то новое: за последние два года втрое возросло число «инцидентов» — встреч с демоническими сущностями, исчезновений, странных видений у прохожих над определёнными точками. Sister Аделаида, Domina Interrogator, ведёт расследование. Её гипотеза: кто-то из Малефиков пытается открыть **Большую Дверь** — древний демонический пакт, печать которого лежит в забытом нижнем уровне катакомб, под форумом, под алтарём Огня Единого, под слоями кладбищ."
+        },
+        {
+          "type": "prose",
+          "text": "Это и есть текущий мир, в котором играют игроки. Конкретный момент истории, в который мастер может вонзить любой свой сюжет."
+        }
+      ]
+    },
+    {
+      "id": "demonid-vestnik",
+      "title": "Демонид-Вестник",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Демонид-Вестник"
+        },
+        {
+          "type": "prose",
+          "text": "**Тип:** Демон, низший · **Сеттинг:** Вечный Город"
+        },
+        {
+          "type": "prose",
+          "text": "Демонид-Вестник — низший демон, ростом с крупную крысу, чёрный, с непомерно длинными пальцами и большими тёмными глазами без белка. Пасть имеет странную, многослойную, в неё умещается больше, чем должно физически. Питается **сновидениями** живых. Не убивает — пьёт по капле. Жертва обычно даже не замечает, что чего-то лишилась: просто перестаёт видеть сны, постепенно теряет ощущение лёгкости утра, становится раздражительной, а через несколько месяцев начинает деградировать ментально."
+        },
+        {
+          "type": "prose",
+          "text": "Призывается малыми ритуалами — самые слабые из Малефиков начинают именно с Демонидов-Вестников, чтобы привыкнуть к ощущению демонической связи. Часто используется для шпионажа: подсаженный во сне Демонид-Вестник запоминает фрагменты сновидений жертвы, потом возвращается к призвавшему и пересказывает их через специальный ритуал. Кесарь Аврелий держал в страхе весь Сенат, потому что владел десятком Демонидов-Вестников, которых рассылал по спальням оппонентов."
+        },
+        {
+          "type": "prose",
+          "text": "В катакомбах Вечного Города их сейчас довольно много — следствие активности неизвестных Малефиков. Sister Аделаида ловит их регулярно: маленькие клетки, освящённое серебро, святая вода."
+        },
+        {
+          "type": "vignette",
+          "text": "Декан Лонгин проснулся в четвёртом часу ночи от того, что под подушкой шевелилось. Он не сразу осознал, что подушка тут ни при чём — шевелилось *воспоминание*. Тёплое, конкретное, чужое: рука матери, гладившая его волосы. Только мать умерла двадцать лет назад, и ту руку он помнил холодной, восковой, перед похоронами. Не тёплой. Никогда тёплой. Он сел в постели. На подоконнике сидело что-то размером с крупного крысёныша, с длинными пальцами и тёмными мокрыми глазами. Когда оно открыло пасть, изнутри посыпались осколки чужих снов: чей-то поцелуй, чьё-то падение с башни, чей-то смех на свадьбе, чей-то крик. Демонид-Вестник держал в лапах маленький мешочек — и набирал туда свежесмаканный сон Лонгина, по капле. Лонгин дотянулся до посоха. Святой огонь в навершии посоха проснулся медленно — Лонгин не был сильным жрецом. Когда он встал, демонид уже исчез, успев забрать ровно столько, сколько ему сегодня было нужно. Лонгин не помнил, что снилось ему в последний час. Не помнил никогда — потому что демонид приходил уже шестую ночь подряд, а Лонгин ни разу не успевал."
+        },
+        {
+          "type": "heading",
+          "text": "Игромеханика"
+        },
+        {
+          "type": "prose",
+          "text": "- Хитпойнты: 1 пункт (легко убивается, если попасть)\n- АС: 14 (мелкое, шустрое, увернётся)\n- Атака: 1d4 урона + жертва теряет 1 пункт сна за каждый день, проведённый под влиянием (восстановление — 1d6 дней после прекращения контакта)\n- Сопротивления: невосприимчиво к ментальному воздействию, страху, очарованию\n- Уязвимости: святой огонь, освящённое серебро, имя истинное (если известно)\n- Особая способность: «Сонная Завеса» — жертва не помнит присутствия демонида, если не разбужена в момент его кормления\n- Призыв: ритуал длится 1 час, требует 3 капли крови призывающего, стоит призывающему 1 неделю собственной жизни\n---"
+        }
+      ]
+    },
+    {
+      "id": "vindzhed-kot",
+      "title": "Винджед-Кот (Фамильяр Архипелажских Ведьм)",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Винджед-Кот (Фамильяр Архипелажских Ведьм)"
+        },
+        {
+          "type": "prose",
+          "text": "**Тип:** Магическая тварь, малая · **Сеттинг:** Архипелаг, частично Вечный Город (с ведьмами-эмигрантками)"
+        },
+        {
+          "type": "prose",
+          "text": "Винджед-Кот — кошка с парой кожистых перепончатых крыльев на спине, размах около метра. Летает плохо, недалеко, но летает. Происхождение неясно: одни считают, что это древняя порода, выведенная морскими магами эпохи до Имперской экспансии, другие — что это была случайная мутация, закреплённая селекцией ведьмами Архипелага."
+        },
+        {
+          "type": "prose",
+          "text": "Винджед-Коты живут в дикой природе как обычные кошки — на побережье, на маленьких островах, охотятся на рыбу и мелких птиц. Но любой винджед-кот *чувствует* потоки воздуха над водой задолго до того, как они доходят. Это и делает их бесценными как фамильяров: ведьма, связанная с винджед-котом ритуалом крови, получает доступ к этой способности на расстоянии. Кот может улететь за сотни вёрст, и ведьма продолжает чувствовать через него ветер, грозу, направление."
+        },
+        {
+          "type": "prose",
+          "text": "Ведьмы Архипелага носят свои фамильяры с собой только в опасных путешествиях. В обычной жизни кот живёт сам по себе, прилетая к ведьме раз в неделю-две за молоком и лаской. Если ведьма умирает, фамильяр часто гибнет в течение нескольких дней — связь обрывается, и кот теряет волю к жизни."
+        },
+        {
+          "type": "prose",
+          "text": "В Империи винджед-коты вне закона: Ordo Ignis Unius считает их ведьминскими тварями, тождественными демонической природе. Брат Томас и подобные ему охотятся на любого винджед-кота, найденного на материке. На Архипелаге, разумеется, это никого не волнует."
+        },
+        {
+          "type": "vignette",
+          "text": "Капитан Лоренцо дей Конти держал в руках чёрно-белого кота с маленькими кожистыми крыльями, сложенными на спине. Кот не сопротивлялся — он *смотрел*. Глаза у него были не кошачьи: радужка золотая, зрачок не вертикальный, а круглый, в три кольца. Лоренцо не любил, когда на него *так* смотрели, и хотел уже отпустить кота — но кот поднял лапу и аккуратно, без когтей, тронул его за грудину. И Лоренцо понял, что через десять минут с юго-востока придёт шквал. Не подумал — *понял*, как понимают, что вода мокрая. Через десять минут с юго-востока пришёл шквал. Лоренцо успел сменить галс, спустить главный парус и привязать груз. «Сперанца» легла на ветер и пережила шквал без потерь. Когда буря ушла, кот спрыгнул с руки Лоренцо и улетел в направлении ближайшего острова. Лоренцо знал, что там живёт ведьма. Он не знал, какая. На следующей стоянке он привезёт ей две амфоры архипелажского вина — она поймёт, за что."
+        },
+        {
+          "type": "heading",
+          "text": "Игромеханика"
+        },
+        {
+          "type": "prose",
+          "text": "- Хитпойнты: 8\n- АС: 15\n- Атака: когти 1d4\n- Особые способности:\n- «Чувство ветра» — связанная ведьма получает +5 к броскам на навигацию и предсказание погоды, дистанция действия до 500 вёрст\n- «Полёт» — медленный, низкий, около 8 м/раунд\n- «Связь крови» — гибель кота наносит ведьме урон 2d6 и состояние «истощённая» на сутки\n- Цена обучения: ведьмы Архипелага продают щенков винджед-кошек за 50-100 золотых. На материке цена вдесятеро выше (контрабанда).\n---"
+        }
+      ]
+    },
+    {
+      "id": "imperskiy-grifon",
+      "title": "Имперский Грифон",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Имперский Грифон"
+        },
+        {
+          "type": "prose",
+          "text": "**Тип:** Магическая тварь, крупная · **Сеттинг:** Аппеннинские горы, частично Ледяные Земли, имперская воздушная кавалерия"
+        },
+        {
+          "type": "prose",
+          "text": "Имперский Грифон — крупная магическая тварь, гибрид орла и льва (тело и задние лапы — львиные, голова, передние когти и крылья — орлиные). Размах крыльев у взрослого — четыре-пять метров. Вес — пятьсот-семьсот фунтов. Способен нести всадника с полным снаряжением. Дикие грифоны живут в горах: Аппеннинские, Северные Ледяные хребты, Будатские пустынные нагорья. Едят горных козлов, оленей, иногда нападают на пастухов и одиноких путников."
+        },
+        {
+          "type": "prose",
+          "text": "Имперские грифоны — отдельная история. **Имперская Грифонья Когорта** — небольшое подразделение Сухопутного Легиона, около ста двадцати грифонов и столько же всадников, базируется в крепости Castrum Avis в трёх днях пути от Города. Грифоны Когорты — выведены за столетия из диких, селективно отобраны на лояльность и контактность с человеком. Не приручены полностью — каждый грифон выбирает своего всадника сам, и связь длится до смерти одного из двоих. Если всадник погибает, грифон либо берёт нового кандидата из юных рекрутов (редко), либо уходит обратно в горы."
+        },
+        {
+          "type": "prose",
+          "text": "Тренировка пары «грифон-всадник» — три года. Из ста кандидатов до конца доходят семь-десять. Остальные либо не выбраны грифонами, либо погибают в обучении (грифон, не принявший всадника, может убить его на втором месяце дрессировки — это случается раз в год). Те, кто прошёл — становятся имперской элитой. Декурион Грифоньей Когорты стоит выше центуриона обычного легиона по чести (хотя ниже по уставному званию). Жалованье — в три раза выше пехотного. Жизнь — короткая, но яркая."
+        },
+        {
+          "type": "prose",
+          "text": "Грифоны используются для: разведки на дальние расстояния, перевозки срочных приказов (грифон обгонит любого гонца на лошадях), точечных ударов по командирам противника в полевом сражении, охоты на горных контрабандистов и беглых рабов, патрулирования крупных границ. В крупном бою — не основная сила, потому что грифоны уязвимы к стрелам и арбалетным болтам с земли."
+        },
+        {
+          "type": "prose",
+          "text": "Будатский Халифат тоже владеет грифонами, но меньшим количеством — у них около сорока. Их грифоны крупнее имперских (выведены другой ветвью), но менее дисциплинированы. Дикие грифоны иногда нападают на караваны в горах — стандартная угроза для торговых путешествий."
+        },
+        {
+          "type": "vignette",
+          "text": "Декурион Тит Корвин стоял у каменного карниза на третьем уступе горы Соласкур и ждал. Внизу, в трёх вёрстах под ним, шла колонна — будатские контрабандисты, восемь верблюдов, четырнадцать вооружённых охранников. Они уходили через Сордийский перевал, надеясь, что зимой имперских патрулей здесь нет. Они были правы — патрулей нет. Здесь есть только Тит и пара его братьев. Большего и не надо. Тит свистнул негромко, дважды. Из глубокой расщелины над ним раздалось ответное эхо — не свист, а гортанное, дребезжащее урчание. Через секунду в воздухе появилась тень, потом ещё две. Имперские Грифоны, всадниками которых были Тит и его братья, начали спуск. Виргиния, его кобыла-грифон, медленно сложила крылья и шла к нему по карнизу боком, как делают грифоны на узких уступах. Тит положил ладонь ей на лоб. Она наклонила голову, ткнулась клювом ему в плечо — узнавание, доверие, готовность. Тит вскочил в седло. Виргиния прыгнула с уступа. Когда контрабандисты увидели три тени над собой, было уже поздно. Грифон бьёт сверху — клюв в шлем, когти в плечи, удар крыла сметает соседнего. Тит работал копьём с седла, его братья — луками. Через минуту с верблюдов спрыгивали последние двое — и эти двое успели достать пиростики, успели поджечь фитили. Не успели выстрелить — Виргиния отбила одного клювом, грифон Лука Гая ударил второго когтями. Контрабанда осталась лежать в снегу: ткани из Самаркуна, шёлк, мешки серебряной краски, и — что особенно интересно — три ящика с пиростиками будатской работы. Прямой нарушение Кодекса Алхимика. Тит улыбнулся. Виргиния тоже улыбнулась — на свой грифоний манер, открыв клюв и щёлкнув им."
+        },
+        {
+          "type": "heading",
+          "text": "Игромеханика"
+        },
+        {
+          "type": "prose",
+          "text": "- Хитпойнты: 80-120 (взрослый), 40-60 (молодой)\n- АС: 16 (естественная броня + ловкость)\n- Атака 1: клюв 2d6+5\n- Атака 2: когти 2d8+5 (две атаки в раунд, если не двигается на земле)\n- Атака 3: удар крылом 1d10+5 (сбивает с ног — спасбросок силы DC 16)\n- Скорость: 12 м/раунд (наземная, бег), 24 м/раунд (полёт)\n- Особая способность 1: «Атака с пикирования» — при ударе с высоты добавляет +3d6 урона\n- Особая способность 2: «Острое зрение» — видит цель размером с человека за 8 вёрст в ясную погоду\n- Особая способность 3: «Узы всадника» — пара «грифон+всадник» получает +2 ко всем броскам в бою, если оба живы и в сознании\n- Уязвимости: магические сети (специально для воздушной кавалерии, применяет Будатский Халифат), массированный стрелковый огонь (10+ лучников = верная смерть)\n---"
+        }
+      ]
+    },
+    {
+      "id": "gornyy-troll",
+      "title": "Горный Тролль Ледяных Земель",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Горный Тролль Ледяных Земель"
+        },
+        {
+          "type": "prose",
+          "text": "**Тип:** Великан, крупный · **Сеттинг:** Ледяные Земли, северные хребты Аппеннин"
+        },
+        {
+          "type": "prose",
+          "text": "Горный Тролль — гигантское прямоходящее существо ростом четыре-пять метров, серой каменисто-кожаной шкурой, с громадными лапами и непропорционально маленькой головой. Живут поодиночке или парами в высокогорных пещерах. Питаются всем что движется: оленями, лосями, медведями, людьми, друг другом. Не разумны в человеческом смысле — но хитры, как старые волки. Знают свои тропы, помнят запахи, умеют ставить простейшие засады (бревно на склоне, припорошенная снегом яма)."
+        },
+        {
+          "type": "prose",
+          "text": "Главная страшилка троллей — **регенерация**. Раны затягиваются на глазах. Сломанная рука срастается за час. Отрубленная конечность отрастает за день, если тролль успел уйти и поесть. Убить тролля можно только огнём (полностью сжечь тело) или **прямым солнцем** (хотя это легенда, в которую верят только дети Детей Льда — большинство троллей спокойно гуляют в ясный день)."
+        },
+        {
+          "type": "prose",
+          "text": "Дети Льда живут с троллями в неустойчивом равновесии веками. Старейшины знают тропы троллей и обходят их. Молодые охотники иногда устраивают облавы — каждая четвёртая облава заканчивается похоронами одного из охотников. Имперские экспедиции в Ледяные Земли тоже знакомы с троллями: легенда **«Аппеннинская Резня»** — это про когорту легионеров, попавшую в зимний перевал и потерявшую сорок человек за одну ночь от трёх троллей. Уцелевшие декурионы передавали следующим поколениям одно правило: *в горах ночью не двигаться. Костёр и круговая оборона. Утром искать дорогу.*"
+        },
+        {
+          "type": "vignette",
+          "text": "Северный охотник Сигурд Ольссон видел тролля только один раз и не любил вспоминать. Он шёл за лосем по верхнему склону, снег был свежий, след — чёткий. На перевале он услышал глубокий, как из бочки, кашель. Сигурд замер. За валуном, метрах в сорока, поднимался серый горб — медленно, мерно, как поднимается из воды кит. Тролль вытер морду от снега длинной лапой и понюхал воздух. Сигурд, опытный, не стал бежать — побежишь, догонит. Он медленно опустился на колено, потом на живот, и пополз обратно через свои же следы. Тролль не пошёл за ним, но три ночи Сигурд видел во сне, как над ним поднимается серый горб."
+        },
+        {
+          "type": "heading",
+          "text": "Игромеханика"
+        },
+        {
+          "type": "prose",
+          "text": "- Хитпойнты: 180-240\n- АС: 16 (естественная броня)\n- Атака 1: кулак 3d10+8\n- Атака 2: укус 2d12+6 (схватывает жертву, +захват)\n- Скорость: 9 м/раунд\n- Регенерация: 15 HP/раунд, кроме урона от огня и кислоты\n- Уязвимости: огонь (двойной урон, отключает регенерацию на 1 раунд)\n- Особая способность: «Бросок камня» — может швырять валуны на 30 метров, 2d10 урона, AoE 3м\n- Слабость: глуповат, легко обманывается простыми трюками (отвлекающий шум, ложный след)\n---"
+        }
+      ]
+    },
+    {
+      "id": "kentavr-stepey",
+      "title": "Кентавр Дальневосточных Степей",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Кентавр Дальневосточных Степей"
+        },
+        {
+          "type": "prose",
+          "text": "**Тип:** Гуманоид, крупный · **Сеттинг:** Северо-Восточные Степи, иногда заходят в Восточные Княжества"
+        },
+        {
+          "type": "prose",
+          "text": "Кентавры — древний народ степей, **разумный и культурный**. Не варвары, не дикие звери. Имеют собственный язык (родственный степному с примесью архаичной речи), собственные роды и кланы, собственную религию, очень близкую к шаманскому культу Вечного Неба. Живут малыми ордами по 20-60 особей, кочуют по своим тропам, охотятся на оленя и тура, иногда возделывают небольшие участки степи под травы для лошадиной части тела (которая, к их раздражению, требует пастбищ как у обычной лошади)."
+        },
+        {
+          "type": "prose",
+          "text": "Отношения с людьми сложные. Со степными ханами — давний союз, скреплённый обменом дочерями (кентавры не могут давать своих женщин людям, но могут принимать в свой клан человеческих женщин-волхвиц; эти женщины со временем становятся почти кентаврихами по культуре и магической связи, но физически остаются людьми). С имперцами — настороженное соседство, иногда сотрудничество (кентавры предупреждают караваны о бурях, оползнях, опасных тропах в обмен на железо и соль). С Будатом — давние враги: будатский ислам считает кентавров проявлением шайтана, и кентавры это знают."
+        },
+        {
+          "type": "prose",
+          "text": "Магически — слабы, но обладают **истинным видением Неба**. Старшие кентавры умеют читать ветер, облака, полёт птиц с точностью, недоступной человеческим гадателям. Лучшие воины-кентавры могут одной стрелой попасть в орла на лету за двести шагов. Их луки — особые, длинные, изогнутые, делаются из ясеня и сухожилий тура; человеку такой лук не натянуть."
+        },
+        {
+          "type": "vignette",
+          "text": "Караван-баши Эфра Балканинов остановил свою караваниху и поднял ладонь. Перед ним, на гребне холма, стояли четверо. Не люди и не звери — *выше* человека вдвое, до пояса человеческий торс с длинными прямыми волосами, ниже — лошадиное тело с тёмно-каштановой шкурой. Один из них был украшен бронзовыми браслетами на руках и плетёным ремнём через грудь. На том же ремне висел длинный изогнутый лук и колчан. Караванщики напряглись. Эфра остался спокоен. Он медленно поднял правую руку открытой ладонью к стоящим. Прошла секунда, две. Передний кентавр медленно поднял свою, тоже открытую. После этого приблизился — спокойно, не бегом, шагом — спустился по склону, остановился в десяти шагах. Спросил на ломаном имперском: «Куда идёте? Что везёте?» Эфра ответил: «В Сордис. Везём шёлк и пряности.» Кентавр кивнул и сказал: «Сегодня нельзя на восток через перевал Хатур. Идите северной дорогой. Там лучше.» И ушёл. Через два часа Эфра услышал отдалённый гром. На перевал Хатур обрушился оползень."
+        },
+        {
+          "type": "heading",
+          "text": "Игромеханика"
+        },
+        {
+          "type": "prose",
+          "text": "- Хитпойнты: 60-90\n- АС: 14 (кожаная броня)\n- Атака 1: длинный лук 2d8+3 (дальность 200 м)\n- Атака 2: ятаган в рукопашной 2d6+4\n- Атака 3: удар копытами (на бегу) 2d8+5\n- Скорость: 18 м/раунд (галоп — 30 м/раунд на коротких отрезках)\n- Особая способность 1: «Чтение Неба» — старший кентавр предсказывает погоду на сутки, опасности на местности, общую тенденцию событий\n- Особая способность 2: «Меткий выстрел» — раз в бой, гарантированный крит с лука\n- Слабость: гордость; не нападёт первым, если не оскорблён, но при оскорблении ярость неконтролируема\n---"
+        }
+      ]
+    },
+    {
+      "id": "garpiya",
+      "title": "Гарпия Архипелажских Скал",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Гарпия Архипелажских Скал"
+        },
+        {
+          "type": "prose",
+          "text": "**Тип:** Аберрация, средняя · **Сеттинг:** Архипелаг, дальние южные острова Будата"
+        },
+        {
+          "type": "prose",
+          "text": "Гарпии — древняя раса крылатых аберраций, женского пола (мужчин в своей расе у них нет; размножаются захватом мужчин-моряков, которых утаскивают на скалы, удерживают до момента зачатия, после чего съедают). Тело размером с подростка, кожа серая, волосы чёрные слипшиеся, лицо красивое только издалека (вблизи — пасть с двойным рядом мелких зубов, глаза без белка). Крылья — два-три метра в размахе, перьевые, чёрные."
+        },
+        {
+          "type": "prose",
+          "text": "Главное оружие — **голос**. Гарпии поют на древнем языке, и пение это пробивает разум всех мужчин-людей в радиусе ста метров. Жертва теряет волю, идёт на голос, бросается в воду, лезет на скалы. У женщин эффект слабее, но тоже есть. Защита — закрыть уши (восковые шарики, плотный тюрбан) или иметь сильную волевую связь с конкретным человеком, который дёрнет за собой."
+        },
+        {
+          "type": "prose",
+          "text": "Гнездятся колониями по 3-9 особей на отвесных скалах. Едят мясо моряков, рыбу, морских птиц. Хищники, но не глупы — знают, что корабль с открытыми ушами трогать опасно. Иногда годами не тревожат проходящие суда, потом за месяц нападают пять раз подряд. Капитаны Архипелага не плавают мимо известных гнездовий без предосторожностей. Имперский Морской Легион проводит раз в десятилетие зачистку самых опасных участков — высаживаются с заткнутыми ушами и арбалетами, выжигают гнёзда. Но гарпий это не уничтожает: всегда возвращаются."
+        },
+        {
+          "type": "vignette",
+          "text": "«Сперанца» шла на Пироспа́льный маяк уже третий час, и капитан Лоренцо дей Конти знал, что вот-вот покажутся Чёрные Сёстры — три скалы у южного конца Скуар-острова. Когда они показались, моряки уже сжимали в руках восковые шарики — закладывать в уши. Лоренцо предупредил их вчера. Сёстры — это не просто скалы. С первой скалы раздался голос. Женский. Высокий, чистый, почти детский. Он пел на языке, которого Лоренцо не знал — но мелодия влекла. Один молодой матрос, не успевший заткнуть уши, начал двигаться к борту, медленно, как во сне. Лоренцо ударил его обухом сабли по голове — без злобы, чтобы спасти. С двух других скал поднялись тёмные силуэты на крыльях. «Лучники!» — рявкнул Лоренцо. Три арбалета щёлкнули одновременно. Один силуэт упал в море. Два других, увидев потерю, развернулись и улетели. Сёстры замолчали. Их голод этим вечером кормить не пришлось."
+        },
+        {
+          "type": "heading",
+          "text": "Игромеханика"
+        },
+        {
+          "type": "prose",
+          "text": "- Хитпойнты: 50-70\n- АС: 14 (быстрая, увёртливая)\n- Атака 1: когти 2d6+2 (две атаки в раунд в полёте)\n- Атака 2: укус 1d8+1\n- Скорость: полёт 18 м/раунд, наземная 4 м/раунд (на земле неуклюжа)\n- Особая способность: «Пение Чёрных Сестёр» — все мужчины в радиусе 100 м спасбросок воли DC 16, при провале идут к гарпии и подставляют горло; женщины — DC 12\n- Сопротивления: страх, ментальное воздействие\n- Уязвимости: огонь, стрелы (часто гибнет от одного хорошего выстрела), физическое оглушение в воздухе\n- Слабость: на земле почти беспомощна, не может взлететь без разбега 5 метров\n---"
+        }
+      ]
+    },
+    {
+      "id": "dzhinn-budata",
+      "title": "Джинн Пустынь Будата",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Джинн Пустынь Будата"
+        },
+        {
+          "type": "prose",
+          "text": "**Тип:** Стихийный дух, крупный · **Сеттинг:** Будатский Халифат, иногда — Восточные Княжества и пустыни на юге Архипелага"
+        },
+        {
+          "type": "prose",
+          "text": "Джинны — древние стихийные духи, рождённые из огня и ветра пустыни. До прихода единобожия Будата они правили пустынями свободно — обманывали путников, играли с караванами, любили человеческих женщин и оставляли полукровок, которые в Будате до сих пор называются **мизрахи** и часто рождаются магически одарёнными. Пророк Будат провёл великий ритуал и заключил большую часть джиннов в **сосуды Сулеймана** — это медные и серебряные кувшины, разбросанные по пустыне. Кто откроет — выпустит джинна; джинн обязан исполнить одно желание открывшего, после чего свободен."
+        },
+        {
+          "type": "prose",
+          "text": "Сейчас в пустынях Будата гуляет около двух тысяч **свободных джиннов** (те, что не были пойманы Пророком, или те, чьи сосуды уже открывали в прошлые века). Есть три ранга: - **Малые джинны** (зикры) — мелкие духи, размером с ребёнка, могут поднять небольшую песчаную бурю, обмануть зрение - **Средние джинны** (марды) — мужские торсы размером с двух людей, могут перемещаться по воздуху на сотни вёрст, исполняют небольшие желания, но всегда с подвохом - **Старшие джинны** (ифриты) — древние, мощные, размером с башню в виде пламени или дыма, могут менять рельеф местности на больших расстояниях"
+        },
+        {
+          "type": "prose",
+          "text": "Главное правило взаимодействия с джинном — **формулировка**. Джинн исполнит буквальный текст желания, причём всегда таким способом, который причиняет максимальный вред просителю. Будатские медресе учат специальные курсы «джинн-договор»: как формулировать желание, чтобы не быть обманутым. Опытный купец, нашедший сосуд, обычно его *не открывает* — отвозит в Великий Будат и продаёт за хорошие деньги учёным."
+        },
+        {
+          "type": "vignette",
+          "text": "Купец Касим эль-Хаджи нашёл медный сосуд на седьмой день в пустыне Серебряной, когда его караваниха умерла и сам он умирал от жажды. Сосуд был полупогружён в песок, древний, в патине, с печатью Сулеймана-царя. Касим узнал печать. Касим читал старые тексты. Касим знал, что **открывать нельзя**. Он также знал, что умирает. Он открыл. Из сосуда поднялся столб дыма, в котором проступили очертания — мужской торс синего цвета, без ног, с чалмой, в которой сверкал рубин размером с яблоко. Голос джинна был огромен, как буря: «Я — Замир, заключённый Сулейманом-царём тысячу лет назад за гордыню. Чего ты хочешь, смертный?» Касим сказал: «Жизни. Воды. Дороги домой.» Замир улыбнулся — у джиннов это страшно. «Хорошо. Получи воду.» И исчез. Через минуту с неба полил дождь. Касим напился. Касим напоил верблюда из лужи у своих ног. Дождь шёл всё сильнее. Через час пустыня превратилась в реку. Касим утонул вместе с верблюдом. Замир смотрел из дыма и смеялся — *он же просил воды*."
+        },
+        {
+          "type": "heading",
+          "text": "Игромеханика"
+        },
+        {
+          "type": "prose",
+          "text": "- Хитпойнты: 60 (зикр) / 120 (мард) / 250+ (ифрит)\n- АС: 16 (стихийное тело)\n- Атаки: огненный кулак 2d10+5 (мард), пламенный шторм 3d10 AoE (ифрит)\n- Скорость: полёт 12 м/раунд (мард), 18 м/раунд (ифрит)\n- Сопротивления: огонь, физический урон (половина), очарование, страх\n- Уязвимости: вода (двойной урон), холод, истинное имя (если известно — джинн подчиняется ему как абсолютному приказу)\n- Особая способность 1: «Желание» (только сразу после открытия сосуда) — исполняет дословное желание, всегда с худшим возможным толкованием\n- Особая способность 2: «Песчаная буря» (мард, ифрит) — поднимает бурю на 1 версту, видимость до нуля\n- Слабость: тщеславие; джинн не выдержит вызова на состязание (загадки, поэзия, шахматы), а в состязании можно его перехитрить\n---"
+        }
+      ]
+    },
+    {
+      "id": "tarsus-chesuychatyy",
+      "title": "Тарсус Чешуйчатый (Дракон-Страж Аппеннин)",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Тарсус Чешуйчатый (Дракон-Страж Аппеннин)"
+        },
+        {
+          "type": "prose",
+          "text": "**Тип:** Дракон, гигантский, легендарный · **Сеттинг:** Аппеннинские хребты, спящий"
+        },
+        {
+          "type": "prose",
+          "text": "**Тарсус Чешуйчатый** — последний из **Древних Драконов** Аппеннинских хребтов. Дракон возрастом более двух тысяч лет (старше самой Империи), длиной от носа до кончика хвоста — около ста двадцати метров. Чешуя — медно-красная, в патине, тверже имперской стали. Глаза — два рубина размером с человеческую голову. Изрыгает не пламя, а **расплавленный камень** (магма, температура около тысячи градусов)."
+        },
+        {
+          "type": "prose",
+          "text": "Тарсус спит уже четыреста лет, после того как Кесарь Аврелий ранил его в большом походе и загнал в глубокую пещеру под перевалом Сольный. Считается «спящим», но не «мёртвым». Каждые несколько лет просыпается частично — ворочается, рычит, иногда выходит наружу подышать. После активного периода снова засыпает на десятилетие."
+        },
+        {
+          "type": "prose",
+          "text": "**Угроза пробуждения** — постоянный фон имперской политики. У Кесаря в Дворце есть постоянный пост сторожевых жрецов, которые следят за «барометром Тарсуса» — древним приспособлением, изготовленным Малефиком Тиресием для Кесаря Аврелия. Шкала барометра прыгает, когда Тарсус ворочается активнее. Сейчас барометр стабилен, но Архивариус Велизарий и Sister Аделаида независимо собирают данные о возможном пробуждении."
+        },
+        {
+          "type": "prose",
+          "text": "Тарсус **разумен**, говорит на нескольких языках (имперской латыни, древнеаппеннинском, языке Детей Льда), способен на политику и переговоры. По преданию, Кесарь Аврелий не *убил* его, а *договорился* с ним — Тарсус ушёл спать на четыреста лет в обмен на сохранение его сокровищницы (которая, разумеется, осталась внутри пещеры). Если он проснётся, и сокровищница окажется тронута — это будет война. Сокровищница, по слухам, не тронута: только сумасшедшие сунутся внутрь к спящему дракону."
+        },
+        {
+          "type": "vignette",
+          "text": "Архивариус Велизарий пришёл к Кесарю Юстиниану VI в четвёртом часу утра — что считалось беспрецедентным даже для главы Великой Библиотеки. Кесарь, ещё в халате, принял его в малой приёмной. Велизарий сел. Достал старый папирус. Сказал: «Государь. Тридцать лет назад я молодым послушником записывал отчёт горного патруля. Той ночью они слышали гул в перевале Сольный. С тех пор каждые три года гул повторяется. В этом году он начался **двенадцать раз** за весну.» Кесарь молчал. Велизарий продолжил: «Государь. Это Тарсус. Он просыпается.» Кесарь налил себе вина и сказал: «Сколько у нас времени?» Велизарий сказал: «Если по летописям Кесаря Аврелия — года полтора. Если по летописям Кесаря Сильвестра — три месяца. Они расходятся в датах.» Кесарь выпил вино. Сказал: «Готовим Грифонью Когорту. Готовим Морской Легион. Готовим эвакуацию северных провинций. Поднимай Великую Библиотеку — мне нужен Меч Ромула, и быстро. Иди.»"
+        }
+      ]
+    },
+    {
+      "id": "leviafan-zaokeanskiy",
+      "title": "Левиафан Заокеанский",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Левиафан Заокеанский"
+        },
+        {
+          "type": "prose",
+          "text": "**Тип:** Морское чудовище, гигантское · **Сеттинг:** Великий Океан, чаще западное полушарие, у берегов Заокеанских Колоний"
+        },
+        {
+          "type": "prose",
+          "text": "Левиафан Заокеанский — древнейшее из существ Великого Океана. По преданиям моряков, их **трое**: один спит в северных водах, один в южных, один странствует. Длина — от ста до двухсот метров, тело — змееобразное, с гигантской головой, плавниками-вёслами и парой коротких передних лап с когтями (видимо, рудимент). Способен погружаться на километры, способен оставаться без воздуха часами."
+        },
+        {
+          "type": "prose",
+          "text": "**Не агрессивен по природе.** Не нападает на корабли без причины. Иногда сопровождает суда часами, плывя рядом или под ними. Иногда выныривает на расстоянии и просто *смотрит*. Что движет Левиафанами — никто не понимает. Имперские учёные Великой Библиотеки делятся на две школы: одни считают, что Левиафаны разумны (но мыслят так медленно и так чуждо, что общение невозможно); другие считают, что это просто гигантские древние животные."
+        },
+        {
+          "type": "prose",
+          "text": "Атака Левиафана — катастрофа. Один удар хвостом ломает триремский корпус пополам. Один укус — переламывает мачту. Тренированный экипаж знает: если Левиафан *повёл себя странно* (начал нырять под судно, разрезать круги, открыл пасть), нужно мгновенно бросать якоря, опускать паруса, замирать. Левиафаны нападают на **движущееся**. Замершее судно они обычно оставляют в покое после нескольких часов осмотра."
+        },
+        {
+          "type": "prose",
+          "text": "Колонии Новой Олимпии знают трёх Левиафанов лично — каждому моряки дали имя: **Серая Мать** (южные воды, около ста двадцати метров), **Старый Тираний** (северные воды, около ста восьмидесяти метров, наблюдался последний раз семь лет назад), **Странник** (плавает где угодно, никто не знает где встретит). При выходе из гавани капитаны заказывают молебен в честь Огня Единого и шепчут на причале имя своего любимого Левиафана — «Серая Мать, пропусти». Это считается суеверием, но *все* капитаны делают."
+        },
+        {
+          "type": "vignette",
+          "text": "Капитан-первооткрыватель Камиллус Толстый, тот самый, что обогнул мир тридцать лет назад, оставил в своём дневнике запись от семидесятого дня плавания: *«В сем дне открылась нам ужасная картина. Из вод океанских поднялась голова размером с триремский корпус. Глаза её были как два щита, цвета синего огня. Кожа — серая, в раковинах и водорослях. Пасть открылась — и пасть та была шириной с городские ворота. Один матрос, увидев, бросил с борта свою пику — и пика не достигла головы, упала в воду в десяти саженях не долетев. Тварь смотрела на нас три минуты. Потом погрузилась в волны без единого всплеска. Мы пошли дальше тем же курсом. На корабле в ту ночь никто не спал. Я записал сие в журнал и закрыл его, ибо рука моя дрожала.»*"
+        },
+        {
+          "type": "heading",
+          "text": "Игромеханика"
+        },
+        {
+          "type": "prose",
+          "text": "- Хитпойнты: 1200+\n- АС: 24 (твёрдая шкура)\n- Атака 1: укус 12d12+20 (поглотит экипажа десять человек одновременно)\n- Атака 2: удар хвостом 10d10+18 (ломает корабль на куски)\n- Атака 3: ныряние под корабль и таран снизу (корабль раскалывается)\n- Скорость: 30 м/раунд (плавание)\n- Сопротивления: всё, кроме самых мощных магических ударов\n- Уязвимости: глаз (если попасть точно — единственный шанс убить, но это почти невозможно)\n- Особая способность: «Молчаливое наблюдение» — может часами оставаться рядом с судном, не нападая\n- Главная защита от Левиафана: **не двигаться, не паниковать, не использовать огонь.** Капитан, потерявший контроль над экипажем при появлении Левиафана, гарантированно теряет корабль.\n---"
+        }
+      ]
+    },
+    {
+      "id": "vg-artefakty",
+      "title": "Артефакты Вечного Города",
+      "setting": "ВГ",
+      "blocks": [
+        {
+          "type": "illustration",
+          "image": "",
+          "caption": "Артефакты Империи"
+        },
+        {
+          "type": "heading",
+          "text": "Корона Кесарей"
+        },
+        {
+          "type": "prose",
+          "text": "Корона Кесарей — золотой венец с двенадцатью лучами, в основании каждого луча — драгоценный камень (рубин, сапфир, изумруд, аметист и так далее, каждый из своей провинции Империи). Внутри короны — серебряное кольцо, на котором выгравированы имена всех Кесарей со времени Кесаря Юстиниана I (отсюда, кстати, традиция династических имён — каждый Юстиниан имеет порядковый номер, потому что имя Юстиниана I считалось священным). **Магически Корона делает три вещи**: 1. Носитель Короны при коронации даёт **истинную клятву** — то есть его слова в этот момент магически связывают его на всю жизнь. Если Кесарь поклялся защищать Империю, и потом её предал — Корона *жжёт его*, физически, до тех пор, пока он либо не вернётся к клятве, либо не сложит её с себя (отречение). 2. Корона **резонирует с Сенатом**. Когда Кесарь надевает её на заседании Сената и говорит — Сенат буквально *чувствует*, что он Кесарь, а не просто человек в венце. Это не магия принуждения — это магия признания. Спорить с коронованным Кесарем технически можно. Эмоционально — очень тяжело. 3. Корона **отвращает чары**. Очарование, принуждение, ментальные атаки на коронованного Кесаря автоматически проваливаются. Это известное правило, и поэтому *яд* — главное оружие против Кесарей: магически их не достать. Корона была выкована Малефиком Тиресием для Кесаря Юстиниана I, который дал Тиресию за это титул Великого Архонта. Тиресий после этого исчез — по легенде, ушёл в катакомбы изучать смерть. Корона по сей день несёт его клеймо на внутренней стороне: маленький символ змеи, кусающей собственный хвост."
+        },
+        {
+          "type": "vignette",
+          "text": "Кесарь Юстиниан VI ввёл двух своих ближайших сенаторов в Зал Венца. Корона лежала на пурпурной подушке за стеклом из дымчатого хрусталя. Юстиниан кивнул сенаторам. Один из них, Старший Голицын, тихо произнёс: «Государь. Зачем мы здесь?» Юстиниан сказал: «Чтобы вы помнили, кто я. Когда я надеваю это — вы клянётесь, что вы голос Сената. Когда я не надеваю — мы все играем в игры. Я хочу, чтобы вы помнили эти игры заканчиваются в Зале Венца. Я этого не забываю.»"
+        },
+        {
+          "type": "prose",
+          "text": "- Носимое: только лицо, имеющее прямую родственную линию к Кесарю Юстиниану I, или коронованное Сенатом\n- Эффект на узурпатора (взявшего корону без прав): жжёт его, нанося 1d10 урона / минуту, пока не отдаст\n- Эффект на правомочного носителя: иммунитет к очарованию, принуждению, ментальным атакам\n- Эффект истинной клятвы: пожизненный, нарушение карается жжением, не лечится\n- Если Корона снята с Кесаря силой — Сенат может через четырнадцать дней проголосовать о новом Кесаре, и Корона признает нового владельца, если голосование легитимно\n---"
+        },
+        {
+          "type": "heading",
+          "text": "Меч Ромула Лютого"
+        },
+        {
+          "type": "prose",
+          "text": "Меч Ромула Лютого — гладиус длиной около восьмидесяти сантиметров, выкованный из метеоритного железа в первый день основания Города. По преданию, Ромул сам разогрел кузню до требуемой температуры — потому что был Носителем Искры. По другой версии, ему помог Малефик, чьё имя стёрто из всех летописей. Меч с тех пор считается имперской реликвией высшего порядка. **Свойства меча:** 1. При ударе по **нежити** или **существам внеземного происхождения** (включая драконов) меч горит синим пламенем и наносит дополнительный магический урон. 2. Меч **выбирает** владельца. Не каждый может его держать. Недостойного владельца (предателя, труса, мелкого душой человека) Меч может *отказаться* поднимать — становится магически тяжёлым, как валун. 3. Меч **помнит** всех, кто его держал. Если новый владелец совершает действие, противоположное действию предыдущего легитимного владельца, Меч может слабо вибрировать — как предостережение. Это легенда, не все верят, но Архивариус Велизарий ей верит. 4. Меч **связан с Тарсусом**. Кесарь Аврелий ранил Тарсуса именно этим Мечом в великом походе. Тарсус, проснувшись, *узнает* Меч издалека по запаху или магическому следу. Меч хранится в Великой Библиотеке. Носитель Короны Кесарей может затребовать его — но процедура занимает три дня и требует согласия Сената (формальность, но традиция). За последние двести лет Меч обнажался четырежды: при Кесаре Аврелии (ранение Тарсуса), при подавлении Восстания Северных Провинций (Кесарь Стилихон), при походе на Будат пятьдесят лет назад (Кесарь Маркелий), и последний раз — пятнадцать лет назад, когда молодой Юстиниан VI лично возглавил подавление мятежа в Восточных Княжествах."
+        },
+        {
+          "type": "vignette",
+          "text": "Декурион Тит Корвин, тот самый что охотился с грифоном в перевале Сордийском, был выбран Кесарем для миссии «Сольный перевал». Архивариус Велизарий передал ему Меч из рук в руки в Зале Реликвий. Велизарий сказал: «Не маши им без нужды. Не показывай его людям без нужды. Если коснёшься клинком чешуи Тарсуса — Тарсус узнает. Меч помнит. Меч помнит, кто его держал. Он будет петь у тебя в руке. Не пугайся.» Тит взял рукоять. Меч был тяжёлый — но в его руке он лежал так, будто всю жизнь там лежал. По клинку пробежала бледно-синяя искра. Тит не понял — просто почувствовал, что *Меч с ним согласен*."
+        },
+        {
+          "type": "prose",
+          "text": "- Тип: гладиус, одноручный\n- Урон: 2d6+5 (обычные цели)\n- Урон по нежити, демонам, драконам, аберрациям: 5d6+5 + горит синим (видно во тьме)\n- Особая способность 1: «Достоинство владельца» — если владелец совершает откровенно подлый поступок, Меч становится магически тяжёлым (бросок силы DC 18 чтобы поднять)\n- Особая способность 2: «След Тарсуса» — при контакте с Тарсусом дракон *чувствует* приближение Меча за версты\n- Особая способность 3: «Огонь Ромула» — раз в день, владелец может вспыхнуть синим пламенем (защитная аура +5 АС на минуту, ослепляет нежить в радиусе 5м)\n---"
+        },
+        {
+          "type": "heading",
+          "text": "Книга Песка"
+        },
+        {
+          "type": "prose",
+          "text": "Книга Песка — древний манускрипт, изготовленный пятьсот лет назад будатским алхимиком Аль-Заджи. На вид — пустой пергамент в кожаном переплёте. Но при контакте с **серебряным подносом с песком**, выложенным определённой схемой, песок поднимается в воздух и **складывается в буквы**, формирующие текст. Текст показывает события, произошедшие в определённом месте в определённое время — если знать координаты и временное окно. Дальность действия — до десяти тысяч вёрст. Временное окно — последние шесть-восемь недель (старше события уже не читаются). Точность зависит от мастерства пользователя: новичок прочтёт «человек прибыл и человек ушёл», мастер прочтёт диалоги слово в слово, расходы до медной монеты, и кто был в комнате. Книга Песка — главный шпионский инструмент Будата. Имперская Тайная Канцелярия знает о её существовании и пытается заполучить уже триста лет. Не получается. Книга хранится в личных покоях Халифа, на серебряном подносе тонкой работы, который сам по себе является артефактом (мастер-работа Малефика Зейда, который заплатил за это сорок лет своей души). **Слабость Книги** — она читает только *прошлое*. Будущее и настоящее в реальном времени — недоступно. И ещё: Книга не работает, если в месте чтения был **большой пожар** или **массовый ритуал Огня Единого** — что объясняет, почему имперские посольства в Будате всегда совершают «очищающий обряд» с открытым огнём в гостиничных покоях."
+        },
+        {
+          "type": "vignette",
+          "text": "Халиф Абдулхаким VII принимал у себя посланника Тайной Канцелярии Кесаря — имперского шпиона по фамилии **Альбин Скрытный**, известного при дворе Великого Будата под видом купца-нумизмата. Альбин запросил аудиенцию, ссылаясь на торговое предложение по серебру. Халиф улыбнулся и сказал: «Конечно, Альбин Скрытный. Конечно, серебро. Скажите вашему Юстиниану, что я знаю всё, что вы сделали в Эль-Кахире за последние шесть недель.» Альбин побледнел. Халиф открыл маленький деревянный ларец и достал из него обычный на вид пергамент. Положил его на серебряный поднос с песком. Песок поднялся вверх и собрался в буквах. *«Альбин Скрытный, посланник Тайной Канцелярии, прибыл двадцать седьмого числа. Встречался с эмиром Карагунды двадцать восьмого. Передал ему пятьсот золотых.»* И так на десять страниц. Альбин ничего не сказал. Халиф убрал пергамент и сказал: «Ваше предложение принято. Подпишите, пожалуйста, договор.»"
+        },
+        {
+          "type": "prose",
+          "text": "- Использование: только владелец, обученный 1+ годами\n- Радиус: до 10 000 вёрст\n- Временное окно: последние 6-8 недель\n- Уровень детализации: зависит от навыка пользователя (новичок ~25%, мастер ~95%)\n- Ограничения: не работает в местах больших пожаров, ритуалов Огня Единого, или сильной магической дезинтерференции\n- Цена изготовления: считается невоспроизводимой; Аль-Заджи умер, не оставив учеников\n---"
+        },
+        {
+          "type": "heading",
+          "text": "Бронзовая Чаша Лициния"
+        },
+        {
+          "type": "prose",
+          "text": "Бронзовая Чаша Лициния — артефакт, в котором по преданию был выкипячен первый эликсир, превративший Лициния в первого сангвинофага. С тех пор Чаша — главная ритуальная регалия Совета Линий. Используется для: 1. **Суд над сангвинофагом-нарушителем Завета.** Обвиняемый пьёт из Чаши, наполненной кровью двенадцати Венцов Совета. Если Линия (мистическая связь всех потомков Лициния) принимает обвиняемого — он остаётся жив. Если отвергает — кровь действует как яд, и сангвинофаг гибнет в течение суток. 2. **Объятие нового Венца.** Особо торжественное Объятие новой особи Венц-Лозы происходит с участием Чаши — это даёт новому сангвинофагу более высокий статус с самого начала. 3. **Запечатывание союза.** Когда два сангвинофагских клана заключают мир, представители обоих пьют из Чаши кровь друг друга. После этого нарушение мира карается тем же эффектом, что и нарушение Завета. Магия Чаши — **связь Линии**. Она работает, потому что Лициний оставил в ней нечто от себя — то, что родственно крови всех его потомков. Уничтожить Чашу — это уничтожить связь Линии. Сангвинофаги это знают и охраняют Чашу больше, чем что-либо ещё. Гай Аппий Венц — единственный, кто знает, где она хранится между ритуалами. Sister Аделаида знает о существовании Чаши. Знает, что её уничтожение разорвало бы сангвинофагское общество и сделало бы их разрозненными бессмертными хищниками. Парадокс: Чаша *структурирует* сангвинофагское общество, делая его дисциплинированным и предсказуемым; уничтожить Чашу — значит выпустить из-под контроля хаос. Аделаида предпочитает оставлять Чашу в покое."
+        },
+        {
+          "type": "vignette",
+          "text": "Гай Аппий Венц поднял Чашу обеими руками. Чаша была неприглядна на вид — простая бронзовая полусфера на короткой ножке, потемневшая от времени. Но на её внутренней стенке всё ещё были видны царапины ногтей Лициния Кровавого — того, кто заключил первый Пакт. Гай Аппий обвёл взглядом одиннадцать сенаторов-сангвинофагов вокруг себя. Сказал тихо: «Сегодня мы судим Луция Паулетти. Ты, юный Венц. Ты нарушил Завет — кормился из живого патриция вне согласованной очереди. Сегодня ты пьёшь из Чаши. Если Линия примет тебя обратно — будешь жить. Если откажет — умрёшь к рассвету. Чаша знает.» Луций взял Чашу. Поднёс к губам. Выпил."
+        },
+        {
+          "type": "prose",
+          "text": "- Использование: только в ритуальном контексте Совета Линий\n- Эффект «Суд» — обвиняемый сангвинофаг проходит спасбросок воли DC 22; при провале — гибнет в течение суток без возможности воскрешения\n- Эффект «Объятие» — новый сангвинофаг получает +2 к стартовому уровню силы, ускоренное освоение дисциплин\n- Эффект «Союз» — нарушение клятвы, скреплённой Чашей, наносит сангвинофагу 10d10 урона немедленно\n- Слабость: Чаша из бронзы; физически уязвима. Святой огонь высшей силы (артефактного уровня) может её расплавить.\n---"
+        },
+        {
+          "type": "heading",
+          "text": "Перчатки Архонта Огня"
+        },
+        {
+          "type": "prose",
+          "text": "Перчатки Архонта Огня — артефакт высшего ранга Ордена Огня Единого. Изготовлены Великим Архонтом Феликсом (он же впоследствии Кесарь Феликс — да, тот самый, что издал Кодекс Алхимика) около пятисот лет назад. Перчатки даруют носителю **прямой контакт с Источником Огня Единого** — позволяют призывать священное пламя, лечить раны прикосновением, очищать пищу и воду от ядов, изгонять демоническое. Носить Перчатки может только посвящённый жрец Огня Единого, имеющий не менее тридцати лет служения и формальный титул не ниже Архонта. Великий Архонт носит их преимущественно на торжественных ритуалах и в моменты крайней нужды. Постоянное ношение Перчаток *сжигает носителя изнутри* — после каждого использования жрец стареет на несколько месяцев. Великий Архонт Дамиан этим объясняется, почему он в восемьдесят два года старше выглядит на сто десять: за полвека службы он использовал Перчатки около ста двадцати раз. Перчатки никогда не покидали Базилику — кроме одного случая, когда Кесарь Маркелий пятьдесят лет назад взял Великого Архонта с собой в поход на Будат. Архонт надел Перчатки в решающий момент битвы при Самаркуне и сжёг будатского ифрита, помогавшего противнику. После битвы Архонт прожил ещё девять дней."
+        },
+        {
+          "type": "vignette",
+          "text": "Великий Архонт Дамиан, восьмидесяти двух лет, надел Перчатки последний раз. Их время — раз в семь лет, на праздник Возжигания. Перчатки были чёрные, шёлковые, с серебряной вышивкой огненных языков по запястьям. Когда Дамиан надел их и поднял ладони к толпе, ладони *вспыхнули*. Над каждой ладонью поднялся столб пламени высотой в полтора метра. Толпа на форуме упала на колени. Дамиан повёл руками — два столба пламени слились в один большой, который поднялся к небу и тихо рассыпался искрами. Каждая искра, упавшая на голову прихожанина, давала ему *чувство мира* на полчаса. После Возжигания Дамиан снял Перчатки, отдал помощнику, сел на скамью и заплакал — он знал, что в следующий раз надевать их будет уже не он."
+        },
+        {
+          "type": "prose",
+          "text": "- Носимое: только посвящённый жрец Огня Единого с титулом Архонт+\n- Эффект 1: «Священное пламя» — атака на дальнюю дистанцию, 4d6 огненного урона, +двойной урон против нежити/демонов/Сангвинофагов\n- Эффект 2: «Исцеление прикосновением» — лечит 3d8 HP, очищает от ядов, изгоняет малые проклятия\n- Эффект 3: «Изгнание» — может изгнать демона/нежить рангом ниже владельца автоматически; равного ранга — спасбросок воли DC 20\n- Цена использования: при каждом активном использовании владелец теряет 1 неделю жизни (необратимо)\n---"
+        },
+        {
+          "type": "heading",
+          "text": "Зеркала Великой Библиотеки"
+        },
+        {
+          "type": "prose",
+          "text": "Зеркала Великой Библиотеки — комплект из семи обсидиановых плит, каждая высотой около двух метров, обработанных алхимиком-Архивариусом **Кассиодором Зеркалоделом** (640 лет назад). Каждое Зеркало настроено на одну из семи провинций Империи в эпоху их создания (Север, Юг, Восток, Запад, Сердце, Море, Горы). Зеркало показывает события, происходившие в указанной провинции, в указанной точке, в указанный день. **Ограничения:** - Только прошлые события. Будущее и настоящее не показываются. - Только в пределах своей провинции. Зеркало Юга не покажет Север. - Только видимая сторона. Зеркало показывает то, что *можно было видеть глазами*, но не закадровый звук — губы движутся, голоса нет. (Существуют легенды о Зеркале Сердца, которое всё-таки даёт голоса — но это не подтверждено публично.) - Только при произнесении правильной формулы (формулы знают только Архивариус и три старших хранителя). Зеркала используются для: 1. Историческое исследование (Великая Библиотека ведёт хронику событий Империи последних шестисот лет на основе зеркальных данных). 2. Уголовное расследование (Архивариус по запросу Малефикариума или Сената может предоставить картину преступления). 3. Личные просьбы Кесаря (как у Аэлиты — увидеть умершую мать). 4. Дипломатические проверки (увидеть подлинное содержание переговоров с послами). Цена использования — для Архивариуса: каждое чтение Зеркала отнимает один день его жизни. Поэтому Архивариусы Великой Библиотеки часто не доживают до восьмидесяти, хотя на эту должность назначают людей здоровых и долголетних."
+        },
+        {
+          "type": "vignette",
+          "text": "Архивариус Велизарий проводил Кесаревну Аэлиту в Зал Зеркал в четвёртый раз за этот год. Аэлита знала: она пришла за чем-то конкретным. Велизарий поставил её перед Зеркалом Юга — гигантской отполированной плитой из чёрного обсидиана. Сказал: «Государыня. Назовите дату, имя, и место.» Аэлита сказала: «Третий день четвёртого месяца тысяча двадцать первого года ab urbe condita. Дворец моей матери. Я хочу увидеть Кесариссу Меланцию.» Велизарий закрыл глаза. Произнёс формулу. В Зеркале медленно проступила картина — солнечная комната, окно, и женщина, которую Аэлита помнила только по портретам, сидела у окна и читала. Аэлита подошла к Зеркалу. Прикоснулась к нему ладонью. Зеркало было холодным. Меланция в Зеркале улыбнулась — но не Аэлите, а кому-то в своей комнате, шесть лет назад. Аэлита смотрела минут десять. Потом отвернулась и сказала Велизарию: «Спасибо. Я готова идти.»"
+        },
+        {
+          "type": "prose",
+          "text": "- Использование: только Архивариус Великой Библиотеки или старший хранитель\n- Эффект: показ видеоряда прошлого события, до 2 часов реального времени за один сеанс\n- Точность: 100% видимая картина, 0% звук (кроме легенд о Зеркале Сердца)\n- Ограничения: только в пределах своей провинции, только прошлое\n- Цена использования: 1 день жизни Архивариуса за каждое чтение\n- Уязвимость: Зеркало можно разбить (но осколки сохраняют слабые свойства — Sister Аделаида однажды конфисковала кусок Зеркала Запада у Малефика, использовавшего его для слежки за Сенатом)\n---"
+        },
+        {
+          "type": "heading",
+          "text": "Знамя Морского Легиона"
+        },
+        {
+          "type": "prose",
+          "text": "Знамя Морского Легиона — артефактная реликвия, выкованная (вытканная) пятьсот двадцать лет назад на пике эпохи Морских Походов. Заказчик — Кесарь Сильвестр, исполнитель — Гильдия Тонких Искусств, освящение — Великим Архонтом своего времени и древним капитаном Луцием Морским (Носителем Искры, владевшим даром управления ветрами). **Свойства Знамени:** 1. **Защита от шторма.** Поднятое над флагманом, Знамя резонирует с ветром и водой. Шторм слабее обычного на 30-50%, может быть «отведён» на 10-20 градусов от изначального направления. Это не магия гарантированная, но статистически Морской Легион теряет от шторма в три раза меньше судов, чем любой другой флот. 2. **Боевой дух.** Все имперские моряки в видимости Знамени получают магический буст морали — не страшно, не паникуют, не теряются. Особенно эффективно на молодых рекрутах. 3. **Связь Легиона.** Капитаны Легиона, видевшие Знамя поднятым над флагманом, чувствуют его направление с расстояния до пятидесяти миль (даже если визуально не видят). Это позволяет эскадре не теряться в тумане или ночью. 4. **Признание Легиона.** Поднявший Знамя без права (узурпатор, мятежник) обнаружит, что Знамя становится тусклым, бесцветным, не реагирует на ветер. Это знак для всего Легиона — отказать узурпатору в подчинении. Знамя постоянно находится на «Славе Кесаря». Адмирал Морского Легиона имеет персональную привилегию его поднимать. Передача Знамени новому адмиралу — ритуал, проводимый Кесарем лично."
+        },
+        {
+          "type": "vignette",
+          "text": "Адмирал Корнелий Воронцов поднял Знамя над «Славой Кесаря» в день битвы при Серых Скалах. Знамя — пурпурный шёлк с золотым морским коньком и серебряным гарпуном — развернулось на ветру. С трёх соседних трирем матросы увидели Знамя и закричали — не команду, не приветствие, а *боевой клич*, который у Морского Легиона имеет тысячу лет: «Mare Aeternum!» В тот момент шторм, шедший на эскадру с юго-запада, изменил направление. Просто *повернул* — на пять градусов, на восемь, на двадцать. Через двадцать минут шторм ушёл на ост-зюйд-ост, оставив эскадре чистое море и попутный ветер прямо к будатской флотилии. Битва началась."
+        },
+        {
+          "type": "prose",
+          "text": "- Носимое: только Адмирал Морского Легиона или его законный преемник\n- Эффект 1: «Подавление шторма» — пассивный, шторм в радиусе 5 миль слабее на 40%\n- Эффект 2: «Боевой дух» — все имперские моряки в видимости иммунны к страху, +2 к броскам в бою\n- Эффект 3: «Маяк Легиона» — капитаны имперских судов чувствуют направление Знамени за 50 миль\n- Эффект 4: «Знание узурпации» — поднятое неправомочным человеком, Знамя тускнеет, и все, кто его видит, *знают* что владелец нелегитимен\n- Уязвимость: тонкий шёлк; физически Знамя уязвимо, но за полтысячи лет его ни разу не повредили\n---"
+        },
+        {
+          "type": "heading",
+          "text": "Рунные Кости Детей Льда"
+        },
+        {
+          "type": "prose",
+          "text": "Рунные Кости Детей Льда — комплект из двадцати четырёх кусочков костей мамонта (или другого крупного животного, теперь уже не разобрать), вырезанных рунами древнего языка Севера. Двадцать две руны позитивные/нейтральные, две — **Пустота** и **Стиральнойvalkyr** — опасные. Бросают на специальную белую шкуру с обугленным кругом в центре. Тот, кто выпал в круге, — основной ответ. Те, что выпали по краям, — модификаторы. **Что показывают руны:** - Будущее на ближайшие 1-3 месяца (с большой неопределённостью) - Скрытые мотивы окружающих людей (более точно) - Ответ на конкретный вопрос (точно, если вопрос правильно сформулирован) - Опасности на пути (с указанием направления, но не природы) **Что НЕ показывают:** - Долгосрочное будущее (больше года) - Точные даты и количества - Имена конкретных людей (только описания) Рунные Кости — основной оракульский инструмент Детей Льда. Каждые семь лет, на сборе Старейшин у Северного Корня, бросают руны на следующие семь лет — это даёт общую дугу истории народа. Бросает старейшая из Стражей. Каждый Страж в течение своих десяти лет службы обязан хотя бы раз попросить руны о себе лично — это считается обрядом зрелости. Имперцы знают о Рунных Костях. Полстолетия назад Тайная Канцелярия пыталась их украсть — экспедиция вернулась без половины состава, в подробностях не отчитывалась. С тех пор имперская политика — *оставить руны в покое*. Очень редко имперский посланник высокого ранга может приехать к Северному Корню и попросить бросок — но это будет дипломатический акт, требующий обмена дарами и долгих переговоров."
+        },
+        {
+          "type": "vignette",
+          "text": "Сигрид-Старшая, девяноста двух лет, единственная из живущих Стражей, кто сама лично достал руны из мешка девяносто три раза за свою жизнь, передала мешок молодому Йорику Льдоруку. Сказала: «Запомни три правила. Первое: не бросай руны для забавы. Они *знают* и в следующий раз дадут пустые. Второе: не бросай руны больше трёх раз в году. После третьего броска ты *должен* отдать руны старшему. Третье: если выпадет руна Стиральнойvalkyr — никому не говори. Это означает, что в течение года к тебе придёт Смерть. Прими, прими спокойно, прими тихо. Подготовься. Удачи, Йорик.» Йорик кивнул. Сигрид-Старшая закрыла глаза и в эту же ночь не проснулась. Она бросила Стиральнойvalkyr на себя в прошлом году."
+        },
+        {
+          "type": "prose",
+          "text": "- Использование: только посвящённый (Страж, шаман, лицо с разрешения старейшины)\n- Эффект: ответ оракула, точность зависит от вопроса и опыта читающего\n- Ограничения: не более 3 бросков в год на одного человека (затем руны «закрываются» для него)\n- Особая руна «Стиральнойvalkyr»: предсказание скорой смерти, гарантированное в течение года (никогда не ошибалась за всю задокументированную историю)\n- Утечка: украденные руны теряют силу через 14 дней, если не вернулись к законному хранителю\n---"
+        },
+        {
+          "type": "heading",
+          "text": "Оракульные Карты Лозы Маски"
+        },
+        {
+          "type": "prose",
+          "text": "Оракульные Карты Лозы Маски — колоды по 78 карт, изготовленные старшими сангвинофагами Лозы Маски за последние четыре века. Каждая колода уникальна: рисуется мастером-Маской лично, освящается в её крови, настраивается под её специфическую магическую сигнатуру. Колоды передаются по наследству в рамках Линии Маски (обычно от старшей Маски к её Объятому потомку). **Свойства:** 1. **Гадание.** При правильном раскладе карты показывают вероятную судьбу клиента, его скрытые мотивы и страхи, и ключевые события ближайшего года. Точность — высокая, но интерпретация зависит от мастерства Маски (и от её честности — Маска *может* солгать клиенту о том, что показали карты). 2. **Чтение мыслей.** При активном контакте с клиентом (рука к руке, как в случае с Лоренцой) и при использовании карт, Маска получает доступ к поверхностным мыслям и эмоциям клиента. 3. **Очарование через карты.** Сама процедура гадания — это форма Дисциплины Маски «Очарование». Клиент после получасового сеанса с Маской уходит, **очарованный** ею (на дни или недели, в зависимости от Маски). Это используется для вербовки агентов, поклонников, информаторов. Карты — главный публичный инструмент Лозы Маски. Большинство аристократов Города хотя бы раз в жизни ходили к Маске на гадание. Многие — регулярно. Sister Аделаида знает о существовании Масок и их Карт, но не вмешивается: формально гадание — не запрещённое искусство (его регулирует Гильдия Тонких Искусств, не Орден Огня Единого)."
+        },
+        {
+          "type": "vignette",
+          "text": "Лоренца Маска принимала клиента в своём ателье в Среднем Городе. Клиент — молодой патриций Голицын, восемнадцати лет, безнадёжно влюблённый в кесаревну Аэлиту. Хотел знать, есть ли у него шанс. Лоренца взглянула на него очаровывающим взглядом, заплатила ему рукой по руке (юноша вздрогнул — он не знал, что Лоренца не человек). Достала колоду. Перетасовала. Положила три карты лицом вниз. Перевернула первую: **Жрец у алтаря**. Перевернула вторую: **Корабль в шторме**. Перевернула третью: **Закрытая дверь**. Сказала: «Юный сенатор. Карты говорят: Аэлита знает о вас и думает; вы пройдёте через большие неприятности, в которых она будет участвовать; и в конце — дверь не откроется. Шанса нет. Простите.» Юноша заплатил и ушёл. Лоренца положила карты обратно в колоду. Она знала, что соврала: третья карта показала **Открытую дверь**. Она просто не хотела создавать проблем своей Лозе — у Аэлиты много претендентов, ещё одна страсть только осложнит политику."
+        },
+        {
+          "type": "prose",
+          "text": "- Использование: только сангвинофаг Лозы Маски, имеющий собственную колоду\n- Эффект 1: «Чтение судьбы» — даёт мастеру информацию о ближайшем годе клиента (75% точность)\n- Эффект 2: «Чтение мыслей» — поверхностные мысли клиента при контакте + использовании карт\n- Эффект 3: «Очарование» — клиент после сеанса очарован Маской на 1d6 недель\n- Уязвимость: каждая колода уникальна и связана с конкретной Маской; уничтожение Маски часто приводит к утрате колоды, либо к её передаче по Линии\n---"
+        },
+        {
+          "type": "heading",
+          "text": "Подзорная Труба Камиллуса Толстого"
+        },
+        {
+          "type": "prose",
+          "text": "Подзорная Труба Камиллуса Толстого — артефактный оптический инструмент, изготовленный самым известным мореходом Империи последнего полувека. Внешне — обычная подзорная труба длиной в полтора локтя, бронзовая оправа, две линзы (объективная и окулярная). Магически — даёт носителю **истинное видение** на дальние расстояния. **Что показывает Труба:** 1. **Обычные оптические свойства** — увеличение в восемь раз, дальность ясного зрения около пяти вёрст в хорошую погоду. 2. **Магическое истинное видение.** Через Трубу видны: скрытые магические эффекты, иллюзии (как наложение), демонические сущности (как тёмные ауры), благословения и проклятия (как цветные дымки), скрытые предметы (в радиусе фокуса). 3. **Видение намерений.** При длительном (минут десять) наблюдении за конкретным человеком Труба показывает его *эмоциональное состояние* через ауру — гнев, страх, любовь, обман. Цена за дары — Труба требует от носителя **усталости глаз**. После часа использования у носителя резко падает зрение на сутки. Регулярное использование (более 5 часов в неделю) приводит к преждевременной катаракте. Труба после смерти Камиллуса перешла в Великую Библиотеку, где Архивариус Велизарий хранит её для особо важных миссий. За последние пять лет Труба выдавалась четыре раза: Декуриону Титу Корвину для миссии в Сольный перевал (см. Меч Ромула); Sister Аделаиде для расследования в катакомбах; послу в Будатский Халифат для проверки слов Халифа; и **Кесаревне Аэлите** — однажды, в личном порядке, когда она хотела присмотреться к молодому Голицыну, влюблённому в неё, перед тем как принимать решение по сватовству."
+        },
+        {
+          "type": "vignette",
+          "text": "Капитан-первооткрыватель Камиллус Толстый, обогнувший мир тридцать лет назад, был **не только мореходом, но и Носителем Искры**. Свою подзорную трубу он изготавливал сам — три года шлифовал линзы в мастерской Великой Библиотеки, отливал бронзовую оправу, добавлял капли своей крови в полировочную пасту. Когда труба была готова, он испытал её на гавани Эль-Кахира — посмотрел на торгующего еврея в третьем ряду и *увидел*, что у того в кошельке под рубашкой лежит будатская печать высокопоставленного шпиона. Камиллус купил у него «лимон» по обычной цене и не сказал ни слова. На корабле он передал информацию Тайной Канцелярии. Шпион был взят через две недели."
+        },
+        {
+          "type": "prose",
+          "text": "- Использование: любой, кому передана; не требует посвящения\n- Эффект 1: 8x оптика, дальность 5 вёрст\n- Эффект 2: «Истинное видение» — видит магию, иллюзии, демонов, благословения/проклятия в радиусе фокуса\n- Эффект 3: «Чтение ауры» — при 10+ минутах наблюдения за человеком — основной эмоциональный фон\n- Цена: усталость глаз (плохое зрение на сутки после часа использования; при регулярном использовании — катаракта)\n---"
+        }
+      ]
+    }
+  ]
+}

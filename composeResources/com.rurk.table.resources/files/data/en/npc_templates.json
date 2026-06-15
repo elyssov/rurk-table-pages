@@ -1,0 +1,1462 @@
+{
+  "templates": [
+    {
+      "id": "clerk",
+      "name": "Office Clerk",
+      "description": "A paper soul. Card files, stamps, queues till lunch. Has never smelled combat.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 35,
+        "TGH": 38,
+        "COR": 48,
+        "SPD": 40,
+        "CHR": 45,
+        "INT": 58,
+        "PER": 50,
+        "SPR": 40
+      },
+      "keySkills": [
+        {
+          "skillId": "finansy",
+          "name": "Finance",
+          "level": 50
+        },
+        {
+          "skillId": "yurisprudenciya",
+          "name": "Jurisprudence",
+          "level": 25
+        },
+        {
+          "skillId": "kompyuting",
+          "name": "Computing",
+          "level": 50
+        },
+        {
+          "skillId": "etiket",
+          "name": "Etiquette",
+          "level": 50
+        }
+      ],
+      "variance": 7,
+      "inventory": [],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "guard",
+      "name": "City Guardsman",
+      "description": "Halberd, mail, flask under the cloak. Twenty years at the gates of the Eternal City.",
+      "setting": "ВГ",
+      "attrs": {
+        "STR": 62,
+        "TGH": 60,
+        "COR": 52,
+        "SPD": 50,
+        "CHR": 42,
+        "INT": 40,
+        "PER": 55,
+        "SPR": 52
+      },
+      "keySkills": [
+        {
+          "skillId": "drevkovoe-oruzhie",
+          "name": "Polearms",
+          "level": 50
+        },
+        {
+          "skillId": "tyazhelye-klinki",
+          "name": "Heavy Blades",
+          "level": 25
+        },
+        {
+          "skillId": "schitovoy-boy",
+          "name": "Shield Fighting",
+          "level": 50
+        },
+        {
+          "skillId": "zapugivanie",
+          "name": "Intimidation",
+          "level": 50
+        }
+      ],
+      "variance": 9,
+      "inventory": [
+        "Шашка казачья",
+        "Топор пожарный"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "policeman",
+      "name": "Policeman",
+      "description": "Service piece, paperwork, end-of-shift fatigue. Imperial police.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 55,
+        "TGH": 54,
+        "COR": 56,
+        "SPD": 52,
+        "CHR": 48,
+        "INT": 50,
+        "PER": 58,
+        "SPR": 52
+      },
+      "keySkills": [
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Pistols & SMGs",
+          "level": 50
+        },
+        {
+          "skillId": "rukopashnyy-boy",
+          "name": "Hand-to-Hand (basic)",
+          "level": 50
+        },
+        {
+          "skillId": "dopros",
+          "name": "Interrogation",
+          "level": 50
+        },
+        {
+          "skillId": "vozhdenie",
+          "name": "Driving: ground",
+          "level": 50
+        },
+        {
+          "skillId": "pronicatelnost",
+          "name": "Insight",
+          "level": 25
+        }
+      ],
+      "variance": 8,
+      "inventory": [
+        "ПМ (Пистолет Макарова)",
+        "Наручники полицейские",
+        "Шокер «Каракурт-7»",
+        "Фонарь Fenix PD36R"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "patrician",
+      "name": "Patrician",
+      "description": "High House of the Eternal City. Power, poison, a long memory. Carries no dagger in the sleeve — there are people for that.",
+      "setting": "ВГ",
+      "attrs": {
+        "STR": 40,
+        "TGH": 42,
+        "COR": 50,
+        "SPD": 46,
+        "CHR": 72,
+        "INT": 68,
+        "PER": 60,
+        "SPR": 62
+      },
+      "keySkills": [
+        {
+          "skillId": "diplomatiya",
+          "name": "Diplomacy",
+          "level": 75
+        },
+        {
+          "skillId": "etiket",
+          "name": "Etiquette",
+          "level": 75
+        },
+        {
+          "skillId": "torgovlya",
+          "name": "Bargaining",
+          "level": 50
+        },
+        {
+          "skillId": "pronicatelnost",
+          "name": "Insight",
+          "level": 50
+        },
+        {
+          "skillId": "blef",
+          "name": "Bluff",
+          "level": 50
+        }
+      ],
+      "variance": 8,
+      "inventory": [],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "operative",
+      "name": "ORPP Operative",
+      "description": "Rapid response group. GSh-18, silver and cold iron in the second magazine. Behind the door — not a human.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 62,
+        "TGH": 64,
+        "COR": 66,
+        "SPD": 64,
+        "CHR": 48,
+        "INT": 58,
+        "PER": 66,
+        "SPR": 64
+      },
+      "keySkills": [
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Pistols & SMGs",
+          "level": 75
+        },
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Assault Weapons",
+          "level": 50
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Combat Sambo",
+          "level": 50
+        },
+        {
+          "skillId": "taktika",
+          "name": "Tactics",
+          "level": 50
+        },
+        {
+          "skillId": "pervaya-pomosch",
+          "name": "First Aid",
+          "level": 25
+        }
+      ],
+      "variance": 10,
+      "inventory": [
+        "ГШ-18",
+        "ПП «Витязь-СН»",
+        "Нож разведчика НР-43 «Вишня»",
+        "Спецбоеприпас «Тризубец-С» 9×19",
+        "Бронекомбидресс ОРПП",
+        "УГТ (Универсальный Головной Терминал)",
+        "Аптечка АИ-Я",
+        "Святая вода в фляге"
+      ],
+      "img": "operative.jpg"
+    },
+    {
+      "id": "thug",
+      "name": "Street Thug",
+      "description": "Brass knuckles, swagger, fear beneath the swagger. Decree 203 is already weeping for him.",
+      "setting": "У",
+      "attrs": {
+        "STR": 58,
+        "TGH": 54,
+        "COR": 46,
+        "SPD": 52,
+        "CHR": 38,
+        "INT": 35,
+        "PER": 44,
+        "SPR": 44
+      },
+      "keySkills": [
+        {
+          "skillId": "udarnye-edinoborstva",
+          "name": "Striking Arts",
+          "level": 50
+        },
+        {
+          "skillId": "legkie-klinki",
+          "name": "Light Blades",
+          "level": 25
+        },
+        {
+          "skillId": "zapugivanie",
+          "name": "Intimidation",
+          "level": 50
+        },
+        {
+          "skillId": "vorovstvo",
+          "name": "Theft",
+          "level": 25
+        }
+      ],
+      "variance": 11,
+      "inventory": [
+        "Кастет латунный",
+        "ПМ (Пистолет Макарова)"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "field-medic",
+      "name": "Field Medic",
+      "description": "Does terrible things with a kitchen knife in a filthy basement — and saves lives.",
+      "setting": "У",
+      "attrs": {
+        "STR": 45,
+        "TGH": 50,
+        "COR": 64,
+        "SPD": 54,
+        "CHR": 50,
+        "INT": 68,
+        "PER": 62,
+        "SPR": 56
+      },
+      "keySkills": [
+        {
+          "skillId": "polevaya-medicina",
+          "name": "Field Medicine",
+          "level": 75
+        },
+        {
+          "skillId": "pervaya-pomosch",
+          "name": "First Aid",
+          "level": 75
+        },
+        {
+          "skillId": "hirurgiya",
+          "name": "Surgery",
+          "level": 50
+        },
+        {
+          "skillId": "farmakologiya",
+          "name": "Pharmacology",
+          "level": 50
+        }
+      ],
+      "variance": 8,
+      "inventory": [
+        "Гемостатик «Целокс» (Celox)",
+        "Жгут CAT (Combat Application Tourniquet)",
+        "Аптечка АИ-Я",
+        "Полевая аптечка ОПИ (универсальная антипаранормальная)"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "professor",
+      "name": "Professor",
+      "description": "Armchair scholar. Knows impossibly much about one thing and helpless in everything else.",
+      "setting": "У",
+      "attrs": {
+        "STR": 32,
+        "TGH": 36,
+        "COR": 48,
+        "SPD": 38,
+        "CHR": 52,
+        "INT": 80,
+        "PER": 60,
+        "SPR": 50
+      },
+      "keySkills": [
+        {
+          "skillId": "fizika",
+          "name": "Physics",
+          "level": 75
+        },
+        {
+          "skillId": "matematika",
+          "name": "Mathematics",
+          "level": 75
+        },
+        {
+          "skillId": "istoriya",
+          "name": "History",
+          "level": 50
+        },
+        {
+          "skillId": "himiya",
+          "name": "Chemistry",
+          "level": 50
+        }
+      ],
+      "variance": 7,
+      "inventory": [],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "merc",
+      "name": "Mercenary",
+      "description": "Works for money, survives on paranoia. Contract said «in, take, out» — said nothing about «survive».",
+      "setting": "У",
+      "attrs": {
+        "STR": 60,
+        "TGH": 62,
+        "COR": 60,
+        "SPD": 60,
+        "CHR": 44,
+        "INT": 48,
+        "PER": 62,
+        "SPR": 58
+      },
+      "keySkills": [
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Assault Weapons",
+          "level": 50
+        },
+        {
+          "skillId": "tyazhelye-klinki",
+          "name": "Heavy Blades",
+          "level": 50
+        },
+        {
+          "skillId": "vyzhivanie",
+          "name": "Survival: (environment)",
+          "level": 50
+        },
+        {
+          "skillId": "skrytnost",
+          "name": "Stealth",
+          "level": 50
+        },
+        {
+          "skillId": "taktika",
+          "name": "Tactics",
+          "level": 25
+        }
+      ],
+      "variance": 10,
+      "inventory": [
+        "АК-74М",
+        "Кукри",
+        "Бронежилет 6Б23-1",
+        "РГД-5",
+        "Дымовая РДГ-2"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "priest",
+      "name": "Combat Priest",
+      "description": "Auto-shotgun, silver bullets, True Faith as ammunition. Father Nikita approves.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 58,
+        "TGH": 60,
+        "COR": 52,
+        "SPD": 48,
+        "CHR": 56,
+        "INT": 52,
+        "PER": 54,
+        "SPR": 78
+      },
+      "keySkills": [
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Assault Weapons",
+          "level": 50
+        },
+        {
+          "skillId": "teologiya",
+          "name": "Theology",
+          "level": 75
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Occultism",
+          "level": 50
+        },
+        {
+          "skillId": "krasnorechie",
+          "name": "Oratory",
+          "level": 50
+        }
+      ],
+      "variance": 9,
+      "inventory": [
+        "Святая вода в фляге",
+        "Освящённая соль (в кожаном мешочке)",
+        "Освящённый мел",
+        "Серебряный кинжал ОРПП"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "zaika",
+      "name": "Svetlana «Bunny» Ryan-Caoranach",
+      "description": "Rougarou of the Tara line. 1.93 m, freckled, ginger. Looks like she lives at the gym — never goes, that's her baseline genome. Doglike loyalty, indecently generous kindness. There's a puppy in her office. Specifically: a puppy of Garm, the Black Hound. Bunny tamed it. Named it Cupcake.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 72,
+        "TGH": 78,
+        "COR": 70,
+        "SPD": 72,
+        "CHR": 88,
+        "INT": 75,
+        "PER": 82,
+        "SPR": 85
+      },
+      "keySkills": [
+        {
+          "skillId": "pronicatelnost",
+          "name": "Lie-detection",
+          "level": 90
+        },
+        {
+          "skillId": "obolschenie",
+          "name": "Seduction",
+          "level": 85
+        },
+        {
+          "skillId": "priruchenie-zhivotnyh",
+          "name": "Animal handling",
+          "level": 85
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Pistols and SMGs",
+          "level": 75
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Combat sambo",
+          "level": 70
+        },
+        {
+          "skillId": "psihiatriya",
+          "name": "Psychiatry",
+          "level": 70
+        }
+      ],
+      "variance": 5,
+      "inventory": [
+        "GSh-18",
+        "«Trident-S» special ammo, 9×19",
+        "ORPP armoured combidress",
+        "UHT (Universal Head Terminal)",
+        "«Eclipse» ampoules (3)",
+        "AI-Ya medkit",
+        "Locket with Cupcake's photo"
+      ],
+      "img": "npc/zaika.jpg",
+      "gallery": [
+        "npc/zaika.jpg",
+        "scene-combat.jpg"
+      ],
+      "legend": true,
+      "vignette": "She sits on the edge of the desk, swinging one boot, and Garm's puppy — yes, that Black Hound who howls at the threshold of the dead — sleeps in her lap, leaning against the armoured combidress. «Cupcake, drop it, that's evidence,» she says, and Cupcake guiltily drops someone's finger bone. Bunny scratches behind his ear. She smells like gunpowder, wet dog, and — somehow — vanilla. Whoever decides her kindness means weakness will learn the difference between «pet» and «tear apart» in about a third of a second.",
+      "mechanics": "Rougarou (Tara line). ACCELERATED REGENERATION: heals damage every round, except silver and fire (against those — like an ordinary human). «Beast-sense»: +20 to Perception and Lie-detection on direct contact, sees fear and intent. In partial shift +1 to STR/SPD and claws (light cold weapon). Cupcake (Garm's puppy) — familiar ally: smells undead and corruption in radius, attacks on command (STR 60, «terror» effect on targets with SPR < 50). Vulnerability: an order or a threat to those she protects shatters her cold calculation (see HERO).",
+      "perks": [
+        {
+          "id": "uskorennaya-regeneraciya",
+          "level": 2
+        },
+        {
+          "id": "chuvstvo-opasnosti",
+          "level": 2
+        },
+        {
+          "id": "seksapilnost",
+          "level": 1
+        },
+        {
+          "id": "geroy",
+          "level": 1
+        }
+      ],
+      "scenes": [
+        {
+          "img": "scene-combat.jpg",
+          "caption": "RSh-12, one-handed, half-shifted. Left hand has the pup.",
+          "vignette": "The pup whimpered.\n\nZaika scooped him one-handed — Garm's puppy, two weeks old, wet nose, shaking. Pressed him to her armour, to her chest, tucked her chin over him. The pup nosed into her neck and went quiet.\n\nThe demon was big. Over a ton. Third-tier Ungkoshi, the kind whose name in the registry is bracketed because saying it out loud is not free. Right now he was tracking the smell — Zaika's blood was leaking through the armour, strong-smelling, the way the living bleed.\n\nHer side burned. Silver, not-silver — she hadn't had a moment to see what had gone in. The blood crusted with a soft hiss; regeneration was lagging, the way an old kettle takes its time when the scale is thick. Her left arm held the pup. Her right was free.\n\nZaika drew the RSh-12.\n\nThat one — the one Alpha-team shock troopers crouch under. 12.7 by 55, four and a half kilos brutto, recoil so heavy that in the old-shooters' museum it has its own stand with the caption «a wrist died here». Men hold it with two hands. Shoot it lying down.\n\nShe partially shifted — not full beast, just the right shoulder. In a rugaru's half-shift the right arm isn't an arm. It's a piece of structural anatomy.\n\nShe raised the revolver. Settled the muzzle. Breathed slow — the pup couldn't be allowed to hear his mama's ribcage shake.\n\n\"Sorry, little one,\" she whispered into his crown. \"It's going to be loud.\"\n\nShot.\n\nThe demon folded — knees first, then shoulders, then the part of him that wasn't quite a face. Between the brows: a hole the size of a fist.\n\nZaika lowered the revolver. The pup didn't cry. He stuck out his tongue and licked her temple.\n\n\"Good boy,\" she said. \"Daddy would be proud.\"\n\nThe pup's daddy was howling at the threshold of the dead. For someone else. Tonight — not for them."
+        }
+      ]
+    },
+    {
+      "id": "dilan-hmuryy",
+      "name": "Dylan «Grim» O'Brian",
+      "description": "Rugaru, Brenn-Rock line. ORPP hand-to-hand combat instructor. 210 cm, the size of a wardrobe. Silent, sullen. Goes on missions reluctantly, but if he goes — the task is done. Known for the word «no» which he can stretch out over eight seconds, such that in the meantime the speaker reconsiders.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 92,
+        "TGH": 95,
+        "COR": 65,
+        "SPD": 62,
+        "CHR": 42,
+        "INT": 62,
+        "PER": 70,
+        "SPR": 88
+      },
+      "keySkills": [
+        {
+          "skillId": "rukopashnyy-boy",
+          "name": "Hand-to-Hand",
+          "level": 95
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Combat Sambo",
+          "level": 95
+        },
+        {
+          "skillId": "tyazhelaya-atletika",
+          "name": "Weightlifting",
+          "level": 90
+        },
+        {
+          "skillId": "schitovoy-boy",
+          "name": "Shield Fighting",
+          "level": 80
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Pistols & SMGs",
+          "level": 65
+        }
+      ],
+      "variance": 5,
+      "inventory": [
+        "ORPP combat suit",
+        "UGT visor",
+        "Brass knuckles (habit)",
+        "Gym bag with boxing wraps"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "otto-von-grimberg",
+      "name": "Otto von Grimberg",
+      "description": "300 years of hunting. A former Lutheran pastor from Saxony. A vampire took his family — Otto held out three days, the Seed of Darkness burned itself out. Since then he hunts. Two enchanted crossbows: one with holy water + silver bolts, one with incendiary. A perfectionist of ambush tactics. With ORPP — neither ally nor enemy.",
+      "setting": "Германия / весь мир",
+      "attrs": {
+        "STR": 62,
+        "TGH": 82,
+        "COR": 88,
+        "SPD": 58,
+        "CHR": 55,
+        "INT": 80,
+        "PER": 92,
+        "SPR": 95
+      },
+      "keySkills": [
+        {
+          "skillId": "arbalety",
+          "name": "Crossbows",
+          "level": 95
+        },
+        {
+          "skillId": "taktika",
+          "name": "Tactics",
+          "level": 90
+        },
+        {
+          "skillId": "lovushki",
+          "name": "Traps",
+          "level": 90
+        },
+        {
+          "skillId": "skrytnost",
+          "name": "Stealth",
+          "level": 85
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Occultism",
+          "level": 85
+        },
+        {
+          "skillId": "teologiya",
+          "name": "Theology",
+          "level": 80
+        }
+      ],
+      "variance": 3,
+      "inventory": [
+        "Enchanted crossbow (holy water + silver)",
+        "Enchanted crossbow (incendiary bolts)",
+        "Latin breviary",
+        "Anti-psi amulet",
+        "Holy water flask (glass)",
+        "Silver dagger",
+        "Chain mail under an old cloak"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "anton-vojcek",
+      "name": "Anton Vojcek",
+      "description": "Sanguinophage, 268 years old. Openly. Corporate health profile reads: «hematological dependency, requires access to specialised nutrition». Head of the Advanced Biological Research department at Zetek Corporation. Friends with Marek. In the Zetek campus — a scientifically describable organism (vampirism as a rabies-like virus); on the streets of Prague — an ordinary sanguinophage.",
+      "setting": "Зетек / Прага",
+      "attrs": {
+        "STR": 78,
+        "TGH": 82,
+        "COR": 82,
+        "SPD": 76,
+        "CHR": 90,
+        "INT": 95,
+        "PER": 82,
+        "SPR": 75
+      },
+      "keySkills": [
+        {
+          "skillId": "biologiya",
+          "name": "Biology",
+          "level": 95
+        },
+        {
+          "skillId": "himiya",
+          "name": "Chemistry",
+          "level": 90
+        },
+        {
+          "skillId": "biotehnologii",
+          "name": "Biotechnology",
+          "level": 92
+        },
+        {
+          "skillId": "farmakologiya",
+          "name": "Pharmacology",
+          "level": 90
+        },
+        {
+          "skillId": "krasnorechie",
+          "name": "Oratory",
+          "level": 85
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Occultism",
+          "level": 75
+        }
+      ],
+      "variance": 3,
+      "inventory": [
+        "Lab coat",
+        "Fine medical glass for blood draws",
+        "Zetek corporate badge",
+        "Shielded-line phone to Marek",
+        "Sample case",
+        "Impeccable manners (not a weapon, but works as one)"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "padre-alejandro",
+      "name": "Padre Alejandro Sepeda",
+      "description": "One of three Supreme Inquisitors of the True Inquisition — Spanish schismatics from the Vatican. Doctor of Theology, Salamanca; Doctor of History, Toledo. Believer in principled flexibility: with non-hostile Twilight beings, one can and must negotiate. ORPP's best external contact in the Catholic world.",
+      "setting": "Истинная Инквизиция / Толедо",
+      "attrs": {
+        "STR": 60,
+        "TGH": 65,
+        "COR": 60,
+        "SPD": 50,
+        "CHR": 82,
+        "INT": 92,
+        "PER": 82,
+        "SPR": 92
+      },
+      "keySkills": [
+        {
+          "skillId": "teologiya",
+          "name": "Theology",
+          "level": 95
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Occultism",
+          "level": 90
+        },
+        {
+          "skillId": "istoriya",
+          "name": "History",
+          "level": 92
+        },
+        {
+          "skillId": "diplomatiya",
+          "name": "Diplomacy",
+          "level": 90
+        },
+        {
+          "skillId": "liderstvo",
+          "name": "Leadership",
+          "level": 85
+        },
+        {
+          "skillId": "lingvistika",
+          "name": "Linguistics",
+          "level": 90
+        }
+      ],
+      "variance": 3,
+      "inventory": [
+        "Obsidian rosary",
+        "1576 Latin breviary",
+        "Blessed dagger (symbolic)",
+        "Phone with direct line to the other two Supreme Inquisitors",
+        "Black cassock with golden cross",
+        "True Faith (as ammunition)"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "samoilov",
+      "name": "Colonel Samoylov",
+      "description": "Commander of ORPP. Shouts at everyone. Except Bunny — at her he almost never shouts (once he broke down, she cried, he apologised for three days). Has working channels with all major hunter factions: with Russian Patriarchate ↔ Vatican (Hounds of the Lord), Padre Alejandro (True Inquisition), Crimson Shield elders, Chernitsky from Janus personally. Tactician and strategist at the academy level.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 65,
+        "TGH": 75,
+        "COR": 65,
+        "SPD": 60,
+        "CHR": 85,
+        "INT": 88,
+        "PER": 82,
+        "SPR": 92
+      },
+      "keySkills": [
+        {
+          "skillId": "liderstvo",
+          "name": "Leadership",
+          "level": 95
+        },
+        {
+          "skillId": "strategiya",
+          "name": "Strategy",
+          "level": 92
+        },
+        {
+          "skillId": "taktika",
+          "name": "Tactics",
+          "level": 90
+        },
+        {
+          "skillId": "diplomatiya",
+          "name": "Diplomacy",
+          "level": 85
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Pistols & SMGs",
+          "level": 75
+        },
+        {
+          "skillId": "zapugivanie",
+          "name": "Intimidation",
+          "level": 85
+        }
+      ],
+      "variance": 3,
+      "inventory": [
+        "GSh-18",
+        "ORPP combat suit",
+        "UGT visor",
+        "R-187P1 «Azart» radio",
+        "Direct phone to Russian Patriarchate",
+        "Personal channel to Padre Alejandro",
+        "Cigars (habit, not functional)"
+      ],
+      "img": "placeholder_npc.jpg"
+    },
+    {
+      "id": "sniper-orpp",
+      "name": "ORPP Sniper (specialist)",
+      "description": "Specialised template: ORPP operative-sniper. Works in a pair with a spotter. Ready to lie in one position for five hours for a single shot. VSSK «Vykhlop» in the main loadout, SVD for longer distances.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 60,
+        "TGH": 68,
+        "COR": 88,
+        "SPD": 62,
+        "CHR": 48,
+        "INT": 72,
+        "PER": 88,
+        "SPR": 82
+      },
+      "keySkills": [
+        {
+          "skillId": "snayperskoe-oruzhie",
+          "name": "Sniper Weapons",
+          "level": 90
+        },
+        {
+          "skillId": "maskirovka",
+          "name": "Camouflage",
+          "level": 88
+        },
+        {
+          "skillId": "orientirovanie",
+          "name": "Orienteering",
+          "level": 75
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Pistols & SMGs",
+          "level": 65
+        },
+        {
+          "skillId": "taktika",
+          "name": "Tactics",
+          "level": 65
+        }
+      ],
+      "variance": 8,
+      "inventory": [
+        "VSSK «Vykhlop»",
+        "SVD (for long range)",
+        "GSh-18",
+        "«Trident-S» 12.7×55 rounds",
+        "ORPP combat suit",
+        "IRay Saim SCH35 thermal imager",
+        "Rangefinder",
+        "Ghillie suit",
+        "Thermos (always)"
+      ],
+      "img": "sniper.jpg"
+    },
+    {
+      "id": "viktor-demonoboy",
+      "name": "Viktor «Demonslayer» Zarnitskii",
+      "description": "ORPP operative attached to the exorcism unit. Former assault trooper; after the Chișinău incident he went into faith — and faith went into him. Grey-haired at 39, eerily calm, wears a pectoral cross over the armoured combidress. Speaks softly, shoots loudly. Asked «how are you even alive», he replies: «There's just nothing to catch.»",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 70,
+        "TGH": 85,
+        "COR": 68,
+        "SPD": 62,
+        "CHR": 55,
+        "INT": 60,
+        "PER": 74,
+        "SPR": 96
+      },
+      "keySkills": [
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Assault weapons",
+          "level": 82
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Pistols and SMGs",
+          "level": 78
+        },
+        {
+          "skillId": "teologiya",
+          "name": "Theology",
+          "level": 80
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Occultism",
+          "level": 72
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Combat sambo",
+          "level": 70
+        },
+        {
+          "skillId": "zapugivanie",
+          "name": "Intimidation",
+          "level": 65
+        }
+      ],
+      "variance": 6,
+      "inventory": [
+        "AK-12",
+        "«Trident-S» special ammo, 5.45×39",
+        "GSh-18",
+        "ORPP armoured combidress",
+        "Pectoral cross (consecrated)",
+        "Holy water in a tactical flask",
+        "AI-Ya medkit",
+        "Breviary in a pocket"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "The thing struck him with everything an unclean spirit knows how to strike with: terror that stops the heart, glamour that deafens the mind, rotten whispers from under the floorboards. Viktor crossed himself, chambered a round, said «Not interested,» and walked forward — steadily, as if at a range. Demons fail to grasp one thing: to break a man with fear, that man must have something left to lose. This one has nothing left. Only faith and the rifle.",
+      "mechanics": "SAFE (total immunity to direct paranormal influence — fear, glamour, corruption, mental control do not affect him; SPR checks vs. supernatural — auto-success). «True faith» (NPC bonus): all his attacks count as consecrated — they ignore resistance and regeneration of undead/demons and deal +50% damage to them; holy water and cross work at peak in his hands. He pays for it with FANATICISM: he does not retreat from the possessed and will not bargain with evil, even when he should.",
+      "perks": [
+        {
+          "id": "seyf",
+          "level": 1
+        },
+        {
+          "id": "stalnoy-sterzhen",
+          "level": 2
+        },
+        {
+          "id": "zhivuchest",
+          "level": 2
+        },
+        {
+          "id": "fanatizm",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "lorenzo-pauletti",
+      "name": "Lorenzo Pauletti, Head of House",
+      "description": "Head of House Pauletti and acting Speaker of the Council of Great Houses, third term. Grey temples, velvet the colour of dried blood, a ring set with a shard of the Source. He smiles in a way that makes you check whether your wallet and your soul are still where you left them. Resonates with the Source of Silence — and so in his presence a liar hears his own lie before he finishes saying it.",
+      "setting": "ВГ",
+      "attrs": {
+        "STR": 42,
+        "TGH": 48,
+        "COR": 56,
+        "SPD": 50,
+        "CHR": 86,
+        "INT": 90,
+        "PER": 82,
+        "SPR": 80
+      },
+      "keySkills": [
+        {
+          "skillId": "diplomatiya",
+          "name": "Diplomacy",
+          "level": 92
+        },
+        {
+          "skillId": "pronicatelnost",
+          "name": "Perception",
+          "level": 88
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Resonance (Source of Silence)",
+          "level": 80
+        },
+        {
+          "skillId": "blef",
+          "name": "Intrigue",
+          "level": 85
+        },
+        {
+          "skillId": "istoriya",
+          "name": "History of the City",
+          "level": 78
+        },
+        {
+          "skillId": "etiket",
+          "name": "Etiquette",
+          "level": 80
+        }
+      ],
+      "variance": 5,
+      "inventory": [
+        "Ring-shard of the Source of Silence",
+        "Ducal stiletto (ceremonial, very sharp)",
+        "Seal of House Pauletti",
+        "«Widow's kiss» poison (last resort)"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "Resonance with the Source of Silence neither thunders nor flashes. It simply quiets. In the council chamber the gossip dies, the intrigue freezes, and each man suddenly hears, loudly, inside his own head, the thing he was about to conceal. Lorenzo does nothing. Lorenzo merely listens. And when at last he speaks — quietly, one word — that word is already worth three executions and one alliance.",
+      "mechanics": "Resonance with the Source of Silence: within the audible reach of the Doge's voice all attempts to lie to him take a −40 penalty and he automatically senses the lie (Perception as auto-success). He can «quiet» one sound/speech-based effect once per scene (counter-resonance). Not a fighter: weak in direct combat, but INFLUENTIAL FRIENDS and AFFLUENCE mean it rarely comes to that — others do it for him.",
+      "perks": [
+        {
+          "id": "vliyatelnye-druzya",
+          "level": 3
+        },
+        {
+          "id": "sostoyatelnost",
+          "level": 3
+        },
+        {
+          "id": "hranimyy-sudboyu",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "demetrio-orsini",
+      "name": "Condottiere Demetrio Orsini",
+      "description": "Sword of House Orsini, condottiere on the payroll of whoever pays honestly. A two-metre tower in half-plate, beard like a shovel, halberd taller than a rider. He does not intrigue — that is not his gift. Demetrio's gift is the Source of Stoneground: as long as he stands on earth and holds the line, the line holds everything.",
+      "setting": "ВГ",
+      "attrs": {
+        "STR": 82,
+        "TGH": 84,
+        "COR": 70,
+        "SPD": 58,
+        "CHR": 64,
+        "INT": 60,
+        "PER": 68,
+        "SPR": 66
+      },
+      "keySkills": [
+        {
+          "skillId": "drevkovoe-oruzhie",
+          "name": "Polearms",
+          "level": 90
+        },
+        {
+          "skillId": "tyazhelye-klinki",
+          "name": "Heavy blades",
+          "level": 80
+        },
+        {
+          "skillId": "schitovoy-boy",
+          "name": "Shield work",
+          "level": 78
+        },
+        {
+          "skillId": "taktika",
+          "name": "Tactics",
+          "level": 82
+        },
+        {
+          "skillId": "liderstvo",
+          "name": "Leadership",
+          "level": 85
+        },
+        {
+          "skillId": "zapugivanie",
+          "name": "Intimidation",
+          "level": 72
+        }
+      ],
+      "variance": 7,
+      "inventory": [
+        "Halberd «Storm of the Vals»",
+        "Bastard sword",
+        "Tower shield of House Orsini",
+        "Half-plate of Gattonian make",
+        "Resonator-horn (rally the line)"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "The cavalry came at them like a wall, and that wall weighed tons. «Hold!» roared Demetrio, and dug the butt of his halberd into the ground. The earth answered. Resonance of Stoneground rolled through the line, and forty hafts stood as one root. The horse smashed into them — and broke apart against men who, in that second, were harder than stone. Demetrio did not even sway. He rarely sways. That, they say, runs in the family.",
+      "mechanics": "Resonance with the Source of Stoneground: as long as Demetrio does not move from his spot and holds the line, he and all allies within 10 m gain +20 Toughness against knock-down/throw-back and do not break formation from fear. LEADERSHIP gives allies +1 to actions in his presence. The halberd «Storm of the Vals» — reach 2 squares, +50% damage against cavalry and large beasts. Weakness: outside the line, in a one-on-one scrum in tight quarters, his resonance fades.",
+      "perks": [
+        {
+          "id": "zhivuchest",
+          "level": 2
+        },
+        {
+          "id": "stalnoy-sterzhen",
+          "level": 2
+        },
+        {
+          "id": "kodeks-chesti",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "oleg-volkov",
+      "name": "Major Oleg Volkov",
+      "description": "Commander of operative group «Gamma», ORPP. 37, fifteen years in service, military bearing, civilian haircut. A «combatant» — but he didn't rise to command by his fists alone: his nose for trouble is so sharp the analysts at Centre envy him. The main thing, though: Volkov is SAFE. The paranormal breaks against him like a wave against concrete. On the thin plane he is almost invisible — a washed-out negative. He lost a man on the last case, Maxim. He will lose no more.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 72,
+        "TGH": 80,
+        "COR": 74,
+        "SPD": 70,
+        "CHR": 70,
+        "INT": 72,
+        "PER": 84,
+        "SPR": 78
+      },
+      "keySkills": [
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Assault weapons",
+          "level": 85
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Pistols and SMGs",
+          "level": 82
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Combat sambo",
+          "level": 80
+        },
+        {
+          "skillId": "liderstvo",
+          "name": "Leadership",
+          "level": 82
+        },
+        {
+          "skillId": "taktika",
+          "name": "Tactics",
+          "level": 78
+        },
+        {
+          "skillId": "istoriya",
+          "name": "History (17th–19th c.)",
+          "level": 65
+        }
+      ],
+      "variance": 6,
+      "inventory": [
+        "«Vikhr» assault rifle (shortened)",
+        "GSh-18",
+        "Armoured cloak (class 6, titanium-ceramic)",
+        "UHT (Universal Head Terminal)",
+        "Runed undersuit",
+        "«Forsazh» stimulant"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "The thing reached for the group with its tentacles of terror — Marina paled, Serov clenched his teeth. Volkov took off the UHT visor, folded the temples, hung them on his shirt pocket. «Ilya, stand down. Marina — into the chair.» Flat, businesslike, as if reality were not folding into a vortex three metres from him. The unclean threw everything at him — and everything passed through, not even catching. He did not notice. He was watching his people.",
+      "mechanics": "SAFE: direct paranormal influence does not act on Volkov at all (fear, glamour, mental control, corruption — auto-success on SPR; almost not traceable on the thin plane). «Commander's intuition»: once per scene the GM may give him a correct hint about the case. LEADERSHIP: allies hold the line in his presence and do not panic (important during a wave of rejection from the unclean). Down-side: he himself can almost not amplify the paranormal (artefacts, rituals) — for the thin plane he is, effectively, not there.",
+      "perks": [
+        {
+          "id": "seyf",
+          "level": 1
+        },
+        {
+          "id": "chuvstvo-opasnosti",
+          "level": 2
+        },
+        {
+          "id": "stalnoy-sterzhen",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "marina-sheremeteva",
+      "name": "Senior Lieutenant Marina Sheremetyeva",
+      "description": "OPI expert, psionic of group «Gamma». Telepath and biopath — and, like every biopath, she started with herself: lilac eyes, doll-perfect face, voice like velvet. A «living doll». She speaks Chaldean, Old Arabic, Old Icelandic, Irish and Latin. Medic, negotiator, sometimes — the soft interrogator. Criticising her looks is strictly forbidden by procedure: break her confidence, break the gift.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 38,
+        "TGH": 44,
+        "COR": 60,
+        "SPD": 55,
+        "CHR": 92,
+        "INT": 88,
+        "PER": 86,
+        "SPR": 90
+      },
+      "keySkills": [
+        {
+          "skillId": "psihiatriya",
+          "name": "Psychiatry",
+          "level": 85
+        },
+        {
+          "skillId": "pronicatelnost",
+          "name": "Perception",
+          "level": 88
+        },
+        {
+          "skillId": "hirurgiya",
+          "name": "Healer surgery",
+          "level": 80
+        },
+        {
+          "skillId": "lingvistika",
+          "name": "Dead languages",
+          "level": 82
+        },
+        {
+          "skillId": "okkultizm",
+          "name": "Occultism",
+          "level": 78
+        },
+        {
+          "skillId": "obolschenie",
+          "name": "Seduction",
+          "level": 80
+        }
+      ],
+      "variance": 5,
+      "inventory": [
+        "Runed undersuit",
+        "UHT (with X-ray module)",
+        "AI-Ya medkit",
+        "Emergency «psi-Forsazh»",
+        "PSM (carries, dislikes)"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "«Two people. Approaching our room. The general and, looks like, the new one.» She listened to something inside — her eyes flickered blue. Reading another mind is always pain, as if someone turns a red-hot wire in her temple. Marina pays that price in silence. And when the patient's memories are full enough of evil to melt the mind, she slams the «psi-Forsazh» — and her eyes blaze. Then it will lay her out for forty-eight hours. She knows. She does it anyway.",
+      "mechanics": "TELEPATH: reads minds, edits memory, can compel behaviour — every act demands a hard SPR check and causes physical pain (damage/round on long work). BIOPATH: heals mid-tier wounds by laying on of hands (like two healers), performs manual surgery, reshapes appearance (her own and others'). «Psi-Forsazh» (stimulant): removes limits for one scene → then 48 h incapacitation. Fragile in combat (low STR/TGH) — the team shields her.",
+      "perks": [
+        {
+          "id": "seksapilnost",
+          "level": 2
+        },
+        {
+          "id": "zapominayuschayasya-lichnost",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "pavel-grigoriev",
+      "name": "Captain Pavel Grigoriev",
+      "description": "Investigator on cases of special order, group «Gamma». Wiry, glasses on a thin frame, slightly balding — the makeup is meant to evoke Lavrentiy Pavlovich. No gift, and that is his pride: everything he can do, he can do himself. Psychologist, criminalist, master interrogator, electronics specialist. Calm to the point of cynicism, jokes in a level voice even with a bullet in his cloak.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 58,
+        "TGH": 62,
+        "COR": 66,
+        "SPD": 60,
+        "CHR": 70,
+        "INT": 86,
+        "PER": 84,
+        "SPR": 64
+      },
+      "keySkills": [
+        {
+          "skillId": "doprosy",
+          "name": "Interrogation",
+          "level": 88
+        },
+        {
+          "skillId": "psihiatriya",
+          "name": "Psychology",
+          "level": 80
+        },
+        {
+          "skillId": "kriminalistika",
+          "name": "Criminalistics",
+          "level": 82
+        },
+        {
+          "skillId": "elektronika",
+          "name": "Electronic systems",
+          "level": 80
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Pistols and SMGs",
+          "level": 72
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Hand-to-hand",
+          "level": 68
+        }
+      ],
+      "variance": 6,
+      "inventory": [
+        "GSh-18",
+        "Armoured cloak (class 6)",
+        "UHT",
+        "Runed undersuit",
+        "«Express» (interrogation syringe-pens)",
+        "Criminalist kit"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "The bullet threw him onto the thug below — the armoured cloak holds a Kalashnikov at five metres. Grigoriev got up, brushed himself off, pulled out a syringe-pen. «All right, secure this one. We'll question him on the «Express».» Flat voice, as if discussing the weather. A minute later the thug was speaking in a sepulchral tone everything he knew, and Pavel nodded and made notes — methodically, like a bookkeeper tallying someone else's sins.",
+      "mechanics": "No gift — master of skills. «Express» (drug): the questioned answers truthfully and without will to resist (powerful, but leaves a trace — apply by protocol). Reading people: +20 to Perception and Interrogation, spots lies by micro-expression. Criminalist and electronics man: cracks locks, systems, reconstructs the picture from evidence. In combat — a solid professional, no supernatural trump cards — he wins with his head and the armoured cloak.",
+      "perks": [
+        {
+          "id": "stalnoy-sterzhen",
+          "level": 2
+        },
+        {
+          "id": "chelovek-mira",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "ilya-serov",
+      "name": "Captain Ilya Serov",
+      "description": "Newcomer to group «Gamma», replacing the fallen Maxim. 93% on the standard test. Veteran of the Arabian conflict; took Kabul with the SIB special group «Netopyr» — and did not catch a single wound, which is, in itself, an oddity. No gift, but elite combat training and a healthy «well, hell, that's something» when faced with the unclean. He crosses himself when his partner jokes about demons.",
+      "setting": "ОРПП",
+      "attrs": {
+        "STR": 78,
+        "TGH": 78,
+        "COR": 82,
+        "SPD": 80,
+        "CHR": 64,
+        "INT": 66,
+        "PER": 76,
+        "SPR": 70
+      },
+      "keySkills": [
+        {
+          "skillId": "shturmovoe-oruzhie",
+          "name": "Assault weapons",
+          "level": 86
+        },
+        {
+          "skillId": "pistolety-i-pp",
+          "name": "Pistols and SMGs",
+          "level": 84
+        },
+        {
+          "skillId": "boevoe-sambo",
+          "name": "Combat sambo",
+          "level": 82
+        },
+        {
+          "skillId": "taktika",
+          "name": "Tactics",
+          "level": 75
+        },
+        {
+          "skillId": "vyzhivanie",
+          "name": "Survival",
+          "level": 72
+        },
+        {
+          "skillId": "skrytnost",
+          "name": "Stealth",
+          "level": 70
+        }
+      ],
+      "variance": 7,
+      "inventory": [
+        "«Vikhr» assault rifle",
+        "GSh-18",
+        "Armoured cloak (class 6)",
+        "UHT + targeting ring",
+        "Runed undersuit",
+        "«Forsazh» stimulant"
+      ],
+      "legend": true,
+      "img": "",
+      "vignette": "«And how do you use this thing?» — he turned the UHT visor like a kid with a new toy. Plugged in the cable, put it on — boot-up lines ran across his field of view, a crosshair lit. He drew the GSh, swept the muzzle — the crosshair leapt with the barrel, like in a shooter. «Hot.» On the thin plane he looked like an ordinary man. Perfectly ordinary. And in a room where reality was losing its mind, that was almost as rare as being SAFE.",
+      "mechanics": "No gift — pure top-tier combatant. The best shooter and brawler of the group (assault weapons, pistols, sambo at 80+). UHT with targeting ring: target-painting, shooting «like a shooter». «Unnaturally lucky under fire» — never wounded in his career (the GM may treat as LUCKY). Weak point: knows nothing about the paranormal, relies on the team and on the sign of the cross.",
+      "perks": [
+        {
+          "id": "zhivuchest",
+          "level": 2
+        },
+        {
+          "id": "vezunchik",
+          "level": 2
+        },
+        {
+          "id": "specializaciya",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "kot-bratslavskiy",
+      "name": "Lev Bratslavskiy «Kot» (the Cat)",
+      "description": "«God's Stopgap». Short, unremarkable, on leave more often than on duty — yet always shows up where the situation is at its worst. His luck coefficient is anomalously broken; the OPI files him as «a carrier of stable reality» and does not know the truth. In the Book of Fates he is entered as the **Sword of Michael**: God, having refused direct intervention out of respect for free will, kept one instrument — one human, through whom He allows Himself to nudge a cog by the thickness of a hair. Kot does not know it. Or knows, and does not think about it.",
+      "setting": "ОРПП",
+      "attrs": {"STR": 55, "TGH": 58, "COR": 62, "SPD": 60, "CHR": 48, "INT": 68, "PER": 70, "SPR": 88},
+      "keySkills": [
+        {"skillId": "pistolety-i-pp", "name": "Pistols / SMG", "level": 70},
+        {"skillId": "rukopashnyy-boy", "name": "Hand-to-hand", "level": 60},
+        {"skillId": "vyzhivanie", "name": "Survival", "level": 85},
+        {"skillId": "pronicatelnost", "name": "Insight", "level": 75}
+      ],
+      "variance": 6,
+      "inventory": ["GSh-18 (issue)", "Folding knife, worn", "Civilian clothing, nothing flashy", "Zippo lighter — doesn't smoke, just useful"],
+      "legend": true,
+      "img": "",
+      "vignette": "Kot walked the corridor of Polukhov's psych ward, pistol in his hand, on someone else's blood. By the wall lay a dead orderly — a knife at his belt, exactly the kind Kot needed in that minute. He took it. Two turns later he met a «surgeon» with three arms. The third arm jammed — a tendon caught. Kot walked out alive. Flash, his partner, stayed in the same ward. Michael's protection guards one. Free will is sacred. That is Kot's curse.",
+      "mechanics": "STATISTICALLY IMMORTAL: once per scene the GM introduces a «convenient coincidence» around Kot — a corpse with the right round, an unlocked door, a bullet missing, a falling beam landing on the enemy. Not magic — *retroactive reality edits* off-camera. Does **not** trigger on dice rolls. PARTNERS ARE NOT PROTECTED. Higher-rank paranormals at close range *sense* Michael behind his shoulder: angels kneel; high demons retreat or rage. See ORPP_LORE_v2.md §8.5.",
+      "perks": [{"id": "vezunchik", "level": 3}, {"id": "chuvstvo-opasnosti", "level": 3}]
+    },
+    {
+      "id": "otec-nikita",
+      "name": "Father Nikita",
+      "description": "Combat priest of the SIB chaplain corps. The exemplar. Tall, heavy-set, long beard to mid-chest, cassock over leather trousers and combat boots. A heavy Patriarchal cross on his neck, a silver spiked collar over the cassock (each spike consecrated personally). His Harley sits in the saddle-bag of which is an automatic shotgun. The prayer to Archangel Michael works **literally**. «Come on, you heathens, step lively, or I'll excommunicate the lot of you!» Not parody and not «priest with a gun for laughs» — Nikita **believes**, and his prayer **works**. Casts his own bullets, files crosses by hand, embeds incense, pours holy oil, keeps them in a reliquary, takes them to the Patriarch for blessing. Craft and faith at once.",
+      "setting": "ОРПП",
+      "attrs": {"STR": 75, "TGH": 78, "COR": 58, "SPD": 50, "CHR": 68, "INT": 60, "PER": 72, "SPR": 95},
+      "keySkills": [
+        {"skillId": "drobovik", "name": "Shotgun", "level": 80},
+        {"skillId": "ekzorcizm", "name": "Exorcism", "level": 90},
+        {"skillId": "okkultizm", "name": "Occult (demonology)", "level": 80},
+        {"skillId": "rukopashnyy-boy", "name": "Hand-to-hand", "level": 65},
+        {"skillId": "pronicatelnost", "name": "Insight", "level": 75}
+      ],
+      "variance": 7,
+      "inventory": ["Automatic shotgun (personal casting; consecrated rounds)", "Patriarchal gold cross", "Silver spiked collar (each spike consecrated)", "Censer with charcoal and incense", "Bottle of holy oil", "Harley-Davidson in the back garage"],
+      "legend": true,
+      "img": "",
+      "vignette": "Nikita parked the Harley at the entrance. Took off his glasses. Crossed himself. Raised the shotgun. From above, the third floor, came a sound — not voice, not weeping, something between. Nikita said calmly into the stairwell: «Servant of God, come out. It'll be worse.» The sound stopped. A second later something long, grey, with two mouths flowed down the stairs. Nikita raised the cross with his left hand. «Archangel Michael, strive with us!» — and the grey thing **howled** like a cat under a wheel and flowed back up. Nikita nodded to himself and followed — calmly, unhurried.",
+      "mechanics": "PRAYER TO ARCHANGEL MICHAEL: once per scene, induces paranormal terror in demonic undead (Spirit save DC 18; failure — 1d4 rounds panic). Silver spiked collar — passive protection against vampire/ghoul bite (attacker takes 2d6 burn damage on contact). Consecrated rounds — double penetration vs undead. EXORCISM: a 10-minute ritual banishes one demonic entity of rank below Archon automatically; at equal rank — Will save DC 22. Cost: 1d4 rounds of heavy fatigue afterwards, −10 to all rolls.",
+      "perks": [{"id": "vera", "level": 3}, {"id": "fanatizm", "level": 2}, {"id": "stalnoy-sterzhen", "level": 2}]
+    }
+  ]
+}

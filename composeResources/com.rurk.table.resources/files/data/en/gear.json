@@ -1,0 +1,4459 @@
+{
+  "categories": [
+    {
+      "title": "PISTOLS",
+      "items": [
+        {
+          "name": "GSh-18",
+          "specs": "**Тип:** Самозарядный пистолет (табельный ОРПП) | **Калибр:** 9×19 Para / 9×19 7Н31 | **Магазин:** 18 | **Масса:** 580 г со снаряжённым магазином | **Длина:** 184 мм | **Прицельная дальность:** 50 м",
+          "desc": "ORPP standard sidearm. Light, reliable, rotary-barrel locking — polymer frame, stamped-steel slide. Eighteen rounds in the magazine — that's no longer a pistol, that's a small submachine gun. The armour-piercing 7N31 punches Level II protection at ten metres and touches Level III. Special munitions (cold iron in a silver jacket) — for the unholy. In a fight with a man — there's enough ammunition for a long conversation.",
+          "img": "gsh-18.jpg",
+          "blurb": "ORPP service sidearm. Eighteen rounds — practically a small SMG already.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto pistol"
+            ],
+            [
+              "Magazine",
+              "18 rounds"
+            ],
+            [
+              "Damage",
+              "K100/13+3 (9×19) · K100/13+3 (7N31)"
+            ],
+            [
+              "Penetration",
+              "40 · 60 (armour-piercing 7N31)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+8 (ideal handling and weight)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "PYa (Yarygin pistol, MR-443 «Grach»)",
+          "specs": "**Тип:** Самозарядный пистолет | **Калибр:** 9×19 / 9×21 СП-10 | **Магазин:** 17 | **Масса:** 950 г | **Длина:** 198 мм",
+          "desc": "Russian Army reserve sidearm; in ORPP it serves as a backup or for specific cases. Heavier than the GSh-18, more sensitive to dirt. The 9×21 SP-10 armour-piercing round is good against modern civilian vests. Loved by those who got used to the classic layout and don't trust polymer «tubs».",
+          "img": "pya_grach.jpg",
+          "blurb": "Reserve army sidearm. Heavier than the GSh-18, more sensitive to dirt.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto pistol"
+            ],
+            [
+              "Magazine",
+              "17 rounds"
+            ],
+            [
+              "Damage",
+              "K100/13+3 (9×19) · K100/13+3 (9×21 SP-10)"
+            ],
+            [
+              "Penetration",
+              "40 · 55 (armour-piercing SP-10)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+2 (classic layout)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "SR-1 «Gyurza»",
+          "specs": "**Тип:** Самозарядный пистолет (спецназ) | **Калибр:** 9×21 СП-10/СП-11 | **Магазин:** 18 | **Масса:** 1.0 кг | **Длина:** 200 мм",
+          "desc": "Combat sidearm of the FSB and SiB special forces. Punches a kevlar vest at fifty metres. A Class IV plate — at fifteen. On the black market it costs as much as a used hatchback — which is why it surfaces now and then with people whom barrels of that grade are not, by law, supposed to belong to. ORPP issues it to officers at the level of operational-group commander and to OPI personnel.",
+          "img": "sr-1_gyurza.jpg",
+          "blurb": "Special-forces combat pistol. Punches kevlar at fifty metres.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto pistol (special forces)"
+            ],
+            [
+              "Magazine",
+              "18 rounds"
+            ],
+            [
+              "Damage",
+              "K100/13+3 (9×21 SP-10) · K100/13+3 (SP-11)"
+            ],
+            [
+              "Penetration",
+              "55 · 70 (SP-11, Class IV at 15 m)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+6 (powerful round, refined ergonomics)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "PM (Makarov pistol)",
+          "specs": "**Тип:** Самозарядный пистолет | **Калибр:** 9×18 ПМ | **Магазин:** 8 | **Масса:** 810 г | **Длина:** 161 мм",
+          "desc": "1951 classic. Not used in ORPP (weak round, won't take a vest), but found among old-school gangsters, on the civilian market, with retired district inspectors. Can show up on any corpse in any den. Eight rounds and a familiar layout are the only things for which it hasn't yet been finally written off.",
+          "img": "pm_makarov.png",
+          "blurb": "1951 classic. Weak round, worn-out grip on an old fleet.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto pistol"
+            ],
+            [
+              "Magazine",
+              "8 rounds"
+            ],
+            [
+              "Damage",
+              "K100/20+1 (9×18 PM)"
+            ],
+            [
+              "Penetration",
+              "25 (a vest stops it)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "−5 (shoddy handling, worn-out fleet)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "Glock 17 / Glock 19",
+          "specs": "**Тип:** Самозарядный пистолет (импорт) | **Калибр:** 9×19 Para | **Магазин:** 17 / 15 | **Масса:** 905 / 805 г | **Длина:** 204 / 187 мм",
+          "desc": "Austrian classic — a plastic «brick» with no safety, reliable as a stone. Among gangsters of Khan's level — a status toy. Among ORPP officers — sometimes a personal weapon on leave or as a backup. The 17 is full-size, the 19 is compact. Khan keeps the 17 under his pillow because he reckons it's «what the cool guys have».",
+          "img": "glock17.jpg",
+          "blurb": "Austrian plastic brick. Reliable as a rock.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto pistol (import)"
+            ],
+            [
+              "Magazine",
+              "17 / 15 rounds"
+            ],
+            [
+              "Damage",
+              "K100/13+3 (9×19)"
+            ],
+            [
+              "Penetration",
+              "40"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+5 (excellent ergonomics, low weight)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "CZ-75",
+          "specs": "**Тип:** Самозарядный пистолет | **Калибр:** 9×19 Para | **Магазин:** 16 | **Масса:** 1.0 кг | **Длина:** 206 мм",
+          "desc": "Czech work, for connoisseurs — massive, accurate, ergonomics like a sculptor's fist. Common in Eastern Europe and the Balkans, in Moscow seen less often. ORPP might confiscate one from a foreign agent or a Yugoslav mercenary, if such a thing happens in the storyline.",
+          "img": "cz-75.png",
+          "blurb": "Czech work for connoisseurs — heavy, precise.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto pistol"
+            ],
+            [
+              "Magazine",
+              "16 rounds"
+            ],
+            [
+              "Damage",
+              "K100/13+3 (9×19)"
+            ],
+            [
+              "Penetration",
+              "40"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+4 (accurate, but a touch heavy)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "APS (Stechkin automatic pistol)",
+          "specs": "**Тип:** Самозарядный/автоматический пистолет | **Калибр:** 9×18 ПМ | **Магазин:** 20 | **Масса:** 1.22 кг (без кобуры) / 1.78 кг (с кобурой-прикладом) | **Длина:** 225 мм | **Скорострельность:** 750 в/мин",
+          "desc": "A 1951 artefact, still in service as a commander's pistol. Fires in bursts, which for a pistol is a dubious pleasure (the muzzle climbs in two seconds) — but as a single-fire pistol it is accurate and reliable. With the wooden stock-holster it becomes a pocket SMG. In ORPP — a reserve; among criminals — a status piece.",
+          "img": "aps_stechkin.jpg",
+          "blurb": "1951 artefact. With the wooden stock-holster — a pocket SMG.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto / full-auto pistol"
+            ],
+            [
+              "Magazine",
+              "20 rounds"
+            ],
+            [
+              "Damage",
+              "K100/20+1 (9×18 PM)"
+            ],
+            [
+              "Penetration",
+              "28"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+1 single · −10 burst (muzzle climbs)"
+            ],
+            [
+              "Rate of fire",
+              "single / auto 750 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "burst without penalty — STR 45+"
+            ]
+          ]
+        },
+        {
+          "name": "Desert Eagle .50 AE",
+          "specs": "**Тип:** Самозарядный пистолет (импорт) | **Калибр:** .50 AE / .44 Magnum | **Магазин:** 7 | **Масса:** 2.0 кг | **Длина:** 273 мм",
+          "desc": "A Hollywood pistol. Heavy as an iron, with recoil that means the average shooter's wrist stops working after the third shot. Firing one-handed is posturing; hitting anything with that layout is luck. But on hit, a .50 AE round does to a man the things American directors love. Not seen in ORPP, occasionally in the criminal underworld — among those who've watched a lot of films.",
+          "img": "deserteagle.jpg",
+          "blurb": "Hollywood pistol. A fucking hand-cannon, heavy as an iron.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto pistol (import)"
+            ],
+            [
+              "Magazine",
+              "7 rounds"
+            ],
+            [
+              "Damage",
+              "K100/7+4 (.50 AE) · K100/9+3 (.44 Magnum)"
+            ],
+            [
+              "Penetration",
+              "55"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "−12 (monstrous recoil)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "STR 65. Below — ZPN ×0.5: after the third shot the wrist gives"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "SUBMACHINE GUNS",
+      "items": [
+        {
+          "name": "PP «Vityaz-SN»",
+          "specs": "**Тип:** Пистолет-пулемёт | **Калибр:** 9×19 Para / 7Н31 | **Магазин:** 30 | **Масса:** 2.9 кг | **Длина:** 460/698 мм | **Скорострельность:** 750 в/мин",
+          "desc": "ORPP service SMG. Based on the AKS-74U: same action, same controls, only chambered for 9×19. Simple as a brick, eats anything from training rounds to armour-piercers. Standard kit for the operations group: takes a folding stock, doesn't catch on a sling, fires from any position.",
+          "img": "vityaz-sn.jpg",
+          "blurb": "Service SMG. AK-shaped, simple as a brick, eats anything.",
+          "stats": [
+            [
+              "Class",
+              "Submachine gun"
+            ],
+            [
+              "Magazine",
+              "30 rounds"
+            ],
+            [
+              "Damage",
+              "K100/13+3 (9×19) · K100/13+3 (7N31)"
+            ],
+            [
+              "Penetration",
+              "40 · 60 (7N31)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+6 (reliable, simple, familiar)"
+            ],
+            [
+              "Rate of fire",
+              "750 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "SR-2M «Veresk»",
+          "specs": "**Тип:** Пистолет-пулемёт | **Калибр:** 9×21 СП-10 | **Магазин:** 20 | **Масса:** 2.3 кг | **Длина:** 367/603 мм | **Скорострельность:** 900 в/мин",
+          "desc": "Special SMG of FSB and SiB. Designed for the SP-10 armour-piercing 9×21 — punches a Class III vest at twenty metres. Light, balanced, with a flip-up sight. In ORPP — for storming operations against humans in body armour. Against the unholy — the standard 9×19 special munition is loaded.",
+          "img": "sr-2m_veresk.jpg",
+          "blurb": "Special SMG of FSB and SiB. Punches body armour with SP-10.",
+          "stats": [
+            [
+              "Class",
+              "Submachine gun"
+            ],
+            [
+              "Magazine",
+              "20 rounds"
+            ],
+            [
+              "Damage",
+              "K100/13+3 (9×21 SP-10)"
+            ],
+            [
+              "Penetration",
+              "70 (Class III to 100 m)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+7 (compact, balanced)"
+            ],
+            [
+              "Rate of fire",
+              "900 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "PP-2000",
+          "specs": "**Тип:** Пистолет-пулемёт | **Калибр:** 9×19 / 7Н31 | **Магазин:** 20/44 | **Масса:** 1.4 кг | **Длина:** 340/582 мм | **Скорострельность:** 600 в/мин",
+          "desc": "Compact PDW — a personal defence weapon in the doctrine of the manufacturer KBP. Lightweight, accurate, no protruding parts on the receiver, designed for tight indoor work. ORPP issues one to vehicle drivers and dispatch officers — what you can pull and use in two seconds inside a car.",
+          "img": "pp-2000.jpg",
+          "blurb": "Compact PDW. Lightweight, accurate, made for CQB.",
+          "stats": [
+            [
+              "Class",
+              "Submachine gun"
+            ],
+            [
+              "Magazine",
+              "20 / 44 rounds"
+            ],
+            [
+              "Damage",
+              "K100/13+3 (9×19) · K100/13+3 (7N31)"
+            ],
+            [
+              "Penetration",
+              "40 · 60 (7N31)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+5 (comfortable, light)"
+            ],
+            [
+              "Rate of fire",
+              "600 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "MP5 (HK MP5A3)",
+          "specs": "**Тип:** Пистолет-пулемёт (импорт) | **Калибр:** 9×19 Para | **Магазин:** 30 | **Масса:** 2.5 кг | **Длина:** 490/660 мм | **Скорострельность:** 800 в/мин",
+          "desc": "Heckler & Koch. The smoothest 9×19 SMG ever made. The roller-locked action gives almost no muzzle climb on a burst — three rounds hit the same spot. ORPP has a few left over from joint operations with German colleagues. Repair is a problem: spare parts are hard to come by.",
+          "img": "mp5.jpg",
+          "blurb": "A legend. Heckler & Koch. The smoothest 9×19 ever built.",
+          "stats": [
+            [
+              "Class",
+              "Submachine gun (import)"
+            ],
+            [
+              "Magazine",
+              "30 rounds"
+            ],
+            [
+              "Damage",
+              "K100/13+3 (9×19)"
+            ],
+            [
+              "Penetration",
+              "40"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+9 (reference ergonomics)"
+            ],
+            [
+              "Rate of fire",
+              "800 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "Bizon PP-19",
+          "specs": "**Тип:** Пистолет-пулемёт | **Калибр:** 9×18 ПМ | **Магазин:** 64 (шнековый) | **Масса:** 2.7 кг | **Длина:** 660 мм | **Скорострельность:** 700 в/мин",
+          "desc": "A helical magazine for sixty-four rounds. Looks like the SMG is carrying a giant cigar under the barrel. Practically useful for rushing one — there's enough ammunition for a whole shoot-out and a half. Practically inconvenient: poor balance, awkward to reload. ORPP has it as a backup for storming barricaded targets.",
+          "img": "pp-19_bizon.jpg",
+          "blurb": "Helical magazine for 64 rounds. Stuffed like a giant cigar.",
+          "stats": [
+            [
+              "Class",
+              "Submachine gun"
+            ],
+            [
+              "Magazine",
+              "64 rounds (helical)"
+            ],
+            [
+              "Damage",
+              "K100/20+1 (9×18 PM)"
+            ],
+            [
+              "Penetration",
+              "28"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+1 (low penetration, mediocre accuracy)"
+            ],
+            [
+              "Rate of fire",
+              "700 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 5"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "Kedr PP-91",
+          "specs": "**Тип:** Пистолет-пулемёт | **Калибр:** 9×18 ПМ | **Магазин:** 20/30 | **Масса:** 1.6 кг | **Длина:** 305/540 мм | **Скорострельность:** 1000 в/мин",
+          "desc": "Compact, light, made for the weak 9×18 PM round — the choice of bodyguards and provincial police. In ORPP almost not seen: weak penetration, won't take a vest. Among criminals — common, especially among older bandits who got it from the army warehouses of the nineties.",
+          "img": "pp-91_kedr.jpg",
+          "blurb": "Compact, light, weak round — the choice of bodyguards and provincial police.",
+          "stats": [
+            [
+              "Class",
+              "Submachine gun"
+            ],
+            [
+              "Magazine",
+              "20 / 30 rounds"
+            ],
+            [
+              "Damage",
+              "K100/20+1 (9×18 PM)"
+            ],
+            [
+              "Penetration",
+              "28"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "−3 (groups tightly only point-blank)"
+            ],
+            [
+              "Rate of fire",
+              "1000 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "ASSAULT RIFLES",
+      "items": [
+        {
+          "name": "AK-74M",
+          "specs": "**Тип:** Штурмовая винтовка | **Калибр:** 5.45×39 | **Магазин:** 30/45 | **Масса:** 4.2 кг с примкнутым магазином | **Длина:** 705/943 мм | **Скорострельность:** 600 в/мин",
+          "desc": "The pillar of the Russian Army. AK-74M means «modernised»: folding stock, polymer furniture, rail mounts on the receiver cover. Reliable to the point of obscenity: will fire after a swim in a swamp, after sand, after a fall from a fifth floor. Will jam in space, but only in space.",
+          "img": "ak-74m.jpg",
+          "blurb": "Russian-army workhorse. Will jam in space, but only in space.",
+          "stats": [
+            [
+              "Class",
+              "Assault rifle"
+            ],
+            [
+              "Magazine",
+              "30 / 45 rounds"
+            ],
+            [
+              "Damage",
+              "K100/9+3 (5.45×39)"
+            ],
+            [
+              "Penetration",
+              "70"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+3 (reliability over precision)"
+            ],
+            [
+              "Rate of fire",
+              "600 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "AK-12",
+          "specs": "**Тип:** Штурмовая винтовка | **Калибр:** 5.45×39 | **Магазин:** 30/60/95 | **Масса:** 3.5 кг | **Длина:** 730/940 мм | **Скорострельность:** 700 в/мин",
+          "desc": "New-generation Kalashnikov. Same reliable rotating-bolt action, but new ergonomics — top Picatinny rail, two-position safety, adjustable stock. In ORPP it is being issued to recently retrained operatives; the old ones grumble that the AK-12 is «not really an AK any more».",
+          "img": "ak-12.jpg",
+          "blurb": "New-generation AK. Better ergonomics, the same indestructible action.",
+          "stats": [
+            [
+              "Class",
+              "Assault rifle"
+            ],
+            [
+              "Magazine",
+              "30 / 60 / 95 rounds"
+            ],
+            [
+              "Damage",
+              "K100/9+3 (5.45×39)"
+            ],
+            [
+              "Penetration",
+              "70"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+6 (adjustable stock, rails, ergonomic grip)"
+            ],
+            [
+              "Rate of fire",
+              "700 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "AK-103",
+          "specs": "**Тип:** Штурмовая винтовка | **Калибр:** 7.62×39 | **Магазин:** 30 | **Масса:** 3.6 кг | **Длина:** 705/943 мм | **Скорострельность:** 600 в/мин",
+          "desc": "Export AK in 7.62×39 — the calibre of the old AKM. Heavier and louder than the 74, but the round itself hits harder and isn't deflected by twigs and bushes. ORPP uses it for operations outside cities — in forest, mountains, against masses of unholy that just need to be knocked down.",
+          "img": "ak-103.jpg",
+          "blurb": "7.62×39 export AK. Heavier round, more knockdown.",
+          "stats": [
+            [
+              "Class",
+              "Assault rifle"
+            ],
+            [
+              "Magazine",
+              "30 rounds"
+            ],
+            [
+              "Damage",
+              "K100/9+3 (7.62×39)"
+            ],
+            [
+              "Penetration",
+              "75"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+2 (more powerful but worse at range)"
+            ],
+            [
+              "Rate of fire",
+              "600 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "AK-15",
+          "specs": "**Тип:** Штурмовая винтовка | **Калибр:** 7.62×39 | **Магазин:** 30 | **Масса:** 3.8 кг | **Длина:** 730/940 мм | **Скорострельность:** 700 в/мин",
+          "desc": "7.62 sibling of the AK-12. For those who want one solid hit instead of three. Same modern ergonomics, same rails — but a heavier round and noticeably stronger recoil. In ORPP — for assaults and for work against armoured targets.",
+          "img": "ak-15.jpg",
+          "blurb": "7.62 sibling of the AK-12. The choice of those who want one solid hit instead of three.",
+          "stats": [
+            [
+              "Class",
+              "Assault rifle"
+            ],
+            [
+              "Magazine",
+              "30 rounds"
+            ],
+            [
+              "Damage",
+              "K100/9+3 (7.62×39)"
+            ],
+            [
+              "Penetration",
+              "78"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+5 (AK-12 ergonomics, heavier round)"
+            ],
+            [
+              "Rate of fire",
+              "700 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "A-91 «Dual-medium»",
+          "specs": "**Тип:** Штурмовая винтовка / подводный автомат | **Калибр:** 5.45×39 (наземный) / 5.45×39 ПСП (подводный) | **Магазин:** 30 | **Масса:** 4.6 кг | **Длина:** 685/860 мм",
+          "desc": "Dual-medium assault rifle. Switches between standard 5.45×39 and special PSP underwater rounds in a couple of seconds. Combat-diver pickup: an operative comes out of the water and fights at once, no swap of weapon. In ORPP a few of these are kept for storms involving river or harbour work.",
+          "img": "ads_amphibious.jpg",
+          "blurb": "Shoots underwater and in the air. Combat-diver pickup.",
+          "stats": [
+            [
+              "Class",
+              "Assault rifle / underwater rifle"
+            ],
+            [
+              "Magazine",
+              "30 rounds"
+            ],
+            [
+              "Damage",
+              "K100/9+3 (5.45×39) · K100/13+3 (PSP underwater)"
+            ],
+            [
+              "Penetration",
+              "70 · 45 (underwater)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+2 on land · no penalty underwater"
+            ],
+            [
+              "Rate of fire",
+              "600 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "M4A1 Carbine",
+          "specs": "**Тип:** Штурмовой карабин (импорт) | **Калибр:** 5.56×45 NATO | **Магазин:** 30 | **Масса:** 3.4 кг | **Длина:** 757/838 мм | **Скорострельность:** 750 в/мин",
+          "desc": "American assault carbine, the foreign symbol of modern infantry. Light, accurate, comfortable for shooting from awkward positions. In mud and sand more finicky than an AK; from a dry table — better at fine work. ORPP confiscates from foreign agents, sometimes uses for its own special operations as deniable kit.",
+          "img": "m4a1.png",
+          "blurb": "American assault carbine. Light, accurate, finicky in mud.",
+          "stats": [
+            [
+              "Class",
+              "Assault carbine (import)"
+            ],
+            [
+              "Magazine",
+              "30 rounds"
+            ],
+            [
+              "Damage",
+              "K100/9+3 (5.56×45 NATO)"
+            ],
+            [
+              "Penetration",
+              "70"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+7 (light, well-handling, festooned with rails)"
+            ],
+            [
+              "Rate of fire",
+              "750 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "HK416",
+          "specs": "**Тип:** Штурмовая винтовка (импорт) | **Калибр:** 5.56×45 NATO | **Магазин:** 30 | **Масса:** 3.6 кг | **Длина:** 690/797 мм | **Скорострельность:** 850 в/мин",
+          "desc": "M4 done right: same shape, same controls — but with a gas-piston system instead of direct-impingement gas. Doesn't crap up the action with carbon. Bin Laden was killed with one of these. In ORPP — rare, given to deep-cover units.",
+          "img": "hk416.png",
+          "blurb": "M4 done right — gas-piston system. Bin Laden was killed with one of these.",
+          "stats": [
+            [
+              "Class",
+              "Assault rifle (import)"
+            ],
+            [
+              "Magazine",
+              "30 rounds"
+            ],
+            [
+              "Damage",
+              "K100/9+3 (5.56×45 NATO)"
+            ],
+            [
+              "Penetration",
+              "72"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+8 (M4 reliability without its ills)"
+            ],
+            [
+              "Rate of fire",
+              "850 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "SNIPER WEAPONS",
+      "items": [
+        {
+          "name": "SVD (Dragunov sniper rifle)",
+          "specs": "**Тип:** Самозарядная снайперская винтовка | **Калибр:** 7.62×54R | **Магазин:** 10 | **Масса:** 4.3 кг | **Длина:** 1225 мм | **Прицельная дальность:** 1200 м",
+          "desc": "Sniper rifle of a whole army, the very stamp of «marksman» since Vietnam. Semi-automatic, ten-round magazine, the heavy 7.62×54R cartridge. Reaches reliably to four hundred metres, with a good shooter — to six. In ORPP — for support of operations groups: not a precision instrument, but a stable companion.",
+          "img": "svd.jpg",
+          "blurb": "A whole armys sniper rifle. Has fought every war since Vietnam.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto sniper rifle"
+            ],
+            [
+              "Magazine",
+              "10 rounds"
+            ],
+            [
+              "Damage",
+              "K100/7+4 (7.62×54R)"
+            ],
+            [
+              "Penetration",
+              "90"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+10 (no range penalty; rate 1 shot/round)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto, 1 shot / round"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "SV-98",
+          "specs": "**Тип:** Болтовая снайперская винтовка | **Калибр:** 7.62×54R | **Магазин:** 10 | **Масса:** 5.8 кг | **Длина:** 1200 мм | **Прицельная дальность:** 1000 м",
+          "desc": "Sport-class precision rifle, bolt-action. For when the SVD is too coarse: SV-98 holds half a minute of arc at three hundred metres. Heavy, with a long barrel, intolerant of dirt. ORPP issues to designated marksmen for planned operations where the targets are known in advance.",
+          "img": "sv-98.jpg",
+          "blurb": "Sport-class precision rifle. For when the SVD is too coarse.",
+          "stats": [
+            [
+              "Class",
+              "Bolt-action sniper rifle"
+            ],
+            [
+              "Magazine",
+              "10 rounds"
+            ],
+            [
+              "Damage",
+              "K100/7+4 (7.62×54R)"
+            ],
+            [
+              "Penetration",
+              "92"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+14 (group to 0.5 MOA)"
+            ],
+            [
+              "Rate of fire",
+              "bolt-action, 1 shot / round"
+            ],
+            [
+              "AP shoot / reload",
+              "5 / 5"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "VSS «Vintorez»",
+          "specs": "**Тип:** Бесшумная снайперская винтовка | **Калибр:** 9×39 СП-5/СП-6 | **Магазин:** 10/20 | **Масса:** 2.6 кг | **Длина:** 894 мм | **Прицельная дальность:** 400 м",
+          "desc": "Subsonic sniper rifle of GRU and FSB. Built around the 9×39 SP-5 round, which is louder than a footstep but quieter than the click of a hammer falling on an empty chamber. Punches Class III armour at one hundred metres. In ORPP — for covert eliminations: a body falls in a crowd, and no one nearby has heard the shot.",
+          "img": "vss_vintorez.png",
+          "blurb": "Subsonic sniper rifle. Quieter than the click of a hammer falling on an empty chamber.",
+          "stats": [
+            [
+              "Class",
+              "Silent sniper rifle"
+            ],
+            [
+              "Magazine",
+              "10 / 20 rounds"
+            ],
+            [
+              "Damage",
+              "K100/9+3 (9×39 SP-5) · K100/9+3 (SP-6)"
+            ],
+            [
+              "Penetration",
+              "45 · 70 (SP-6, Class II at 400 m)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+12 (integral suppressor, subsonic)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "VSSK «Vykhlop»",
+          "specs": "**Тип:** Бесшумная снайперская крупнокалиберная | **Калибр:** 12.7×55 СЦ-130 | **Магазин:** 5 | **Масса:** 7.0 кг | **Длина:** 795 мм | **Прицельная дальность:** 600 м",
+          "desc": "Heavy silent sniper rifle. The 12.7×55 STs-130 round is subsonic but enormous: punches kevlar at three hundred metres without a sound. Sub-special-forces toy — issued to FSO and FSB Centre A operators. In ORPP — for taking out armoured targets in a city without alerting the neighbours.",
+          "img": "vssk_vykhlop.jpg",
+          "blurb": "Heavy silent sniper rifle. Punches kevlar at three hundred without a sound.",
+          "stats": [
+            [
+              "Class",
+              "Silent large-calibre sniper"
+            ],
+            [
+              "Magazine",
+              "5 rounds"
+            ],
+            [
+              "Damage",
+              "K100/5+5 (12.7×55 STs-130)"
+            ],
+            [
+              "Penetration",
+              "110 (with silver jacket — against unholy)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+10 (noise — like a sharp exhale)"
+            ],
+            [
+              "Rate of fire",
+              "bolt-action"
+            ],
+            [
+              "AP shoot / reload",
+              "5 / 5"
+            ],
+            [
+              "Min. requirements",
+              "STR 50"
+            ]
+          ]
+        },
+        {
+          "name": "Lobaev DXL-3 «Falling Fox»",
+          "specs": "**Тип:** Болтовая снайперская дальнего боя | **Калибр:** .338 Lapua Magnum / .408 Cheytac | **Магазин:** 7 | **Масса:** 8.0 кг | **Длина:** 1380 мм | **Прицельная дальность:** 2000 м",
+          "desc": "Bespoke long-range rifle from the workshop of Vlad Lobaev. The .338 Lapua Magnum cartridge, an integral suppressor, the barrel hand-turned to a specific shooter. Reaches a sparrow at a kilometre and a half — and that isn't a figure of speech, it's an entry in a competition protocol. Cold iron in a 999 silver jacket loads into the same magazine as standard cartridges; ORPP keeps three of these on the strength of the country.",
+          "img": "dxl-3_lobaev.jpg",
+          "blurb": "Bespoke long-range rifle. Reaches a sparrow at a kilometre and a half.",
+          "stats": [
+            [
+              "Class",
+              "Long-range bolt-action sniper"
+            ],
+            [
+              "Magazine",
+              "7 rounds"
+            ],
+            [
+              "Damage",
+              "K100/5+5 (.338 Lapua / .408 Cheytac)"
+            ],
+            [
+              "Penetration",
+              "115 · 130 (.408 Cheytac)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+18 (for ranges at which everything else is useless)"
+            ],
+            [
+              "Rate of fire",
+              "bolt-action, 1 shot / round"
+            ],
+            [
+              "AP shoot / reload",
+              "5 / 6"
+            ],
+            [
+              "Min. requirements",
+              "STR 45; works from tripod / bipod"
+            ]
+          ]
+        },
+        {
+          "name": "Barrett M82A1",
+          "specs": "**Тип:** Крупнокалиберная самозарядная (импорт) | **Калибр:** 12.7×99 NATO (.50 BMG) | **Магазин:** 10 | **Масса:** 14 кг | **Длина:** 1448 мм | **Прицельная дальность:** 1800 м",
+          "desc": "American anti-materiel rifle, .50 BMG. Stops a car. Tears the engine out of a helicopter. Removes a vampire's head as cleanly as scissors trim a thread. Heavy as a child, awkward in narrow alleys, ear-deafening even with hearing protection. In ORPP — for sieges of fortified positions and for «we need to take it down from a kilometre and a half».",
+          "img": "barrett_m82.jpg",
+          "blurb": ".50 BMG American anti-materiel rifle. Stops a car. Removes a vampire's head.",
+          "stats": [
+            [
+              "Class",
+              "Large-calibre semi-auto (import)"
+            ],
+            [
+              "Magazine",
+              "10 rounds"
+            ],
+            [
+              "Damage",
+              "K100/4+6 (12.7×99 .50 BMG)"
+            ],
+            [
+              "Penetration",
+              "140"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+8 from the tripod · −15 from the hand"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "5 / 6"
+            ],
+            [
+              "Min. requirements",
+              "STR 60. Below — ZPN ×0.5 (14 kg and recoil)"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "SHOTGUNS",
+      "items": [
+        {
+          "name": "Saiga-12",
+          "specs": "**Тип:** Самозарядный гладкоствольный | **Калибр:** 12 калибр (18.5 мм) | **Магазин:** 5/8/10 | **Масса:** 3.6 кг | **Длина:** 670/910 мм",
+          "desc": "AK in shotgun form. The same rotating-bolt action, the same magazine feed — but a 12-gauge bore. In ORPP it works for assaults: at five metres a slug through a doorway settles any question. Special munitions «Aspen Sting» (buckshot of aspen pellets) — for vampires; silver shot — for werewolves and lycaeans.",
+          "img": "saiga-12.jpg",
+          "blurb": "AK in shotgun form. Reliable, ugly, lethal up close.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto smoothbore"
+            ],
+            [
+              "Magazine",
+              "5 / 8 / 10 rounds"
+            ],
+            [
+              "Damage",
+              "K100/7+4 buckshot · K100/7+4 (slug)"
+            ],
+            [
+              "Penetration",
+              "35 buckshot · 55 (slug)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+3 with buckshot (forgives a miss) · 0 with slug"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "Benelli M4",
+          "specs": "**Тип:** Самозарядный гладкоствольный (импорт) | **Калибр:** 12 калибр | **Магазин:** 6/8 | **Масса:** 3.8 кг | **Длина:** 720/1010 мм",
+          "desc": "Italian semi-auto shotgun, the smoothest twelve-gauge in the world. Inertia action — works on any cartridge without adjustment. Costs as much as a used car, but where it matters not to fumble the second shot — it's worth it. ORPP issues to assault-group commanders for breaching work.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Italian semi-auto shotgun. The smoothest twelve-gauge in the world.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto smoothbore (import)"
+            ],
+            [
+              "Magazine",
+              "6 / 8 rounds"
+            ],
+            [
+              "Damage",
+              "K100/7+4 buckshot · K100/7+4 (slug)"
+            ],
+            [
+              "Penetration",
+              "35 buckshot · 55 (slug)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+6 (reliable gas system, good ergonomics)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "Remington 870",
+          "specs": "**Тип:** Помповый гладкоствольный (импорт) | **Калибр:** 12 калибр | **Магазин:** 6/8 | **Масса:** 3.6 кг | **Длина:** 970 мм",
+          "desc": "Pump-action classic, served in the US for half a century. The sound of racking the slide is half the deterrent in itself. Cheap, simple, reliable as a hammer. In ORPP — for storming low-priority targets and as the partner weapon for forensic teams: light, doesn't intimidate civilians on a doorstep.",
+          "img": "remington_870.jpg",
+          "blurb": "Pump-action classic. The sound of racking the slide is half the deterrent.",
+          "stats": [
+            [
+              "Class",
+              "Pump-action smoothbore (import)"
+            ],
+            [
+              "Magazine",
+              "6 / 8 rounds"
+            ],
+            [
+              "Damage",
+              "K100/7+4 buckshot · K100/7+4 (slug)"
+            ],
+            [
+              "Penetration",
+              "35 buckshot · 55 (slug)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+4 (pump — manual cycling, lower rate)"
+            ],
+            [
+              "Rate of fire",
+              "pump-action, 1 shot + cycle"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "KS-23 «Drozd»",
+          "specs": "**Тип:** Карабин специальный гладкоствольный | **Калибр:** 23 мм (4 калибр) | **Магазин:** 3+1 | **Масса:** 3.85 кг | **Длина:** 1040 мм",
+          "desc": "23mm riot carbine. Officially a special police weapon, in fact a small siege gun. Tears doors off their hinges, blows out windows together with frames, knocks down standing people without lethal damage (the «Volna» rubber round). Loaded with the «Drozd-2» CS canister — fills a room with tear gas in two seconds.",
+          "img": "ks-23.jpg",
+          "blurb": "23mm carbine — riot weapon. Tears doors off hinges.",
+          "stats": [
+            [
+              "Class",
+              "Special smoothbore carbine"
+            ],
+            [
+              "Magazine",
+              "3 + 1 rounds"
+            ],
+            [
+              "Damage",
+              "special munition (gas / flash-bang / rubber — non-lethal)"
+            ],
+            [
+              "Penetration",
+              "20 (breaks ritual circles)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+1 (heavy 23mm recoil)"
+            ],
+            [
+              "Rate of fire",
+              "pump-action"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 5"
+            ],
+            [
+              "Min. requirements",
+              "STR 40"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "MACHINE GUNS",
+      "items": [
+        {
+          "name": "RPK-74M",
+          "specs": "**Тип:** Ручной пулемёт | **Калибр:** 5.45×39 | **Магазин:** 45/95 (барабан) | **Масса:** 5.0 кг | **Длина:** 1065 мм | **Скорострельность:** 600 в/мин",
+          "desc": "Squad light machine gun. The same AK-74 but with a longer reinforced barrel, a heavier action and a forty-five-round magazine. In ORPP — for fire support during city operations: stands on the bipod, suppresses windows and doorways while the storming group moves up.",
+          "img": "rpk-74m.jpg",
+          "blurb": "Squad light machine gun. AK with a longer barrel and a fatter magazine.",
+          "stats": [
+            [
+              "Class",
+              "Light machine gun"
+            ],
+            [
+              "Magazine",
+              "45 / 95 rounds (drum)"
+            ],
+            [
+              "Damage",
+              "K100/9+3 (5.45×39)"
+            ],
+            [
+              "Penetration",
+              "70"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+1 from the hand · +6 from the bipod"
+            ],
+            [
+              "Rate of fire",
+              "600 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 5"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "PKM",
+          "specs": "**Тип:** Единый пулемёт | **Калибр:** 7.62×54R | **Лента:** 100/200/250 | **Масса:** 7.5 кг (без станка) | **Длина:** 1192 мм | **Скорострельность:** 650 в/мин",
+          "desc": "The workhorse machine gun of the Russian Army. 7.62×54R, belt-fed, half a century in service and not retiring soon. Heavy, demands two operators (gunner + assistant), but in a long fight it has no equal. ORPP keeps a couple at the strength of regional departments for outside-city operations.",
+          "img": "pkm.jpg",
+          "blurb": "Russian-army workhorse machine gun. 7.62×54R, belt-fed, half a century in service.",
+          "stats": [
+            [
+              "Class",
+              "General-purpose machine gun"
+            ],
+            [
+              "Magazine",
+              "100 / 200 / 250-round belt"
+            ],
+            [
+              "Damage",
+              "K100/7+4 (7.62×54R)"
+            ],
+            [
+              "Penetration",
+              "90"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "−2 from the hand · +5 from the tripod/bipod"
+            ],
+            [
+              "Rate of fire",
+              "650 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 6"
+            ],
+            [
+              "Min. requirements",
+              "STR 50 for hand-held firing"
+            ]
+          ]
+        },
+        {
+          "name": "«Pecheneg»",
+          "specs": "**Тип:** Единый пулемёт | **Калибр:** 7.62×54R | **Лента:** 100/250 | **Масса:** 8.2 кг | **Длина:** 1155 мм | **Скорострельность:** 650 в/мин",
+          "desc": "Modernised PKM with a fixed forced-cooling barrel — the air casing lets it fire for an hour without overheating. Same calibre and ammunition as the PKM, but lighter than the old one and more comfortable to handle. In ORPP — for serious operations: a siege of a fortified position, support during the storming of a den.",
+          "img": "pecheneg.jpg",
+          "blurb": "Modernised PKM with a fixed barrel. Will fire for an hour without overheating.",
+          "stats": [
+            [
+              "Class",
+              "General-purpose machine gun"
+            ],
+            [
+              "Magazine",
+              "100 / 250-round belt"
+            ],
+            [
+              "Damage",
+              "K100/7+4 (7.62×54R)"
+            ],
+            [
+              "Penetration",
+              "90"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "−1 from the hand · +6 from the tripod/bipod"
+            ],
+            [
+              "Rate of fire",
+              "650 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 6"
+            ],
+            [
+              "Min. requirements",
+              "STR 50 for hand-held firing"
+            ]
+          ]
+        },
+        {
+          "name": "Kord 6P50",
+          "specs": "**Тип:** Крупнокалиберный пулемёт | **Калибр:** 12.7×108 | **Лента:** 50 | **Масса:** 25 кг | **Длина:** 1980 мм | **Скорострельность:** 600 в/мин",
+          "desc": "Heavy machine gun, 12.7×108 mm. Two operators. From a tripod — punches through walls and engines. From the bipod — only by a hulk with strength under 80. ORPP issues to BTR crews and to sieges of seriously fortified targets; an old vampire who fancied a fortress estate is taken with a Kord.",
+          "img": "kord_6p50.jpg",
+          "blurb": "Heavy machine gun, 12.7×108. Hand-held — only by hulks. From a tripod — through walls.",
+          "stats": [
+            [
+              "Class",
+              "Large-calibre machine gun"
+            ],
+            [
+              "Magazine",
+              "50-round belt"
+            ],
+            [
+              "Damage",
+              "K100/4+6 (12.7×108)"
+            ],
+            [
+              "Penetration",
+              "140"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+4 from the tripod · −20 from the hand"
+            ],
+            [
+              "Rate of fire",
+              "600 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "5 / 8"
+            ],
+            [
+              "Min. requirements",
+              "tripod/turret only; from the hand — STR 80+"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "HEAVY AND SPECIAL WEAPONS",
+      "items": [
+        {
+          "name": "ASh-12",
+          "specs": "**Тип:** Штурмовой автомат (тяжёлый штурмовой комплекс) | **Калибр:** 12.7×55 СЦ-130 | **Магазин:** 10/20 | **Масса:** 6.0 кг | **Длина:** 691/845 мм | **Скорострельность:** 650 в/мин",
+          "desc": "Special urban assault carbine, FSB development. The 12.7×55 STs-130 cartridge — short, fat, brutal. Punches the engine block of a car at fifty metres. The carbine itself is short, bullpup, for work in narrow corridors and at staircases. In ORPP — for assaults against armoured targets in cities, and against old vampires that an ordinary round won't budge.",
+          "img": "ash-12.png",
+          "blurb": "Special urban assault carbine. Brutal 12.7×55 cartridge for short-range work.",
+          "stats": [
+            [
+              "Class",
+              "Assault rifle (heavy system)"
+            ],
+            [
+              "Magazine",
+              "10 / 20 rounds"
+            ],
+            [
+              "Damage",
+              "K100/5+5 (12.7×55 STs-130)"
+            ],
+            [
+              "Penetration",
+              "110 (with silver oxide — against unholy)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "−8 (heavy, terrible recoil)"
+            ],
+            [
+              "Rate of fire",
+              "650 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 5"
+            ],
+            [
+              "Min. requirements",
+              "STR 60. Below — ZPN ×0.5"
+            ]
+          ]
+        },
+        {
+          "name": "SPS «Gyurza-B» (silenced)",
+          "specs": "**Тип:** Бесшумный пистолет | **Калибр:** 9×21 СП-10 | **Магазин:** 18 | **Масса:** 1.0 кг (с глушителем) | **Длина:** 235 мм",
+          "desc": "Silent pistol with an integral suppressor and the 9×21 SP-4 subsonic round. The shot is knife-quiet — only the click of the action. The handgun itself stays a hand-cannon: SP-4 punches a kevlar vest at twenty metres. In ORPP — for covert eliminations and for «taking out» a target standing in a crowd.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Silent pistol with built-in suppressor. Knife-quiet — but a hand-cannon.",
+          "stats": [
+            [
+              "Class",
+              "Silent pistol"
+            ],
+            [
+              "Magazine",
+              "18 rounds"
+            ],
+            [
+              "Damage",
+              "K100/13+3 (9×21 SP-10)"
+            ],
+            [
+              "Penetration",
+              "55"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+5 (suppressor, subsonic — shot inaudible)"
+            ],
+            [
+              "Rate of fire",
+              "semi-auto"
+            ],
+            [
+              "AP shoot / reload",
+              "3 / 4"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "GP-25 «Kostyor»",
+          "specs": "**Тип:** Подствольный гранатомёт | **Калибр:** 40 мм ВОГ-25 | **Магазин:** 1 | **Масса:** 1.5 кг | **Длина:** 323 мм | **Прицельная дальность:** 400 м",
+          "desc": "Underbarrel grenade launcher for the AK series. 40mm round, single-shot, muzzle-loaded. In flight — a small VOG-25 grenade with a fragmentation radius of six metres. ORPP uses for area clearance: a grenade into a window with the unholy is more reliable than rifle fire.",
+          "img": "gp-25.jpg",
+          "blurb": "Underbarrel grenade launcher. 40mm round in flight, problems on landing.",
+          "stats": [
+            [
+              "Class",
+              "Underbarrel grenade launcher"
+            ],
+            [
+              "Magazine",
+              "1 shot"
+            ],
+            [
+              "Damage",
+              "K100/8+4 fragmentation within 6 m (VOG-25)"
+            ],
+            [
+              "Penetration",
+              "60 (HE-fragmentation)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "0 (lobbed trajectory, aimed to 400 m)"
+            ],
+            [
+              "Rate of fire",
+              "1 shot, manual reload"
+            ],
+            [
+              "AP shoot / reload",
+              "4 / 6"
+            ],
+            [
+              "Min. requirements",
+              "mounts on the AK"
+            ]
+          ]
+        },
+        {
+          "name": "RPG-7V",
+          "specs": "**Тип:** Ручной противотанковый гранатомёт | **Калибр:** 40 мм | **Боеприпас:** ПГ-7Л (кумулятивная), ТБГ-7В (термобарическая) | **Масса:** 6.3 кг | **Длина:** 950 мм",
+          "desc": "Anti-tank grenade launcher, half a century of conflicts and no end of work. Punches Class IV plate at three hundred metres, an armoured personnel carrier — at a hundred. Heavy, smoky, the back-blast will burn anyone within seven metres behind. In ORPP — for sieges of very fortified positions and against very large unholy.",
+          "img": "rpg-7.jpg",
+          "blurb": "Anti-tank grenade launcher. Half a century of conflicts with no end of work.",
+          "stats": [
+            [
+              "Class",
+              "Hand-held anti-tank grenade launcher"
+            ],
+            [
+              "Magazine",
+              "1 shot"
+            ],
+            [
+              "Damage",
+              "K100/3+13 shaped charge (PG-7L) · K100/3+10 volumetric r5 m (TBG-7V)"
+            ],
+            [
+              "Penetration",
+              "250 (shaped-charge jet)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+2 (against area and large targets)"
+            ],
+            [
+              "Rate of fire",
+              "1 shot, crew reload"
+            ],
+            [
+              "AP shoot / reload",
+              "5 / 8"
+            ],
+            [
+              "Min. requirements",
+              "STR 45"
+            ]
+          ]
+        },
+        {
+          "name": "AGS-30 «Plamya»",
+          "specs": "**Тип:** Автоматический гранатомёт | **Калибр:** 30 мм ВОГ-17/30 | **Лента:** 30 | **Масса:** 16 кг (без станка) | **Длина:** 1100 мм | **Скорострельность:** 400 в/мин",
+          "desc": "Automatic grenade launcher on a tripod. Fires 30mm grenades at a rate of four hundred a minute. Will fertilise a hectare of ground with high explosive in three seconds. In ORPP — for area clearance during cordon-and-search of forest cult bases.",
+          "img": "ags-30.jpg",
+          "blurb": "Automatic grenade launcher. Will fertilise a hectare with high explosive in three seconds.",
+          "stats": [
+            [
+              "Class",
+              "Automatic grenade launcher"
+            ],
+            [
+              "Magazine",
+              "30-round belt"
+            ],
+            [
+              "Damage",
+              "K100/8+4 fragmentation per grenade, basketball-court area"
+            ],
+            [
+              "Penetration",
+              "60 (fragmentation)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+3 from a tripod (static / vehicle-mount)"
+            ],
+            [
+              "Rate of fire",
+              "400 rpm"
+            ],
+            [
+              "AP shoot / reload",
+              "5 / 10"
+            ],
+            [
+              "Min. requirements",
+              "tripod only"
+            ]
+          ]
+        },
+        {
+          "name": "RPO-A «Shmel»",
+          "specs": "**Тип:** Реактивный пехотный огнемёт | **Боеприпас:** термобарический | **Масса:** 11 кг | **Дальность:** 1000 м | **Эффект:** объёмный взрыв в радиусе 50 м²",
+          "desc": "Disposable thermobaric rocket launcher. The «pocket atomic bomb» of the Russian infantry. One shot — and a whole apartment, with everything in it, burns from the inside out. In ORPP — for a definitive answer to a den that has held two storming attempts.",
+          "img": "rpo-a_shmel.jpg",
+          "blurb": "Thermobaric infantry rocket. Burns a whole apartment off one shot.",
+          "stats": [
+            [
+              "Class",
+              "Rocket infantry flamethrower"
+            ],
+            [
+              "Magazine",
+              "1 shot"
+            ],
+            [
+              "Damage",
+              "K100/2+20 thermobaric, volumetric blast r 50 m²"
+            ],
+            [
+              "Penetration",
+              "burns oxygen — against creatures with regeneration"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "0 (range up to 1000 m)"
+            ],
+            [
+              "Rate of fire",
+              "single-use"
+            ],
+            [
+              "AP shoot / reload",
+              "5 / —"
+            ],
+            [
+              "Min. requirements",
+              "STR 45"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "MELEE WEAPONS",
+      "items": [
+        {
+          "name": "NR-43 «Vishnya» scout knife",
+          "specs": "**Тип:** Боевой нож | **Длина клинка:** 152 мм | **Масса:** 285 г | **Материал:** сталь 65Х13",
+          "desc": "Soviet army scout knife from 1943. Simple, balanced, kills without questions. The standard ORPP service knife: lies in a sheath on the chest pack, ready in half a second. Carbon-steel blade — kept sharp the old-fashioned way, on a stone, but doesn't fail when you need it.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Soviet army scout knife. Plain, balanced, kills without questions.",
+          "stats": [
+            [
+              "Class",
+              "Combat knife"
+            ],
+            [
+              "Damage",
+              "K100/20+1 + STR damage bonus"
+            ],
+            [
+              "Penetration",
+              "35"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+4 (comfortable grip, balance)"
+            ],
+            [
+              "Damage type",
+              "kinetic (piercing/slashing)"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "6Kh5 bayonet (for the AK-74)",
+          "specs": "**Тип:** Штык-нож | **Длина клинка:** 160 мм | **Масса:** 320 г",
+          "desc": "AK-74 bayonet — knife, wire-cutter, saw and bottle-opener. Mounts on the muzzle, but the bayonet charge is reserved for situations where the AK has otherwise jammed and a man is already swinging at you. In ORPP — utility tool more often than a weapon.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "AK bayonet — knife, wire-cutter, saw and bottle-opener.",
+          "stats": [
+            [
+              "Class",
+              "Bayonet / universal knife"
+            ],
+            [
+              "Damage",
+              "K100/20+1 + STR damage bonus"
+            ],
+            [
+              "Penetration",
+              "30"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+2 (on the barrel — longer, but clumsy)"
+            ],
+            [
+              "Damage type",
+              "kinetic (piercing)"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "MPL-50 entrenching tool",
+          "specs": "**Тип:** Универсальный инструмент / боевое оружие | **Длина:** 50 см | **Масса:** 600 г",
+          "desc": "A small army spade. With a Russian Army instructor's training — a weapon. The edge is ground to a razor; one blow takes a forearm clean off, blocks a knife strike, smashes a temple. Stays at the operative's belt rather than in the pack — entrenching, axe, mace and shield all in one.",
+          "img": "mpl-50_shovel.jpg",
+          "blurb": "A small spade. Russian-army-trained — a weapon. Razor-edged.",
+          "stats": [
+            [
+              "Class",
+              "Universal tool / combat weapon"
+            ],
+            [
+              "Damage",
+              "K100/13+3 + STR damage bonus"
+            ],
+            [
+              "Penetration",
+              "40"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+1 (cleaves, but unusual grip)"
+            ],
+            [
+              "Damage type",
+              "kinetic (chopping-bludgeoning)"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "Kukri",
+          "specs": "**Тип:** Нож-тесак (импорт) | **Длина клинка:** 350 мм | **Масса:** 600 г",
+          "desc": "Nepalese fighting knife with a curved blade. Chops bone like a small axe — but lighter and faster than an axe. ORPP doesn't issue it as standard, but Gurkha-style operatives buy their own. Used against unholy where you have to keep working when one bullet runs out: kukri doesn't run out.",
+          "img": "kukri.jpg",
+          "blurb": "Nepalese fighting knife. Chops bones like a small axe.",
+          "stats": [
+            [
+              "Class",
+              "Cleaver knife (import)"
+            ],
+            [
+              "Damage",
+              "K100/13+3 + STR damage bonus"
+            ],
+            [
+              "Penetration",
+              "50"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+3 (centre of gravity at the point)"
+            ],
+            [
+              "Damage type",
+              "kinetic (chopping)"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "Firefighters axe",
+          "specs": "**Тип:** Универсальный инструмент / боевое оружие | **Масса:** 1.8 кг | **Длина рукояти:** 75 см",
+          "desc": "Universal axe with a pick on the back. Opens doors, walls and skulls. Officially — for fire-rescue work; in ORPP — for breaching wooden barricades and as a heavy melee weapon. The pick punches a vampire's armoured field where a knife only scratches.",
+          "img": "fire_axe.jpg",
+          "blurb": "Universal axe with a pick. Opens doors, walls, and skulls.",
+          "stats": [
+            [
+              "Class",
+              "Universal tool / combat weapon"
+            ],
+            [
+              "Damage",
+              "K100/9+3 + STR damage bonus"
+            ],
+            [
+              "Penetration",
+              "55"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "−2 (heavy, slow swing)"
+            ],
+            [
+              "Damage type",
+              "kinetic (chopping)"
+            ],
+            [
+              "AP attack",
+              "4"
+            ],
+            [
+              "Min. requirements",
+              "STR 40"
+            ]
+          ]
+        },
+        {
+          "name": "ORPP silver dagger",
+          "specs": "**Тип:** Ритуальное оружие | **Длина клинка:** 200 мм | **Масса:** 350 г",
+          "desc": "Pure-silver service blade, ORPP-issued. Last argument with the unholy at arm's length. Doesn't hold an edge like steel — silver is soft — but doesn't need to: against a vampire even a blunt silver blade burns the wound from the inside. The handle is hilt-wrapped in leather over a steel core, won't slip in a wet hand.",
+          "img": "silver_dagger.jpg",
+          "blurb": "Pure-silver service blade. Last argument with the unholy.",
+          "stats": [
+            [
+              "Class",
+              "Ritual weapon"
+            ],
+            [
+              "Damage",
+              "K100/20+1 + STR damage bonus · ×2 vs unholy"
+            ],
+            [
+              "Penetration",
+              "30 (ignores undead energy field)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+3 (requires knowledge of the ritual cutting)"
+            ],
+            [
+              "Damage type",
+              "kinetic + consecrated silver"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "Rituals skill; otherwise the creature is only angered"
+            ]
+          ]
+        },
+        {
+          "name": "Cossack shashka",
+          "specs": "**Тип:** Холодное оружие старого образца | **Длина клинка:** 870 мм | **Масса:** 850 г",
+          "desc": "Traditional Cossack cavalry sabre. No crossguard — you do not parry with a shashka, you strike: a single sweeping cut from above downwards on the move. In ORPP — not standard issue, but field-acting masters of the Kuban and Don traditions sometimes carry their own. Against an alva of the Tuatha Dé Danann a fleeting honest answer.",
+          "img": "cossack_shashka.jpg",
+          "blurb": "Traditional cavalry sabre. Without a guard — strike, don't parry.",
+          "stats": [
+            [
+              "Class",
+              "Old-style melee weapon"
+            ],
+            [
+              "Damage",
+              "K100/9+3 + STR damage bonus"
+            ],
+            [
+              "Penetration",
+              "90 (steel)"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "+5 (shashka’s honed balance)"
+            ],
+            [
+              "Damage type",
+              "kinetic (chopping)"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "Brass knuckles",
+          "specs": "**Тип:** Холодное оружие ударное | **Масса:** 230 г",
+          "desc": "Brass knuckle-duster. Adds five kilos and zero subtlety to a punch — but the punch with a brass knuckle is no longer a punch, it's a hammer blow. Doesn't kill on the first hit, but takes a man out of the fight in two. ORPP uses for interrogations and for fights with civilians where lethal weapons would create paperwork.",
+          "img": "brass_knuckles.jpg",
+          "blurb": "Brass knuckle-duster. Adds five kilos and zero subtlety to a punch.",
+          "stats": [
+            [
+              "Class",
+              "Bludgeoning melee weapon"
+            ],
+            [
+              "Damage",
+              "K100/25+1 + doubled STR damage bonus"
+            ],
+            [
+              "Penetration",
+              "20"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "0 (uses hand-to-hand skill)"
+            ],
+            [
+              "Damage type",
+              "kinetic (bludgeoning)"
+            ],
+            [
+              "AP attack",
+              "2"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "GRENADES AND EXPLOSIVES",
+      "items": [
+        {
+          "name": "RGD-5",
+          "specs": "**Тип:** Ручная осколочная граната (наступательная) | **Масса:** 310 г | **Радиус поражения:** 15-20 м | **Время замедления:** 3.2-4.2 с",
+          "desc": "Offensive fragmentation grenade. Light blast, a small fragmentation radius — you can throw it from behind your own cover and storm forward without waiting. In ORPP — for storming rooms where there might be a hostage to spare: less reliable kill but less collateral.",
+          "img": "rgd-5.jpg",
+          "blurb": "Offensive grenade. Light blast, you can throw it from behind your own cover.",
+          "stats": [
+            [
+              "Class",
+              "Offensive fragmentation grenade"
+            ],
+            [
+              "Damage",
+              "K100/8+4 fragmentation"
+            ],
+            [
+              "Damage radius",
+              "15–20 m"
+            ],
+            [
+              "Delay",
+              "3.2–4.2 s"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "throw by Thrown skill"
+            ],
+            [
+              "AP throw",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "F-1 «Limonka»",
+          "specs": "**Тип:** Ручная осколочная граната (оборонительная) | **Масса:** 600 г | **Радиус поражения:** 30-200 м | **Время замедления:** 3.2-4.2 с",
+          "desc": "Defensive «pineapple» grenade. Fragments out to two hundred metres — throw only from cover and only at someone whom your colleagues won't be following. In ORPP — for sieges and for cleansing dens with no friendly forces inside.",
+          "img": "f-1_grenade.jpg",
+          "blurb": "Defensive «pineapple» grenade. Fragments out to two hundred metres — throw from cover.",
+          "stats": [
+            [
+              "Class",
+              "Defensive fragmentation grenade"
+            ],
+            [
+              "Damage",
+              "K100/6+5 fragmentation"
+            ],
+            [
+              "Damage radius",
+              "30–200 m"
+            ],
+            [
+              "Delay",
+              "3.2–4.2 s"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "throw by Thrown skill; from cover only"
+            ],
+            [
+              "AP throw",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "F-1 «Silver» (ORPP special munition)",
+          "specs": "**Тип:** Антипаранормальная осколочная граната | **Масса:** 750 г | **Радиус поражения:** 25 м | **Время замедления:** 3.5 с",
+          "desc": "F-1 with the cast-iron body replaced by silver-shot fragmentation. Forms a cloud of silver pellets that turn a vampire in a doorway into a sieve. The grenade is heavy (silver is denser than cast iron), throwable to twenty-five metres. Special order, issued one per group.",
+          "img": "f-1_grenade.jpg",
+          "blurb": "Limonka with silver fragments. For dealing with the unholy at distance.",
+          "stats": [
+            [
+              "Class",
+              "Anti-paranormal fragmentation grenade"
+            ],
+            [
+              "Damage",
+              "K100/6+5 fragmentation · ×2 vs unholy"
+            ],
+            [
+              "Damage radius",
+              "25 m"
+            ],
+            [
+              "Delay",
+              "3.5 s"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "throw by Thrown skill; from cover only"
+            ],
+            [
+              "AP throw",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "issued one at a time, signed for"
+            ]
+          ]
+        },
+        {
+          "name": "Stun «Zarya-2»",
+          "specs": "**Тип:** Светошумовая граната | **Масса:** 230 г | **Эффект:** 5-6 минут оглушения и слепоты в радиусе 5 м | **Время замедления:** 1.8-2.0 с",
+          "desc": "Flash-bang. A blinding flash and a 175-decibel bang — five seconds without sight or hearing for everyone in the room. Enough for breaching: in those five seconds the storming group enters and takes positions. No fragmentation, no shrapnel — safe for hostages if the grenade doesn't land directly on someone's chest.",
+          "img": "zarya-2_flashbang.jpg",
+          "blurb": "Flash-bang. Five seconds without sight or hearing — enough for storming a room.",
+          "stats": [
+            [
+              "Class",
+              "Flash-bang grenade"
+            ],
+            [
+              "Damage",
+              "non-lethal · to vampires the flash = sunstroke"
+            ],
+            [
+              "Effect",
+              "5–6 min of stun and blindness, 5 m radius"
+            ],
+            [
+              "Delay",
+              "1.8–2.0 s"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "throw by Thrown skill"
+            ],
+            [
+              "AP throw",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "RDG-2 smoke",
+          "specs": "**Тип:** Дымовая граната | **Масса:** 600 г | **Время задымления:** 60-80 с | **Площадь:** до 600 м²",
+          "desc": "Smoke screen, black or white at choice. Doesn't blind — it cuts vision lines. Cover for withdrawal, not for attack: in your own smoke you won't see anything either. ORPP uses for evacuation from a contact lost and for masking a body in transport.",
+          "img": "rdg-2_smoke.png",
+          "blurb": "Smoke screen — black or white. Cover for withdrawal, not for attack.",
+          "stats": [
+            [
+              "Class",
+              "Smoke grenade"
+            ],
+            [
+              "Damage",
+              "none"
+            ],
+            [
+              "Effect",
+              "smokescreen 60–80 s, up to 600 m² area"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "shooting through smoke — ZPN penalty"
+            ],
+            [
+              "AP activate",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "Tear-gas «Cheryomukha-7»",
+          "specs": "**Тип:** Граната со слезоточивым газом | **Масса:** 500 г | **Действие:** хлорацетофенон, 30-40 минут | **Площадь:** 50 м²",
+          "desc": "CS tear-gas grenade. Burns the eyes, throat and skin in microscopic doses — a crowd of three hundred routs in twenty seconds. In a closed room without a respirator — death from suffocation in five minutes. ORPP uses for breaking up cult ritual gatherings; the squad enters in PMK-3 masks.",
+          "img": "cheremukha-7_gas.jpg",
+          "blurb": "CS tear-gas grenade. Will rout a crowd; in a closed room — death.",
+          "stats": [
+            [
+              "Class",
+              "Tear-gas grenade"
+            ],
+            [
+              "Damage",
+              "non-lethal (chloroacetophenone)"
+            ],
+            [
+              "Effect",
+              "30–40 min, 50 m² area"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "target hit — heavy ZPN penalty"
+            ],
+            [
+              "AP throw",
+              "3"
+            ],
+            [
+              "Min. requirements",
+              "gas mask for own troops"
+            ]
+          ]
+        },
+        {
+          "name": "TNT block (200 g)",
+          "specs": "**Тип:** Бризантное взрывчатое вещество | **Масса:** 200 г | **Тип:** тротил, прессованный",
+          "desc": "200 grams of TNT in a cardboard block. Blows open a door, a safe or a small wall in a basement. Brought up to detonation by a detonator with a cord or an electric one — by itself does nothing, even in a fire. ORPP keeps it for breaching operations where the goal is precisely to open and not destroy.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "200 grams of TNT. Blows open a door, a safe, or a small wall.",
+          "stats": [
+            [
+              "Class",
+              "High explosive"
+            ],
+            [
+              "Damage",
+              "K100/3+13 within 4 m (directed — more)"
+            ],
+            [
+              "Penetration",
+              "breaks masonry, bodies with necro-symbionts"
+            ],
+            [
+              "Detonation",
+              "detonator, delay or remote"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "placement by Demolitions skill"
+            ],
+            [
+              "Min. requirements",
+              "Demolitions skill"
+            ]
+          ]
+        },
+        {
+          "name": "C-4 plastic explosive (250 g block)",
+          "specs": "**Тип:** Бризантное взрывчатое вещество (импорт) | **Масса:** 250 г | **Тип:** RDX + пластификатор",
+          "desc": "250 grams of plastic explosive C-4. Modellable like clay — can be stuck to a hinge, draped along the edge of a door, formed into a directional charge against a metal box. Doesn't detonate from a bullet, doesn't detonate in a fire — only from a detonator. ORPP issues to combat engineers and assault-group leaders.",
+          "img": "c4_plastic.jpg",
+          "blurb": "250 g of C-4. Plastic, modellable, detonated with a detonator.",
+          "stats": [
+            [
+              "Class",
+              "High explosive (import)"
+            ],
+            [
+              "Damage",
+              "K100/2+15 within 5 m (shapeable charge)"
+            ],
+            [
+              "Penetration",
+              "precise directional blast"
+            ],
+            [
+              "Detonation",
+              "only detonator with fulminate of mercury"
+            ],
+            [
+              "Accuracy bonus (skill mod.)",
+              "placement by Demolitions skill"
+            ],
+            [
+              "Min. requirements",
+              "Demolitions skill"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "PROTECTIVE GEAR",
+      "items": [
+        {
+          "name": "ORPP Operative Armor Set (bodysuit + «Macintosh» coat)",
+          "specs": "**Type:** Two-layer covert-wear armor set | **Protection:** Class IV-V (torso) / Class III (limbs) | **Weight:** 8 kg (bodysuit 5 + coat 3) | **Concealment:** invisible under ordinary city clothes | **Feature:** consecrated salt in the seams",
+          "desc": "Standard ORPP operative protection set. Two-layer, invisible under ordinary city clothes.\n\n**Inner layer — bodysuit.** Tight black covert-wear bodysuit, Class IV armor plates over torso and Class III along limbs. Flexible seams at elbows and knees. Stitched with consecrated salt in the seams — gives a small bonus against the undead (+5 defense).\n\n**Outer layer — «Macintosh» coat.** Long leather coat in wet-asphalt color, hidden Class III armor panels at sides and back over the bodysuit. Gives **+1 class** to torso defense (V instead of IV). Doesn't cover limbs — bodysuit sleeves needed on the street.\n\nFull set on in a minute, off the same. A normal shirt can be worn underneath. On mission — full set; in the office — coat off, bodysuit stays.",
+          "img": "gear/orpp_armor_set.jpg",
+          "blurb": "Full covert-wear set: bodysuit under coat. Class IV armor under street clothes.",
+          "stats": [
+            [
+              "Protection class",
+              "IV-V (torso) / III (limbs)"
+            ],
+            [
+              "Concealment",
+              "Invisible under ordinary clothes"
+            ],
+            [
+              "Weight",
+              "8 kg full set"
+            ],
+            [
+              "Bonus",
+              "+5 defense vs undead (consecrated seams)"
+            ],
+            [
+              "Donning time",
+              "60 seconds"
+            ],
+            [
+              "Note",
+              "Normal shirt can be worn under the coat"
+            ]
+          ]
+        },
+        {
+          "name": "Suit with runes",
+          "specs": "**Тип:** Пси-броня | **Класс защиты:** против прямого ментального воздействия | **Масса:** 0.4 кг",
+          "desc": "Hand-embroidered runic suit, made by the ORPP magical-equipment department. Damps psi-effects, telepathy and minor magical influences within the suit's volume. Doesn't help against fire, doesn't help against a bullet — but a fae's «glamour» won't fit on the wearer.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Hand-embroidered runic suit. Damps magical effects.",
+          "stats": [
+            [
+              "Protection class",
+              "against direct mental influence"
+            ],
+            [
+              "Armor coefficient",
+              "not ballistic"
+            ],
+            [
+              "Coverage zone",
+              "torso (undershirt)"
+            ],
+            [
+              "Mass",
+              "0.4 kg"
+            ],
+            [
+              "Effect",
+              "removes initial paranormal aversion"
+            ]
+          ]
+        },
+        {
+          "name": "6B23-1 body armour",
+          "specs": "**Тип:** Армейский бронежилет общевойсковой | **Класс защиты:** 4 (по фронту) / 2 (по бокам) | **Масса:** 9 кг",
+          "desc": "Army-standard body armour, Class II — holds 9×19 from a pistol or SMG to the chest. Cheap, simple, in supply at every regional ORPP department. For low-priority operations or for civilian assistants of an operations group.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Army-standard body armour. Second class, holds the chest from rounds.",
+          "stats": [
+            [
+              "Protection class",
+              "4 (front) / 2 (sides)"
+            ],
+            [
+              "Armor coefficient",
+              "55 front / 28 sides"
+            ],
+            [
+              "Coverage zone",
+              "torso"
+            ],
+            [
+              "Mass",
+              "9 kg"
+            ],
+            [
+              "Skill/mobility penalty",
+              "−3 ZPN"
+            ]
+          ]
+        },
+        {
+          "name": "6B45 «Ratnik» body armour",
+          "specs": "**Тип:** Боевой бронежилет нового образца | **Класс защиты:** 6А (фронт+спина) | **Масса:** 11.5 кг",
+          "desc": "Sixth-generation Russian Army body armour. With ceramic plates inserted — Class IV: holds the 7.62×39 armour-piercing round at ten metres. Heavy (12 kg with full kit), but balanced with the «Ratnik» harness. ORPP issues for serious operations.",
+          "img": "6b45_ratnik_vest.jpg",
+          "blurb": "Sixth-generation army armour. Fourth class with plates inserted.",
+          "stats": [
+            [
+              "Protection class",
+              "6A (front + back)"
+            ],
+            [
+              "Armor coefficient",
+              "85"
+            ],
+            [
+              "Coverage zone",
+              "torso + back"
+            ],
+            [
+              "Mass",
+              "11.5 kg"
+            ],
+            [
+              "Skill/mobility penalty",
+              "−4 ZPN"
+            ]
+          ]
+        },
+        {
+          "name": "6B47 «Ratnik» helmet",
+          "specs": "**Тип:** Защитный шлем | **Класс защиты:** 1+ (по пуле) | **Масса:** 1.2 кг",
+          "desc": "Modern army helmet, aramid composite with titanium inserts. Holds a 9×19 round to the front, takes fragments. Mounts for NVG, comms, mask. In ORPP — basic head protection for storming operations.",
+          "img": "6b47_ratnik_helmet.jpg",
+          "blurb": "Modern army helmet. Holds a 9×19 round, takes shrapnel.",
+          "stats": [
+            [
+              "Protection class",
+              "1+ (per round)"
+            ],
+            [
+              "Armor coefficient",
+              "30 (head zone)"
+            ],
+            [
+              "Coverage zone",
+              "head"
+            ],
+            [
+              "Mass",
+              "1.2 kg"
+            ],
+            [
+              "Effect",
+              "mount for UGT and active ear protection; reduces TBI on ricochet"
+            ]
+          ]
+        },
+        {
+          "name": "PMK-3 gas mask",
+          "specs": "**Тип:** Фильтрующий противогаз | **Масса:** 0.95 кг | **Время непрерывной работы:** 6 часов | **Защита:** ОВ, биологические агенты",
+          "desc": "Standard-issue gas mask of the Russian Army. CS, sarin, chlorine — survives forty minutes without changing the filter cartridge. Fits over glasses, allows speaking through a built-in voice gate. ORPP issues against cult chemical attacks and for assaults with tear gas.",
+          "img": "pmk-3_gasmask.jpg",
+          "blurb": "Standard-issue gas mask. CS, sarin, chlorine — survivable for forty minutes.",
+          "stats": [
+            [
+              "Protection class",
+              "CW agents, biological agents"
+            ],
+            [
+              "Operation time",
+              "6 h continuous"
+            ],
+            [
+              "Mass",
+              "0.95 kg"
+            ],
+            [
+              "Skill/mobility penalty",
+              "−5 ZPN (narrowed view, fogged lens)"
+            ]
+          ]
+        },
+        {
+          "name": "Tactical ballistic goggles",
+          "specs": "**Тип:** Защитные очки | **Класс защиты:** ANSI Z87.1+ | **Масса:** 90 г",
+          "desc": "Ballistic goggles. Stop fragments and shotgun pellets at distance. The lens is polycarbonate, doesn't shatter into the eyes. Mandatory kit on storming operations: a lucky shrapnel in the eye is the most stupid way to end a career.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Ballistic goggles. Stop fragments and shotgun pellets at distance.",
+          "stats": [
+            [
+              "Protection class",
+              "ANSI Z87.1+"
+            ],
+            [
+              "Armor coefficient",
+              "eye protection"
+            ],
+            [
+              "Coverage zone",
+              "eyes"
+            ],
+            [
+              "Mass",
+              "90 g"
+            ],
+            [
+              "Effect",
+              "splash protection from unidentified liquids"
+            ]
+          ]
+        },
+        {
+          "name": "Mechanix M-Pact gloves",
+          "specs": "**Тип:** Тактические перчатки (импорт) | **Масса:** 200 г",
+          "desc": "Tactical gloves with reinforced knuckle inserts and an absorbing palm. Hands stay alive after a fall, a punch, broken glass. Don't dampen the trigger finger; you can shoot a pistol and use a smartphone screen. Mandatory issue for the operations group.",
+          "img": "mechanix_gloves.jpg",
+          "blurb": "Tactical gloves. Hands stay alive after a fall, a punch, broken glass.",
+          "stats": [
+            [
+              "Protection class",
+              "cuts, burns, blows"
+            ],
+            [
+              "Coverage zone",
+              "hands"
+            ],
+            [
+              "Mass",
+              "200 g"
+            ],
+            [
+              "Effect",
+              "standard for infectious contacts"
+            ]
+          ]
+        },
+        {
+          "name": "Silver gloves",
+          "specs": "**Тип:** Защитные перчатки для контактной работы с нечистью | **Масса:** 250 г | **Материал:** освящённое серебро 925 + кожа подкладки",
+          "desc": "Thin gloves of silver thread, ORPP magical-equipment department. Allow grabbing the unholy by the throat without burning your own hands — the silver burns them, not you. Don't replace ordinary armour: a knife will go through them like through cloth.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Thin silver-thread gloves. Lets you grab the unholy by the throat.",
+          "stats": [
+            [
+              "Protection class",
+              "contact with unholy"
+            ],
+            [
+              "Coverage zone",
+              "hands"
+            ],
+            [
+              "Mass",
+              "250 g"
+            ],
+            [
+              "Effect",
+              "allows physically restraining undead; standard one pair per group"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "COMMS AND ELECTRONICS",
+      "items": [
+        {
+          "name": "UGT (Universal Head Terminal)",
+          "specs": "**Тип:** AR-очки + поясной компьютер | **Масса:** 0.4 кг (очки) + 0.6 кг (блок) | **Энергообеспечение:** 16 часов автономной работы | **Связь:** защищённый канал СИБ",
+          "desc": "ORPP service AR headset. Worn as a thin band on the forehead, projects an image into the field of view. Map, comms, target marking, biosignature readouts of teammates, body-cam feed. Standard issue. Without a UGT a modern operations group can't function.",
+          "img": "gear/ugt_visor.jpg",
+          "blurb": "ORPP service AR headset. Maps, comms, target marking.",
+          "stats": [
+            [
+              "Class",
+              "AR goggles + belt unit"
+            ],
+            [
+              "Mass",
+              "0.4 + 0.6 kg"
+            ],
+            [
+              "Autonomy",
+              "16 h"
+            ],
+            [
+              "Effect",
+              "with the targeting marker — more accurate fire (ZPN bonus); spectral and thermal modes"
+            ]
+          ]
+        },
+        {
+          "name": "Targeting marker-ring",
+          "specs": "**Тип:** Аксессуар к УГТ | **Масса:** 30 г",
+          "desc": "A ring on a finger. A tap of the trigger paints a target with an IR mark — invisible to the eye, visible through the UGT for the whole group. Coordinates a storming operation when speaking is impossible. Battery good for three days of work.",
+          "img": "target_ring.jpg",
+          "blurb": "Ring-shaped target marker. Tap the trigger — UGT highlights the spot for the squad.",
+          "stats": [
+            [
+              "Class",
+              "UGT accessory"
+            ],
+            [
+              "Mass",
+              "30 g"
+            ],
+            [
+              "Effect",
+              "shooting with UGT and marker — noticeable real-time ZPN bonus"
+            ]
+          ]
+        },
+        {
+          "name": "R-187P1 «Azart» radio",
+          "specs": "**Тип:** Носимая радиостанция военная | **Масса:** 600 г | **Дальность:** 5-30 км | **Энергообеспечение:** 24 часа",
+          "desc": "Service military radio. AES-256 encryption, GPS, packet voice. Range up to fifteen kilometres in a city, up to forty in the open. ORPP issues one per operative on serious operations — the UGT alone is sometimes not enough for redundancy.",
+          "img": "r-187p1_azart_radio.jpg",
+          "blurb": "Service military radio. Encrypted, GPS, packet voice.",
+          "stats": [
+            [
+              "Class",
+              "Portable military radio"
+            ],
+            [
+              "Mass",
+              "600 g"
+            ],
+            [
+              "Range",
+              "5–30 km"
+            ],
+            [
+              "Autonomy",
+              "24 h"
+            ]
+          ]
+        },
+        {
+          "name": "Iridium 9555 satellite phone",
+          "specs": "**Тип:** Спутниковый телефон | **Масса:** 270 г | **Покрытие:** глобальное | **Связь:** 66 спутников Iridium",
+          "desc": "Iridium satellite phone. Works where there's neither cellular nor people. Sixty-six satellites in low orbit — coverage everywhere except the deepest mountain gorges. In ORPP — kit for groups going outside cities or into anomalies that jam normal comms.",
+          "img": "iridium_9555.jpg",
+          "blurb": "Iridium satellite phone. Works where there's neither cellular nor people.",
+          "stats": [
+            [
+              "Class",
+              "Satellite phone"
+            ],
+            [
+              "Mass",
+              "270 g"
+            ],
+            [
+              "Coverage",
+              "global (66 Iridium satellites)"
+            ],
+            [
+              "Effect",
+              "with every squad leader"
+            ]
+          ]
+        },
+        {
+          "name": "«Karat» reconnaissance drone",
+          "specs": "**Тип:** Лёгкий БПЛА | **Масса:** 1.6 кг | **Время полёта:** 60 минут | **Дальность:** 25 км | **Камера:** 4K + тепловой канал",
+          "desc": "Reconnaissance quadcopter. Thermal imaging, daytime camera, half an hour in the air, almost silent — at thirty metres altitude not heard from the ground. ORPP issues one per group: surveils a target, finds an entry point, marks personnel for the UGT.",
+          "img": "karat_drone.jpg",
+          "blurb": "Reconnaissance copter. Thermal imaging, half an hour in the air, almost silent.",
+          "stats": [
+            [
+              "Class",
+              "Light UAV"
+            ],
+            [
+              "Mass",
+              "1.6 kg"
+            ],
+            [
+              "Flight time",
+              "60 min"
+            ],
+            [
+              "Range",
+              "25 km"
+            ],
+            [
+              "Camera",
+              "4K + thermal channel"
+            ]
+          ]
+        },
+        {
+          "name": "«Lancet-E» strike drone",
+          "specs": "**Тип:** Барражирующий боеприпас | **Масса:** 12 кг | **Время полёта:** 40 минут | **Дальность:** 40 км | **Боевая часть:** 3 кг",
+          "desc": "Kamikaze drone. Three kilos of explosive aimed at a man. The targeting officer paints the target with a marker — the drone strikes within a minute. In ORPP — for taking out targets in fortified positions where storming is too risky. One use per drone, period.",
+          "img": "lancet_drone.jpg",
+          "blurb": "Kamikaze drone. Three kilos of explosive aimed at a man.",
+          "stats": [
+            [
+              "Class",
+              "Loitering munition"
+            ],
+            [
+              "Mass",
+              "12 kg"
+            ],
+            [
+              "Flight time",
+              "40 min"
+            ],
+            [
+              "Range",
+              "40 km"
+            ],
+            [
+              "Warhead",
+              "3 kg — only with the chief’s permission"
+            ]
+          ]
+        },
+        {
+          "name": "IRay Saim SCH35 portable thermal imager",
+          "specs": "**Тип:** Тепловизионный прицел | **Масса:** 500 г | **Дальность обнаружения:** 1500 м | **Разрешение:** 384×288",
+          "desc": "Handheld thermal imager. Sees a man through a wall at thirty metres if the wall isn't more than half a brick thick. Mounts on a rifle picatinny or works as a monocular. ORPP issues for searches in dens and for hunting in forest at night.",
+          "img": "iray_thermal.jpg",
+          "blurb": "Handheld thermal imager. Sees a man through a wall at thirty metres.",
+          "stats": [
+            [
+              "Class",
+              "Thermal sight"
+            ],
+            [
+              "Mass",
+              "500 g"
+            ],
+            [
+              "Detection range",
+              "1500 m"
+            ],
+            [
+              "Effect",
+              "sees creatures of non-human temperature (vurdalak colder, werewolf hotter)"
+            ]
+          ]
+        },
+        {
+          "name": "PN-23 «Cyclops» night-vision device",
+          "specs": "**Тип:** Прибор ночного видения монокулярный | **Масса:** 600 г | **Поколение:** 3 | **Дальность работы:** 300 м",
+          "desc": "Service night-vision device, third generation. Green tunnel, useful range up to two hundred metres on a moonless night, mounts under the helmet. Without IR-illuminating equipment indoors — useless; with an active illuminator — first-class.",
+          "img": "pnv_nightvision.jpg",
+          "blurb": "Service night-vision device. Third generation, green tunnel.",
+          "stats": [
+            [
+              "Class",
+              "Gen-3 monocular night-vision"
+            ],
+            [
+              "Mass",
+              "600 g"
+            ],
+            [
+              "Working range",
+              "300 m"
+            ],
+            [
+              "Effect",
+              "reserve for UGT night mode"
+            ]
+          ]
+        },
+        {
+          "name": "«Zaslonka» psi-jammer",
+          "specs": "**Тип:** Стационарное оборудование | **Масса:** 18 кг | **Радиус действия:** 500 м | **Энергообеспечение:** аккумулятор 6 часов",
+          "desc": "Anti-psi jammer, ORPP magical-equipment department. Within twenty metres of itself telepathy and psychokinesis stop working — for the squad as well, so usage is rationed. ORPP issues for storms against psi-active cults.",
+          "img": "zaslonka_ew.jpg",
+          "blurb": "Anti-psi jammer. Within twenty metres telepathy and psychokinesis stop working.",
+          "stats": [
+            [
+              "Class",
+              "Static equipment"
+            ],
+            [
+              "Mass",
+              "18 kg"
+            ],
+            [
+              "Radius",
+              "500 m"
+            ],
+            [
+              "Autonomy",
+              "6 h"
+            ],
+            [
+              "Effect",
+              "telepathy, psychokinetics, partial teleportation — at penalty"
+            ]
+          ]
+        },
+        {
+          "name": "OPI biosignature scanner",
+          "specs": "**Тип:** Полевой анализатор | **Масса:** 4 кг | **Время сканирования:** 2-5 минут на пробу | **Энергообеспечение:** 8 часов",
+          "desc": "OPI scanner. Distinguishes a man from a vampire, a man from a werewolf, a man from a possessed at ten metres if power is on. Doesn't see fae under glamour (those need cold iron). Heavy (1.4 kg), running time two hours from one cartridge.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "OPI scanner. Distinguishes a man from a vampire at ten metres if power is on.",
+          "stats": [
+            [
+              "Class",
+              "Field analyser"
+            ],
+            [
+              "Mass",
+              "4 kg"
+            ],
+            [
+              "Scan time",
+              "2–5 min per test"
+            ],
+            [
+              "DB",
+              "400+ paranormal species in OPI files"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "ORPP SPECIAL ISSUE",
+      "items": [
+        {
+          "name": "Forsazh-1",
+          "specs": "**Тип:** Физический стимулятор | **Объём:** 5 мл (одна доза) | **Действие:** 5-10 минут | **Восстановление:** неделя комы + год реабилитации",
+          "desc": "Combat stimulant. Hits like an espresso poured straight into the spinal cord — for fifteen minutes the operative is faster, doesn't feel pain and forgets how to be tired. Then a crash, three hours of catching up on the missed pain and missed exhaustion. Standard issue, two ampoules in the kit.",
+          "img": "forsage_injector.jpg",
+          "blurb": "Combat stimulant. Hits like an espresso poured into the spinal cord. Crash after.",
+          "stats": [
+            [
+              "Class",
+              "Physical stimulant"
+            ],
+            [
+              "Volume",
+              "5 ml (dose)"
+            ],
+            [
+              "Duration",
+              "5–10 min"
+            ],
+            [
+              "Effect",
+              "speed, reactions, strength ×3–5 (durability unchanged — injuries inevitable)"
+            ],
+            [
+              "Cost",
+              "a week of coma + a year of rehab, years burned off"
+            ]
+          ]
+        },
+        {
+          "name": "Forsazh-2",
+          "specs": "**Тип:** Пси-стимулятор для псиоников | **Объём:** 5 мл | **Действие:** 5-10 минут | **Восстановление:** двое суток сна + неделя слабости + кома до недели в зависимости от глубины применения",
+          "desc": "Heavy combat stimulant. Half an hour above the body's normal limit — combat speed multiplied by one and a half, reactions sharper, pain switched off entirely. The price is a week of payback: insomnia, tachycardia, the heart trying to remember whether it's still meant to beat. ORPP — for situations where there is no other way out.",
+          "img": "forsage_injector.jpg",
+          "blurb": "Heavy combat stimulant. Half an hour above your limit — and a week of payback.",
+          "stats": [
+            [
+              "Class",
+              "Psi-stimulant (red label)"
+            ],
+            [
+              "Volume",
+              "5 ml"
+            ],
+            [
+              "Duration",
+              "5–10 min"
+            ],
+            [
+              "Effect",
+              "old powers at their limit; eyes in blue flame, voice doubled"
+            ],
+            [
+              "Cost",
+              "neuron burnout, coma up to a week, years of life"
+            ]
+          ]
+        },
+        {
+          "name": "Express-1",
+          "specs": "**Тип:** Сыворотка допросная | **Объём:** 2 мл | **Действие:** 4-6 часов | **Обратимость:** да",
+          "desc": "Service painkiller. Removes the hurt without removing the wound: a fragment in the calf stops shouting, but is still working through the muscle. Allows finishing an operation and reaching a hospital. After three doses — danger of overdose; one ampoule covers an hour and a half.",
+          "img": "express_injector.jpg",
+          "blurb": "Service painkiller. Removes the hurt without removing the wound.",
+          "stats": [
+            [
+              "Class",
+              "Interrogation serum"
+            ],
+            [
+              "Volume",
+              "2 ml"
+            ],
+            [
+              "Duration",
+              "4–6 h"
+            ],
+            [
+              "Reversible",
+              "yes — subject remembers ~2/3 of the interrogation"
+            ],
+            [
+              "Use",
+              "ordinary suspects"
+            ]
+          ]
+        },
+        {
+          "name": "Express-2",
+          "specs": "**Тип:** Сыворотка допросная пси-усиленная | **Объём:** 3 мл | **Действие:** 5-7 минут | **Обратимость:** нет (объект умирает)",
+          "desc": "Heavy painkiller. Doesn't feel a leg amputation. Doesn't even feel the leg. ORPP issues for the gravest wounds — when the operative needs to remain conscious another twenty minutes before evacuation. After Express-2, hospital is not optional.",
+          "img": "express_injector.jpg",
+          "blurb": "Heavy painkiller. You don't feel a leg amputation. Don't even feel the leg.",
+          "stats": [
+            [
+              "Class",
+              "Psi-enhanced interrogation serum (red label)"
+            ],
+            [
+              "Volume",
+              "3 ml — at the base of the skull"
+            ],
+            [
+              "Duration",
+              "5–7 min"
+            ],
+            [
+              "Reversible",
+              "none (brain leaks through nose, eyes, ears)"
+            ],
+            [
+              "Use",
+              "only OPG fighters; formally execution by law"
+            ]
+          ]
+        },
+        {
+          "name": "Antishock-3",
+          "specs": "**Тип:** Полевой стимулятор-стабилизатор | **Объём:** 5 мл | **Действие:** 30 минут | **Восстановление:** 24 часа",
+          "desc": "Anti-shock injector. Drags an operative back from clinical death after massive blood loss. Adrenaline cocktail with vasoconstrictors — restarts the heart, raises pressure, gives ten minutes to a hospital. After Antishock-3 the operative is fully unfit for service for at least a month.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Anti-shock injector. Drags an operative back from clinical death.",
+          "stats": [
+            [
+              "Class",
+              "Field stimulant-stabiliser"
+            ],
+            [
+              "Volume",
+              "5 ml"
+            ],
+            [
+              "Duration",
+              "30 min"
+            ],
+            [
+              "Effect",
+              "removes wound penalties for the duration"
+            ],
+            [
+              "Cost",
+              "after — sharp drop in capability, sleep"
+            ]
+          ]
+        },
+        {
+          "name": "«Tishina-7» psi-block",
+          "specs": "**Тип:** Защитное средство против ментального воздействия | **Объём:** 2 мл | **Действие:** 2 часа",
+          "desc": "Pharmacological telepathy block. After injection — six hours your head is your own: fae, vampires and psionics can't reach you. The side effect is auditory perception narrows to a tunnel, the operative hears poorly. ORPP issues for negotiations with psi-active counterparts.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Pharmacological telepathy block. Six hours, your head is your own.",
+          "stats": [
+            [
+              "Class",
+              "Mental protection"
+            ],
+            [
+              "Volume",
+              "2 ml"
+            ],
+            [
+              "Duration",
+              "2 h"
+            ],
+            [
+              "Effect",
+              "near-immunity to telepathy"
+            ],
+            [
+              "Cost",
+              "mild perception «dullness», an hour to recover"
+            ]
+          ]
+        },
+        {
+          "name": "Self-destruct capsule",
+          "specs": "**Тип:** Капсула с цианистым калием | **Масса:** 1 г | **Действие:** 15-30 секунд до потери сознания, 1-2 минуты до смерти",
+          "desc": "Cyanide ampoule under the tongue, in a plastic capsule that doesn't release the contents until bitten through. Last issue — to be used so as not to be taken alive. Death within twenty seconds, no agony, no return. In the strength of operatives going into deep-cover work in cult bases.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Cyanide ampoule under the tongue. Last issue — to be used so as not to be taken alive.",
+          "stats": [
+            [
+              "Class",
+              "Potassium cyanide capsule"
+            ],
+            [
+              "Mass",
+              "1 g"
+            ],
+            [
+              "Duration",
+              "15–30 s to loss of consciousness, 1–2 min to death"
+            ],
+            [
+              "Use",
+              "OPI abroad, illegal ops, category «Alpha»"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "ANTI-PARANORMAL KIT",
+      "items": [
+        {
+          "name": "«Trident-S» special munition 9×19",
+          "specs": "**Тип:** Патрон антипаранормальный | **Масса обоймы:** 270 г (18 патронов) | **Калибр:** 9×19 Para",
+          "desc": "Pistol round, cold iron core in a 999-grade silver jacket. Loads like an ordinary 9×19 into the GSh-18, PYa, SR-1, MP5 — into anything pistol-calibre. For the unholy: vampires, mavki, leprechauns, demonids of the lesser orders. Doesn't differ in ballistics from a normal round, just costs twenty times more.",
+          "img": "trizubets_silver_bullets.jpg",
+          "blurb": "Pistol round, cold iron in 999-grade silver jacket. For the unholy.",
+          "stats": [
+            [
+              "Class",
+              "Anti-paranormal cartridge"
+            ],
+            [
+              "Caliber",
+              "9×19 Para"
+            ],
+            [
+              "Loading",
+              "18 rounds, 270 g"
+            ],
+            [
+              "Effect",
+              "×2 damage vs unholy vulnerable to silver / cold iron"
+            ]
+          ]
+        },
+        {
+          "name": "«Trident-S» special munition 12.7×55",
+          "specs": "**Тип:** Патрон антипаранормальный | **Масса обоймы:** 1.4 кг (20 патронов) | **Калибр:** 12.7×55 СЦ-130",
+          "desc": "Heavy round for the ASh-12, cold iron and silver. Removes a vampire from the picture: tears the chest open, the field collapses, the body burns up around the wound. ORPP keeps no more than two clips of these on a regional department's strength — production is hand-made.",
+          "img": "trizubets_silver_bullets.jpg",
+          "blurb": "Heavy ASh-12 round, cold iron + silver. Removes a vampire from the picture.",
+          "stats": [
+            [
+              "Class",
+              "Anti-paranormal cartridge"
+            ],
+            [
+              "Caliber",
+              "12.7×55 STs-130"
+            ],
+            [
+              "Loading",
+              "20 rounds, 1.4 kg"
+            ],
+            [
+              "Effect",
+              "against the highest category of unholy; ~5000 ₽ each, signed for"
+            ]
+          ]
+        },
+        {
+          "name": "«Aspen Sting» special munition (buckshot)",
+          "specs": "**Тип:** Картечь к 12 калибру | **Содержимое:** 9 картечин из осины-сердцевины, пропитанной освящённой солью",
+          "desc": "Twelve-gauge cartridge of aspen pellets instead of lead shot. Throws a vampire across the room: each pellet causes systemic bleeding that the vampire can't seal. For the storming of a vampire den a Saiga loaded with «Aspen Sting» is the standard pickup.",
+          "img": "osinoe_zhalo_shells.jpg",
+          "blurb": "Shotgun cartridge with aspen pellets. Throws a vampire across the room.",
+          "stats": [
+            [
+              "Class",
+              "12-gauge buckshot"
+            ],
+            [
+              "Loadout",
+              "9 aspen-core buckshot"
+            ],
+            [
+              "Range",
+              "up to 25 m"
+            ],
+            [
+              "Effect",
+              "torso hit = three aspen stakes at once"
+            ]
+          ]
+        },
+        {
+          "name": "Holy water in a flask",
+          "specs": "**Тип:** Полевой расходник | **Объём:** 250 мл | **Масса:** 280 г",
+          "desc": "Consecrated water in a steel flask. Burns the unholy like acid — splash a face, throw a handful into a wound. Mavki are afraid, vampires lose composure, lesser demons suffer combat damage. Lasts a month in a sealed flask; after that loses force.",
+          "img": "holy_water_flask.jpg",
+          "blurb": "Consecrated water in a steel flask. Burns the unholy like acid.",
+          "stats": [
+            [
+              "Class",
+              "Field consumable"
+            ],
+            [
+              "Volume",
+              "250 ml"
+            ],
+            [
+              "Mass",
+              "280 g"
+            ],
+            [
+              "Effect",
+              "burns most categories of undead; standard 2 per operative"
+            ]
+          ]
+        },
+        {
+          "name": "Consecrated salt (in a leather pouch)",
+          "specs": "**Тип:** Полевой расходник | **Масса:** 500 г",
+          "desc": "Consecrated rock salt in a leather pouch. A circle of salt the dead cannot cross — useful for holding a position. A handful of salt thrown into the eyes of a vurdalak blinds it for half a minute. ORPP issues to those who work alone in graveyards.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Consecrated rock salt. A circle of it the dead cannot cross.",
+          "stats": [
+            [
+              "Class",
+              "Field consumable"
+            ],
+            [
+              "Mass",
+              "500 g"
+            ],
+            [
+              "Effect",
+              "drawing circles, barrier against spirits and lesser demons"
+            ]
+          ]
+        },
+        {
+          "name": "Consecrated chalk",
+          "specs": "**Тип:** Полевой расходник | **Масса:** 50 г (палочка) | **Длина:** 12 см",
+          "desc": "Consecrated white chalk in a stick. Draws protective seals on floor and door frames — the seal won't let in a creature of the corresponding order. Knowing the seals is in the ORPP department curriculum; without that knowledge the chalk is just chalk.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Consecrated chalk. Draws protective seals on floor and door frames.",
+          "stats": [
+            [
+              "Class",
+              "Field consumable"
+            ],
+            [
+              "Mass",
+              "50 g (12 cm stick)"
+            ],
+            [
+              "Effect",
+              "ritual schemes; prized by mystics"
+            ]
+          ]
+        },
+        {
+          "name": "Poppy flour",
+          "specs": "**Тип:** Полевой расходник против упырей | **Масса:** 100 г",
+          "desc": "Ground poppy seed in a small pouch. Toss a handful at a changeling — the ancient creature can't help itself, will count grains till dawn out of compulsive perfectionism. Doesn't work on adult fae — those are too disciplined. Works splendidly on changelings up to a year old.",
+          "img": "poppy_flour.jpg",
+          "blurb": "Ground poppy. Toss a handful — the changeling will be counting grains till dawn.",
+          "stats": [
+            [
+              "Class",
+              "Field consumable against upyr"
+            ],
+            [
+              "Mass",
+              "100 g"
+            ],
+            [
+              "Effect",
+              "scattered on the threshold — holds an upyr/vurdalak for hours"
+            ]
+          ]
+        },
+        {
+          "name": "Somov's pepper tincture",
+          "specs": "**Тип:** Расходник мистика | **Объём:** 100 мл | **Масса:** 130 г",
+          "desc": "A famous spirit infusion of black pepper, garlic and consecrated herbs. Burns the throat of the living (a sip is a torch on the chest), blinds the dead (a splash to the face is a knife). The recipe is Father Lavrenty Somov's, kept in the ORPP archive, copied to about thirty fellow believers across the country.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "A famous spirit infusion. Burns the throat of the living, blinds the dead.",
+          "stats": [
+            [
+              "Class",
+              "Mystic consumable"
+            ],
+            [
+              "Volume",
+              "100 ml"
+            ],
+            [
+              "Effect",
+              "a squirt to the face of an imp/lesser demon — it evaporates"
+            ],
+            [
+              "Composition",
+              "pepper, garlic, holy water, consecrated oil, herbs, unnamed additive"
+            ]
+          ]
+        },
+        {
+          "name": "Aspen stakes (set of 6)",
+          "specs": "**Тип:** Антивампирское средство | **Длина:** 30 см | **Масса:** 200 г каждый",
+          "desc": "Six aspen stakes, lathe-turned, lengths from twenty to thirty-five centimetres. The classic answer to anything sucking blood: through the heart — a young vampire dies, an old one is incapacitated for hours. ORPP standard issue for groups going against vampires.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Six aspen stakes. The classic answer to anything sucking blood.",
+          "stats": [
+            [
+              "Class",
+              "Anti-vampire agent"
+            ],
+            [
+              "Length",
+              "30 cm, 200 g each"
+            ],
+            [
+              "Damage",
+              "K100/20+1 + STR damage bonus; precise heart-strike — lethal to vampire"
+            ],
+            [
+              "Effect",
+              "used as in the classics — through the sternum"
+            ]
+          ]
+        },
+        {
+          "name": "Garlic capsules (bottle of 50)",
+          "specs": "**Тип:** Защитный расходник | **Масса:** 50 г",
+          "desc": "Garlic-extract capsules in soft gelatine. For an operative — vitamins and a smell that can be made to vanish before negotiations. For a vampire — tear gas: an operative breathing on a vampire from five metres causes him sneezing and confusion. ORPP issues to plain-clothes operatives.",
+          "img": "garlic_capsules.jpg",
+          "blurb": "Garlic-extract capsules. For an operative — vitamins; for a vampire — tear gas.",
+          "stats": [
+            [
+              "Class",
+              "Protective consumable"
+            ],
+            [
+              "Mass",
+              "50 g"
+            ],
+            [
+              "Effect",
+              "strong garlic odour for a day — vampire loses interest in the operative"
+            ],
+            [
+              "Cost",
+              "social isolation"
+            ]
+          ]
+        },
+        {
+          "name": "Silver bonds",
+          "specs": "**Тип:** Иммобилизирующее средство | **Масса:** 800 г | **Длина:** 3 м",
+          "desc": "Silver-wire shackles, ORPP magical-equipment department. Holds even an old vampire — until somebody comes; the silver burns at the wrists, the vampire doesn't have the strength to break out, but can't pry himself free without losing both arms. For escorting captured unholy.",
+          "img": "silver_handcuffs.jpg",
+          "blurb": "Silver-wire shackles. Holds even an old vampire — until somebody comes.",
+          "stats": [
+            [
+              "Class",
+              "Immobilising agent"
+            ],
+            [
+              "Mass",
+              "800 g"
+            ],
+            [
+              "Length",
+              "3 m"
+            ],
+            [
+              "Effect",
+              "burns undead through clothing; one set per support vehicle"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "MEDICAL",
+      "items": [
+        {
+          "name": "AI-Ya first-aid kit",
+          "specs": "**Тип:** Индивидуальная аптечка | **Масса:** 350 г | **Содержимое:** 12 препаратов и расходников",
+          "desc": "Standard military first-aid kit. Bandages, an Express-1 syringe-tube, a tourniquet, an antiseptic. Lies in the chest pack of every operative, weighs four hundred grams. For first aid to oneself and to a teammate before the medic arrives.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Standard military first-aid kit. Bandages, tourniquet, syringe-tubes.",
+          "stats": [
+            [
+              "Class",
+              "Personal first-aid kit"
+            ],
+            [
+              "Mass",
+              "350 g"
+            ],
+            [
+              "Contents",
+              "12 drugs and consumables"
+            ],
+            [
+              "Effect",
+              "field first aid; every operative carries one"
+            ]
+          ]
+        },
+        {
+          "name": "Жгут CAT (Combat Application Tourniquet)",
+          "specs": "**Тип:** Кровоостанавливающий жгут (импорт) | **Масса:** 80 г",
+          "desc": "Combat tourniquet. One-handed, in ten seconds — the blood stays inside you. Mandatory issue. Worn on a shoulder strap on a quick-release, so that when the leg is shot through there's no need to look for it in a pack.",
+          "img": "cat_tourniquet.jpg",
+          "blurb": "Combat tourniquet. One-handed, in ten seconds — your blood stays inside you.",
+          "stats": [
+            [
+              "Class",
+              "Haemostatic tourniquet (import)"
+            ],
+            [
+              "Mass",
+              "80 g"
+            ],
+            [
+              "Effect",
+              "stops limb bleeding; 2 tourniquets per operative"
+            ]
+          ]
+        },
+        {
+          "name": "«Celox» haemostatic agent",
+          "specs": "**Тип:** Кровоостанавливающий порошок (импорт) | **Масса:** 35 г пакетик",
+          "desc": "Haemostatic powder in a packet. Stops arterial bleeding in thirty seconds where a tourniquet won't fit — at the neck, in the groin. Poured into the wound, pressed down with a bandage. Saves more lives than scalpels.",
+          "img": "celox_hemostatic.jpg",
+          "blurb": "Haemostatic powder. Stops arterial bleeding in thirty seconds.",
+          "stats": [
+            [
+              "Class",
+              "Haemostatic powder (import)"
+            ],
+            [
+              "Mass",
+              "35 g (pouch)"
+            ],
+            [
+              "Effect",
+              "pour into the wound — bleeding stops in 30–60 s"
+            ]
+          ]
+        },
+        {
+          "name": "OPI field kit (universal anti-paranormal)",
+          "specs": "**Тип:** Расширенная аптечка для работы с паранормальными травмами | **Масса:** 4 кг",
+          "desc": "OPI universal field kit. Antidotes to vampire venom, holy water in ampoules, silver dust for wounds from a fae, a silver-thread needle for sewing up bites. For groups working against the unholy at distance from a base.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "OPI universal kit. Antidotes, holy water, silver dust, silver-thread needle.",
+          "stats": [
+            [
+              "Class",
+              "Expanded kit for paranormal trauma"
+            ],
+            [
+              "Mass",
+              "4 kg"
+            ],
+            [
+              "Contents",
+              "anti-paranormal stimulants, antitoxins, lycanthropic-fever antidote, mavka-influence neutraliser, silver suture thread"
+            ],
+            [
+              "Effect",
+              "one set per vehicle"
+            ]
+          ]
+        },
+        {
+          "name": "Biopath elixir (glucose-and-vitamin concentrate)",
+          "specs": "**Тип:** Восстановительное средство для псионика | **Объём:** 200 мл (бутылочка) | **Масса:** 230 г",
+          "desc": "Glucose-and-vitamin concentrate. After major physical exertion — a slim flask of life. Doesn't restore lost blood, doesn't heal wounds, but returns the strength to take three more steps. Standard issue for biopaths and operatives after the use of Forsazh-2.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Glucose-vitamin concentrate. After major exertion — a slim flask of life.",
+          "stats": [
+            [
+              "Class",
+              "Psionic restorative"
+            ],
+            [
+              "Volume",
+              "200 ml"
+            ],
+            [
+              "Mass",
+              "230 g"
+            ],
+            [
+              "Effect",
+              "restores psi-reserve; Sheremetyeva takes hers with chocolate"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "TRANSPORT",
+      "items": [
+        {
+          "name": "Toyota Land Cruiser 200 (service)",
+          "specs": "**Тип:** Полноразмерный внедорожник | **Масса:** 2.7 т | **Двигатель:** V8 4.5 л дизель, 270 л.с. | **Топливо:** 138 л дизель | **Пассажиров:** 6 + 1 водитель",
+          "desc": "ORPP service SUV. Armoured to Class V (B6), four-wheel drive, goes anywhere. Big, comfortable, instantly recognisable in a city — for which reason it's used for command transport, not for surveillance.",
+          "img": "lc200_toyota.jpg",
+          "blurb": "ORPP service SUV. Armoured, four-wheel drive, goes everywhere.",
+          "stats": [
+            [
+              "Class",
+              "Full-size SUV"
+            ],
+            [
+              "Engine",
+              "V8 4.5 L diesel, 270 hp"
+            ],
+            [
+              "Crew",
+              "6 + driver"
+            ],
+            [
+              "Armoring",
+              "none (weapon mounts, safe, radio, beacon)"
+            ]
+          ]
+        },
+        {
+          "name": "Ford Transit (operations van)",
+          "specs": "**Тип:** Минивен оперативный | **Масса:** 2.1 т | **Двигатель:** 2.2 л дизель, 155 л.с. | **Пассажиров:** 8 + 1 водитель",
+          "desc": "Operations van. Squad transport (up to eight including driver) and cover for surveillance: from outside an ordinary builders' bus, inside a console with screens, a fridge for evidence, two operatives at the optics.",
+          "img": "ford_transit.jpg",
+          "blurb": "Operations van. Squad transport, cover for surveillance.",
+          "stats": [
+            [
+              "Class",
+              "Operations van"
+            ],
+            [
+              "Engine",
+              "2.2 L diesel, 155 hp"
+            ],
+            [
+              "Crew",
+              "8 + driver"
+            ],
+            [
+              "Armoring",
+              "none"
+            ]
+          ]
+        },
+        {
+          "name": "Mercedes-Benz Sprinter (OPI support vehicle)",
+          "specs": "**Тип:** Грузо-пассажирский фургон | **Масса:** 3.0 т | **Двигатель:** 2.1 л дизель, 163 л.с. | **Содержимое:** мобильная лаборатория ОПИ",
+          "desc": "OPI mobile laboratory. Scanners, a small autopsy table, sample fridges, a workplace for the biopath. Arrives on the scene right after the storming, processes evidence on the spot. The grand piano of the department, one per regional centre.",
+          "img": "sprinter_mercedes.jpg",
+          "blurb": "OPI mobile lab. Scanners, a small autopsy table, sample fridges.",
+          "stats": [
+            [
+              "Class",
+              "Cargo/passenger van"
+            ],
+            [
+              "Engine",
+              "2.1 L diesel, 163 hp"
+            ],
+            [
+              "Crew",
+              "rear base 0.5 km from the target"
+            ],
+            [
+              "Armoring",
+              "none (not used for storming)"
+            ]
+          ]
+        },
+        {
+          "name": "«Tigr» GAZ-2330",
+          "specs": "**Тип:** Бронированный автомобиль повышенной проходимости | **Масса:** 7.2 т | **Двигатель:** 5.9 л дизель, 215 л.с. | **Бронирование:** 5 класс защиты | **Пассажиров:** 6 + 1 водитель",
+          "desc": "Russian military SUV. Mine-protected, Class V armour all around, a hatch on the roof for a machine-gunner. Comfort minimal, capability for outside-city work — maximum. ORPP issues for operations against rural cults and forest dens.",
+          "img": "gaz-2330_tigr.jpg",
+          "blurb": "Military SUV. Mine-protected, fifth-class armour all around.",
+          "stats": [
+            [
+              "Class",
+              "Off-road armoured vehicle"
+            ],
+            [
+              "Engine",
+              "5.9 L diesel, 215 hp"
+            ],
+            [
+              "Crew",
+              "6 + driver"
+            ],
+            [
+              "Armoring",
+              "Class V protection"
+            ]
+          ]
+        },
+        {
+          "name": "BTR-82A",
+          "specs": "**Тип:** Бронетранспортёр | **Масса:** 14.5 т | **Двигатель:** дизель 300 л.с. | **Бронирование:** держит 12.7 в лоб | **Вооружение:** 30-мм автопушка | **Десант:** 7",
+          "desc": "Armoured personnel carrier with a 30mm cannon and a coaxial 7.62 machine gun. Eight troops in the troop compartment, the crew is two more. Goes through walls, takes a hit from an RPG-7 at extreme angle. ORPP attracts from Ministry of Defence cooperation on serious sieges.",
+          "img": "btr-82a.jpg",
+          "blurb": "Armoured personnel carrier. 30mm cannon, eight troops, goes through walls.",
+          "stats": [
+            [
+              "Class",
+              "Armoured personnel carrier"
+            ],
+            [
+              "Engine",
+              "diesel 300 hp"
+            ],
+            [
+              "Crew",
+              "7 troopers"
+            ],
+            [
+              "Armoring",
+              "holds 12.7 frontally; armament — 30 mm autocannon"
+            ]
+          ]
+        },
+        {
+          "name": "Ural Wolf (motorcycle)",
+          "specs": "**Тип:** Тяжёлый мотоцикл с коляской | **Масса:** 230 кг | **Двигатель:** 750 куб.см, 41 л.с.",
+          "desc": "Heavy cruiser bike. Stable on a bad road, terrible in city traffic — too wide, too heavy. ORPP uses for transport between regional centres in conditions where a four-wheeled vehicle won't get through. Sidekick option carries a passenger or a hundred-kilo load.",
+          "img": "ural_wolf.jpg",
+          "blurb": "Heavy cruiser bike. Stable on a bad road, terrible in city traffic.",
+          "stats": [
+            [
+              "Class",
+              "Heavy motorcycle with sidecar"
+            ],
+            [
+              "Engine",
+              "750 cc, 41 hp"
+            ],
+            [
+              "Crew",
+              "2 (sidecar — operator or light cargo)"
+            ],
+            [
+              "Armoring",
+              "none"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "FORENSIC AND UTILITY GEAR",
+      "items": [
+        {
+          "name": "Forensic field case",
+          "specs": "**Тип:** Инструментальный кейс | **Масса:** 5 кг | **Содержимое:** 60+ предметов",
+          "desc": "Forensic field kit. Tweezers, vials, lifting tape, a magnifier, evidence labels, an UV torch. Standard issue for OPI agents and detective operatives. Lies in the trunk of the service car, weighs three kilos.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Forensic field kit. Tweezers, vials, lifting tape, magnifier.",
+          "stats": [
+            [
+              "Class",
+              "Tool case"
+            ],
+            [
+              "Mass",
+              "5 kg"
+            ],
+            [
+              "Contents",
+              "camera, rulers, powders and brushes for prints, envelopes, tweezers, magnifier"
+            ],
+            [
+              "Effect",
+              "one case per group, with the investigator"
+            ]
+          ]
+        },
+        {
+          "name": "Police handcuffs",
+          "specs": "**Тип:** Средство ограничения свободы | **Масса:** 350 г | **Класс:** стандарт МВД",
+          "desc": "Service handcuffs, a steel chain. Lock pin, can be slipped by an experienced hand with a wire — for which reason in ORPP a stronger model with a square key is used. Standard issue for arrests of human criminals; against unholy, silver bonds.",
+          "img": "handcuffs.jpg",
+          "blurb": "Service handcuffs. Lock pin, can be slipped by an experienced hand.",
+          "stats": [
+            [
+              "Class",
+              "Restraint device"
+            ],
+            [
+              "Mass",
+              "350 g"
+            ],
+            [
+              "Effect",
+              "remote-controlled electronic — reserve for special cases"
+            ]
+          ]
+        },
+        {
+          "name": "«Karakurt-7» stun gun",
+          "specs": "**Тип:** Электрошоковое устройство | **Масса:** 600 г | **Разряд:** 70 кВ | **Контакт:** 5 секунд для гарантированной нейтрализации",
+          "desc": "High-voltage stun gun. Two seconds of contact — and the suspect is on the floor with no harm to a healthy heart. Doesn't kill cleanly, but knocks a man out of the fight reliably. Against unholy almost useless (a vampire shrugs off the discharge).",
+          "img": "placeholder_gear.jpg",
+          "blurb": "High-voltage stun gun. Two seconds — and the suspect is on the floor.",
+          "stats": [
+            [
+              "Class",
+              "Stun gun"
+            ],
+            [
+              "Mass",
+              "600 g"
+            ],
+            [
+              "Discharge",
+              "70 kV, 5 s contact for a sure stun"
+            ],
+            [
+              "Effect",
+              "especially effective against electric-type elementals"
+            ]
+          ]
+        },
+        {
+          "name": "Case with civilian clothes",
+          "specs": "**Тип:** Комплект под прикрытие | **Масса:** 3 кг | **Содержимое:** деловой костюм + сорочки + спортивный костюм + рабочая одежда",
+          "desc": "A spare set of civilian clothing — a plain suit, shoes, a watch, a wallet with documents. Allows an operative to step out of the service car and walk into a place without drawing the eye. Standard kit for the operations group: one set per officer.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Spare set of civilian clothing. Plain suit, shoes, watch, wallet.",
+          "stats": [
+            [
+              "Class",
+              "Cover-identity kit"
+            ],
+            [
+              "Mass",
+              "3 kg"
+            ],
+            [
+              "Contents",
+              "business suit, shirts, sports outfit, work clothes"
+            ],
+            [
+              "Effect",
+              "civilian work, surveillance, building infiltration"
+            ]
+          ]
+        },
+        {
+          "name": "Fenix PD36R flashlight",
+          "specs": "**Тип:** Тактический фонарь (импорт) | **Масса:** 160 г | **Мощность:** 1600 люмен | **Время работы:** 50 часов на низкой",
+          "desc": "Tactical flashlight, 1600 lumens. Blinds at five metres, illuminates at a hundred and fifty. Recharges from USB-C, holds half an hour on full brightness. Mandatory issue: a dark cellar without a flashlight is suicide.",
+          "img": "fenix_pd36r_flashlight.jpg",
+          "blurb": "Tactical flashlight, 1600 lumens. Blinds without recharging for half an hour.",
+          "stats": [
+            [
+              "Class",
+              "Tactical flashlight (import)"
+            ],
+            [
+              "Mass",
+              "160 g"
+            ],
+            [
+              "Power",
+              "1600 lumens"
+            ],
+            [
+              "Effect",
+              "1600 lumens in the eyes at close range — heavy target penalty"
+            ]
+          ]
+        },
+        {
+          "name": "Tactical rope (5 m, 10 m, 30 m)",
+          "specs": "**Тип:** Капроновая верёвка | **Масса:** 0.3 / 0.6 / 1.8 кг | **Грузоподъёмность:** 200 кг",
+          "desc": "Static climbing rope in three coils — five, ten, thirty metres. For descents, for binding evidence, for tying together a casualty for evacuation. Standard kit of the operations group.",
+          "img": "tactical_rope.jpg",
+          "blurb": "Static climbing rope. Three coils — for any height.",
+          "stats": [
+            [
+              "Class",
+              "Nylon rope"
+            ],
+            [
+              "Mass",
+              "0.3 / 0.6 / 1.8 kg"
+            ],
+            [
+              "Capacity",
+              "200 kg"
+            ],
+            [
+              "Effect",
+              "set of lengths in the vehicle"
+            ]
+          ]
+        },
+        {
+          "name": "«Halligan» bar",
+          "specs": "**Тип:** Универсальный инструмент вскрытия (импорт) | **Масса:** 4.5 кг | **Длина:** 76 см",
+          "desc": "Halligan bar — crowbar, pickaxe and door-opener in one. Sixty centimetres of forged steel. Tears off any standard apartment door in fifteen seconds, no explosives needed. Standard issue for breaching operatives.",
+          "img": "halligan_bar.jpg",
+          "blurb": "Halligan bar. Crowbar, pickaxe and door-opener in one.",
+          "stats": [
+            [
+              "Class",
+              "Universal breaching tool (import)"
+            ],
+            [
+              "Mass",
+              "4.5 kg"
+            ],
+            [
+              "Length",
+              "76 cm"
+            ],
+            [
+              "Effect",
+              "doors and grates without explosives; in melee — d8 bludgeoning"
+            ]
+          ]
+        },
+        {
+          "name": "Reinforced gaffer tape (50 m)",
+          "specs": "**Тип:** Расходник | **Масса:** 350 г",
+          "desc": "Fabric-reinforced gaffer tape. The fix that fixes everything until the unholy come — to broken kit, to a casualty's bandage, to a temporarily silenced witness. Fifty metres in a roll, weighs two hundred grams. Two rolls in the squad pack.",
+          "img": "duct_tape.jpg",
+          "blurb": "Fabric-reinforced tape. The fix that fixes everything until the unholy come.",
+          "stats": [
+            [
+              "Class",
+              "Consumable"
+            ],
+            [
+              "Mass",
+              "350 g"
+            ],
+            [
+              "Effect",
+              "temporary repair, binding, gagging"
+            ]
+          ]
+        },
+        {
+          "name": "Map-case with documents",
+          "specs": "**Тип:** Документы и удостоверения | **Масса:** 800 г",
+          "desc": "Map-case with IDs, search warrants, certificates of attached officers, the squad's mission orders. The operative's legitimacy paper trail — without it on the scene of an operation the local police will start asking awkward questions.",
+          "img": "document_case.jpg",
+          "blurb": "Map-case with IDs, warrants, certificates. The operative's legitimacy paper trail.",
+          "stats": [
+            [
+              "Class",
+              "Documents and IDs"
+            ],
+            [
+              "Mass",
+              "800 g"
+            ],
+            [
+              "Contents",
+              "SiB ID, PMC / firefighter / health-inspector IDs, false-name passport"
+            ],
+            [
+              "Effect",
+              "mandatory for squad leader"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "BLADES OF THE CITY",
+      "items": [
+        {
+          "name": "City Watch Gladius",
+          "specs": "**Type:** Short cut-and-thrust sword | **Blade:** 50 cm | **Mass:** 760 g",
+          "desc": "The basic blade of the City. Every watchman on the forum carries one, every retired veteran, every father of a household under the counter. A straight double-edged blade, a tight grip, a simple bronze guard. The gladius is not for a duel — it is for the line: the second rank strikes through the gaps between the first rank's shields like a weaver's shuttle. The Houses make fun of it as a «commoner's weapon», and sometimes pay dearly for the joke: in a skilled hand the gladius is shorter than the condottiero's sabre — and in a corridor that means it wins.",
+          "img": "",
+          "blurb": "A commoner's weapon. In a corridor — it wins.",
+          "stats": [
+            ["Class", "Short sword (legion)"],
+            ["Damage", "d100/12+2 cut-and-thrust"],
+            ["Penetration", "50"],
+            ["BT — TR mod.", "+4 in line/corridor, −3 at distance"],
+            ["Sync", "+10 TR with a scutum or city shield"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "The Houses laugh. The Houses were never four-deep in the corridor."
+        },
+        {
+          "name": "Wall-Rider's Spatha",
+          "specs": "**Type:** Long cavalry sword | **Blade:** 86 cm | **Mass:** 1.1 kg",
+          "desc": "What the City moved to when the second rank could no longer fit a morning's fresh air, and cavalry began to decide things. A third longer than the gladius, balance shifted forward, suited to a stroke from the saddle and a reply from it. On foot the spatha is clumsy in the first rank but excellent in the second — it cuts over your own people's heads. The riders of the Wall wear it on the left hip, and by that hang their own recognise each other under any cloak.",
+          "img": "",
+          "blurb": "When the second rank no longer fit the morning.",
+          "stats": [
+            ["Class", "Long sword (cavalry)"],
+            ["Damage", "d100/9+3 cutting"],
+            ["Penetration", "55"],
+            ["BT — TR mod.", "+6 from the saddle, +2 in the second rank on foot, −5 in tight space"],
+            ["Sync", "+12 TR with a cavalry shield"],
+            ["Min. requirement", "STR 45, horsemanship"]
+          ],
+          "vignette": "They know each other by the hang — even under a stranger's cloak."
+        },
+        {
+          "name": "Pugio",
+          "specs": "**Type:** Belt dagger | **Blade:** 18 cm | **Mass:** 220 g",
+          "desc": "A small broad leaf-bladed knife that every City man with a belt carries. The watchman cuts rope and bread with it, the citizen cuts seals on scrolls, the condottiero cuts the armour straps of the man already on the ground. The pugio is not a first-line weapon; it is a tool, and at the right moment it reminds you that in the City every tool is a weapon.",
+          "img": "",
+          "blurb": "Not first-line. A tool — that reminds you.",
+          "stats": [
+            ["Class", "Belt dagger"],
+            ["Damage", "d100/20+1 thrust/cut"],
+            ["Penetration", "30"],
+            ["BT — TR mod.", "+1 (off-hand, everyday tool)"],
+            ["Concealment", "+8 (worn openly, draws no attention)"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "Every tool in the City is a weapon. Just remember."
+        },
+        {
+          "name": "Orsini Misericord",
+          "specs": "**Type:** Narrow tri-faceted dagger | **Blade:** 28 cm | **Mass:** 320 g",
+          "desc": "Old work from the San-Marketti shops, commissioned by House Orsini. A needle-pointed triangular blade with no cutting edge — it does not slice, it enters. Between the plates of a cuirass, under the lower edge of a gorget, into the slit of a visor. In the City such a blade closes debts — quietly, in one motion, without words. They say the master tempers the steel while speaking the name of the one it is meant for; the legend is pretty and no one is left to check it.",
+          "img": "",
+          "blurb": "Faceted needle. It does not cut — it enters. So the City closes debts.",
+          "stats": [
+            ["Class", "Piercing dagger"],
+            ["Damage", "d100/16+2 piercing"],
+            ["Penetration", "65 (ignores armour gaps)"],
+            ["BT — TR mod.", "+6 close-quarters (narrow, light, precise)"],
+            ["Concealment", "+12 to smuggle (fits in a sleeve)"],
+            ["Min. requirement", "AGL 45 for working narrow gaps"]
+          ],
+          "vignette": "It does not ring. Not before. Not after."
+        },
+        {
+          "name": "Stiletto «Borghese's Whisper»",
+          "specs": "**Type:** House Borghese family stiletto | **Blade:** 22 cm | **Mass:** 240 g",
+          "desc": "A pair to the glove. The grip is wrapped in black leather, the pommel is a silver swan, the mark of the House. By tradition a Borghese receives such a stiletto at sixteen — and must return it when leaving. The blade has a name; speaking it aloud in front of strangers is bad form. If the stiletto is drawn — the matter ends here, there is no other way.",
+          "img": "",
+          "blurb": "Borghese get it at sixteen. Return it when they leave.",
+          "stats": [
+            ["Class", "House stiletto"],
+            ["Damage", "d100/18+1 piercing"],
+            ["Penetration", "55"],
+            ["BT — TR mod.", "+8 (matched to the owner's hand)"],
+            ["Status", "recognisable — Borghese know their own"],
+            ["Min. requirement", "House membership or oath"]
+          ],
+          "vignette": "The blade has a name. To say it aloud is bad form."
+        },
+        {
+          "name": "Condottiero's Sabre",
+          "specs": "**Type:** Light cavalry sabre | **Blade:** 78 cm | **Mass:** 950 g",
+          "desc": "The working blade of the City. Every House has its own guard, its own curve, its own smith's mark — but underneath it is the same sabre: balanced, agile, cuts clean. Demetrio on contract wears one always, even at receptions. They say if a condottiero arrives without his sabre, the conversation will be short and bad.",
+          "img": "",
+          "blurb": "Not worn on the street is not worn at all. Not at a reception even less.",
+          "stats": [
+            ["Class", "Sabre"],
+            ["Damage", "d100/9+3 cutting"],
+            ["Penetration", "45"],
+            ["BT — TR mod.", "+3 (universal, familiar to the hand)"],
+            ["Armour sync", "+10 TR with a House gambeson"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "Without it — the conversation will be short and bad."
+        },
+        {
+          "name": "House Spadone",
+          "specs": "**Type:** Two-handed longsword | **Blade:** 132 cm | **Mass:** 2.4 kg",
+          "desc": "A ceremonial-and-fighting blade. In the head of the House's study a spadone hangs on the wall — engraved, crested, ritual. With an old fencing master it is sharpened and familiar. A spadone is held two-handed, moved through a narrow stance, struck in horizontal figure-eights. Against three with sabres — it is a chance. Against ten — a beautiful death.",
+          "img": "",
+          "blurb": "Two-handed. Against three — a chance; against ten — a beautiful death.",
+          "stats": [
+            ["Class", "Two-handed sword"],
+            ["Damage", "d100/6+5 cut-thrust"],
+            ["Penetration", "70"],
+            ["BT — TR mod.", "+5 at range, −10 in tight space"],
+            ["Footprint", "not for corridors and cabs"],
+            ["Min. requirement", "STR 55, COR 45 (two hands, controlled tempo)"]
+          ],
+          "vignette": "The hall clears itself. By a horizontal figure-eight."
+        },
+        {
+          "name": "Broadsword (import from Gatton)",
+          "specs": "**Type:** Western broadsword | **Blade:** 92 cm | **Mass:** 1.5 kg",
+          "desc": "Brought from the West Gatton — Gattonian smiths make them for export. A wide double-edged blade, a basket guard, designed to land a stroke over a mail shirt or to argue at full strength with a plate harness. In the City it is carried by those who learned fencing from western masters: a heavy school, a slow school, but if a broadsword meets a gladius — the gladius ends first. Not to be confused with the spadone: the broadsword is one-handed.",
+          "img": "",
+          "blurb": "Heavy western school. Not the spadone — one hand only.",
+          "stats": [
+            ["Class", "One-handed sword (western)"],
+            ["Damage", "d100/8+4 cutting"],
+            ["Penetration", "60"],
+            ["BT — TR mod.", "+4 with the western school, −2 without"],
+            ["Sync", "+8 TR with a large shield, +5 with a buckler"],
+            ["Min. requirement", "STR 50; western school preferred"]
+          ],
+          "vignette": "The gladius ends first. And knows it."
+        }
+      ],
+      "setting": "ВГ"
+    },
+    {
+      "title": "HOUSE ARMOUR",
+      "items": [
+        {
+          "name": "Condottiero's Doublet",
+          "specs": "**Type:** Reinforced doublet with plates | **Colours:** House crest and pattern | **Mass:** 3.2 kg",
+          "desc": "At a glance — a dark doublet of strict city cut. Inside — steel strips sewn to a doubled lining over chest, back and kidneys, leather pieces on the shoulders. Against a sabre — it holds. Against a misericord — questionable. Houses Orsini and Malatesta wear theirs, distinguishable by the piping; Borghese wear theirs with no piping, smooth. In the City a condottiero's doublet is at once a garment, an oath and a target.",
+          "img": "",
+          "blurb": "Holds against the sabre. Against the misericord — as luck has it.",
+          "stats": [
+            ["Class", "Light armour (urban)"],
+            ["Armour rating", "2 over the torso, 1 over the shoulders"],
+            ["TR mod.", "−2 (familiar cut, doesn't bind movement)"],
+            ["Status", "House colours visible at a distance — both an asset and a liability"],
+            ["Compatibility", "gambeson, cuirass over it — both compatible"]
+          ],
+          "vignette": "The House colours are seen from afar. One lives with that."
+        },
+        {
+          "name": "House Plate Cuirass",
+          "specs": "**Type:** Crested steel cuirass | **Thickness:** 2.5 mm over the chest | **Mass:** 8.4 kg",
+          "desc": "A ceremonial-and-fighting cuirass. Worn over the doublet on straps, with the House's waist buckle. Chest and back — one curved plate each, hammered, with the engraved crest at centre. Not worn at home, not worn on a date — worn to duels, to parades, to war. After the fight the cuirass is by custom laid at the feet of the one who earned it.",
+          "img": "",
+          "blurb": "To a duel, to a parade, to a war. After the fight — laid at the feet.",
+          "stats": [
+            ["Class", "Medium armour (torso)"],
+            ["Armour rating", "4 over the torso"],
+            ["TR mod.", "−10 (weight, shoulder binding)"],
+            ["Weak points", "armpits, neck, thighs"],
+            ["Min. requirement", "STR 55"]
+          ],
+          "vignette": "After the fight — at the feet. If there are still any feet to lay it at."
+        },
+        {
+          "name": "Horsehair Gambeson",
+          "specs": "**Type:** Quilted gambeson | **Colour:** undyed linen, grey | **Mass:** 1.6 kg",
+          "desc": "What you wear under the doublet and under the cuirass. Quilted layers of linen with horsehair — they absorb impact, draw sweat, keep rings and plates from biting the skin. Without a gambeson a man in a cuirass turns into a sweating cutlet within an hour; with one — he holds the line all day. Cheap, ugly, indispensable.",
+          "img": "",
+          "blurb": "Without it the cuirass is a cutlet in an hour. With it — a day in the line.",
+          "stats": [
+            ["Class", "Gambeson"],
+            ["Armour rating", "1 over the torso (on its own)"],
+            ["TR mod.", "+5 while wearing the cuirass (reduces chafing)"],
+            ["Effect", "−50% blunt damage through the cuirass"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "Indispensable and invisible. Like every good servant."
+        },
+        {
+          "name": "Padded Arming Cap",
+          "specs": "**Type:** Quilted cap worn under a helmet | **Material:** linen with wool padding, chin strap | **Mass:** 280 g",
+          "desc": "The companion piece to any helmet, without which the helmet is just a way to find out how your skull rings. A four-panel cap, quilted with wool padding, with a chin strap. It absorbs impact, draws sweat, keeps the metal of the helmet from chafing the temples and the back of the head. In the City wives, mothers and good tailors sew arming caps; the «government issue» ones do exist in shops — but a family keeps quiet about them.",
+          "img": "",
+          "blurb": "Without it the helmet is just a way to find out how your skull rings.",
+          "stats": [
+            ["Class", "Arming cap"],
+            ["Armour rating", "0 (only paired with a helmet)"],
+            ["TR mod.", "+3 while wearing a helmet (kills the ringing)"],
+            ["Effect", "−40% blunt damage to the head through the helmet"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "Grandmother knitted it. Grandmother is gone. The cap remained."
+        },
+        {
+          "name": "Lorica hamata (legion mail)",
+          "specs": "**Type:** Legionary mail shirt | **Length:** to mid-thigh | **Mass:** 9.2 kg",
+          "desc": "The basic defence of the City. The rings are riveted in pairs, the shoulders doubled, the hem trimmed with a braided copper fringe. Good against the cut: it spreads the blow across the rings, the rings across the gambeson, the gambeson across the ribs, the ribs across you — and you, not lethally. Against a thrust — a dispute: a poor stiletto slides off, a good one gets through. The City watch wears hamata from generation to generation; families repair and resize them like old kitchenware.",
+          "img": "",
+          "blurb": "The City's basic defence. The thrust is a dispute — but without it you can't.",
+          "stats": [
+            ["Class", "Medium armour (mail)"],
+            ["Armour rating", "3 over the torso, 2 over the thighs"],
+            ["TR mod.", "−4 (weight, clatter)"],
+            ["Weak points", "narrow thrusts, heavy blunt strikes"],
+            ["Min. requirement", "STR 40"]
+          ],
+          "vignette": "Grandmother had one. Father had one. I will too."
+        },
+        {
+          "name": "Lorica segmentata",
+          "specs": "**Type:** Segmented plate armour (city cohorts) | **Coverage:** chest, back, shoulders | **Mass:** 9.8 kg",
+          "desc": "Six or seven horizontal steel bands across chest and back, shoulder «wings» over the top, all bound with leather straps and buckles. The City cohorts' standard. Segmentata breathes — there is a gap between the bands, and in those gaps a marcher's soul still clings to life in summer. Drawbacks: vulnerable at the hinges (a strap wears out in half a year), vulnerable in the flanks (a horizontal cut passes between the bands). The cohorts wear it; mercenaries prefer mail or mascle, because segmentata needs servicing every evening.",
+          "img": "",
+          "blurb": "It breathes. City cohort standard. Servicing — every evening.",
+          "stats": [
+            ["Class", "Segmented plate (legion)"],
+            ["Armour rating", "4 over the torso, 3 over the shoulders"],
+            ["TR mod.", "−7 (straps, restricted flanks)"],
+            ["Weak points", "horizontal cut into the gap, hinges"],
+            ["Maintenance", "daily; straps replaced every half-year"],
+            ["Min. requirement", "STR 50"]
+          ],
+          "vignette": "Between the bands, in summer, the soul still clings."
+        },
+        {
+          "name": "Lorica musculata",
+          "specs": "**Type:** Anatomical cuirass of the tribunes | **Material:** bronze or steel with sculpted musculature | **Mass:** 8.4 kg",
+          "desc": "A ceremonial-and-fighting cuirass with sculpted musculature — pectorals, abdominals, obliques, shoulder blades on the back, all hammered «to the regulation of beauty». Worn by the tribunate, senior centurions, sometimes the heads of Houses on ceremonial appearances. In a duel musculata works no worse than a plain cuirass, on a parade — better than anything, on a wall — it gives the enemy archer a reason to remember exactly you.",
+          "img": "",
+          "blurb": "In a duel — no worse. On parade — better than anything. On the wall — a target.",
+          "stats": [
+            ["Class", "Medium plate (anatomical)"],
+            ["Armour rating", "4 over the torso"],
+            ["TR mod.", "−8 (mass shifted to the chest)"],
+            ["Status", "+15 TR at ceremonies, −10 in stealth"],
+            ["Min. requirement", "STR 55, rank of tribune or above"]
+          ],
+          "vignette": "The wall archer will remember exactly you."
+        },
+        {
+          "name": "Malatesta Fencer's Gloves",
+          "specs": "**Type:** Combat gloves with a reinforced right | **Material:** calf leather, steel knuckle plates | **Mass:** 280 g pair",
+          "desc": "The Malatesta school sets the right hand apart — and the glove for it is different. Reinforced along the back, with steel plates from wrist to knuckles. You can block a blade with the palm (once), you can punch a face so the face remembers, you can wear it laced into the sabre's guard. The left is ordinary, thin, for the feel of the grip.",
+          "img": "",
+          "blurb": "Right — steel on the knuckles. Left — for the feel of the grip.",
+          "stats": [
+            ["Class", "Combat gloves"],
+            ["Armour rating", "2 over the right hand, 1 over the left"],
+            ["BT — TR mod.", "+4 punch, +2 blade block"],
+            ["Effect", "palm-block a blade — 1 per fight without damage"],
+            ["Min. requirement", "Malatesta school or equivalent"]
+          ],
+          "vignette": "Once. After that — the school will tell you."
+        },
+        {
+          "name": "Gattonian Full Plate (import from Gatton)",
+          "specs": "**Type:** Full plate harness | **School:** West Gatton | **Coverage:** complete | **Mass:** 22.6 kg",
+          "desc": "Brought from the West. A full plate harness in the Gattonian geometry: a one-piece breastplate, a «forked» shoulder, an elbow on a pin, a faulds skirt. Inside — a thin arming doublet of a cut different from the City's: Gattonian masters sew it themselves and travel to fit it on the wearer. It costs as much as four condottiero's sabres; people wear it to a duel or to the storming of the Wall, and nowhere else. In the City the full plate is found on the Malatesta and on those who studied in the West.",
+          "img": "",
+          "blurb": "The West. Brought, sewn, fitted. Costs four sabres.",
+          "stats": [
+            ["Class", "Full plate (Gattonian)"],
+            ["Armour rating", "6 torso, 5 limbs, 5 head"],
+            ["TR mod.", "−14 (mass, inertia, vision)"],
+            ["Weak points", "joints (neck edge, groin edge)"],
+            ["Cost", "≈ 4× condottiero's sabres"],
+            ["Maintenance", "monthly — a master out of Gatton"],
+            ["Min. requirement", "STR 65, western fighting school"]
+          ],
+          "vignette": "Costs four sabres. Worn where there are fewer of them."
+        },
+        {
+          "name": "Armet helmet",
+          "specs": "**Type:** Fully enclosed helmet with a visor | **School:** Gattonian | **Mass:** 3.6 kg",
+          "desc": "Paired to the full plate. A hemisphere on top, a visor on a pin, a bevor on a forward hinge — it covers the neck, by which everything used to end. Breathing in an armet in summer is a quest of its own; the field of view is a slit the width of a child's finger and two eyeholes. On the other hand — no one knocks your teeth out of an armet. In the City the armet is a signal: «I came from Gatton, I know what I am doing, I can afford it».",
+          "img": "",
+          "blurb": "Breathing in summer — a quest. Teeth — in place.",
+          "stats": [
+            ["Class", "Enclosed helm (Gattonian)"],
+            ["Armour rating", "5 head, 4 neck"],
+            ["TR mod.", "−5 (vision, breathing)"],
+            ["Effect", "immunity to facial tooth-strikes and blunt facial concussions"],
+            ["Min. requirement", "only with an arming cap; STR 50"]
+          ],
+          "vignette": "I came from Gatton. I know what I do. I can pay."
+        },
+        {
+          "name": "Streltsy fur-rim cap (Zarechye)",
+          "specs": "**Type:** Streltsy helmet of Zarechye | **Construction:** bronze hemisphere on a felt cap, fur rim | **Mass:** 1.4 kg",
+          "desc": "Brought from the eastern lands — from Zarechye, where their own Kir rules. A bronze hemisphere, felt outside, felt inside, a fur rim along the lower edge. Worn with a long kaftan, a beard, a pishchal long-gun and a characteristic eastern attitude to life and to death. In the City you see them on the hired streltsy hundreds that sometimes take contracts to guard caravans of the Budat Caliphate. There are few streltsy in the City; even fewer caps.",
+          "img": "",
+          "blurb": "Felt outside, felt inside, fur on the rim. Kaftan, beard, pishchal.",
+          "stats": [
+            ["Class", "Cap helmet (eastern)"],
+            ["Armour rating", "3 head"],
+            ["TR mod.", "−1 (light, familiar)"],
+            ["Status", "recognised as Zarechye — attitude depends on the district"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "In winter there's nothing better. In summer — anything else."
+        },
+        {
+          "name": "Firerubin Power Armour (City Engineers' School)",
+          "specs": "**Type:** Full plate harness with a steam drive | **Furnace:** sealed steel chamber on the back, «firerubin» mineral | **Mass:** 38 kg (with the furnace)",
+          "desc": "An exclusive. Two or three masters in the City make these, and they will not take an order from just anyone. A plate harness with hydraulic linkages in the shoulders and thighs, on the back — a steel furnace the size of a great kettle, into which faceted pieces of the «firerubin» mineral are loaded. The mineral heats up the more tightly the space is sealed; a damper regulates the draught. The heat drives steam through copper tubes, the steam moves pistons, the pistons amplify the muscles. The wearer carries what three normally carry. The price: a constant cracking of the mineral behind the shoulder blades, the risk of fire, and the fact that any breach in the furnace is a burning rubin in the open and area burns.",
+          "img": "",
+          "blurb": "Exclusive. Carries for three. Breach the furnace and it burns like a torch.",
+          "stats": [
+            ["Class", "Power plate (steampunk)"],
+            ["Armour rating", "6 torso, 5 limbs, 4 back (furnace)"],
+            ["TR mod.", "−8 without steam, +6 with the furnace fully drawn (hydraulics assist)"],
+            ["Strength", "+25 on strength checks while the furnace is running"],
+            ["Fuel", "1 «firerubin» piece (≈ a fist) per 4–6 hours"],
+            ["Risk", "furnace breach — d100/30 burns within 2 m, gambeson catches fire"],
+            ["Cost", "≈ the price of a city block"],
+            ["Min. requirement", "STR 60; trained by an Engineers' School master"]
+          ],
+          "vignette": "The cracking behind the shoulder blades is not fear. It is working."
+        }
+      ],
+      "setting": "ВГ"
+    },
+    {
+      "title": "FIREARMS & POLEARMS",
+      "items": [
+        {
+          "name": "Shopkeeper's Blunderbuss",
+          "specs": "**Type:** Short muzzle-loading blunderbuss | **Calibre:** ≈ 18 mm | **Load:** shot, grapeshot, sometimes a ball | **Mass:** 3.2 kg",
+          "desc": "What hangs above the counter of every second shop. A short barrel flared at the muzzle, a sidelock — flintlock or percussion, however it came. Loaded with whatever is at hand: shot, grapeshot, sometimes nuts and offcuts of nails. Accuracy — at a stride. But one shot can meet three night visitors at once, which matters more to the shopkeeper than accuracy. Reloading is slow and ritual: brush down the bore, measure the powder, tamp the wad, pour the shot, another wad.",
+          "img": "",
+          "blurb": "Accurate at a stride. Generous to three. Reloading — a ritual.",
+          "stats": [
+            ["Class", "Blunderbuss (short)"],
+            ["Damage", "d100/8+4 in a 30° cone up to 5 m · d100/30+1 beyond"],
+            ["Penetration", "35 at point-blank; falls with distance"],
+            ["BT — TR mod.", "+10 point-blank, −15 beyond 5 m"],
+            ["AP fire / reload", "3 / 14 (ritual)"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "Above the counter. Under the pillow. By the door. Just in case."
+        },
+        {
+          "name": "Zarechye Pishchal",
+          "specs": "**Type:** Long-barrel muzzle-loading musket | **Calibre:** ≈ 16 mm | **Lock:** matchlock or percussion | **Mass:** 5.6 kg",
+          "desc": "Brought from Zarechye, sometimes together with the streltsy themselves. Long barrel, heavy stock, a forked rest for shooting off the wall. Hits far and hard; in a skilled hand it knocks a horseman off the saddle at twenty paces through mail. Drawbacks: mass, length, slow reload and the fact that in rain the pishchal is silent. In the City they put it on the wall and trust the seasonally hired streltsy with it, not their own — the City men's traditions are different.",
+          "img": "",
+          "blurb": "From the wall — drops a horseman at twenty paces through mail.",
+          "stats": [
+            ["Class", "Long musket (streletsky)"],
+            ["Damage", "d100/6+4 ball"],
+            ["Penetration", "55"],
+            ["BT — TR mod.", "+8 with the rest, −10 freehand"],
+            ["AP fire / reload", "4 / 18"],
+            ["Effective range", "60 m"],
+            ["Min. requirement", "STR 50; silent in the rain"]
+          ],
+          "vignette": "In the rain — silent. In dry weather — visible at thirty paces."
+        },
+        {
+          "name": "Streletsky Berdysh",
+          "specs": "**Type:** Streltsy crescent polearm | **Length:** 1.5 m | **Blade:** 60 cm crescent | **Mass:** 3.8 kg",
+          "desc": "Paired to the pishchal. On the march — over the shoulder, in the line — its butt as a rest under the pishchal, in close — a polearm. The blade is a wide crescent, the edge wider than the haft itself; it cuts, slices, catches the upper rim of a shield and pulls it down. To the strelets it is both a shooter's rest and a second weapon for the case when the powder is gone, the shooter is gone, or everything is gone.",
+          "img": "",
+          "blurb": "Both a rest and an axe. For when everything has run out.",
+          "stats": [
+            ["Class", "Crescent polearm"],
+            ["Damage", "d100/7+4 cutting"],
+            ["Penetration", "55"],
+            ["BT — TR mod.", "+5 in line, −5 in tight space"],
+            ["Effect", "+10 to pull-down/disarm shield"],
+            ["Min. requirement", "STR 50"]
+          ],
+          "vignette": "Over the shoulder — an axe. Under the stock — the same one."
+        },
+        {
+          "name": "City Militia Arquebus",
+          "specs": "**Type:** Medium muzzle-loading musket | **Calibre:** ≈ 14 mm | **Lock:** percussion | **Mass:** 4.4 kg",
+          "desc": "The City militia's standard. Shorter than a pishchal, simpler than a blunderbuss, loads strictly by the regulation, fires quietly but hurts. The arquebus is issued to everyone called up for a month of defence; those who kept it after service have it hanging on the wall as a promise. In families they say that in a true crisis the arquebus comes off the wall even at grandmother's hand, and that is not a joke.",
+          "img": "",
+          "blurb": "Militia standard. After service it hangs on the wall as a promise.",
+          "stats": [
+            ["Class", "Muzzle-loading musket (medium)"],
+            ["Damage", "d100/8+3 ball"],
+            ["Penetration", "45"],
+            ["BT — TR mod.", "+4 (familiar, well-balanced)"],
+            ["AP fire / reload", "3 / 14"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "Grandmothers will take it off the wall. And that is not a joke."
+        },
+        {
+          "name": "Engineer's Revolver (break-open, swappable cylinders)",
+          "specs": "**Type:** Six-shot revolver, heavy calibre | **Calibre:** ≈ 14 mm | **Load:** black powder + integrated caps | **Special:** break-open frame, swappable cylinders | **Mass:** 1.8 kg (frame) + 600 g (cylinder)",
+          "desc": "A wonder of the City Engineers' School and the reason one books an appointment with Master Celeste two years in advance. The revolver is break-open — the frame breaks at the middle, like a Smith & Wesson; the cylinder comes out whole and is replaced by a spare. In this system the cylinder is the cartridge: six chambers already loaded with powder and ball, percussion caps integrated into the chambers on the hammer side. Reloading in combat = pull the empty cylinder out, slot in a new one, snap the frame shut. Three seconds against the blunderbuss ritual. The price: black powder (after the first shot it can be seen from the next district), cost (one revolver buys a condottiero's sabre and half a cuirass), and rarity — two masters, two hundred customers.",
+          "img": "",
+          "blurb": "The cylinder is the cartridge. Six shots, swap, snap, six more.",
+          "stats": [
+            ["Class", "Revolver (break-open, engineer)"],
+            ["Damage", "d100/5+5 heavy calibre"],
+            ["Penetration", "60"],
+            ["BT — TR mod.", "+5 point-blank, +2 out to 15 m"],
+            ["Loadout", "1 cylinder (6 chambers) + 2–3 spares in the holster set"],
+            ["AP fire / swap / re-load cylinder", "3 / 4 / 18 (out of combat)"],
+            ["Note", "first shot — black powder cloud, −10 stealth for 30 s"],
+            ["Cost", "≈ sabre + half a cuirass"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "Six. Break. New cylinder. Six. The smell of soot lingers for an hour."
+        }
+      ],
+      "setting": "ВГ"
+    },
+    {
+      "title": "RELICS & ARTEFACTS",
+      "items": [
+        {
+          "name": "Seal of House Orsini",
+          "specs": "**Type:** Wax seal of the House head | **Material:** silver, bone | **Mass:** 80 g",
+          "desc": "A small object that weighs more than it looks. The seal is worn on a chain at the belt or the neck; it closes envelopes, contracts and sentences. To forge it is — theoretically — possible, but in the City a forged seal is recognised by the smell of the wax and the angle of the imprint. The bearer of the seal is the voice of the House; what he says, the House has said. To take the seal off one's own neck in life is either the handover of power or treason.",
+          "img": "",
+          "blurb": "The bearer of the seal is the voice of the House. To take it off in life — power transferred or treason.",
+          "stats": [
+            ["Class", "House relic"],
+            ["Effect", "imprint identifies the House and the order"],
+            ["Social", "+30 TR in negotiations with a genuine seal"],
+            ["Risk", "theft of the seal — cause for a war of Houses"],
+            ["Min. requirement", "House head or regent"]
+          ],
+          "vignette": "The House's voice rests in the fist. And weighs more than anything the fist has held."
+        },
+        {
+          "name": "Reliquary with Founder's Ash",
+          "specs": "**Type:** Wearable locket-box | **Material:** blackened silver | **Mass:** 140 g",
+          "desc": "Inside — a pinch of ash. Whose, exactly — every House has its own version, and one does not cross-check. The reliquary is opened rarely, mostly before a fight — pressed to the forehead, addressed, closed. Whether it helps — no one can prove, but among those who opened the reliquary before a good fight, statistically there are fewer losers. Perhaps because the losers don't go into the fight at all.",
+          "img": "",
+          "blurb": "Opened before a fight. Whether it helps — no one can prove.",
+          "stats": [
+            ["Class", "Relic (personal)"],
+            ["Effect", "+5 TR on one action/fight when opened"],
+            ["Limit", "no more than once per day"],
+            ["Social", "respect within the House circle"],
+            ["Min. requirement", "House inheritance or gifted reliquary"]
+          ],
+          "vignette": "Some of those it didn't help — were never in the fight."
+        },
+        {
+          "name": "Borghese's Silver Mirror",
+          "specs": "**Type:** Pocket mirror in a silver frame | **Diameter:** 70 mm | **Mass:** 95 g",
+          "desc": "At a glance — an ordinary pocket mirror of the kind any lady of a decent House carries on a chain. But this is silver, and silver in the City is not worn for no reason. In the reflection of such a mirror one sometimes sees what is not in the room: a shadow behind the back, a figure by the door, the one who has just left and thought he left no trace. Borghese are taught these mirrors from childhood; a stranger who glances into one will, at best, see nothing.",
+          "img": "",
+          "blurb": "Sometimes shows what is not in the room.",
+          "stats": [
+            ["Class", "Artefact-focus (sight)"],
+            ["Effect", "detection of the hidden / Other presence in reflection"],
+            ["Range", "up to 5 m from the mirror, along the line of reflection"],
+            ["Cost", "1 AP per use, AGL check to read it"],
+            ["Min. requirement", "House training or equivalent"]
+          ],
+          "vignette": "Silver is not worn for nothing in the City. The mirror knows."
+        },
+        {
+          "name": "Chain of Forebears",
+          "specs": "**Type:** Wearable chain with pendants | **Material:** silver, bronze, bone | **Mass:** 220–340 g",
+          "desc": "A chain to which a single link is added for every forebear whose name is remembered. Some carry three links; the Sforza — by rumour — twenty-four. The chain is not magic in the ordinary sense; it is memory, and in the City memory is counted as power. Worn against the skin, under the shirt, never shown. If the chain is torn from the neck, the House goes to take revenge regardless of who the bearer was, how exactly he was killed, and whether he deserved it.",
+          "img": "",
+          "blurb": "A link per forebear. If it is torn off — the House goes to take revenge.",
+          "stats": [
+            ["Class", "Artefact (family)"],
+            ["Effect", "+3 TR on will checks while worn"],
+            ["Social", "House identification by the distinctive link work"],
+            ["Risk", "loss/tearing — blood insult to the House"],
+            ["Min. requirement", "birth into or adoption by a House"]
+          ],
+          "vignette": "Memory is power. The chain is the weight of memory."
+        }
+      ],
+      "setting": "ВГ"
+    },
+    {
+      "title": "TRADE & SHOP",
+      "items": [
+        {
+          "name": "Merchant's Scales",
+          "specs": "**Type:** Equal-arm balance scales with weights | **Material:** copper, brass, bone, leather case | **Accuracy:** to 0.2 g | **Mass (set):** 1.8 kg",
+          "desc": "Professional scales — two polished copper pans on a yoke, a thin tongue-pointer over the scale, a set of weights in a velvet socket. A respectable merchant keeps the scales out on the counter; a dishonest one keeps them in the back room in two pairs. Each weight bears the city steward's stamp — so a forgery is caught in one verification weighing. Doctored scales are a separate charge and a quick judgement.",
+          "img": "",
+          "blurb": "Honest puts on the counter. Dishonest keeps two pairs.",
+          "stats": [
+            ["Class", "Trade instrument"],
+            ["Accuracy", "0.2 g (with stamped weights)"],
+            ["Social", "+10 TR on trade checks with stamped scales"],
+            ["Risk", "forgery — steward's court, fine ×10 of shop turnover"],
+            ["Min. requirement", "merchant patent or steward's permit"]
+          ],
+          "vignette": "The pointer dipped. The merchant did not. The buyer saw both."
+        },
+        {
+          "name": "Counting Abacus",
+          "specs": "**Type:** Wooden counting frame with bead-rails | **Size:** 32 × 18 cm | **Beads:** 70 (ten rows of seven) | **Mass:** 0.9 kg",
+          "desc": "On the counter, on the scribe's table, on the caravan steward's shelf — the abacus works where money works. Cherry-wood beads, oak frame, brass corners. An old abacus carries a black notch on one bead: the counter remembers that exactly this one once lied to him. In the City every merchant has his own counting dialect — chequer, row, his own — and at the abacus usually sits not the merchant himself but his senior clerk with twenty years and two pairs of spectacles.",
+          "img": "",
+          "blurb": "Where money works, it works. Every merchant counts his own way.",
+          "stats": [
+            ["Class", "Counting instrument"],
+            ["Effect", "+15 TR on profit-counting; −20 TR for an auditor without his own abacus"],
+            ["Speed", "8–12 operations/min with an experienced clerk"],
+            ["Min. requirement", "knowledge of count; dialect — every school its own"]
+          ],
+          "vignette": "A black notch on the third bead. The counter remembers."
+        },
+        {
+          "name": "Stamped Weights Set",
+          "specs": "**Type:** City trade-weight set | **Material:** bronze | **Denominations:** 1 / 2 / 5 / 10 / 20 / 50 / 100 / 200 / 500 g | **Mass (set):** 0.9 kg",
+          "desc": "Nine bronze weights in a velvet socket, each bearing the city steward's stamp and its own serial number struck on the side. A merchant with even one unstamped weight cannot trade in the City — his patent is pulled at the first check. The set itself costs a week's turnover of a good shop; losing a weight is a major trouble; finding someone else's and not returning it is the shortest path to a bad conversation.",
+          "img": "",
+          "blurb": "Without the stamp — patent pulled. Find someone else's and don't return it — a bad talk.",
+          "stats": [
+            ["Class", "Trade weights (city stamped)"],
+            ["Accuracy", "stamp certifies 0.05 g"],
+            ["Social", "mandatory for trade patent"],
+            ["Cost", "≈ a week's turnover of a medium shop"],
+            ["Min. requirement", "merchant patent"]
+          ],
+          "vignette": "Nine of them weigh more than the merchant. And cost more."
+        },
+        {
+          "name": "Workshop Stamp",
+          "specs": "**Type:** Hot-and-cold marking stamp | **Material:** hardened steel, copper sleeve, wooden handle | **Mass:** 280 g",
+          "desc": "A small steel stamp — the workshop's mark and the year. Struck on iron to oxide, pressed into wax, driven into sealing-wax. A master guards his stamp like his own name: forging another's stamp in the City is the charge of «insult to the craft», for which the fine is such that sometimes it is cheaper to burn down the workshop and leave. On some stamps the back side carries a hidden micro-hole, only readable under a lens; that is how an original is told from a copy.",
+          "img": "",
+          "blurb": "Forging another's stamp — charge «insult to the craft». Fine such that leaving is cheaper.",
+          "stats": [
+            ["Class", "Workshop stamp"],
+            ["Effect", "identifies the article — master, year, series"],
+            ["Social", "+20 TR on «this is my workshop's work» checks"],
+            ["Defence", "hidden micro-mark — a copy reads under a lens"],
+            ["Min. requirement", "guild patent for the workshop"]
+          ],
+          "vignette": "The lens will tell. The steward will judge."
+        },
+        {
+          "name": "Multi-coin Casket",
+          "specs": "**Type:** Merchant's casket for varied coinage | **Material:** stained oak, brass corners, four compartments with lids | **Mass (empty):** 0.7 kg",
+          "desc": "Four coins of the main Houses circulate in the City, plus the Zarechye hryvenak, plus the Budat dinar-crescent for travellers, plus the Gatton florin for guests. The casket sorts them into compartments, each for its coin, with its own lid and its own catch. An experienced merchant opens the right compartment by touch without looking at the customer — because looking at the customer is forbidden, the customer would then understand the price.",
+          "img": "",
+          "blurb": "Four compartments, four catches. And you don't look at the customer.",
+          "stats": [
+            ["Class", "Cash storage"],
+            ["Capacity", "≈ 200 coins per compartment, 4 compartments"],
+            ["Effect", "+5 TR on speed of change in foreign coin"],
+            ["Risk", "break-in — standard lock (AGL 35 for an expert)"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "Look at the customer — and the customer understands the price."
+        }
+      ],
+      "setting": "ВГ"
+    },
+    {
+      "title": "STATIONERY & WRITING",
+      "items": [
+        {
+          "name": "Quill and Inkwell",
+          "specs": "**Type:** Goose quill, horn inkwell, pen-knife | **Ink:** lampblack on oak-gall with gum arabic | **Mass (set):** 280 g",
+          "desc": "The City's basic set. The goose quill is cut for the left or the right hand with a separate pen-knife; the horn inkwell is carried on the belt, stopped with a cork plug and a leather cap. «Oakgall» ink dries in half an hour and then no water lifts it — what is written stays. A good scribe can lift a blot with hot water and salt, but a blot where there is a contract is always grounds for suspicion.",
+          "img": "",
+          "blurb": "What is written, stays. A blot in a contract — always grounds.",
+          "stats": [
+            ["Class", "Stationery set (basic)"],
+            ["Effect", "permits formal record-keeping"],
+            ["Note", "the quill is cut for left/right hand — personal"],
+            ["Use", "one fill ≈ 4–6 sheets of fine writing"],
+            ["Min. requirement", "literacy"]
+          ],
+          "vignette": "Half an hour to dry. Forever to remember."
+        },
+        {
+          "name": "Writing Stick (Budat Caliphate)",
+          "specs": "**Type:** Exotic writing tool from the Budat Caliphate | **Construction:** half-fired clay sleeve, natural mineral crystal core | **Length:** 14 cm | **Mass:** 22 g",
+          "desc": "Brought from the East, expensive. In construction — like a pencil, except the sleeve is not of wood but of a particular half-fired clay, thin and matte. Inside — not «lead», but a natural mineral that in the Caliphate grows in semi-transparent druses resembling quartz; the crystal from these druses writes in a fine black line and wears down by itself, like chalk. As it wears, the sleeve is broken with the fingers — the clay crumbles along a transverse score, and the crystal advances. The stick needs no ink, fears no jolt, and does not smudge on the move. City scribes complain about the price; city topographers and engineers do not — without the stick the chart will not work.",
+          "img": "",
+          "blurb": "A pencil before pencils. Sleeve — fired clay; lead — a quartz-like mineral.",
+          "stats": [
+            ["Class", "Exotic writing tool (Budat)"],
+            ["Effect", "+10 TR on draughting/field notes (does not smudge)"],
+            ["Use", "≈ 8–10 score-snaps to exhaust the crystal"],
+            ["Cost", "≈ 6× quill+inkwell; available from Budat traders"],
+            ["Note", "resists jolt, rain, frost"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "The chart will not smudge. The topographer sleeps better. The merchant — no."
+        },
+        {
+          "name": "Wax Tablets and Stylus",
+          "specs": "**Type:** Wooden diptych tablet with a wax field + bronze stylus | **Size:** 18 × 12 cm diptych, 14 cm stylus | **Mass:** 220 g",
+          "desc": "An old Roman habit that still lives in the City. Two hinged boards; the inner side filled with wax; you write with the sharp end of the stylus and erase with the flat end. Made a draft — wiped it with the palm, warmed it over a candle, and the field is clean again. Tablets are carried to school, to the forum, to the market — everything that does not need to be kept forever is written on them. They save the parchment, save the ink, save the nerves of whoever has to read your blot later.",
+          "img": "",
+          "blurb": "Made a draft, wiped, warmed. The field is clean again.",
+          "stats": [
+            ["Class", "Reusable writing"],
+            ["Effect", "drafts, school exercises, one-minute sums"],
+            ["Note", "wax field is renewed by candle warmth"],
+            ["Durability", "1 diptych ≈ 2–3 years of active use"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "Anything not on parchment — not forever."
+        },
+        {
+          "name": "Roll of Clean Parchment",
+          "specs": "**Type:** Calfskin parchment, roll form | **Size:** 30 cm × 4 m (standard «contract» roll) | **Grade:** I (full scrape, both sides) | **Mass:** 380 g",
+          "desc": "Carried in a leather tube with a brass cap and a wax seal on the throat. Grade I parchment is calfskin scraped on both sides to a semi-translucent softness, without capillary pinholes and without grease stains. A contract written on such parchment will survive three generations, two wars and one fire: parchment dries but does not crumble, and reads even after a soaking. Bought from the tanners' guild on pre-order; grades II and III are cheaper but for a serious contract they will not be taken — the steward will refuse.",
+          "img": "",
+          "blurb": "Survives three generations. Two wars. One fire.",
+          "stats": [
+            ["Class", "Document medium (parchment)"],
+            ["Longevity", "≥ 100 years in archive conditions"],
+            ["Effect", "legal force — main contract medium"],
+            ["Grade", "I (two-sided), II (one side), III (rough, school)"],
+            ["Cost", "I — expensive; II — fair; III — copper"],
+            ["Min. requirement", "none"]
+          ],
+          "vignette": "Dries. Does not crumble. Remembers."
+        },
+        {
+          "name": "Ink Stick and Brush (eastern set)",
+          "specs": "**Type:** Black stick ink, ink-stone, soft-hair brush | **Supplier:** Budat Caliphate | **Mass:** 180 g",
+          "desc": "Brought from the East together with the writing stick. The ink — a solid stick of resin-and-lampblack — is rubbed with water in a stone hollow. The brush is thin, of soft hair, and holds a line from hairlike to half-centimetre. Eastern scribes and the City's calligraphers work with this set: they sign ceremonial charters, draw flourishes, keep the Houses' ceremonial registers. In business correspondence ink is not used — it does not dry as fast as «oakgall», and in haste it blots.",
+          "img": "",
+          "blurb": "Ceremonial charters, flourishes. In haste it blots; business doesn't use it.",
+          "stats": [
+            ["Class", "Eastern calligraphy"],
+            ["Effect", "+15 TR on ceremonial/decorative records"],
+            ["Note", "dries in 1–2 minutes — unfit for business correspondence"],
+            ["Use", "one stick ≈ 200 sheets of ceremonial writing"],
+            ["Min. requirement", "calligraphy training (East)"]
+          ],
+          "vignette": "Oakgall for the grandfather. Ink for the grandson."
+        }
+      ],
+      "setting": "ВГ"
+    }
+  ]
+}

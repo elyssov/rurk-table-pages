@@ -1,0 +1,4455 @@
+{
+  "categories": [
+    {
+      "title": "SÚNG NGẮN",
+      "items": [
+        {
+          "name": "GSh-18",
+          "specs": "**Тип:** Самозарядный пистолет (табельный ОРПП) | **Калибр:** 9×19 Para / 9×19 7Н31 | **Магазин:** 18 | **Масса:** 580 г со снаряжённым магазином | **Длина:** 184 мм | **Прицельная дальность:** 50 м",
+          "desc": "Pistol phục vụ tiêu chuẩn ORPP. Nhẹ, đáng tin, rotary-barrel locking — khung polymer, slide thép dập. Mười tám viên trong magazine — gần như SMG nhỏ. Đạn xuyên giáp 7N31 phá Class III ở 50m.",
+          "img": "gsh-18.jpg",
+          "blurb": "Pistol phục vụ ORPP. Mười tám viên — gần như SMG nhỏ.",
+          "stats": [
+            [
+              "Class",
+              "Pistol bán tự"
+            ],
+            [
+              "Magazine",
+              "18 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 (9×19) · K100/13+3 (7N31)"
+            ],
+            [
+              "Xuyên giáp",
+              "40 · 60 (xuyên giáp 7N31)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+8 (xử lý và trọng lượng lý tưởng)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "PYa (Yarygin)",
+          "specs": "**Тип:** Самозарядный пистолет | **Калибр:** 9×19 / 9×21 СП-10 | **Магазин:** 17 | **Масса:** 950 г | **Длина:** 198 мм",
+          "desc": "Pistol dự bị Quân đội Nga; trong ORPP làm backup. Nặng hơn GSh-18, nhạy bẩn hơn. Đạn 9×21 SP-10 xuyên giáp tốt chống áo dân sự hiện đại.",
+          "img": "pya_grach.jpg",
+          "blurb": "Pistol dự bị quân đội. Nặng hơn GSh-18, nhạy bẩn.",
+          "stats": [
+            [
+              "Class",
+              "Pistol bán tự"
+            ],
+            [
+              "Magazine",
+              "17 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 (9×19) · K100/13+3 (9×21 SP-10)"
+            ],
+            [
+              "Xuyên giáp",
+              "40 · 55 (armour-piercing SP-10)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+2 (layout cổ điển)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "SR-1 «Gyurza»",
+          "specs": "**Тип:** Самозарядный пистолет (спецназ) | **Калибр:** 9×21 СП-10/СП-11 | **Магазин:** 18 | **Масса:** 1.0 кг | **Длина:** 200 мм",
+          "desc": "Pistol chiến đấu FSB và SiB đặc nhiệm. Xuyên kevlar ở 50m, tấm Class IV ở 15m. Trên chợ đen giá bằng xe cũ.",
+          "img": "sr-1_gyurza.jpg",
+          "blurb": "Pistol chiến đấu đặc nhiệm. Xuyên kevlar ở 50m.",
+          "stats": [
+            [
+              "Class",
+              "Pistol bán tự (special forces)"
+            ],
+            [
+              "Magazine",
+              "18 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 (9×21 SP-10) · K100/13+3 (SP-11)"
+            ],
+            [
+              "Xuyên giáp",
+              "55 · 70 (SP-11, Class IV at 15 m)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+6 (powerful viên, refined ergonomics)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "PM (Makarov)",
+          "specs": "**Тип:** Самозарядный пистолет | **Калибр:** 9×18 ПМ | **Магазин:** 8 | **Масса:** 810 г | **Длина:** 161 мм",
+          "desc": "Cổ điển 1951. Không dùng trong ORPP (đạn yếu, không qua áo giáp), nhưng có ở gangster lối cũ, chợ dân sự, cảnh sát huyện về hưu.",
+          "img": "pm_makarov.png",
+          "blurb": "Cổ điển 1951. Đạn yếu, tay cầm mòn.",
+          "stats": [
+            [
+              "Class",
+              "Pistol bán tự"
+            ],
+            [
+              "Magazine",
+              "8 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/20+1 (9×18 PM)"
+            ],
+            [
+              "Xuyên giáp",
+              "25 (a vest stops it)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "−5 (shoddy handling, worn-out fleet)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Glock 17 / 19",
+          "specs": "**Тип:** Самозарядный пистолет (импорт) | **Калибр:** 9×19 Para | **Магазин:** 17 / 15 | **Масса:** 905 / 805 г | **Длина:** 204 / 187 мм",
+          "desc": "Cổ điển Áo — «cục gạch» nhựa không safety, đáng tin như đá. 17 là full-size, 19 là compact.",
+          "img": "glock17.jpg",
+          "blurb": "Cục gạch nhựa Áo. Đáng tin như đá.",
+          "stats": [
+            [
+              "Class",
+              "Pistol bán tự (import)"
+            ],
+            [
+              "Magazine",
+              "17 / 15 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 (9×19)"
+            ],
+            [
+              "Xuyên giáp",
+              "40"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+5 (ergonomic xuất sắc, trọng lượng thấp)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "CZ-75",
+          "specs": "**Тип:** Самозарядный пистолет | **Калибр:** 9×19 Para | **Магазин:** 16 | **Масса:** 1.0 кг | **Длина:** 206 мм",
+          "desc": "Tác phẩm Séc — to lớn, chính xác, ergonomic như nắm đấm nhà điêu khắc. Phổ biến Đông Âu và Balkans, ở Moscow ít thấy.",
+          "img": "cz-75.png",
+          "blurb": "Tác phẩm Séc cho người sành — nặng, chính xác.",
+          "stats": [
+            [
+              "Class",
+              "Pistol bán tự"
+            ],
+            [
+              "Magazine",
+              "16 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 (9×19)"
+            ],
+            [
+              "Xuyên giáp",
+              "40"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+4 (accurate, but a touch heavy)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "APS (Stechkin)",
+          "specs": "**Тип:** Самозарядный/автоматический пистолет | **Калибр:** 9×18 ПМ | **Магазин:** 20 | **Масса:** 1.22 кг (без кобуры) / 1.78 кг (с кобурой-прикладом) | **Длина:** 225 мм | **Скорострельность:** 750 в/мин",
+          "desc": "Artefact 1951, vẫn phục vụ làm pistol chỉ huy. Bắn loạt (nòng leo trong hai giây) nhưng làm pistol bắn đơn chính xác. Với stock-holster gỗ — SMG túi nhỏ.",
+          "img": "aps_stechkin.jpg",
+          "blurb": "Artefact 1951. Với stock-holster gỗ — SMG túi.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto / tự động pistol"
+            ],
+            [
+              "Magazine",
+              "20 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/20+1 (9×18 PM)"
+            ],
+            [
+              "Xuyên giáp",
+              "28"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+1 single · −10 burst (muzzle climbs)"
+            ],
+            [
+              "Tốc độ bắn",
+              "single / auto 750 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "burst without penalty — STR 45+"
+            ]
+          ]
+        },
+        {
+          "name": "Desert Eagle .50 AE",
+          "specs": "**Тип:** Самозарядный пистолет (импорт) | **Калибр:** .50 AE / .44 Magnum | **Магазин:** 7 | **Масса:** 2.0 кг | **Длина:** 273 мм",
+          "desc": "Pistol Hollywood. Nặng như bàn ủi, với giật nghĩa cổ tay xạ thủ trung bình ngừng hoạt động sau phát ba. Trên trúng, viên .50 AE làm điều với cơ thể không ai muốn xem.",
+          "img": "deserteagle.jpg",
+          "blurb": "Pistol Hollywood. Tay-pháo khốn nạn, nặng như bàn ủi.",
+          "stats": [
+            [
+              "Class",
+              "Pistol bán tự (import)"
+            ],
+            [
+              "Magazine",
+              "7 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/7+4 (.50 AE) · K100/9+3 (.44 Magnum)"
+            ],
+            [
+              "Xuyên giáp",
+              "55"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "−12 (monstrous recoil)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 65. Below — ZPN ×0.5: after the third phát the wrist gives"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "TIỂU LIÊN",
+      "items": [
+        {
+          "name": "PP «Vityaz-SN»",
+          "specs": "**Тип:** Пистолет-пулемёт | **Калибр:** 9×19 Para / 7Н31 | **Магазин:** 30 | **Масса:** 2.9 кг | **Длина:** 460/698 мм | **Скорострельность:** 750 в/мин",
+          "desc": "SMG phục vụ ORPP. Dựa trên AKS-74U: cùng cơ chế, cùng điều khiển, chỉ chambered 9×19. Đơn giản như gạch, ăn mọi thứ. Kit chuẩn cho operations group.",
+          "img": "vityaz-sn.jpg",
+          "blurb": "SMG phục vụ. Hình AK, đơn giản như gạch, ăn mọi thứ.",
+          "stats": [
+            [
+              "Class",
+              "Súng tiểu liên"
+            ],
+            [
+              "Magazine",
+              "30 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 (9×19) · K100/13+3 (7N31)"
+            ],
+            [
+              "Xuyên giáp",
+              "40 · 60 (7N31)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+6 (reliable, simple, familiar)"
+            ],
+            [
+              "Tốc độ bắn",
+              "750 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "SR-2M «Veresk»",
+          "specs": "**Тип:** Пистолет-пулемёт | **Калибр:** 9×21 СП-10 | **Магазин:** 20 | **Масса:** 2.3 кг | **Длина:** 367/603 мм | **Скорострельность:** 900 в/мин",
+          "desc": "SMG đặc biệt FSB và SiB. Thiết kế cho SP-10 xuyên giáp 9×21 — xuyên Class III ở 20m. Nhẹ, cân bằng, với flip-up sight.",
+          "img": "sr-2m_veresk.jpg",
+          "blurb": "SMG đặc biệt FSB/SiB. Xuyên áo giáp với SP-10.",
+          "stats": [
+            [
+              "Class",
+              "Súng tiểu liên"
+            ],
+            [
+              "Magazine",
+              "20 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 (9×21 SP-10)"
+            ],
+            [
+              "Xuyên giáp",
+              "70 (Class III to 100 m)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+7 (compact, balanced)"
+            ],
+            [
+              "Tốc độ bắn",
+              "900 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "PP-2000",
+          "specs": "**Тип:** Пистолет-пулемёт | **Калибр:** 9×19 / 7Н31 | **Магазин:** 20/44 | **Масса:** 1.4 кг | **Длина:** 340/582 мм | **Скорострельность:** 600 в/мин",
+          "desc": "PDW nhỏ gọn — vũ khí phòng vệ cá nhân theo học thuyết KBP. Nhẹ, chính xác, không phần lồi trên receiver, làm cho làm việc trong nhà chật.",
+          "img": "pp-2000.jpg",
+          "blurb": "PDW nhỏ gọn. Nhẹ, chính xác, làm cho CQB.",
+          "stats": [
+            [
+              "Class",
+              "Súng tiểu liên"
+            ],
+            [
+              "Magazine",
+              "20 / 44 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 (9×19) · K100/13+3 (7N31)"
+            ],
+            [
+              "Xuyên giáp",
+              "40 · 60 (7N31)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+5 (comfortable, light)"
+            ],
+            [
+              "Tốc độ bắn",
+              "600 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "MP5",
+          "specs": "**Тип:** Пистолет-пулемёт (импорт) | **Калибр:** 9×19 Para | **Магазин:** 30 | **Масса:** 2.5 кг | **Длина:** 490/660 мм | **Скорострельность:** 800 в/мин",
+          "desc": "Heckler & Koch. SMG 9×19 mượt nhất từng làm. Cơ chế roller-locked gần như không có nòng leo trên loạt — ba viên trúng cùng chỗ. Khó bảo dưỡng, đắt phụ tùng.",
+          "img": "mp5.jpg",
+          "blurb": "Huyền thoại. Heckler & Koch. SMG 9×19 mượt nhất từng làm.",
+          "stats": [
+            [
+              "Class",
+              "Súng tiểu liên (import)"
+            ],
+            [
+              "Magazine",
+              "30 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 (9×19)"
+            ],
+            [
+              "Xuyên giáp",
+              "40"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+9 (ergonomic tham khảo)"
+            ],
+            [
+              "Tốc độ bắn",
+              "800 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Bizon PP-19",
+          "specs": "**Тип:** Пистолет-пулемёт | **Калибр:** 9×18 ПМ | **Магазин:** 64 (шнековый) | **Масса:** 2.7 кг | **Длина:** 660 мм | **Скорострельность:** 700 в/мин",
+          "desc": "Magazine xoắn cho 64 viên. Trông như SMG mang xì gà khổng lồ dưới nòng. Hữu ích cho xông một — đủ đạn cho cả cuộc bắn nhau và nửa nữa.",
+          "img": "pp-19_bizon.jpg",
+          "blurb": "Magazine xoắn cho 64 viên. Nhét như xì gà khổng lồ.",
+          "stats": [
+            [
+              "Class",
+              "Súng tiểu liên"
+            ],
+            [
+              "Magazine",
+              "64 viên (helical)"
+            ],
+            [
+              "Sát thương",
+              "K100/20+1 (9×18 PM)"
+            ],
+            [
+              "Xuyên giáp",
+              "28"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+1 (low penetration, mediocre accuracy)"
+            ],
+            [
+              "Tốc độ bắn",
+              "700 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 5"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Kedr PP-91",
+          "specs": "**Тип:** Пистолет-пулемёт | **Калибр:** 9×18 ПМ | **Магазин:** 20/30 | **Масса:** 1.6 кг | **Длина:** 305/540 мм | **Скорострельность:** 1000 в/мин",
+          "desc": "Nhỏ, nhẹ, làm cho đạn 9×18 PM yếu — lựa chọn vệ sĩ và cảnh sát tỉnh. Trong ORPP gần như không thấy: xuyên yếu, không qua áo giáp.",
+          "img": "pp-91_kedr.jpg",
+          "blurb": "Nhỏ, nhẹ, đạn yếu — lựa chọn vệ sĩ và cảnh sát tỉnh.",
+          "stats": [
+            [
+              "Class",
+              "Súng tiểu liên"
+            ],
+            [
+              "Magazine",
+              "20 / 30 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/20+1 (9×18 PM)"
+            ],
+            [
+              "Xuyên giáp",
+              "28"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "−3 (groups tightly only point-blank)"
+            ],
+            [
+              "Tốc độ bắn",
+              "1000 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "ШТУРМОВЫЕ ВИНТОВКИ И АВТОМАТЫ",
+      "items": [
+        {
+          "name": "AK-74M",
+          "specs": "**Тип:** Штурмовая винтовка | **Калибр:** 5.45×39 | **Магазин:** 30/45 | **Масса:** 4.2 кг с примкнутым магазином | **Длина:** 705/943 мм | **Скорострельность:** 600 в/мин",
+          "desc": "Trụ cột Quân đội Nga. AK-74M nghĩa «hiện đại hóa»: stock gập, polymer furniture, mounts trên receiver. Đáng tin đến mức tục: bắn sau bơi trong đầm, cát, rơi từ trực thăng.",
+          "img": "ak-74m.jpg",
+          "blurb": "Ngựa kéo Quân đội Nga. Sẽ kẹt trong vũ trụ, nhưng chỉ trong vũ trụ.",
+          "stats": [
+            [
+              "Class",
+              "Súng trường tấn công"
+            ],
+            [
+              "Magazine",
+              "30 / 45 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 (5.45×39)"
+            ],
+            [
+              "Xuyên giáp",
+              "70"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+3 (reliability over precision)"
+            ],
+            [
+              "Tốc độ bắn",
+              "600 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "AK-12",
+          "specs": "**Тип:** Штурмовая винтовка | **Калибр:** 5.45×39 | **Магазин:** 30/60/95 | **Масса:** 3.5 кг | **Длина:** 730/940 мм | **Скорострельность:** 700 в/мин",
+          "desc": "Kalashnikov thế hệ mới. Cùng cơ chế rotating-bolt đáng tin, ergonomic mới — Picatinny trên, safety hai vị trí, stock điều chỉnh. Issued cho đặc vụ retrained gần đây.",
+          "img": "ak-12.jpg",
+          "blurb": "AK thế hệ mới. Ergonomic tốt hơn, cùng cơ chế không phá.",
+          "stats": [
+            [
+              "Class",
+              "Súng trường tấn công"
+            ],
+            [
+              "Magazine",
+              "30 / 60 / 95 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 (5.45×39)"
+            ],
+            [
+              "Xuyên giáp",
+              "70"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+6 (stock điều chỉnh, rails, tay cầm ergonomic)"
+            ],
+            [
+              "Tốc độ bắn",
+              "700 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "AK-103",
+          "specs": "**Тип:** Штурмовая винтовка | **Калибр:** 7.62×39 | **Магазин:** 30 | **Масса:** 3.6 кг | **Длина:** 705/943 мм | **Скорострельность:** 600 в/мин",
+          "desc": "AK xuất khẩu trong 7.62×39 — calibre AKM cũ. Nặng và ồn hơn 74, nhưng đạn đánh mạnh hơn và không bị nhánh lệch hướng. Cho chiến dịch ngoài thành — rừng, núi.",
+          "img": "ak-103.jpg",
+          "blurb": "AK xuất 7.62×39. Đạn nặng hơn, knockdown nhiều hơn.",
+          "stats": [
+            [
+              "Class",
+              "Súng trường tấn công"
+            ],
+            [
+              "Magazine",
+              "30 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 (7.62×39)"
+            ],
+            [
+              "Xuyên giáp",
+              "75"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+2 (more powerful but worse at range)"
+            ],
+            [
+              "Tốc độ bắn",
+              "600 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "AK-15",
+          "specs": "**Тип:** Штурмовая винтовка | **Калибр:** 7.62×39 | **Магазин:** 30 | **Масса:** 3.8 кг | **Длина:** 730/940 мм | **Скорострельность:** 700 в/мин",
+          "desc": "Anh em 7.62 của AK-12. Cho người muốn một đòn chắc thay vì ba. Cùng ergonomic hiện đại, cùng rails — nhưng đạn nặng và giật mạnh hơn. Cho xông và chống mục tiêu giáp.",
+          "img": "ak-15.jpg",
+          "blurb": "Anh em 7.62 của AK-12. Một đòn chắc thay vì ba.",
+          "stats": [
+            [
+              "Class",
+              "Súng trường tấn công"
+            ],
+            [
+              "Magazine",
+              "30 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 (7.62×39)"
+            ],
+            [
+              "Xuyên giáp",
+              "78"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+5 (AK-12 ergonomics, heavier viên)"
+            ],
+            [
+              "Tốc độ bắn",
+              "700 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "A-91 «Lưỡng môi»",
+          "specs": "**Тип:** Штурмовая винтовка / подводный автомат | **Калибр:** 5.45×39 (наземный) / 5.45×39 ПСП (подводный) | **Магазин:** 30 | **Масса:** 4.6 кг | **Длина:** 685/860 мм",
+          "desc": "Súng trường lưỡng môi trường. Chuyển giữa 5.45×39 tiêu chuẩn và PSP dưới nước trong vài giây. Đặc vụ ra khỏi nước và đấu ngay, không thay vũ khí.",
+          "img": "ads_amphibious.jpg",
+          "blurb": "Bắn dưới nước và trong không khí. Pickup combat-diver.",
+          "stats": [
+            [
+              "Class",
+              "Súng trường tấn công / underwater rifle"
+            ],
+            [
+              "Magazine",
+              "30 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 (5.45×39) · K100/13+3 (PSP underwater)"
+            ],
+            [
+              "Xuyên giáp",
+              "70 · 45 (underwater)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+2 on land · no penalty underwater"
+            ],
+            [
+              "Tốc độ bắn",
+              "600 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "M4A1",
+          "specs": "**Тип:** Штурмовой карабин (импорт) | **Калибр:** 5.56×45 NATO | **Магазин:** 30 | **Масса:** 3.4 кг | **Длина:** 757/838 мм | **Скорострельность:** 750 в/мин",
+          "desc": "Carbine tấn công Mỹ, biểu tượng nước ngoài của bộ binh hiện đại. Nhẹ, chính xác, thoải mái bắn tư thế khó. Trong bùn khó tính hơn AK; từ bàn khô — tốt hơn ở tinh.",
+          "img": "m4a1.png",
+          "blurb": "Carbine tấn công Mỹ. Nhẹ, chính xác, khó tính trong bùn.",
+          "stats": [
+            [
+              "Class",
+              "Assault carbine (import)"
+            ],
+            [
+              "Magazine",
+              "30 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 (5.56×45 NATO)"
+            ],
+            [
+              "Xuyên giáp",
+              "70"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+7 (light, well-handling, festooned with rails)"
+            ],
+            [
+              "Tốc độ bắn",
+              "750 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "HK416",
+          "specs": "**Тип:** Штурмовая винтовка (импорт) | **Калибр:** 5.56×45 NATO | **Магазин:** 30 | **Масса:** 3.6 кг | **Длина:** 690/797 мм | **Скорострельность:** 850 в/мин",
+          "desc": "M4 làm đúng: cùng hình dạng, cùng điều khiển — nhưng với hệ piston gas thay direct-impingement. Không bẩn cơ chế bằng carbon. Bin Laden bị giết bằng cái này. Hiếm trong ORPP.",
+          "img": "hk416.png",
+          "blurb": "M4 làm đúng — hệ piston gas. Bin Laden bị giết bằng cái này.",
+          "stats": [
+            [
+              "Class",
+              "Súng trường tấn công (import)"
+            ],
+            [
+              "Magazine",
+              "30 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 (5.56×45 NATO)"
+            ],
+            [
+              "Xuyên giáp",
+              "72"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+8 (M4 reliability without its ills)"
+            ],
+            [
+              "Tốc độ bắn",
+              "850 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "СНАЙПЕРСКОЕ ОРУЖИЕ",
+      "items": [
+        {
+          "name": "SVD (Dragunov)",
+          "specs": "**Тип:** Самозарядная снайперская винтовка | **Калибр:** 7.62×54R | **Магазин:** 10 | **Масса:** 4.3 кг | **Длина:** 1225 мм | **Прицельная дальность:** 1200 м",
+          "desc": "Súng trường bắn tỉa của cả quân đội, dấu ấn «marksman» từ Vietnam. Semi-auto, magazine 10 viên, đạn nặng 7.62×54R. Đáng tin đến 400m, với xạ thủ giỏi — 600.",
+          "img": "svd.jpg",
+          "blurb": "Súng trường bắn tỉa của cả quân đội. Tham mọi chiến tranh từ Vietnam.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto sniper rifle"
+            ],
+            [
+              "Magazine",
+              "10 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/7+4 (7.62×54R)"
+            ],
+            [
+              "Xuyên giáp",
+              "90"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+10 (no range penalty; rate 1 phát/viên)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự, 1 phát / viên"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "SV-98",
+          "specs": "**Тип:** Болтовая снайперская винтовка | **Калибр:** 7.62×54R | **Магазин:** 10 | **Масса:** 5.8 кг | **Длина:** 1200 мм | **Прицельная дальность:** 1000 м",
+          "desc": "Súng trường chính xác hạng thể thao, bolt-action. Khi SVD quá thô: SV-98 giữ nửa MOA ở 300m. Nặng, nòng dài, không chịu bẩn. Issued cho designated marksmen.",
+          "img": "sv-98.jpg",
+          "blurb": "Súng trường chính xác hạng thể thao. Khi SVD quá thô.",
+          "stats": [
+            [
+              "Class",
+              "Bolt-action sniper rifle"
+            ],
+            [
+              "Magazine",
+              "10 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/7+4 (7.62×54R)"
+            ],
+            [
+              "Xuyên giáp",
+              "92"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+14 (group to 0.5 MOA)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bolt-action, 1 phát / viên"
+            ],
+            [
+              "AP bắn / nạp",
+              "5 / 5"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "VSS «Vintorez»",
+          "specs": "**Тип:** Бесшумная снайперская винтовка | **Калибр:** 9×39 СП-5/СП-6 | **Магазин:** 10/20 | **Масса:** 2.6 кг | **Длина:** 894 мм | **Прицельная дальность:** 400 м",
+          "desc": "Súng trường bắn tỉa subsonic của GRU và FSB. Xây quanh đạn 9×39 SP-5, ồn hơn bước chân nhưng êm hơn búa chạm chamber trống. Xuyên Class III ở 100m.",
+          "img": "vss_vintorez.png",
+          "blurb": "Súng trường bắn tỉa subsonic. Êm hơn búa chạm chamber trống.",
+          "stats": [
+            [
+              "Class",
+              "Silent sniper rifle"
+            ],
+            [
+              "Magazine",
+              "10 / 20 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 (9×39 SP-5) · K100/9+3 (SP-6)"
+            ],
+            [
+              "Xuyên giáp",
+              "45 · 70 (SP-6, Class II ở 400m)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+12 (integral suppressor, subsonic)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "VSSK «Vykhlop»",
+          "specs": "**Тип:** Бесшумная снайперская крупнокалиберная | **Калибр:** 12.7×55 СЦ-130 | **Магазин:** 5 | **Масса:** 7.0 кг | **Длина:** 795 мм | **Прицельная дальность:** 600 м",
+          "desc": "Súng trường bắn tỉa nặng im lặng. Đạn 12.7×55 STs-130 subsonic nhưng to: xuyên kevlar ở 300m không tiếng. Đồ chơi đặc nhiệm dưới-đặc.",
+          "img": "vssk_vykhlop.jpg",
+          "blurb": "Súng trường bắn tỉa nặng im lặng. Xuyên kevlar ở 300 không tiếng.",
+          "stats": [
+            [
+              "Class",
+              "Silent large-calibre sniper"
+            ],
+            [
+              "Magazine",
+              "5 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/5+5 (12.7×55 STs-130)"
+            ],
+            [
+              "Xuyên giáp",
+              "110 (with silver jacket — against unholy)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+10 (noise — like a sharp exhale)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bolt-action"
+            ],
+            [
+              "AP bắn / nạp",
+              "5 / 5"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 50"
+            ]
+          ]
+        },
+        {
+          "name": "Lobaev DXL-3",
+          "specs": "**Тип:** Болтовая снайперская дальнего боя | **Калибр:** .338 Lapua Magnum / .408 Cheytac | **Магазин:** 7 | **Масса:** 8.0 кг | **Длина:** 1380 мм | **Прицельная дальность:** 2000 м",
+          "desc": "Súng trường tầm xa custom từ xưởng Vlad Lobaev. Đạn .338 Lapua Magnum, suppressor tích hợp, nòng quay tay cho xạ thủ cụ thể. Đến chim sẻ ở km rưỡi — không phải figure of speech.",
+          "img": "dxl-3_lobaev.jpg",
+          "blurb": "Súng trường tầm xa custom. Đến chim sẻ ở km rưỡi.",
+          "stats": [
+            [
+              "Class",
+              "Long-range bolt-action sniper"
+            ],
+            [
+              "Magazine",
+              "7 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/5+5 (.338 Lapua / .408 Cheytac)"
+            ],
+            [
+              "Xuyên giáp",
+              "115 · 130 (.408 Cheytac)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+18 (for ranges at which everything else is useless)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bolt-action, 1 phát / viên"
+            ],
+            [
+              "AP bắn / nạp",
+              "5 / 6"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 45; works from tripod / bipod"
+            ]
+          ]
+        },
+        {
+          "name": "Barrett M82A1",
+          "specs": "**Тип:** Крупнокалиберная самозарядная (импорт) | **Калибр:** 12.7×99 NATO (.50 BMG) | **Магазин:** 10 | **Масса:** 14 кг | **Длина:** 1448 мм | **Прицельная дальность:** 1800 м",
+          "desc": "Súng trường chống thiết bị Mỹ, .50 BMG. Dừng xe. Xé động cơ trực thăng. Lấy đầu ma cà rồng sạch như kéo cắt chỉ. Nặng, vụng trong hẻm, điếc kể cả với hearing protection.",
+          "img": "barrett_m82.jpg",
+          "blurb": ".50 BMG anti-materiel Mỹ. Dừng xe. Lấy đầu ma cà rồng.",
+          "stats": [
+            [
+              "Class",
+              "Large-calibre bán tự (import)"
+            ],
+            [
+              "Magazine",
+              "10 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/4+6 (12.7×99 .50 BMG)"
+            ],
+            [
+              "Xuyên giáp",
+              "140"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+8 from the tripod · −15 from the hand"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "5 / 6"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 60. Below — ZPN ×0.5 (14 kg and recoil)"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "ДРОБОВИКИ",
+      "items": [
+        {
+          "name": "Saiga-12",
+          "specs": "**Тип:** Самозарядный гладкоствольный | **Калибр:** 12 калибр (18.5 мм) | **Магазин:** 5/8/10 | **Масса:** 3.6 кг | **Длина:** 670/910 мм",
+          "desc": "AK dạng shotgun. Cùng cơ chế rotating-bolt, magazine — nhưng nòng 12-gauge. Cho storming: ở 5m một slug qua cửa giải quyết bất kỳ câu hỏi. Đạn «Aspen Sting» — chống ma cà rồng.",
+          "img": "saiga-12.jpg",
+          "blurb": "AK dạng shotgun. Đáng tin, xấu, chết người gần.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto smoothbore"
+            ],
+            [
+              "Magazine",
+              "5 / 8 / 10 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/7+4 buckphát · K100/7+4 (slug)"
+            ],
+            [
+              "Xuyên giáp",
+              "35 buckphát · 55 (slug)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+3 with buckphát (forgives a miss) · 0 with slug"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Benelli M4",
+          "specs": "**Тип:** Самозарядный гладкоствольный (импорт) | **Калибр:** 12 калибр | **Магазин:** 6/8 | **Масса:** 3.8 кг | **Длина:** 720/1010 мм",
+          "desc": "Shotgun bán tự Ý, 12-gauge mượt nhất thế giới. Cơ chế inertia — hoạt động với mọi đạn không điều chỉnh. Giá bằng xe cũ, nhưng nơi quan trọng không vấp phát hai — đáng.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Shotgun bán tự Ý. 12-gauge mượt nhất thế giới.",
+          "stats": [
+            [
+              "Class",
+              "Semi-auto smoothbore (import)"
+            ],
+            [
+              "Magazine",
+              "6 / 8 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/7+4 buckphát · K100/7+4 (slug)"
+            ],
+            [
+              "Xuyên giáp",
+              "35 buckphát · 55 (slug)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+6 (reliable gas system, good ergonomics)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Remington 870",
+          "specs": "**Тип:** Помповый гладкоствольный (импорт) | **Калибр:** 12 калибр | **Магазин:** 6/8 | **Масса:** 3.6 кг | **Длина:** 970 мм",
+          "desc": "Cổ điển pump-action, phục vụ Mỹ nửa thế kỷ. Tiếng nạp slide là nửa răn đe. Rẻ, đơn giản, đáng tin như búa. Cho storming mục tiêu ưu tiên thấp.",
+          "img": "remington_870.jpg",
+          "blurb": "Cổ điển pump-action. Tiếng nạp slide là nửa răn đe.",
+          "stats": [
+            [
+              "Class",
+              "Pump-action smoothbore (import)"
+            ],
+            [
+              "Magazine",
+              "6 / 8 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/7+4 buckphát · K100/7+4 (slug)"
+            ],
+            [
+              "Xuyên giáp",
+              "35 buckphát · 55 (slug)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+4 (pump — manual cycling, lower rate)"
+            ],
+            [
+              "Tốc độ bắn",
+              "pump-action, 1 phát + cycle"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "KS-23 «Drozd»",
+          "specs": "**Тип:** Карабин специальный гладкоствольный | **Калибр:** 23 мм (4 калибр) | **Магазин:** 3+1 | **Масса:** 3.85 кг | **Длина:** 1040 мм",
+          "desc": "Carbine chống bạo loạn 23mm. Chính thức vũ khí cảnh sát đặc biệt, thực tế súng vây nhỏ. Xé cửa khỏi bản lề, thổi cửa sổ cùng khung, hạ người đứng không gây chết (đạn cao su «Volna»).",
+          "img": "ks-23.jpg",
+          "blurb": "Carbine 23mm — chống bạo loạn. Xé cửa khỏi bản lề.",
+          "stats": [
+            [
+              "Class",
+              "Special smoothbore carbine"
+            ],
+            [
+              "Magazine",
+              "3 + 1 viên"
+            ],
+            [
+              "Sát thương",
+              "special munition (gas / flash-bang / rubber — non-lethal)"
+            ],
+            [
+              "Xuyên giáp",
+              "20 (breaks ritual circles)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+1 (heavy 23mm recoil)"
+            ],
+            [
+              "Tốc độ bắn",
+              "pump-action"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 5"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 40"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "SÚNG MÁY",
+      "items": [
+        {
+          "name": "RPK-74M",
+          "specs": "**Тип:** Ручной пулемёт | **Калибр:** 5.45×39 | **Магазин:** 45/95 (барабан) | **Масса:** 5.0 кг | **Длина:** 1065 мм | **Скорострельность:** 600 в/мин",
+          "desc": "Súng máy nhẹ tiểu đội. Cùng AK-74 nhưng nòng dài tăng cường, cơ chế nặng và magazine 45 viên. Cho hỏa lực hỗ trợ chiến dịch thành phố: đứng trên bipod, đè cửa sổ và lối vào.",
+          "img": "rpk-74m.jpg",
+          "blurb": "Súng máy nhẹ tiểu đội. AK với nòng dài và magazine béo.",
+          "stats": [
+            [
+              "Class",
+              "Súng máy nhẹ"
+            ],
+            [
+              "Magazine",
+              "45 / 95 viên (drum)"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 (5.45×39)"
+            ],
+            [
+              "Xuyên giáp",
+              "70"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+1 from the hand · +6 from the bipod"
+            ],
+            [
+              "Tốc độ bắn",
+              "600 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 5"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "PKM",
+          "specs": "**Тип:** Единый пулемёт | **Калибр:** 7.62×54R | **Лента:** 100/200/250 | **Масса:** 7.5 кг (без станка) | **Длина:** 1192 мм | **Скорострельность:** 650 в/мин",
+          "desc": "Súng máy ngựa kéo Quân đội Nga. 7.62×54R, băng đạn, nửa thế kỷ phục vụ và không hưu sớm. Nặng, cần hai operator, nhưng trong đấu dài không có đối thủ.",
+          "img": "pkm.jpg",
+          "blurb": "Súng máy ngựa kéo. 7.62×54R, băng đạn, nửa thế kỷ phục vụ.",
+          "stats": [
+            [
+              "Class",
+              "General-purpose machine gun"
+            ],
+            [
+              "Magazine",
+              "100 / 200 / 250-viên belt"
+            ],
+            [
+              "Sát thương",
+              "K100/7+4 (7.62×54R)"
+            ],
+            [
+              "Xuyên giáp",
+              "90"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "−2 from the hand · +5 from the tripod/bipod"
+            ],
+            [
+              "Tốc độ bắn",
+              "650 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 6"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 50 for hand-held firing"
+            ]
+          ]
+        },
+        {
+          "name": "Pecheneg",
+          "specs": "**Тип:** Единый пулемёт | **Калибр:** 7.62×54R | **Лента:** 100/250 | **Масса:** 8.2 кг | **Длина:** 1155 мм | **Скорострельность:** 650 в/мин",
+          "desc": "PKM hiện đại với nòng làm mát cưỡng bức cố định — vỏ không khí cho phép bắn một giờ không quá nhiệt. Cùng calibre PKM, nhưng nhẹ hơn và thoải mái hơn xử lý.",
+          "img": "pecheneg.jpg",
+          "blurb": "PKM hiện đại với nòng cố định. Bắn một giờ không quá nhiệt.",
+          "stats": [
+            [
+              "Class",
+              "General-purpose machine gun"
+            ],
+            [
+              "Magazine",
+              "100 / 250-viên belt"
+            ],
+            [
+              "Sát thương",
+              "K100/7+4 (7.62×54R)"
+            ],
+            [
+              "Xuyên giáp",
+              "90"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "−1 from the hand · +6 from the tripod/bipod"
+            ],
+            [
+              "Tốc độ bắn",
+              "650 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 6"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 50 for hand-held firing"
+            ]
+          ]
+        },
+        {
+          "name": "Kord 6P50",
+          "specs": "**Тип:** Крупнокалиберный пулемёт | **Калибр:** 12.7×108 | **Лента:** 50 | **Масса:** 25 кг | **Длина:** 1980 мм | **Скорострельность:** 600 в/мин",
+          "desc": "Súng máy nặng, 12.7×108mm. Hai operator. Từ tripod — xuyên tường và động cơ. Từ bipod — chỉ bởi hulk với strength dưới 80. Cho BTR crews và vây mục tiêu nghiêm trọng.",
+          "img": "kord_6p50.jpg",
+          "blurb": "Súng máy nặng, 12.7×108. Cầm tay — chỉ bởi hulk. Từ tripod — qua tường.",
+          "stats": [
+            [
+              "Class",
+              "Large-calibre machine gun"
+            ],
+            [
+              "Magazine",
+              "50-viên belt"
+            ],
+            [
+              "Sát thương",
+              "K100/4+6 (12.7×108)"
+            ],
+            [
+              "Xuyên giáp",
+              "140"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+4 from the tripod · −20 from the hand"
+            ],
+            [
+              "Tốc độ bắn",
+              "600 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "5 / 8"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "tripod/turret only; from the hand — STR 80+"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "VŨ KHÍ NẶNG VÀ ĐẶC BIỆT",
+      "items": [
+        {
+          "name": "ASh-12",
+          "specs": "**Тип:** Штурмовой автомат (тяжёлый штурмовой комплекс) | **Калибр:** 12.7×55 СЦ-130 | **Магазин:** 10/20 | **Масса:** 6.0 кг | **Длина:** 691/845 мм | **Скорострельность:** 650 в/мин",
+          "desc": "Carbine xông thành phố đặc biệt, phát triển FSB. Đạn 12.7×55 STs-130 — ngắn, béo, dữ tợn. Xuyên engine block xe ở 50m. Bullpup, cho hành lang hẹp và cầu thang.",
+          "img": "ash-12.png",
+          "blurb": "Carbine xông thành phố. Đạn 12.7×55 dữ tợn cho gần.",
+          "stats": [
+            [
+              "Class",
+              "Súng trường tấn công (heavy system)"
+            ],
+            [
+              "Magazine",
+              "10 / 20 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/5+5 (12.7×55 STs-130)"
+            ],
+            [
+              "Xuyên giáp",
+              "110 (with silver oxide — against unholy)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "−8 (heavy, terrible recoil)"
+            ],
+            [
+              "Tốc độ bắn",
+              "650 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 5"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 60. Below — ZPN ×0.5"
+            ]
+          ]
+        },
+        {
+          "name": "SPS «Gyurza-B» giảm thanh",
+          "specs": "**Тип:** Бесшумный пистолет | **Калибр:** 9×21 СП-10 | **Магазин:** 18 | **Масса:** 1.0 кг (с глушителем) | **Длина:** 235 мм",
+          "desc": "Pistol im với suppressor tích hợp và đạn 9×21 SP-4 subsonic. Phát bắn im như dao — chỉ tiếng cơ chế. Pistol vẫn là tay-pháo: SP-4 xuyên kevlar ở 20m.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Pistol im với suppressor tích hợp. Im như dao — nhưng tay-pháo.",
+          "stats": [
+            [
+              "Class",
+              "Silent pistol"
+            ],
+            [
+              "Magazine",
+              "18 viên"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 (9×21 SP-10)"
+            ],
+            [
+              "Xuyên giáp",
+              "55"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+5 (suppressor, subsonic — phát inaudible)"
+            ],
+            [
+              "Tốc độ bắn",
+              "bán tự"
+            ],
+            [
+              "AP bắn / nạp",
+              "3 / 4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "GP-25 «Kostyor»",
+          "specs": "**Тип:** Подствольный гранатомёт | **Калибр:** 40 мм ВОГ-25 | **Магазин:** 1 | **Масса:** 1.5 кг | **Длина:** 323 мм | **Прицельная дальность:** 400 м",
+          "desc": "Súng phóng lựu nòng cho dòng AK. Đạn 40mm, single-shot, nạp từ nòng. Lựu nhỏ VOG-25 với bán kính mảnh 6m. Cho dọn khu vực: lựu qua cửa sổ với tiếng meow.",
+          "img": "gp-25.jpg",
+          "blurb": "Súng phóng lựu nòng. Đạn 40mm bay, vấn đề khi đáp.",
+          "stats": [
+            [
+              "Class",
+              "Súng phóng lựu nòng dưới"
+            ],
+            [
+              "Magazine",
+              "1 phát"
+            ],
+            [
+              "Sát thương",
+              "K100/8+4 fragmentation within 6 m (VOG-25)"
+            ],
+            [
+              "Xuyên giáp",
+              "60 (HE-fragmentation)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "0 (quỹ đạo cong, ngắm đến 400 m)"
+            ],
+            [
+              "Tốc độ bắn",
+              "1 phát, manual reload"
+            ],
+            [
+              "AP bắn / nạp",
+              "4 / 6"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "mounts on the AK"
+            ]
+          ]
+        },
+        {
+          "name": "RPG-7V",
+          "specs": "**Тип:** Ручной противотанковый гранатомёт | **Калибр:** 40 мм | **Боеприпас:** ПГ-7Л (кумулятивная), ТБГ-7В (термобарическая) | **Масса:** 6.3 кг | **Длина:** 950 мм",
+          "desc": "Súng phóng lựu chống tăng, nửa thế kỷ xung đột. Xuyên giáp Class IV ở 300m, APC ở 100. Nặng, khói, back-blast sẽ đốt ai trong 7m sau.",
+          "img": "rpg-7.jpg",
+          "blurb": "Súng phóng lựu chống tăng. Nửa thế kỷ xung đột không hết việc.",
+          "stats": [
+            [
+              "Class",
+              "Hand-held anti-tank grenade launcher"
+            ],
+            [
+              "Magazine",
+              "1 phát"
+            ],
+            [
+              "Sát thương",
+              "K100/3+13 shaped charge (PG-7L) · K100/3+10 volumetric r5 m (TBG-7V)"
+            ],
+            [
+              "Xuyên giáp",
+              "250 (shaped-charge jet)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+2 (against area and large targets)"
+            ],
+            [
+              "Tốc độ bắn",
+              "1 phát, crew reload"
+            ],
+            [
+              "AP bắn / nạp",
+              "5 / 8"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 45"
+            ]
+          ]
+        },
+        {
+          "name": "AGS-30",
+          "specs": "**Тип:** Автоматический гранатомёт | **Калибр:** 30 мм ВОГ-17/30 | **Лента:** 30 | **Масса:** 16 кг (без станка) | **Длина:** 1100 мм | **Скорострельность:** 400 в/мин",
+          "desc": "Súng phóng lựu tự động trên tripod. Bắn lựu 30mm với tốc độ 400/phút. Bón một hectare đất bằng nổ trong ba giây. Cho dọn khu vực trong cordon-and-search rừng.",
+          "img": "ags-30.jpg",
+          "blurb": "Súng phóng lựu tự động. Bón một hectare bằng nổ trong ba giây.",
+          "stats": [
+            [
+              "Class",
+              "Súng phóng lựu tự động"
+            ],
+            [
+              "Magazine",
+              "30-viên belt"
+            ],
+            [
+              "Sát thương",
+              "K100/8+4 fragmentation per grenade, basketball-court area"
+            ],
+            [
+              "Xuyên giáp",
+              "60 (fragmentation)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+3 from a tripod (static / vehicle-mount)"
+            ],
+            [
+              "Tốc độ bắn",
+              "400 rpm"
+            ],
+            [
+              "AP bắn / nạp",
+              "5 / 10"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "tripod only"
+            ]
+          ]
+        },
+        {
+          "name": "RPO-A «Shmel»",
+          "specs": "**Тип:** Реактивный пехотный огнемёт | **Боеприпас:** термобарический | **Масса:** 11 кг | **Дальность:** 1000 м | **Эффект:** объёмный взрыв в радиусе 50 м²",
+          "desc": "Súng phóng tên lửa nhiệt-áp một lần. «Bom nguyên tử túi» bộ binh Nga. Một phát — cả căn hộ với mọi thứ cháy từ trong ra. Câu trả lời dứt khoát cho hang đã giữ vài giờ.",
+          "img": "rpo-a_shmel.jpg",
+          "blurb": "Tên lửa nhiệt-áp bộ binh. Đốt cả căn hộ một phát.",
+          "stats": [
+            [
+              "Class",
+              "Rocket infantry flamethrower"
+            ],
+            [
+              "Magazine",
+              "1 phát"
+            ],
+            [
+              "Sát thương",
+              "K100/2+20 thermobaric, volumetric blast r 50 m²"
+            ],
+            [
+              "Xuyên giáp",
+              "burns oxygen — against creatures with regeneration"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "0 (range up to 1000 m)"
+            ],
+            [
+              "Tốc độ bắn",
+              "single-use"
+            ],
+            [
+              "AP bắn / nạp",
+              "5 / —"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 45"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "VŨ KHÍ CẬN CHIẾN",
+      "items": [
+        {
+          "name": "Dao trinh sát NR-43",
+          "specs": "**Тип:** Боевой нож | **Длина клинка:** 152 мм | **Масса:** 285 г | **Материал:** сталь 65Х13",
+          "desc": "Dao trinh sát Liên Xô từ 1943. Đơn giản, cân bằng, giết không hỏi. Dao phục vụ tiêu chuẩn ORPP: trong vỏ trên ngực, sẵn nửa giây. Lưỡi thép carbon giữ sắc trên đá.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Dao trinh sát Liên Xô. Trơn, cân bằng, giết không hỏi.",
+          "stats": [
+            [
+              "Class",
+              "Dao chiến đấu"
+            ],
+            [
+              "Sát thương",
+              "K100/20+1 + STR damage bonus"
+            ],
+            [
+              "Xuyên giáp",
+              "35"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+4 (comfortable grip, balance)"
+            ],
+            [
+              "Sát thương type",
+              "kinetic (piercing/slashing)"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Lưỡi lê 6Kh5",
+          "specs": "**Тип:** Штык-нож | **Длина клинка:** 160 мм | **Масса:** 320 г",
+          "desc": "Lưỡi lê AK-74 — dao, kẹp dây, cưa, mở chai. Gắn trên nòng, nhưng đột lưỡi lê dành cho khi AK kẹt và người đã vung. Dụng cụ tiện ích hơn vũ khí trong ORPP.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Lưỡi lê AK — dao, kẹp dây, cưa, mở chai.",
+          "stats": [
+            [
+              "Class",
+              "Lưỡi lê / universal knife"
+            ],
+            [
+              "Sát thương",
+              "K100/20+1 + STR damage bonus"
+            ],
+            [
+              "Xuyên giáp",
+              "30"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+2 (on the barrel — longer, but clumsy)"
+            ],
+            [
+              "Sát thương type",
+              "kinetic (piercing)"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Xẻng MPL-50",
+          "specs": "**Тип:** Универсальный инструмент / боевое оружие | **Длина:** 50 см | **Масса:** 600 г",
+          "desc": "Xẻng quân đội nhỏ. Với huấn luyện viên Quân đội Nga — vũ khí. Cạnh mài đến dao cạo; một đòn lấy cánh tay sạch, chặn dao, đập thái dương. Ở thắt lưng đặc vụ.",
+          "img": "mpl-50_shovel.jpg",
+          "blurb": "Xẻng nhỏ. Người Nga huấn — vũ khí. Cạnh dao cạo.",
+          "stats": [
+            [
+              "Class",
+              "Universal tool / combat weapon"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 + STR damage bonus"
+            ],
+            [
+              "Xuyên giáp",
+              "40"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+1 (cleaves, but unusual grip)"
+            ],
+            [
+              "Sát thương type",
+              "kinetic (chopping-bludgeoning)"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Kukri",
+          "specs": "**Тип:** Нож-тесак (импорт) | **Длина клинка:** 350 мм | **Масса:** 600 г",
+          "desc": "Dao chiến Nepal với lưỡi cong. Chặt xương như rìu nhỏ — nhưng nhẹ và nhanh hơn rìu. Đặc vụ kiểu Gurkha mua riêng. Chống không thánh thiện nơi giữ cự ly.",
+          "img": "kukri.jpg",
+          "blurb": "Dao chiến Nepal. Chặt xương như rìu nhỏ.",
+          "stats": [
+            [
+              "Class",
+              "Cleaver knife (import)"
+            ],
+            [
+              "Sát thương",
+              "K100/13+3 + STR damage bonus"
+            ],
+            [
+              "Xuyên giáp",
+              "50"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+3 (centre of gravity at the point)"
+            ],
+            [
+              "Sát thương type",
+              "kinetic (chopping)"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Топор пожарный",
+          "specs": "**Тип:** Универсальный инструмент / боевое оружие | **Масса:** 1.8 кг | **Длина рукояти:** 75 см",
+          "desc": "Rìu vạn năng với pick mặt sau. Mở cửa, tường, sọ. Chính thức cho cứu hỏa; trong ORPP — phá barricade gỗ và làm vũ khí cận chiến nặng. Pick xuyên trường giáp ma cà rồng.",
+          "img": "fire_axe.jpg",
+          "blurb": "Rìu vạn năng với pick. Mở cửa, tường, sọ.",
+          "stats": [
+            [
+              "Class",
+              "Universal tool / combat weapon"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 + STR damage bonus"
+            ],
+            [
+              "Xuyên giáp",
+              "55"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "−2 (heavy, slow swing)"
+            ],
+            [
+              "Sát thương type",
+              "kinetic (chopping)"
+            ],
+            [
+              "AP attack",
+              "4"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "STR 40"
+            ]
+          ]
+        },
+        {
+          "name": "Dao bạc ORPP",
+          "specs": "**Тип:** Ритуальное оружие | **Длина клинка:** 200 мм | **Масса:** 350 г",
+          "desc": "Lưỡi bạc thuần ORPP-issued. Lập luận cuối với không thánh thiện ở tầm tay. Bạc mềm không giữ cạnh như thép — nhưng không cần: chống ma cà rồng kể cả bạc cùn đốt vết thương.",
+          "img": "silver_dagger.jpg",
+          "blurb": "Lưỡi bạc thuần. Lập luận cuối với không thánh thiện.",
+          "stats": [
+            [
+              "Class",
+              "Ritual weapon"
+            ],
+            [
+              "Sát thương",
+              "K100/20+1 + STR damage bonus · ×2 vs unholy"
+            ],
+            [
+              "Xuyên giáp",
+              "30 (ignores undead energy field)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+3 (requires knowledge of the ritual cutting)"
+            ],
+            [
+              "Sát thương type",
+              "kinetic + consecrated silver"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "Rituals skill; otherwise the creature is only angered"
+            ]
+          ]
+        },
+        {
+          "name": "Shashka Cossack",
+          "specs": "**Тип:** Холодное оружие старого образца | **Длина клинка:** 870 мм | **Масса:** 850 г",
+          "desc": "Sabre kỵ binh Cossack truyền thống. Không crossguard — bạn không parry với shashka, bạn đánh: một cú quét đơn từ trên xuống trong di chuyển. Không issue tiêu chuẩn ORPP.",
+          "img": "cossack_shashka.jpg",
+          "blurb": "Sabre kỵ binh. Không guard — đánh, đừng parry.",
+          "stats": [
+            [
+              "Class",
+              "Old-style melee weapon"
+            ],
+            [
+              "Sát thương",
+              "K100/9+3 + STR damage bonus"
+            ],
+            [
+              "Xuyên giáp",
+              "90 (steel)"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "+5 (shashka’s honed balance)"
+            ],
+            [
+              "Sát thương type",
+              "kinetic (chopping)"
+            ],
+            [
+              "AP attack",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Cú đấm sắt",
+          "specs": "**Тип:** Холодное оружие ударное | **Масса:** 230 г",
+          "desc": "Bộ đồng đeo tay. Cộng năm cân và zero tinh tế vào đấm — nhưng đấm với kastet không còn là đấm, đó là đòn búa. Không giết phát đầu, nhưng lấy người ra khỏi đấu trong hai.",
+          "img": "brass_knuckles.jpg",
+          "blurb": "Đồng đeo tay. Cộng năm cân và zero tinh tế vào đấm.",
+          "stats": [
+            [
+              "Class",
+              "Bludgeoning melee weapon"
+            ],
+            [
+              "Sát thương",
+              "K100/25+1 + doubled STR damage bonus"
+            ],
+            [
+              "Xuyên giáp",
+              "20"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "0 (uses hand-to-hand skill)"
+            ],
+            [
+              "Sát thương type",
+              "kinetic (bludgeoning)"
+            ],
+            [
+              "AP attack",
+              "2"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "LỰU ĐẠN VÀ THUỐC NỔ",
+      "items": [
+        {
+          "name": "RGD-5",
+          "specs": "**Тип:** Ручная осколочная граната (наступательная) | **Масса:** 310 г | **Радиус поражения:** 15-20 м | **Время замедления:** 3.2-4.2 с",
+          "desc": "Lựu phân mảnh tấn công. Vụ nổ nhẹ, bán kính mảnh nhỏ — ném từ sau cover và xông không chờ. Cho storming phòng có thể có con tin tha: ít mảnh thân thiện.",
+          "img": "rgd-5.jpg",
+          "blurb": "Lựu tấn công. Vụ nổ nhẹ, ném từ sau cover được.",
+          "stats": [
+            [
+              "Class",
+              "Offensive fragmentation grenade"
+            ],
+            [
+              "Sát thương",
+              "K100/8+4 fragmentation"
+            ],
+            [
+              "Sát thương radius",
+              "15–20 m"
+            ],
+            [
+              "Delay",
+              "3.2–4.2 s"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "throw by Thrown skill"
+            ],
+            [
+              "AP throw",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "F-1 «Limonka»",
+          "specs": "**Тип:** Ручная осколочная граната (оборонительная) | **Масса:** 600 г | **Радиус поражения:** 30-200 м | **Время замедления:** 3.2-4.2 с",
+          "desc": "Lựu phòng thủ «dứa». Mảnh ra đến 200m — chỉ ném từ cover và chỉ vào người mà đồng nghiệp không theo. Cho vây và dọn hang không lực lượng thân.",
+          "img": "f-1_grenade.jpg",
+          "blurb": "Lựu phòng thủ «dứa». Mảnh ra 200m — ném từ cover.",
+          "stats": [
+            [
+              "Class",
+              "Defensive fragmentation grenade"
+            ],
+            [
+              "Sát thương",
+              "K100/6+5 fragmentation"
+            ],
+            [
+              "Sát thương radius",
+              "30–200 m"
+            ],
+            [
+              "Delay",
+              "3.2–4.2 s"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "throw by Thrown skill; from cover only"
+            ],
+            [
+              "AP throw",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "F-1 «Silver» (ORPP)",
+          "specs": "**Тип:** Антипаранормальная осколочная граната | **Масса:** 750 г | **Радиус поражения:** 25 м | **Время замедления:** 3.5 с",
+          "desc": "F-1 với thân gang thay bằng mảnh bạc đúc. Tạo đám viên bạc biến ma cà rồng ở cửa thành sàng. Nặng (bạc đặc hơn gang), ném được đến 25m.",
+          "img": "f-1_grenade.jpg",
+          "blurb": "Limonka với mảnh bạc. Đối phó không thánh thiện cự ly.",
+          "stats": [
+            [
+              "Class",
+              "Anti-paranormal fragmentation grenade"
+            ],
+            [
+              "Sát thương",
+              "K100/6+5 fragmentation · ×2 vs unholy"
+            ],
+            [
+              "Sát thương radius",
+              "25 m"
+            ],
+            [
+              "Delay",
+              "3.5 s"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "throw by Thrown skill; from cover only"
+            ],
+            [
+              "AP throw",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "issued one at a time, signed for"
+            ]
+          ]
+        },
+        {
+          "name": "Lựu đạn choáng «Zarya-2»",
+          "specs": "**Тип:** Светошумовая граната | **Масса:** 230 г | **Эффект:** 5-6 минут оглушения и слепоты в радиусе 5 м | **Время замедления:** 1.8-2.0 с",
+          "desc": "Flash-bang. Chớp mù và tiếng 175dB — năm giây không thấy không nghe cho mọi người trong phòng. Đủ phá vỡ: trong năm giây nhóm storming vào và chiếm vị trí.",
+          "img": "zarya-2_flashbang.jpg",
+          "blurb": "Flash-bang. Năm giây không thấy không nghe — đủ storming.",
+          "stats": [
+            [
+              "Class",
+              "Flash-bang grenade"
+            ],
+            [
+              "Sát thương",
+              "non-lethal · to vampires the flash = sunstroke"
+            ],
+            [
+              "Effect",
+              "5–6 min of stun and blindness, 5 m radius"
+            ],
+            [
+              "Delay",
+              "1.8–2.0 s"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "throw by Thrown skill"
+            ],
+            [
+              "AP throw",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Lựu đạn khói RDG-2",
+          "specs": "**Тип:** Дымовая граната | **Масса:** 600 г | **Время задымления:** 60-80 с | **Площадь:** до 600 м²",
+          "desc": "Màn khói, đen hoặc trắng theo lựa chọn. Không mù — cắt tuyến nhìn. Cover rút lui, không tấn công: trong khói riêng bạn cũng không thấy gì.",
+          "img": "rdg-2_smoke.png",
+          "blurb": "Màn khói — đen hoặc trắng. Cover rút lui.",
+          "stats": [
+            [
+              "Class",
+              "Lựu khói"
+            ],
+            [
+              "Sát thương",
+              "không"
+            ],
+            [
+              "Effect",
+              "smokescreen 60–80 s, up to 600 m² area"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "shooting through smoke — ZPN penalty"
+            ],
+            [
+              "AP activate",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Lựu đạn cay «Cheryomukha-7»",
+          "specs": "**Тип:** Граната со слезоточивым газом | **Масса:** 500 г | **Действие:** хлорацетофенон, 30-40 минут | **Площадь:** 50 м²",
+          "desc": "Lựu hơi cay CS. Đốt mắt, họng và da ở liều siêu nhỏ — đám 300 đuổi trong 20 giây. Trong phòng kín không respirator — chết do ngạt trong 5 phút.",
+          "img": "cheremukha-7_gas.jpg",
+          "blurb": "Lựu hơi cay CS. Đuổi đám đông; trong phòng kín — chết.",
+          "stats": [
+            [
+              "Class",
+              "Lựu hơi cay"
+            ],
+            [
+              "Sát thương",
+              "non-lethal (chloroacetophekhông)"
+            ],
+            [
+              "Effect",
+              "30–40 min, 50 m² area"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "target hit — heavy ZPN penalty"
+            ],
+            [
+              "AP throw",
+              "3"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "gas mask for own troops"
+            ]
+          ]
+        },
+        {
+          "name": "TNT (200 g)",
+          "specs": "**Тип:** Бризантное взрывчатое вещество | **Масса:** 200 г | **Тип:** тротил, прессованный",
+          "desc": "200g TNT trong khối carton. Thổi cửa, két, tường nhỏ trong hầm. Detonate bởi detonator với dây hoặc điện — tự nó không làm gì, kể cả trong lửa.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "200g TNT. Thổi cửa, két, tường nhỏ.",
+          "stats": [
+            [
+              "Class",
+              "High explosive"
+            ],
+            [
+              "Sát thương",
+              "K100/3+13 within 4 m (directed — more)"
+            ],
+            [
+              "Xuyên giáp",
+              "breaks masonry, bodies with necro-symbionts"
+            ],
+            [
+              "Detonation",
+              "detonator, delay or remote"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "placement by Demolitions skill"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "Demolitions skill"
+            ]
+          ]
+        },
+        {
+          "name": "C-4 (250 g)",
+          "specs": "**Тип:** Бризантное взрывчатое вещество (импорт) | **Масса:** 250 г | **Тип:** RDX + пластификатор",
+          "desc": "250g chất nổ nhựa C-4. Tạo hình như đất sét — dán vào bản lề, drape dọc cạnh cửa, tạo sạc có hướng chống hộp kim loại. Không nổ từ viên đạn, không trong lửa.",
+          "img": "c4_plastic.jpg",
+          "blurb": "250g C-4. Nhựa, tạo hình, detonator.",
+          "stats": [
+            [
+              "Class",
+              "High explosive (import)"
+            ],
+            [
+              "Sát thương",
+              "K100/2+15 within 5 m (shapeable charge)"
+            ],
+            [
+              "Xuyên giáp",
+              "precise directional blast"
+            ],
+            [
+              "Detonation",
+              "only detonator with fulminate of mercury"
+            ],
+            [
+              "Bonus chính xác (mod kỹ năng)",
+              "placement by Demolitions skill"
+            ],
+            [
+              "Yêu cầu tối thiểu",
+              "Demolitions skill"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "ÁO GIÁP",
+      "items": [
+        {
+          "name": "Bộ giáp đặc vụ ORPP (combidress + áo choàng «Macintosh»)",
+          "specs": "**Loại:** Bộ giáp ẩn hai lớp | **Bảo vệ:** Class IV-V (thân) / Class III (chi) | **Khối lượng:** 8 kg",
+          "desc": "Bộ giáp tiêu chuẩn của đặc vụ ORPP. Hai lớp, ẩn dưới quần áo thường. Lớp trong combidress Class IV thân + Class III chi, đường khâu muối thánh (+5 chống undead). Lớp ngoài áo choàng Macintosh Class III hai bên và lưng, cho +1 class thân (V thay vì IV).",
+          "img": "gear/orpp_armor_set.jpg",
+          "blurb": "Bộ giáp ẩn đầy đủ: combidress dưới áo choàng. Class IV dưới quần áo thường.",
+          "stats": [
+            [
+              "Class bảo vệ",
+              "IV-V (thân) / III (chi)"
+            ],
+            [
+              "Ẩn",
+              "Không thấy dưới quần áo thường"
+            ],
+            [
+              "Khối lượng",
+              "8 kg đủ bộ"
+            ],
+            [
+              "Bonus",
+              "+5 phòng thủ chống undead"
+            ],
+            [
+              "Thời gian mặc",
+              "60 giây"
+            ]
+          ]
+        },
+        {
+          "name": "Bộ đồ rune",
+          "specs": "**Тип:** Пси-броня | **Класс защиты:** против прямого ментального воздействия | **Масса:** 0.4 кг",
+          "desc": "Bộ runic thêu tay, làm bởi phòng thiết bị phép ORPP. Dập psi-effect, telepathy và tác động phép nhẹ trong khối bộ. Không giúp chống lửa, đạn — nhưng tâm trí tiên trượt.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Bộ runic thêu tay. Dập tác động phép thuật.",
+          "stats": [
+            [
+              "Protection class",
+              "against direct mental influence"
+            ],
+            [
+              "Armor coefficient",
+              "not ballistic"
+            ],
+            [
+              "Coverage zone",
+              "torso (undershirt)"
+            ],
+            [
+              "Mass",
+              "0.4 kg"
+            ],
+            [
+              "Effect",
+              "removes initial paranormal aversion"
+            ]
+          ]
+        },
+        {
+          "name": "Áo giáp 6B23-1",
+          "specs": "**Тип:** Армейский бронежилет общевойсковой | **Класс защиты:** 4 (по фронту) / 2 (по бокам) | **Масса:** 9 кг",
+          "desc": "Áo giáp quân đội tiêu chuẩn, Class II — giữ 9×19 từ pistol hoặc SMG vào ngực. Rẻ, đơn giản, có sẵn ở mọi sở ORPP vùng. Cho chiến dịch ưu tiên thấp.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Áo giáp quân đội tiêu chuẩn. Hạng II, giữ ngực khỏi đạn.",
+          "stats": [
+            [
+              "Protection class",
+              "4 (front) / 2 (sides)"
+            ],
+            [
+              "Armor coefficient",
+              "55 front / 28 sides"
+            ],
+            [
+              "Coverage zone",
+              "torso"
+            ],
+            [
+              "Mass",
+              "9 kg"
+            ],
+            [
+              "Skill/mobility penalty",
+              "−3 ZPN"
+            ]
+          ]
+        },
+        {
+          "name": "Áo giáp Ratnik 6B45",
+          "specs": "**Тип:** Боевой бронежилет нового образца | **Класс защиты:** 6А (фронт+спина) | **Масса:** 11.5 кг",
+          "desc": "Áo giáp Quân đội Nga thế hệ 6. Với tấm gốm chèn — Class IV: giữ 7.62×39 xuyên giáp ở 10m. Nặng (12kg full kit), nhưng cân bằng với harness «Ratnik».",
+          "img": "6b45_ratnik_vest.jpg",
+          "blurb": "Giáp Quân đội thế hệ 6. Hạng IV với tấm chèn.",
+          "stats": [
+            [
+              "Protection class",
+              "6A (front + back)"
+            ],
+            [
+              "Armor coefficient",
+              "85"
+            ],
+            [
+              "Coverage zone",
+              "torso + back"
+            ],
+            [
+              "Mass",
+              "11.5 kg"
+            ],
+            [
+              "Skill/mobility penalty",
+              "−4 ZPN"
+            ]
+          ]
+        },
+        {
+          "name": "Mũ Ratnik 6B47",
+          "specs": "**Тип:** Защитный шлем | **Класс защиты:** 1+ (по пуле) | **Масса:** 1.2 кг",
+          "desc": "Mũ Quân đội hiện đại, composite aramid với chèn titanium. Giữ 9×19 mặt trước, bắt mảnh. Mounts cho NVG, comms, mask. Bảo vệ đầu cơ bản cho storming.",
+          "img": "6b47_ratnik_helmet.jpg",
+          "blurb": "Mũ Quân đội hiện đại. Giữ 9×19, bắt mảnh.",
+          "stats": [
+            [
+              "Protection class",
+              "1+ (per viên)"
+            ],
+            [
+              "Armor coefficient",
+              "30 (head zone)"
+            ],
+            [
+              "Coverage zone",
+              "head"
+            ],
+            [
+              "Mass",
+              "1.2 kg"
+            ],
+            [
+              "Effect",
+              "mount for UGT and active ear protection; reduces TBI on ricochet"
+            ]
+          ]
+        },
+        {
+          "name": "Mặt nạ phòng độc PMK-3",
+          "specs": "**Тип:** Фильтрующий противогаз | **Масса:** 0.95 кг | **Время непрерывной работы:** 6 часов | **Защита:** ОВ, биологические агенты",
+          "desc": "Mặt nạ Quân đội Nga tiêu chuẩn. CS, sarin, chlorine — sống được 40 phút không thay filter. Vừa qua kính, cho phép nói qua voice gate. Issued chống tấn công hóa tà giáo.",
+          "img": "pmk-3_gasmask.jpg",
+          "blurb": "Mặt nạ tiêu chuẩn. CS, sarin, chlorine — sống được 40 phút.",
+          "stats": [
+            [
+              "Protection class",
+              "CW agents, biological agents"
+            ],
+            [
+              "Operation time",
+              "6 h continuous"
+            ],
+            [
+              "Mass",
+              "0.95 kg"
+            ],
+            [
+              "Skill/mobility penalty",
+              "−5 ZPN (narrowed view, fogged lens)"
+            ]
+          ]
+        },
+        {
+          "name": "Kính chống đạn",
+          "specs": "**Тип:** Защитные очки | **Класс защиты:** ANSI Z87.1+ | **Масса:** 90 г",
+          "desc": "Kính đạn đạo. Chặn mảnh và đạn ghém ở cự ly. Lens polycarbonate, không vỡ vào mắt. Bắt buộc cho storming: mảnh may vào mắt là cách ngu nhất kết thúc nghề.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Kính đạn đạo. Chặn mảnh và đạn ghém ở cự ly.",
+          "stats": [
+            [
+              "Protection class",
+              "ANSI Z87.1+"
+            ],
+            [
+              "Armor coefficient",
+              "eye protection"
+            ],
+            [
+              "Coverage zone",
+              "eyes"
+            ],
+            [
+              "Mass",
+              "90 g"
+            ],
+            [
+              "Effect",
+              "splash protection from unidentified liquids"
+            ]
+          ]
+        },
+        {
+          "name": "Găng Mechanix",
+          "specs": "**Тип:** Тактические перчатки (импорт) | **Масса:** 200 г",
+          "desc": "Găng tactical với chèn knuckle tăng cường và lòng bàn hấp thụ. Tay sống sau ngã, đấm, thủy tinh vỡ. Không cản ngón cò; bắn pistol và smartphone được.",
+          "img": "mechanix_gloves.jpg",
+          "blurb": "Găng tactical. Tay sống sau ngã, đấm, thủy tinh vỡ.",
+          "stats": [
+            [
+              "Protection class",
+              "cuts, burns, blows"
+            ],
+            [
+              "Coverage zone",
+              "hands"
+            ],
+            [
+              "Mass",
+              "200 g"
+            ],
+            [
+              "Effect",
+              "standard for infectious contacts"
+            ]
+          ]
+        },
+        {
+          "name": "Găng bạc",
+          "specs": "**Тип:** Защитные перчатки для контактной работы с нечистью | **Масса:** 250 г | **Материал:** освящённое серебро 925 + кожа подкладки",
+          "desc": "Găng mỏng chỉ bạc, phòng thiết bị phép ORPP. Cho phép tóm không thánh thiện ở cổ không đốt tay riêng — bạc đốt họ, không bạn. Không thay giáp thường.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Găng chỉ bạc mỏng. Cho phép tóm không thánh thiện ở cổ.",
+          "stats": [
+            [
+              "Protection class",
+              "contact with unholy"
+            ],
+            [
+              "Coverage zone",
+              "hands"
+            ],
+            [
+              "Mass",
+              "250 g"
+            ],
+            [
+              "Effect",
+              "allows physically restraining undead; standard one pair per group"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "LIÊN LẠC VÀ ĐIỆN TỬ",
+      "items": [
+        {
+          "name": "UGT (Đầu cuối phổ quát)",
+          "specs": "**Тип:** AR-очки + поясной компьютер | **Масса:** 0.4 кг (очки) + 0.6 кг (блок) | **Энергообеспечение:** 16 часов автономной работы | **Связь:** защищённый канал СИБ",
+          "desc": "AR headset phục vụ ORPP. Đeo như dải mỏng trên trán, chiếu hình vào trường nhìn. Bản đồ, liên lạc, đánh dấu mục tiêu, biosignature đồng đội, body-cam. Không có UGT chiến dịch hiện đại không thể.",
+          "img": "gear/ugt_visor.jpg",
+          "blurb": "AR headset phục vụ ORPP. Bản đồ, liên lạc, đánh dấu mục tiêu.",
+          "stats": [
+            [
+              "Class",
+              "AR goggles + belt unit"
+            ],
+            [
+              "Mass",
+              "0.4 + 0.6 kg"
+            ],
+            [
+              "Autonomy",
+              "16 h"
+            ],
+            [
+              "Effect",
+              "with the targeting marker — more accurate fire (ZPN bonus); spectral and thermal modes"
+            ]
+          ]
+        },
+        {
+          "name": "Nhẫn đánh dấu mục tiêu",
+          "specs": "**Тип:** Аксессуар к УГТ | **Масса:** 30 г",
+          "desc": "Nhẫn trên ngón. Nhấn cò sơn mục tiêu bằng dấu IR — không thấy mắt, thấy qua UGT cho cả nhóm. Phối hợp storming khi nói không được. Pin ba ngày.",
+          "img": "target_ring.jpg",
+          "blurb": "Nhẫn đánh dấu mục tiêu. Nhấn — UGT highlight cho đội.",
+          "stats": [
+            [
+              "Class",
+              "UGT accessory"
+            ],
+            [
+              "Mass",
+              "30 g"
+            ],
+            [
+              "Effect",
+              "shooting with UGT and marker — noticeable real-time ZPN bonus"
+            ]
+          ]
+        },
+        {
+          "name": "Bộ đàm R-187P1",
+          "specs": "**Тип:** Носимая радиостанция военная | **Масса:** 600 г | **Дальность:** 5-30 км | **Энергообеспечение:** 24 часа",
+          "desc": "Radio quân đội phục vụ. Mã hóa AES-256, GPS, packet voice. Tầm 15km trong thành, 40km trên trời. Mỗi đặc vụ trên chiến dịch nghiêm — UGT một mình đôi khi không đủ.",
+          "img": "r-187p1_azart_radio.jpg",
+          "blurb": "Radio quân đội phục vụ. Mã hóa, GPS, packet voice.",
+          "stats": [
+            [
+              "Class",
+              "Portable military radio"
+            ],
+            [
+              "Mass",
+              "600 g"
+            ],
+            [
+              "Tầm",
+              "5–30 km"
+            ],
+            [
+              "Autonomy",
+              "24 h"
+            ]
+          ]
+        },
+        {
+          "name": "ĐT vệ tinh Iridium 9555",
+          "specs": "**Тип:** Спутниковый телефон | **Масса:** 270 г | **Покрытие:** глобальное | **Связь:** 66 спутников Iridium",
+          "desc": "Iridium điện thoại vệ tinh. Hoạt động nơi không cellular không người. 66 vệ tinh quỹ đạo thấp — phủ mọi nơi trừ khe núi sâu. Cho nhóm đi ngoài thành hoặc dị thường.",
+          "img": "iridium_9555.jpg",
+          "blurb": "Iridium điện thoại vệ tinh. Hoạt động nơi không cellular không người.",
+          "stats": [
+            [
+              "Class",
+              "Điện thoại vệ tinh"
+            ],
+            [
+              "Mass",
+              "270 g"
+            ],
+            [
+              "Coverage",
+              "global (66 Iridium satellites)"
+            ],
+            [
+              "Effect",
+              "with every squad leader"
+            ]
+          ]
+        },
+        {
+          "name": "Drone trinh sát Karat",
+          "specs": "**Тип:** Лёгкий БПЛА | **Масса:** 1.6 кг | **Время полёта:** 60 минут | **Дальность:** 25 км | **Камера:** 4K + тепловой канал",
+          "desc": "Quadcopter trinh sát. Thermal imaging, camera ngày, nửa giờ trên trời, gần như im — ở 30m cao không nghe từ mặt đất. Mỗi nhóm: trinh sát mục tiêu, tìm lối vào, đánh dấu người.",
+          "img": "karat_drone.jpg",
+          "blurb": "Trực thăng trinh sát. Thermal, nửa giờ trên trời, gần như im.",
+          "stats": [
+            [
+              "Class",
+              "Light UAV"
+            ],
+            [
+              "Mass",
+              "1.6 kg"
+            ],
+            [
+              "Flight time",
+              "60 min"
+            ],
+            [
+              "Tầm",
+              "25 km"
+            ],
+            [
+              "Camera",
+              "4K + thermal channel"
+            ]
+          ]
+        },
+        {
+          "name": "Drone tấn công Lancet-E",
+          "specs": "**Тип:** Барражирующий боеприпас | **Масса:** 12 кг | **Время полёта:** 40 минут | **Дальность:** 40 км | **Боевая часть:** 3 кг",
+          "desc": "Drone kamikaze. Ba ký nổ nhắm vào người. Officer đánh dấu mục tiêu bằng marker — drone đánh trong một phút. Cho mục tiêu ở vị trí phòng ngự nơi storming quá rủi ro.",
+          "img": "lancet_drone.jpg",
+          "blurb": "Drone kamikaze. Ba ký nổ nhắm vào người.",
+          "stats": [
+            [
+              "Class",
+              "Loitering munition"
+            ],
+            [
+              "Mass",
+              "12 kg"
+            ],
+            [
+              "Flight time",
+              "40 min"
+            ],
+            [
+              "Tầm",
+              "40 km"
+            ],
+            [
+              "Warhead",
+              "3 kg — only with the chief’s permission"
+            ]
+          ]
+        },
+        {
+          "name": "Camera nhiệt IRay SCH35",
+          "specs": "**Тип:** Тепловизионный прицел | **Масса:** 500 г | **Дальность обнаружения:** 1500 м | **Разрешение:** 384×288",
+          "desc": "Thermal imager cầm tay. Thấy người qua tường ở 30m nếu tường không dày hơn nửa gạch. Gắn picatinny súng hoặc monocular. Cho khám hang và săn rừng đêm.",
+          "img": "iray_thermal.jpg",
+          "blurb": "Thermal cầm tay. Thấy người qua tường ở 30m.",
+          "stats": [
+            [
+              "Class",
+              "Thermal sight"
+            ],
+            [
+              "Mass",
+              "500 g"
+            ],
+            [
+              "Detection range",
+              "1500 m"
+            ],
+            [
+              "Effect",
+              "sees creatures of non-human temperature (vurdalak colder, werewolf hotter)"
+            ]
+          ]
+        },
+        {
+          "name": "NVD PN-23",
+          "specs": "**Тип:** Прибор ночного видения монокулярный | **Масса:** 600 г | **Поколение:** 3 | **Дальность работы:** 300 м",
+          "desc": "Night-vision phục vụ thế hệ 3. Đường hầm xanh, tầm hữu ích đến 200m đêm không trăng, gắn dưới mũ. Không có IR-illuminator trong nhà — vô dụng; với illuminator — đốm sáng vài giây.",
+          "img": "pnv_nightvision.jpg",
+          "blurb": "Night-vision phục vụ. Thế hệ 3, đường hầm xanh.",
+          "stats": [
+            [
+              "Class",
+              "Gen-3 monocular night-vision"
+            ],
+            [
+              "Mass",
+              "600 g"
+            ],
+            [
+              "Working range",
+              "300 m"
+            ],
+            [
+              "Effect",
+              "reserve for UGT night mode"
+            ]
+          ]
+        },
+        {
+          "name": "Bộ chặn tâm linh Zaslonka",
+          "specs": "**Тип:** Стационарное оборудование | **Масса:** 18 кг | **Радиус действия:** 500 м | **Энергообеспечение:** аккумулятор 6 часов",
+          "desc": "Jammer anti-psi, phòng thiết bị phép ORPP. Trong 20m của nó telepathy và psychokinesis ngừng — cho đội cũng vậy, nên dùng phân bổ. Issued cho storming chống tà giáo psi-active.",
+          "img": "zaslonka_ew.jpg",
+          "blurb": "Jammer anti-psi. Trong 20m telepathy và psychokinesis ngừng.",
+          "stats": [
+            [
+              "Class",
+              "Static equipment"
+            ],
+            [
+              "Mass",
+              "18 kg"
+            ],
+            [
+              "Radius",
+              "500 m"
+            ],
+            [
+              "Autonomy",
+              "6 h"
+            ],
+            [
+              "Effect",
+              "telepathy, psychokinetics, partial teleportation — at penalty"
+            ]
+          ]
+        },
+        {
+          "name": "Máy quét sinh trắc OPI",
+          "specs": "**Тип:** Полевой анализатор | **Масса:** 4 кг | **Время сканирования:** 2-5 минут на пробу | **Энергообеспечение:** 8 часов",
+          "desc": "Scanner OPI. Phân biệt người với ma cà rồng, werewolf, possessed ở 10m nếu power. Không thấy tiên dưới glamour (cần sắt lạnh). Nặng (1.4kg), chạy hai giờ trên một pin.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Scanner OPI. Phân biệt người và ma cà rồng ở 10m.",
+          "stats": [
+            [
+              "Class",
+              "Field analyser"
+            ],
+            [
+              "Mass",
+              "4 kg"
+            ],
+            [
+              "Scan time",
+              "2–5 min per test"
+            ],
+            [
+              "DB",
+              "400+ paranormal species in OPI files"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "TRANG BỊ ĐẶC BIỆT ORPP",
+      "items": [
+        {
+          "name": "Forsazh-1",
+          "specs": "**Тип:** Физический стимулятор | **Объём:** 5 мл (одна доза) | **Действие:** 5-10 минут | **Восстановление:** неделя комы + год реабилитации",
+          "desc": "Kích thích chiến đấu. Đập như espresso đổ thẳng vào tủy sống — 15 phút đặc vụ nhanh hơn, không cảm đau, quên cách mệt. Rồi crash, ba giờ bù đau bỏ qua.",
+          "img": "forsage_injector.jpg",
+          "blurb": "Kích thích chiến đấu. Đập như espresso vào tủy sống. Crash sau.",
+          "stats": [
+            [
+              "Class",
+              "Physical stimulant"
+            ],
+            [
+              "Volume",
+              "5 ml (dose)"
+            ],
+            [
+              "Duration",
+              "5–10 min"
+            ],
+            [
+              "Effect",
+              "speed, reactions, strength ×3–5 (durability unchanged — injuries inevitable)"
+            ],
+            [
+              "Cost",
+              "a week of coma + a year of rehab, years burned off"
+            ]
+          ]
+        },
+        {
+          "name": "Forsazh-2",
+          "specs": "**Тип:** Пси-стимулятор для псиоников | **Объём:** 5 мл | **Действие:** 5-10 минут | **Восстановление:** двое суток сна + неделя слабости + кома до недели в зависимости от глубины применения",
+          "desc": "Kích thích chiến đấu nặng. Nửa giờ trên giới hạn bình thường — tốc độ chiến đấu × 1.5, phản xạ sắc hơn, đau tắt hoàn toàn. Giá là tuần trả: mất ngủ, tachycardia, tim cố thoát.",
+          "img": "forsage_injector.jpg",
+          "blurb": "Kích thích chiến đấu nặng. Nửa giờ trên giới hạn — tuần trả giá.",
+          "stats": [
+            [
+              "Class",
+              "Psi-stimulant (red label)"
+            ],
+            [
+              "Volume",
+              "5 ml"
+            ],
+            [
+              "Duration",
+              "5–10 min"
+            ],
+            [
+              "Effect",
+              "old powers at their limit; eyes in blue flame, voice doubled"
+            ],
+            [
+              "Cost",
+              "neuron burnout, coma up to a week, years of life"
+            ]
+          ]
+        },
+        {
+          "name": "Express-1",
+          "specs": "**Тип:** Сыворотка допросная | **Объём:** 2 мл | **Действие:** 4-6 часов | **Обратимость:** да",
+          "desc": "Giảm đau phục vụ. Tắt đau không tắt vết thương: mảnh ở bắp chân ngừng kêu, nhưng vẫn làm việc qua cơ. Cho phép hoàn chiến dịch và đến viện. Ba liều — nguy.",
+          "img": "express_injector.jpg",
+          "blurb": "Giảm đau phục vụ. Tắt đau không tắt vết thương.",
+          "stats": [
+            [
+              "Class",
+              "Interrogation serum"
+            ],
+            [
+              "Volume",
+              "2 ml"
+            ],
+            [
+              "Duration",
+              "4–6 h"
+            ],
+            [
+              "Reversible",
+              "yes — subject remembers ~2/3 of the interrogation"
+            ],
+            [
+              "Use",
+              "ordinary suspects"
+            ]
+          ]
+        },
+        {
+          "name": "Express-2",
+          "specs": "**Тип:** Сыворотка допросная пси-усиленная | **Объём:** 3 мл | **Действие:** 5-7 минут | **Обратимость:** нет (объект умирает)",
+          "desc": "Giảm đau nặng. Không cảm cắt chân. Không cảm chân. Issued cho vết thương nặng nhất — khi đặc vụ cần tỉnh thêm 20 phút trước evacuation. Sau Express-2, viện không tùy chọn.",
+          "img": "express_injector.jpg",
+          "blurb": "Giảm đau nặng. Không cảm cắt chân. Không cảm chân.",
+          "stats": [
+            [
+              "Class",
+              "Psi-enhanced interrogation serum (red label)"
+            ],
+            [
+              "Volume",
+              "3 ml — at the base of the skull"
+            ],
+            [
+              "Duration",
+              "5–7 min"
+            ],
+            [
+              "Reversible",
+              "không (brain leaks through nose, eyes, ears)"
+            ],
+            [
+              "Use",
+              "only OPG fighters; formally execution by law"
+            ]
+          ]
+        },
+        {
+          "name": "Antishock-3",
+          "specs": "**Тип:** Полевой стимулятор-стабилизатор | **Объём:** 5 мл | **Действие:** 30 минут | **Восстановление:** 24 часа",
+          "desc": "Injector chống sốc. Kéo đặc vụ về từ chết lâm sàng sau mất máu nhiều. Cocktail adrenaline với vasoconstrictor — khởi động tim, tăng áp, cho 10 phút đến viện. Sau dùng đặc vụ sẽ nằm tuần.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Injector chống sốc. Kéo đặc vụ về từ chết lâm sàng.",
+          "stats": [
+            [
+              "Class",
+              "Field stimulant-stabiliser"
+            ],
+            [
+              "Volume",
+              "5 ml"
+            ],
+            [
+              "Duration",
+              "30 min"
+            ],
+            [
+              "Effect",
+              "removes wound penalties for the duration"
+            ],
+            [
+              "Cost",
+              "after — sharp drop in capability, sleep"
+            ]
+          ]
+        },
+        {
+          "name": "Tishina-7 chặn tâm linh",
+          "specs": "**Тип:** Защитное средство против ментального воздействия | **Объём:** 2 мл | **Действие:** 2 часа",
+          "desc": "Block telepathy dược học. Sau tiêm — 6 giờ đầu bạn là của bạn: tiên, ma cà rồng và psionic không chạm. Tác dụng phụ: nhận thính giác thu hẹp thành đường hầm, đặc vụ nghe kém.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Block telepathy dược học. Sáu giờ, đầu bạn là của bạn.",
+          "stats": [
+            [
+              "Class",
+              "Mental protection"
+            ],
+            [
+              "Volume",
+              "2 ml"
+            ],
+            [
+              "Duration",
+              "2 h"
+            ],
+            [
+              "Effect",
+              "near-immunity to telepathy"
+            ],
+            [
+              "Cost",
+              "mild perception «dullness», an hour to recover"
+            ]
+          ]
+        },
+        {
+          "name": "Viên tự hủy",
+          "specs": "**Тип:** Капсула с цианистым калием | **Масса:** 1 г | **Действие:** 15-30 секунд до потери сознания, 1-2 минуты до смерти",
+          "desc": "Cyanide trong capsule dưới lưỡi, trong vỏ nhựa không giải phóng nội dung đến khi cắn. Issue cuối — không để bị bắt sống. Chết trong 20 giây, không hấp hối, không trở lại.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Cyanide dưới lưỡi. Issue cuối — không để bị bắt sống.",
+          "stats": [
+            [
+              "Class",
+              "Potassium cyanide capsule"
+            ],
+            [
+              "Mass",
+              "1 g"
+            ],
+            [
+              "Duration",
+              "15–30 s to loss of consciousness, 1–2 min to death"
+            ],
+            [
+              "Use",
+              "OPI abroad, illegal ops, category «Alpha»"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "АНТИПАРАНОРМАЛЬНЫЙ КОМПЛЕКТ",
+      "items": [
+        {
+          "name": "Đạn Trident-S 9×19",
+          "specs": "**Тип:** Патрон антипаранормальный | **Масса обоймы:** 270 г (18 патронов) | **Калибр:** 9×19 Para",
+          "desc": "Đạn pistol, lõi sắt lạnh trong vỏ bạc 999. Nạp như 9×19 thường vào GSh-18, PYa, SR-1, MP5. Cho không thánh thiện: ma cà rồng, mavka, leprechaun, demonid hạng dưới. Không xuyên giáp người.",
+          "img": "trizubets_silver_bullets.jpg",
+          "blurb": "Đạn pistol, sắt lạnh trong vỏ bạc 999. Cho không thánh thiện.",
+          "stats": [
+            [
+              "Class",
+              "Anti-paranormal đạn"
+            ],
+            [
+              "Caliber",
+              "9×19 Para"
+            ],
+            [
+              "Loading",
+              "18 viên, 270 g"
+            ],
+            [
+              "Effect",
+              "×2 damage vs unholy vulnerable to silver / cold iron"
+            ]
+          ]
+        },
+        {
+          "name": "Đạn Trident-S 12.7×55",
+          "specs": "**Тип:** Патрон антипаранормальный | **Масса обоймы:** 1.4 кг (20 патронов) | **Калибр:** 12.7×55 СЦ-130",
+          "desc": "Đạn nặng cho ASh-12, sắt lạnh và bạc. Lấy ma cà rồng khỏi tranh: xé ngực mở, trường sập, cơ thể cháy quanh vết thương. ORPP giữ không hơn hai băng/sở vùng.",
+          "img": "trizubets_silver_bullets.jpg",
+          "blurb": "Đạn ASh-12 nặng, sắt lạnh + bạc. Lấy ma cà rồng khỏi tranh.",
+          "stats": [
+            [
+              "Class",
+              "Anti-paranormal đạn"
+            ],
+            [
+              "Caliber",
+              "12.7×55 STs-130"
+            ],
+            [
+              "Loading",
+              "20 viên, 1.4 kg"
+            ],
+            [
+              "Effect",
+              "against the highest category of unholy; ~5000 ₽ each, signed for"
+            ]
+          ]
+        },
+        {
+          "name": "Đạn ghém Aspen Sting",
+          "specs": "**Тип:** Картечь к 12 калибру | **Содержимое:** 9 картечин из осины-сердцевины, пропитанной освящённой солью",
+          "desc": "Đạn 12-gauge với viên gỗ dương thay chì. Ném ma cà rồng qua phòng: mỗi viên gây chảy máu hệ thống không thể niêm phong. Cho storming hang ma cà rồng — Saiga với «Aspen Sting».",
+          "img": "osinoe_zhalo_shells.jpg",
+          "blurb": "Đạn shotgun gỗ dương. Ném ma cà rồng qua phòng.",
+          "stats": [
+            [
+              "Class",
+              "12-gauge buckphát"
+            ],
+            [
+              "Loadout",
+              "9 aspen-core buckphát"
+            ],
+            [
+              "Tầm",
+              "up to 25 m"
+            ],
+            [
+              "Effect",
+              "torso hit = three aspen stakes at once"
+            ]
+          ]
+        },
+        {
+          "name": "Bình nước thánh",
+          "specs": "**Тип:** Полевой расходник | **Объём:** 250 мл | **Масса:** 280 г",
+          "desc": "Nước thánh trong flask thép. Đốt không thánh thiện như acid — tạt mặt, ném nắm vào vết thương. Mavka sợ, ma cà rồng mất bình tĩnh, quỷ nhỏ thiệt hại chiến đấu. Một tháng trong flask kín.",
+          "img": "holy_water_flask.jpg",
+          "blurb": "Nước thánh trong flask thép. Đốt không thánh thiện như acid.",
+          "stats": [
+            [
+              "Class",
+              "Field consumable"
+            ],
+            [
+              "Volume",
+              "250 ml"
+            ],
+            [
+              "Mass",
+              "280 g"
+            ],
+            [
+              "Effect",
+              "burns most categories of undead; standard 2 per operative"
+            ]
+          ]
+        },
+        {
+          "name": "Muối thánh",
+          "specs": "**Тип:** Полевой расходник | **Масса:** 500 г",
+          "desc": "Muối thô thánh hóa trong túi da. Vòng muối người chết không qua — giữ vị trí. Nắm muối ném vào mắt vurdalak làm nó mù nửa phút. Issued cho ai làm việc một mình.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Muối thánh hóa. Vòng nó người chết không qua.",
+          "stats": [
+            [
+              "Class",
+              "Field consumable"
+            ],
+            [
+              "Mass",
+              "500 g"
+            ],
+            [
+              "Effect",
+              "drawing circles, barrier against spirits and lesser demons"
+            ]
+          ]
+        },
+        {
+          "name": "Phấn thánh",
+          "specs": "**Тип:** Полевой расходник | **Масса:** 50 г (палочка) | **Длина:** 12 см",
+          "desc": "Phấn trắng thánh hóa dạng thanh. Vẽ dấu bảo vệ trên sàn và khung cửa — dấu không cho sinh vật cấp tương ứng vào. Biết dấu là giáo trình ORPP.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Phấn thánh. Vẽ dấu bảo vệ trên sàn và khung cửa.",
+          "stats": [
+            [
+              "Class",
+              "Field consumable"
+            ],
+            [
+              "Mass",
+              "50 g (12 cm stick)"
+            ],
+            [
+              "Effect",
+              "ritual schemes; prized by mystics"
+            ]
+          ]
+        },
+        {
+          "name": "Bột anh túc",
+          "specs": "**Тип:** Полевой расходник против упырей | **Масса:** 100 г",
+          "desc": "Hạt anh túc xay trong túi nhỏ. Ném nắm vào changeling — sinh vật cổ không thể không đếm hạt đến bình minh do hoàn hảo bắt buộc. Không hoạt động với tiên lớn — quá kỷ luật.",
+          "img": "poppy_flour.jpg",
+          "blurb": "Bột anh túc. Ném nắm — changeling đếm hạt đến bình minh.",
+          "stats": [
+            [
+              "Class",
+              "Field consumable against upyr"
+            ],
+            [
+              "Mass",
+              "100 g"
+            ],
+            [
+              "Effect",
+              "scattered on the threshold — holds an upyr/vurdalak for hours"
+            ]
+          ]
+        },
+        {
+          "name": "Cồn tiêu Somov",
+          "specs": "**Тип:** Расходник мистика | **Объём:** 100 мл | **Масса:** 130 г",
+          "desc": "Cồn ngấm nổi tiếng tiêu đen, tỏi và thảo thánh. Đốt họng sống (ngụm là đuốc trên ngực), mù chết (tạt mặt là dao). Công thức Cha Lavrenty Somov, giữ kín.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Cồn ngấm nổi tiếng. Đốt họng sống, mù chết.",
+          "stats": [
+            [
+              "Class",
+              "Mystic consumable"
+            ],
+            [
+              "Volume",
+              "100 ml"
+            ],
+            [
+              "Effect",
+              "a squirt to the face of an imp/lesser demon — it evaporates"
+            ],
+            [
+              "Composition",
+              "pepper, garlic, holy water, consecrated oil, herbs, unnamed additive"
+            ]
+          ]
+        },
+        {
+          "name": "Cọc dương 6 cây",
+          "specs": "**Тип:** Антивампирское средство | **Длина:** 30 см | **Масса:** 200 г каждый",
+          "desc": "Sáu cọc gỗ dương, tiện trên máy, dài 20-35cm. Trả lời cổ điển cho bất cứ thứ hút máu: qua tim — ma cà rồng trẻ chết, già vô hiệu hóa nhiều giờ. Issue tiêu chuẩn ORPP.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Sáu cọc gỗ dương. Trả lời cổ điển cho bất cứ thứ hút máu.",
+          "stats": [
+            [
+              "Class",
+              "Anti-vampire agent"
+            ],
+            [
+              "Length",
+              "30 cm, 200 g each"
+            ],
+            [
+              "Sát thương",
+              "K100/20+1 + STR damage bonus; precise heart-strike — lethal to vampire"
+            ],
+            [
+              "Effect",
+              "used as in the classics — through the sternum"
+            ]
+          ]
+        },
+        {
+          "name": "Viên tỏi 50 viên",
+          "specs": "**Тип:** Защитный расходник | **Масса:** 50 г",
+          "desc": "Capsule tỏi-extract trong gelatin mềm. Cho đặc vụ — vitamin và mùi có thể tan trước đàm phán. Cho ma cà rồng — hơi cay: đặc vụ thở vào ma cà rồng ở 5m gây hắt hơi và mất tập trung.",
+          "img": "garlic_capsules.jpg",
+          "blurb": "Capsule tỏi. Cho đặc vụ — vitamin; cho ma cà rồng — hơi cay.",
+          "stats": [
+            [
+              "Class",
+              "Protective consumable"
+            ],
+            [
+              "Mass",
+              "50 g"
+            ],
+            [
+              "Effect",
+              "strong garlic odour for a day — vampire loses interest in the operative"
+            ],
+            [
+              "Cost",
+              "social isolation"
+            ]
+          ]
+        },
+        {
+          "name": "Còng bạc",
+          "specs": "**Тип:** Иммобилизирующее средство | **Масса:** 800 г | **Длина:** 3 м",
+          "desc": "Còng dây bạc, phòng thiết bị phép ORPP. Giữ cả ma cà rồng già — cho đến khi ai đến; bạc đốt cổ tay, ma cà rồng không có sức phá ra. Issued cho bắt giữ không thánh thiện.",
+          "img": "silver_handcuffs.jpg",
+          "blurb": "Còng dây bạc. Giữ cả ma cà rồng già — cho đến khi ai đến.",
+          "stats": [
+            [
+              "Class",
+              "Immobilising agent"
+            ],
+            [
+              "Mass",
+              "800 g"
+            ],
+            [
+              "Length",
+              "3 m"
+            ],
+            [
+              "Effect",
+              "burns undead through clothing; one set per support vehicle"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "МЕДИЦИНСКОЕ",
+      "items": [
+        {
+          "name": "Túi cứu thương AI-Ya",
+          "specs": "**Тип:** Индивидуальная аптечка | **Масса:** 350 г | **Содержимое:** 12 препаратов и расходников",
+          "desc": "Túi cấp cứu quân đội tiêu chuẩn. Băng, ống tiêm Express-1, garô, antiseptic. Trong chest pack mỗi đặc vụ, nặng 400g. Cho cấp cứu mình và đồng đội trước medic.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Túi cấp cứu quân đội tiêu chuẩn. Băng, garô, ống tiêm.",
+          "stats": [
+            [
+              "Class",
+              "Personal first-aid kit"
+            ],
+            [
+              "Mass",
+              "350 g"
+            ],
+            [
+              "Contents",
+              "12 drugs and consumables"
+            ],
+            [
+              "Effect",
+              "field first aid; every operative carries one"
+            ]
+          ]
+        },
+        {
+          "name": "Жгут CAT (Combat Application Tourniquet)",
+          "specs": "**Тип:** Кровоостанавливающий жгут (импорт) | **Масса:** 80 г",
+          "desc": "Garô chiến đấu. Một tay, 10 giây — máu giữ trong bạn. Issued bắt buộc. Đeo trên dây vai quick-release, để khi chân bị bắn không cần tìm trong túi.",
+          "img": "cat_tourniquet.jpg",
+          "blurb": "Garô chiến đấu. Một tay, 10 giây — máu giữ trong bạn.",
+          "stats": [
+            [
+              "Class",
+              "Haemostatic tourniquet (import)"
+            ],
+            [
+              "Mass",
+              "80 g"
+            ],
+            [
+              "Effect",
+              "stops limb bleeding; 2 tourniquets per operative"
+            ]
+          ]
+        },
+        {
+          "name": "Cầm máu Celox",
+          "specs": "**Тип:** Кровоостанавливающий порошок (импорт) | **Масса:** 35 г пакетик",
+          "desc": "Bột cầm máu trong gói. Dừng chảy máu động mạch trong 30 giây nơi garô không vừa — ở cổ, ở háng. Đổ vào vết thương, ép băng. Cứu nhiều mạng hơn dao mổ.",
+          "img": "celox_hemostatic.jpg",
+          "blurb": "Bột cầm máu. Dừng chảy máu động mạch trong 30 giây.",
+          "stats": [
+            [
+              "Class",
+              "Haemostatic powder (import)"
+            ],
+            [
+              "Mass",
+              "35 g (pouch)"
+            ],
+            [
+              "Effect",
+              "pour into the wound — bleeding stops in 30–60 s"
+            ]
+          ]
+        },
+        {
+          "name": "Túi y tế OPI",
+          "specs": "**Тип:** Расширенная аптечка для работы с паранормальными травмами | **Масса:** 4 кг",
+          "desc": "Túi vạn năng OPI thực địa. Thuốc giải nọc ma cà rồng, nước thánh trong ampoul, bụi bạc cho vết thương từ tiên, kim chỉ bạc khâu vết cắn. Cho nhóm làm việc chống không thánh thiện xa cơ sở.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Túi vạn năng OPI. Thuốc giải, nước thánh, bụi bạc.",
+          "stats": [
+            [
+              "Class",
+              "Expanded kit for paranormal trauma"
+            ],
+            [
+              "Mass",
+              "4 kg"
+            ],
+            [
+              "Contents",
+              "anti-paranormal stimulants, antitoxins, lycanthropic-fever antidote, mavka-influence neutraliser, silver suture thread"
+            ],
+            [
+              "Effect",
+              "one set per vehicle"
+            ]
+          ]
+        },
+        {
+          "name": "Elixir biopath",
+          "specs": "**Тип:** Восстановительное средство для псионика | **Объём:** 200 мл (бутылочка) | **Масса:** 230 г",
+          "desc": "Cô đặc glucose-vitamin. Sau căng thẳng vật lý lớn — flask mỏng của sự sống. Không phục hồi máu mất, không chữa vết thương, nhưng trả sức cho ba bước nữa. Issue cho biopath.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Cô đặc glucose-vitamin. Sau căng thẳng lớn — flask mỏng của sự sống.",
+          "stats": [
+            [
+              "Class",
+              "Psionic restorative"
+            ],
+            [
+              "Volume",
+              "200 ml"
+            ],
+            [
+              "Mass",
+              "230 g"
+            ],
+            [
+              "Effect",
+              "restores psi-reserve; Sheremetyeva takes hers with chocolate"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "PHƯƠNG TIỆN",
+      "items": [
+        {
+          "name": "Toyota LC200",
+          "specs": "**Тип:** Полноразмерный внедорожник | **Масса:** 2.7 т | **Двигатель:** V8 4.5 л дизель, 270 л.с. | **Топливо:** 138 л дизель | **Пассажиров:** 6 + 1 водитель",
+          "desc": "SUV phục vụ ORPP. Bọc giáp Class V (B6), 4WD, đi khắp nơi. To, thoải mái, ngay lập tức nhận ra trong thành — vì thế dùng cho transport chỉ huy, không cho surveillance.",
+          "img": "lc200_toyota.jpg",
+          "blurb": "SUV phục vụ ORPP. Bọc giáp, 4WD, đi khắp nơi.",
+          "stats": [
+            [
+              "Class",
+              "Full-size SUV"
+            ],
+            [
+              "Engine",
+              "V8 4.5 L diesel, 270 hp"
+            ],
+            [
+              "Crew",
+              "6 + driver"
+            ],
+            [
+              "Armoring",
+              "không (weapon mounts, safe, radio, beacon)"
+            ]
+          ]
+        },
+        {
+          "name": "Ford Transit",
+          "specs": "**Тип:** Минивен оперативный | **Масса:** 2.1 т | **Двигатель:** 2.2 л дизель, 155 л.с. | **Пассажиров:** 8 + 1 водитель",
+          "desc": "Van chiến dịch. Transport đội (đến 8 gồm tài xế) và cover surveillance: bên ngoài van thợ xây bình thường, bên trong console với màn hình, tủ lạnh bằng chứng, hai đặc vụ ở optics.",
+          "img": "ford_transit.jpg",
+          "blurb": "Van chiến dịch. Transport đội, cover surveillance.",
+          "stats": [
+            [
+              "Class",
+              "Van chiến dịch"
+            ],
+            [
+              "Engine",
+              "2.2 L diesel, 155 hp"
+            ],
+            [
+              "Crew",
+              "8 + driver"
+            ],
+            [
+              "Armoring",
+              "không"
+            ]
+          ]
+        },
+        {
+          "name": "Mercedes Sprinter",
+          "specs": "**Тип:** Грузо-пассажирский фургон | **Масса:** 3.0 т | **Двигатель:** 2.1 л дизель, 163 л.с. | **Содержимое:** мобильная лаборатория ОПИ",
+          "desc": "Lab di động OPI. Scanner, bàn autopsy nhỏ, tủ lạnh mẫu, chỗ làm việc cho biopath. Đến hiện trường ngay sau storming, xử lý bằng chứng tại chỗ. Một xe/sở vùng.",
+          "img": "sprinter_mercedes.jpg",
+          "blurb": "Lab di động OPI. Scanner, bàn autopsy nhỏ, tủ lạnh mẫu.",
+          "stats": [
+            [
+              "Class",
+              "Cargo/passenger van"
+            ],
+            [
+              "Engine",
+              "2.1 L diesel, 163 hp"
+            ],
+            [
+              "Crew",
+              "rear base 0.5 km from the target"
+            ],
+            [
+              "Armoring",
+              "không (not used for storming)"
+            ]
+          ]
+        },
+        {
+          "name": "Tigr GAZ-2330",
+          "specs": "**Тип:** Бронированный автомобиль повышенной проходимости | **Масса:** 7.2 т | **Двигатель:** 5.9 л дизель, 215 л.с. | **Бронирование:** 5 класс защиты | **Пассажиров:** 6 + 1 водитель",
+          "desc": "SUV quân đội Nga. Chống mìn, giáp Class V toàn diện, cửa nóc cho machine-gunner. Thoải mái tối thiểu, khả năng ngoài thành tối đa. Cho chiến dịch chống tà giáo nông thôn và hang rừng.",
+          "img": "gaz-2330_tigr.jpg",
+          "blurb": "SUV quân đội. Chống mìn, bọc giáp Class V toàn diện.",
+          "stats": [
+            [
+              "Class",
+              "Off-road armoured vehicle"
+            ],
+            [
+              "Engine",
+              "5.9 L diesel, 215 hp"
+            ],
+            [
+              "Crew",
+              "6 + driver"
+            ],
+            [
+              "Armoring",
+              "Class V protection"
+            ]
+          ]
+        },
+        {
+          "name": "BTR-82A",
+          "specs": "**Тип:** Бронетранспортёр | **Масса:** 14.5 т | **Двигатель:** дизель 300 л.с. | **Бронирование:** держит 12.7 в лоб | **Вооружение:** 30-мм автопушка | **Десант:** 7",
+          "desc": "APC với súng 30mm và súng máy 7.62 đồng trục. 8 quân trong khoang, crew thêm hai. Đi qua tường, chịu phát RPG-7 ở góc cực. ORPP thu hút từ Bộ Quốc phòng cho storming nghiêm.",
+          "img": "btr-82a.jpg",
+          "blurb": "APC. Súng 30mm, 8 quân, đi qua tường.",
+          "stats": [
+            [
+              "Class",
+              "APC"
+            ],
+            [
+              "Engine",
+              "diesel 300 hp"
+            ],
+            [
+              "Crew",
+              "7 troopers"
+            ],
+            [
+              "Armoring",
+              "holds 12.7 frontally; armament — 30 mm autocannon"
+            ]
+          ]
+        },
+        {
+          "name": "Mô-tô Ural Wolf",
+          "specs": "**Тип:** Тяжёлый мотоцикл с коляской | **Масса:** 230 кг | **Двигатель:** 750 куб.см, 41 л.с.",
+          "desc": "Mô tô cruiser nặng. Ổn định đường xấu, kinh trong giao thông thành — quá rộng, quá nặng. Cho transport giữa trung tâm vùng nơi xe bốn bánh không qua. Option sidekick cho khách.",
+          "img": "ural_wolf.jpg",
+          "blurb": "Mô tô cruiser nặng. Ổn định đường xấu, kinh trong giao thông thành.",
+          "stats": [
+            [
+              "Class",
+              "Heavy motorcycle with sidecar"
+            ],
+            [
+              "Engine",
+              "750 cc, 41 hp"
+            ],
+            [
+              "Crew",
+              "2 (sidecar — operator or light cargo)"
+            ],
+            [
+              "Armoring",
+              "không"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "ЭКСПЕРТНЫЙ И БЫТОВОЙ ИНСТРУМЕНТ",
+      "items": [
+        {
+          "name": "Hộp điều tra hiện trường",
+          "specs": "**Тип:** Инструментальный кейс | **Масса:** 5 кг | **Содержимое:** 60+ предметов",
+          "desc": "Túi forensic. Nhíp, lọ, băng lifting, lupa, nhãn bằng chứng, đuốc UV. Issue tiêu chuẩn cho OPI agent và detective. Trong cốp xe phục vụ, nặng 3kg.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Túi forensic. Nhíp, lọ, băng lifting, lupa.",
+          "stats": [
+            [
+              "Class",
+              "Tool case"
+            ],
+            [
+              "Mass",
+              "5 kg"
+            ],
+            [
+              "Contents",
+              "camera, rulers, powders and brushes for prints, envelopes, tweezers, magnifier"
+            ],
+            [
+              "Effect",
+              "one case per group, with the investigator"
+            ]
+          ]
+        },
+        {
+          "name": "Còng tay cảnh sát",
+          "specs": "**Тип:** Средство ограничения свободы | **Масса:** 350 г | **Класс:** стандарт МВД",
+          "desc": "Còng phục vụ, dây xích thép. Chốt khóa, người kinh nghiệm trượt được bằng dây — vì thế trong ORPP mẫu mạnh hơn với chìa vuông. Cho bắt giữ tội phạm; chống không thánh thiện, bạc cần.",
+          "img": "handcuffs.jpg",
+          "blurb": "Còng phục vụ. Chốt khóa, người kinh nghiệm trượt được.",
+          "stats": [
+            [
+              "Class",
+              "Restraint device"
+            ],
+            [
+              "Mass",
+              "350 g"
+            ],
+            [
+              "Effect",
+              "remote-controlled electronic — reserve for special cases"
+            ]
+          ]
+        },
+        {
+          "name": "Súng điện Karakurt-7",
+          "specs": "**Тип:** Электрошоковое устройство | **Масса:** 600 г | **Разряд:** 70 кВ | **Контакт:** 5 секунд для гарантированной нейтрализации",
+          "desc": "Stun gun cao áp. Hai giây tiếp xúc — nghi can trên sàn không hại tim khỏe. Không giết sạch, nhưng đánh ra khỏi đấu đáng tin. Chống không thánh thiện gần như vô dụng (ma cà rồng phẩy).",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Stun gun cao áp. Hai giây — nghi can trên sàn.",
+          "stats": [
+            [
+              "Class",
+              "Stun gun"
+            ],
+            [
+              "Mass",
+              "600 g"
+            ],
+            [
+              "Discharge",
+              "70 kV, 5 s contact for a sure stun"
+            ],
+            [
+              "Effect",
+              "especially effective against electric-type elementals"
+            ]
+          ]
+        },
+        {
+          "name": "Vali đồ dân thường",
+          "specs": "**Тип:** Комплект под прикрытие | **Масса:** 3 кг | **Содержимое:** деловой костюм + сорочки + спортивный костюм + рабочая одежда",
+          "desc": "Bộ thay thường dân — suit, giày, đồng hồ, ví với tài liệu. Cho phép đặc vụ ra xe phục vụ và đi vào nơi không gây chú ý. Issue tiêu chuẩn: một bộ trong cốp.",
+          "img": "placeholder_gear.jpg",
+          "blurb": "Bộ thay thường dân. Suit, giày, đồng hồ, ví.",
+          "stats": [
+            [
+              "Class",
+              "Cover-identity kit"
+            ],
+            [
+              "Mass",
+              "3 kg"
+            ],
+            [
+              "Contents",
+              "business suit, shirts, sports outfit, work clothes"
+            ],
+            [
+              "Effect",
+              "civilian work, surveillance, building infiltration"
+            ]
+          ]
+        },
+        {
+          "name": "Đèn pin Fenix PD36R",
+          "specs": "**Тип:** Тактический фонарь (импорт) | **Масса:** 160 г | **Мощность:** 1600 люмен | **Время работы:** 50 часов на низкой",
+          "desc": "Đuốc tactical, 1600 lumens. Mù ở 5m, chiếu ở 150. Sạc qua USB-C, giữ nửa giờ ở full brightness. Issue bắt buộc: hầm tối không đuốc là tự sát.",
+          "img": "fenix_pd36r_flashlight.jpg",
+          "blurb": "Đuốc tactical, 1600 lumens. Mù không sạc nửa giờ.",
+          "stats": [
+            [
+              "Class",
+              "Đuốc tactical (import)"
+            ],
+            [
+              "Mass",
+              "160 g"
+            ],
+            [
+              "Power",
+              "1600 lumens"
+            ],
+            [
+              "Effect",
+              "1600 lumens in the eyes at close range — heavy target penalty"
+            ]
+          ]
+        },
+        {
+          "name": "Dây thừng chiến thuật",
+          "specs": "**Тип:** Капроновая верёвка | **Масса:** 0.3 / 0.6 / 1.8 кг | **Грузоподъёмность:** 200 кг",
+          "desc": "Dây leo tĩnh trong ba cuộn — 5, 10, 30m. Cho xuống, buộc bằng chứng, buộc nạn nhân evacuation. Issue tiêu chuẩn operations group.",
+          "img": "tactical_rope.jpg",
+          "blurb": "Dây leo tĩnh. Ba cuộn — cho mọi chiều cao.",
+          "stats": [
+            [
+              "Class",
+              "Nylon rope"
+            ],
+            [
+              "Mass",
+              "0.3 / 0.6 / 1.8 kg"
+            ],
+            [
+              "Capacity",
+              "200 kg"
+            ],
+            [
+              "Effect",
+              "set of lengths in the vehicle"
+            ]
+          ]
+        },
+        {
+          "name": "Đòn Halligan",
+          "specs": "**Тип:** Универсальный инструмент вскрытия (импорт) | **Масса:** 4.5 кг | **Длина:** 76 см",
+          "desc": "Halligan bar — cây sắt, cuốc và mở cửa trong một. 60cm thép rèn. Xé cửa căn hộ tiêu chuẩn trong 15 giây, không thuốc nổ. Issue cho đặc vụ phá vỡ.",
+          "img": "halligan_bar.jpg",
+          "blurb": "Halligan bar. Cây sắt, cuốc và mở cửa trong một.",
+          "stats": [
+            [
+              "Class",
+              "Universal breaching tool (import)"
+            ],
+            [
+              "Mass",
+              "4.5 kg"
+            ],
+            [
+              "Length",
+              "76 cm"
+            ],
+            [
+              "Effect",
+              "doors and grates without explosives; in melee — d8 bludgeoning"
+            ]
+          ]
+        },
+        {
+          "name": "Băng keo gia cố",
+          "specs": "**Тип:** Расходник | **Масса:** 350 г",
+          "desc": "Băng vải tăng cường. Sửa mọi thứ đến khi không thánh thiện đến — thiết bị hỏng, băng nạn nhân, nhân chứng im tạm. 50m cuộn, nặng 200g. Hai cuộn trong xe.",
+          "img": "duct_tape.jpg",
+          "blurb": "Băng vải tăng cường. Sửa mọi thứ đến khi không thánh thiện đến.",
+          "stats": [
+            [
+              "Class",
+              "Consumable"
+            ],
+            [
+              "Mass",
+              "350 g"
+            ],
+            [
+              "Effect",
+              "temporary repair, binding, gagging"
+            ]
+          ]
+        },
+        {
+          "name": "Hộp giấy tờ",
+          "specs": "**Тип:** Документы и удостоверения | **Масса:** 800 г",
+          "desc": "Túi với ID, lệnh khám, chứng officer attached, lệnh nhiệm vụ. Bằng chứng hợp pháp đặc vụ — không có nó ở hiện trường cảnh sát địa phương bắt đầu hỏi khó.",
+          "img": "document_case.jpg",
+          "blurb": "Túi với ID, lệnh, chứng. Bằng chứng hợp pháp đặc vụ.",
+          "stats": [
+            [
+              "Class",
+              "Documents and IDs"
+            ],
+            [
+              "Mass",
+              "800 g"
+            ],
+            [
+              "Contents",
+              "SiB ID, PMC / firefighter / health-inspector IDs, false-name passport"
+            ],
+            [
+              "Effect",
+              "mandatory for squad leader"
+            ]
+          ]
+        }
+      ],
+      "setting": "ОРПП"
+    },
+    {
+      "title": "DAO KIẾM CỦA THÀNH PHỐ",
+      "items": [
+        {
+          "name": "Gladius của Cảnh vệ Thành phố",
+          "specs": "**Loại:** Kiếm ngắn chém-đâm | **Lưỡi:** 50 cm | **Trọng lượng:** 760 g",
+          "desc": "Lưỡi cơ bản của Thành Phố. Mỗi cảnh vệ ở Forum mang, mỗi cựu binh nghỉ hưu, mỗi người cha gia đình giấu dưới quầy. Lưỡi thẳng hai cạnh, cán chặt, guard đồng đơn giản. Gladius không cho đấu tay đôi — cho hàng ngũ: hàng thứ hai đánh qua khe giữa các khiên hàng đầu. Các Nhà chế giễu nó là «vũ khí dân thường», đôi khi trả giá đắt: trong tay tài, gladius ngắn hơn sabre — trong hành lang là lợi thế.",
+          "img": "",
+          "blurb": "Vũ khí dân thường. Trong hành lang — thắng.",
+          "stats": [
+            ["Lớp", "Kiếm ngắn (legion)"],
+            ["Sát thương", "K100/12+2 chém-đâm"],
+            ["Xuyên giáp", "50"],
+            ["Bonus chính xác", "+4 hàng ngũ/hành lang, −3 ở khoảng cách"],
+            ["Đồng bộ", "+10 với scutum hoặc khiên Thành phố"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Các Nhà cười. Họ chưa bao giờ ở hành lang khi bốn người ập tới."
+        },
+        {
+          "name": "Spatha Kỵ binh Tường thành",
+          "specs": "**Loại:** Kiếm kỵ binh dài | **Lưỡi:** 86 cm | **Trọng lượng:** 1.1 kg",
+          "desc": "Cái Thành Phố chuyển sang khi hàng thứ hai không còn chỗ trong không khí buổi sáng và kỵ binh bắt đầu quyết định tất cả. Dài hơn gladius một phần ba, cân bằng dịch ra mũi, dành cho đòn từ yên ngựa. Đi bộ vụng ở hàng đầu nhưng tuyệt vời ở hàng hai — chém qua đầu người mình. Kỵ binh Tường thành đeo bên hông trái, và qua dáng đeo này họ nhận ra nhau dưới mọi áo choàng.",
+          "img": "",
+          "blurb": "Khi hàng thứ hai không còn vừa buổi sáng.",
+          "stats": [
+            ["Lớp", "Kiếm dài (kỵ binh)"],
+            ["Sát thương", "K100/9+3 chém"],
+            ["Xuyên giáp", "55"],
+            ["Bonus chính xác", "+6 từ yên, +2 đi bộ hàng hai, −5 trong chật"],
+            ["Đồng bộ", "+12 với khiên kỵ binh"],
+            ["Yêu cầu tối thiểu", "STR 45, cưỡi ngựa"]
+          ],
+          "vignette": "Họ nhận ra nhau qua dáng đeo — kể cả dưới áo choàng kẻ lạ."
+        },
+        {
+          "name": "Pugio",
+          "specs": "**Loại:** Dao găm thắt lưng | **Lưỡi:** 18 cm | **Trọng lượng:** 220 g",
+          "desc": "Dao găm nhỏ rộng lá liễu mà mọi người Thành Phố đeo thắt lưng đều mang. Cảnh vệ cắt dây và bánh, công dân cắt dấu trên cuộn, kẻ condottiero cắt dây giáp đối phương khi đối phương đã nằm. Pugio không phải vũ khí chính; là dụng cụ — và đôi khi nhắc rằng ở Thành Phố mọi dụng cụ là vũ khí.",
+          "img": "",
+          "blurb": "Không phải vũ khí chính. Dụng cụ — nhắc nhở.",
+          "stats": [
+            ["Lớp", "Dao găm thắt lưng"],
+            ["Sát thương", "K100/20+1 đâm-cắt"],
+            ["Xuyên giáp", "30"],
+            ["Bonus chính xác", "+1 (tay phụ, dụng cụ thường ngày)"],
+            ["Lén lút", "+8 (đeo mở, không gây chú ý)"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Mọi dụng cụ ở Thành Phố là vũ khí. Chỉ cần nhớ."
+        },
+        {
+          "name": "Misericord Orsini",
+          "specs": "**Loại:** Dao găm ba cạnh hẹp | **Lưỡi:** 28 cm | **Trọng lượng:** 320 g",
+          "desc": "Sản phẩm cũ của các xưởng San-Marketti, do Nhà Orsini đặt. Lưỡi tam giác mũi kim, không có cạnh cắt — không chặt, mà đâm vào. Giữa các tấm cuirass, dưới mép gorget, vào khe của visor. Ở Thành Phố lưỡi này dùng để đóng nợ — lặng lẽ, một động tác, không lời. Người ta nói thợ rèn tôi thép khi nói tên người sẽ chịu nó; truyền thuyết đẹp, không ai còn lại để kiểm tra.",
+          "img": "",
+          "blurb": "Kim ba cạnh. Không cắt — đâm vào. Thành Phố đóng nợ thế.",
+          "stats": [
+            ["Lớp", "Dao găm đâm xuyên"],
+            ["Sát thương", "K100/16+2 đâm xuyên"],
+            ["Xuyên giáp", "65 (bỏ qua khe giáp)"],
+            ["Bonus chính xác", "+6 cận chiến (hẹp, nhẹ, chính xác)"],
+            ["Lén lút", "+12 mang giấu (vừa tay áo)"],
+            ["Yêu cầu tối thiểu", "AGL 45 cho làm việc trong khe hẹp"]
+          ],
+          "vignette": "Không ngân. Trước và sau — đều không."
+        },
+        {
+          "name": "Stiletto «Tiếng thì thầm của Borghese»",
+          "specs": "**Loại:** Stiletto gia tộc Nhà Borghese | **Lưỡi:** 22 cm | **Trọng lượng:** 240 g",
+          "desc": "Đôi với găng tay. Cán bọc da đen, chuôi — thiên nga bạc, dấu của Nhà. Theo truyền thống Borghese nhận stiletto như vậy vào tuổi mười sáu — và phải trả lại khi rời Nhà. Lưỡi có tên; nói tên trước người lạ — thất lễ. Nếu stiletto được rút ra — chuyện kết thúc ở đây, không còn đường khác.",
+          "img": "",
+          "blurb": "Borghese nhận lúc mười sáu. Trả lại khi rời đi.",
+          "stats": [
+            ["Lớp", "Stiletto Nhà"],
+            ["Sát thương", "K100/18+1 đâm xuyên"],
+            ["Xuyên giáp", "55"],
+            ["Bonus chính xác", "+8 (hợp với tay chủ)"],
+            ["Địa vị", "nhận diện được — Borghese biết người mình"],
+            ["Yêu cầu tối thiểu", "thành viên Nhà hoặc lời thề"]
+          ],
+          "vignette": "Lưỡi có tên. Nói tên trước người lạ — thất lễ."
+        },
+        {
+          "name": "Sabre Condottiero",
+          "specs": "**Loại:** Sabre kỵ binh nhẹ | **Lưỡi:** 78 cm | **Trọng lượng:** 950 g",
+          "desc": "Lưỡi làm việc của Thành Phố. Mỗi Nhà có guard riêng, độ cong riêng, dấu thợ rèn riêng — nhưng bên dưới là cùng một sabre: cân bằng, nhanh nhẹn, chém sạch. Demetrio khi làm hợp đồng luôn mang một thanh, kể cả tại tiếp tân. Người ta nói nếu condottiero đến mà không mang sabre, cuộc nói chuyện sẽ ngắn và tệ.",
+          "img": "",
+          "blurb": "Không mang ra phố — coi như không mang. Tới tiếp tân — càng vậy.",
+          "stats": [
+            ["Lớp", "Sabre"],
+            ["Sát thương", "K100/9+3 chém"],
+            ["Xuyên giáp", "45"],
+            ["Bonus chính xác", "+3 (đa dụng, quen tay)"],
+            ["Đồng bộ giáp", "+10 với gambeson Nhà"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Không có nó — cuộc nói chuyện sẽ ngắn và tệ."
+        },
+        {
+          "name": "Spadone của Nhà",
+          "specs": "**Loại:** Trường kiếm hai tay | **Lưỡi:** 132 cm | **Trọng lượng:** 2.4 kg",
+          "desc": "Lưỡi nghi lễ-chiến đấu. Trong phòng đầu Nhà, spadone treo trên tường — chạm khắc, có huy hiệu, nghi lễ. Với một bậc thầy kiếm thuật già — được mài và quen tay. Spadone cầm hai tay, di chuyển qua tư thế hẹp, chém theo hình số tám ngang. Đối ba kẻ cầm sabre — là cơ hội. Đối mười — cái chết đẹp.",
+          "img": "",
+          "blurb": "Hai tay. Đối ba — cơ hội; đối mười — cái chết đẹp.",
+          "stats": [
+            ["Lớp", "Trường kiếm hai tay"],
+            ["Sát thương", "K100/6+5 chém-đâm"],
+            ["Xuyên giáp", "70"],
+            ["Bonus chính xác", "+5 ở khoảng cách, −10 trong chật chội"],
+            ["Kích thước", "không cho hành lang và xe ngựa"],
+            ["Yêu cầu tối thiểu", "STR 55, COR 45 (hai tay, nhịp kiểm soát)"]
+          ],
+          "vignette": "Sảnh tự giải phóng. Bằng số tám ngang."
+        },
+        {
+          "name": "Broadsword (nhập khẩu từ Gatton)",
+          "specs": "**Loại:** Trường kiếm rộng phương Tây | **Lưỡi:** 92 cm | **Trọng lượng:** 1.5 kg",
+          "desc": "Nhập từ Tây Gatton — thợ rèn Gatton làm để xuất khẩu. Lưỡi rộng hai cạnh, basket guard, dành cho đòn trên áo lưới hoặc đối thoại với plate harness ở mức tối đa. Ở Thành Phố được mang bởi những người học kiếm thuật ở thầy phương Tây: trường nặng, chậm, nhưng nếu broadsword gặp gladius — gladius kết thúc trước. Không lẫn với spadone: broadsword một tay.",
+          "img": "",
+          "blurb": "Trường phương Tây nặng. Một tay — không phải spadone.",
+          "stats": [
+            ["Lớp", "Kiếm một tay (phương Tây)"],
+            ["Sát thương", "K100/8+4 chém"],
+            ["Xuyên giáp", "60"],
+            ["Bonus chính xác", "+4 với trường Tây, −2 không trường"],
+            ["Đồng bộ", "+8 khiên lớn, +5 buckler"],
+            ["Yêu cầu tối thiểu", "STR 50; trường Tây khuyến nghị"]
+          ],
+          "vignette": "Gladius kết thúc trước. Và biết điều đó."
+        }
+      ],
+      "setting": "ВГ"
+    },
+    {
+      "title": "GIÁP CỦA CÁC NHÀ",
+      "items": [
+        {
+          "name": "Áo Doublet Condottiero",
+          "specs": "**Loại:** Doublet gia cường có tấm thép | **Màu:** huy hiệu và mẫu Nhà | **Trọng lượng:** 3.2 kg",
+          "desc": "Nhìn qua — chỉ là doublet sẫm kiểu thành phố nghiêm túc. Bên trong — các dải thép khâu trên lớp lót đôi qua ngực, lưng và thận, miếng da trên vai. Chống sabre — giữ được. Chống misericord — đáng nghi. Nhà Orsini và Malatesta mặc của họ, phân biệt qua viền; Borghese mặc không viền, nhẵn. Ở Thành Phố doublet condottiero vừa là trang phục, vừa là lời thề, vừa là mục tiêu.",
+          "img": "",
+          "blurb": "Chống sabre giữ. Chống misericord — tùy may.",
+          "stats": [
+            ["Lớp", "Giáp nhẹ (đô thị)"],
+            ["Giáp", "2 ngực, 1 vai"],
+            ["Bonus chính xác", "−2 (kiểu quen, không cản chuyển động)"],
+            ["Địa vị", "màu Nhà thấy từ xa — lợi và hại"],
+            ["Tương thích", "gambeson, cuirass đeo ngoài — cả hai tương thích"]
+          ],
+          "vignette": "Màu Nhà thấy từ xa. Người ta sống với điều đó."
+        },
+        {
+          "name": "Cuirass Tấm của Nhà",
+          "specs": "**Loại:** Cuirass thép có huy hiệu | **Dày:** 2.5 mm ngực | **Trọng lượng:** 8.4 kg",
+          "desc": "Cuirass nghi lễ-chiến đấu. Mặc ngoài doublet trên dây đai, với khóa thắt lưng của Nhà. Ngực và lưng — mỗi mặt một tấm cong, rèn, có huy hiệu chạm ở giữa. Không mặc ở nhà, không mặc khi đi gặp người yêu — mặc khi đấu, khi diễu binh, khi chiến tranh. Sau trận, theo phong tục, cuirass được đặt dưới chân người đã xứng đáng nhận nó.",
+          "img": "",
+          "blurb": "Vào đấu, vào diễu, vào chiến. Sau trận — đặt dưới chân.",
+          "stats": [
+            ["Lớp", "Giáp trung (thân)"],
+            ["Giáp", "4 ngực"],
+            ["Bonus chính xác", "−10 (nặng, gò vai)"],
+            ["Điểm yếu", "nách, cổ, đùi"],
+            ["Yêu cầu tối thiểu", "STR 55"]
+          ],
+          "vignette": "Sau trận — đặt dưới chân. Nếu còn chân để đặt."
+        },
+        {
+          "name": "Gambeson Lông Ngựa",
+          "specs": "**Loại:** Gambeson chần bông | **Màu:** vải lanh chưa nhuộm, xám | **Trọng lượng:** 1.6 kg",
+          "desc": "Cái bạn mặc dưới doublet và dưới cuirass. Các lớp vải lanh chần với lông ngựa — hấp thụ chấn động, hút mồ hôi, không cho các vòng và tấm cắn vào da. Không có gambeson, người mặc cuirass trong một giờ thành miếng thịt đẫm mồ hôi; có nó — giữ được tuyến cả ngày. Rẻ, xấu, không thể thay thế.",
+          "img": "",
+          "blurb": "Không có nó cuirass thành thịt sau một giờ. Có nó — giữ tuyến cả ngày.",
+          "stats": [
+            ["Lớp", "Gambeson"],
+            ["Giáp", "1 thân (đơn lẻ)"],
+            ["Bonus chính xác", "+5 khi mặc cuirass (giảm cọ)"],
+            ["Hiệu ứng", "−50% sát thương cùn qua cuirass"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Không thể thay thế và vô hình. Như mọi gia nhân tốt."
+        },
+        {
+          "name": "Mũ độn dưới giáp đầu",
+          "specs": "**Loại:** Mũ chần bông đội dưới giáp đầu | **Chất liệu:** vải lanh độn len, quai cằm | **Trọng lượng:** 280 g",
+          "desc": "Vật đôi với mũ giáp, không có nó mũ giáp chỉ là cách để biết sọ bạn rung thế nào. Mũ bốn nêm, chần với độn len, có quai cằm. Hấp thụ va đập, hút mồ hôi, ngăn kim loại mũ cọ vào thái dương và sau gáy. Ở Thành Phố, vợ, mẹ và thợ may tốt đan mũ độn; loại có sẵn ở cửa hàng — «đồ nhà nước», trong gia đình người ta im lặng về nó.",
+          "img": "",
+          "blurb": "Không có nó, mũ giáp chỉ là cách để biết sọ rung thế nào.",
+          "stats": [
+            ["Lớp", "Mũ độn"],
+            ["Giáp", "0 (chỉ với mũ giáp)"],
+            ["Bonus chính xác", "+3 khi đội mũ giáp (dập âm rung)"],
+            ["Hiệu ứng", "−40% sát thương cùn vào đầu qua mũ giáp"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Bà đã đan. Bà đã đi. Mũ ở lại."
+        },
+        {
+          "name": "Lorica hamata (áo lưới của legion)",
+          "specs": "**Loại:** Áo lưới La Mã | **Dài:** đến giữa đùi | **Trọng lượng:** 9.2 kg",
+          "desc": "Phòng vệ cơ bản của Thành Phố. Các vòng tán đôi, vai gấp đôi, viền đáy có băng đồng bện. Tốt chống chém: phân tán đòn qua các vòng, vòng qua gambeson, gambeson qua xương sườn, sườn qua bạn — nhưng không tử vong. Chống đâm — tranh cãi: stiletto kém trượt đi, tốt thì đi qua. Cảnh vệ Thành phố mặc hamata qua nhiều thế hệ; trong gia đình sửa và may lại như đồ bếp cũ.",
+          "img": "",
+          "blurb": "Phòng vệ cơ bản. Đâm là tranh cãi — nhưng không có thì không được.",
+          "stats": [
+            ["Lớp", "Giáp trung (áo lưới)"],
+            ["Giáp", "3 thân, 2 đùi"],
+            ["Bonus chính xác", "−4 (trọng lượng, lách cách)"],
+            ["Điểm yếu", "đâm hẹp, đòn cùn nặng"],
+            ["Yêu cầu tối thiểu", "STR 40"]
+          ],
+          "vignette": "Bà đã có. Cha đã có. Tôi cũng sẽ có."
+        },
+        {
+          "name": "Lorica segmentata",
+          "specs": "**Loại:** Giáp tấm phân đoạn (cohort thành phố) | **Phủ:** ngực, lưng, vai | **Trọng lượng:** 9.8 kg",
+          "desc": "Sáu-bảy dải thép ngang qua ngực và lưng, «cánh» vai phía trên, tất cả buộc bằng dây da và khóa. Tiêu chuẩn cohort Thành phố. Segmentata thở — có khe giữa các dải, và trong khe đó linh hồn người diễu hành mùa hè vẫn bám lấy sự sống. Nhược: yếu ở khớp (dây ăn hỏng nửa năm), yếu sườn (đòn ngang đi qua khe). Cohort mặc, lính đánh thuê thích mail hay mascle hơn, vì segmentata phải bảo dưỡng mỗi tối.",
+          "img": "",
+          "blurb": "Thở. Tiêu chuẩn cohort. Bảo dưỡng — mỗi tối.",
+          "stats": [
+            ["Lớp", "Giáp tấm phân đoạn (legion)"],
+            ["Giáp", "4 thân, 3 vai"],
+            ["Bonus chính xác", "−7 (dây, gò sườn)"],
+            ["Điểm yếu", "đòn ngang vào khe, khớp"],
+            ["Bảo dưỡng", "hàng ngày; dây nửa năm"],
+            ["Yêu cầu tối thiểu", "STR 50"]
+          ],
+          "vignette": "Giữa các dải, mùa hè, linh hồn vẫn bám."
+        },
+        {
+          "name": "Lorica musculata",
+          "specs": "**Loại:** Cuirass cơ thể của tribune | **Chất liệu:** đồng hoặc thép với cơ bắp khắc | **Trọng lượng:** 8.4 kg",
+          "desc": "Cuirass nghi lễ-chiến đấu với cơ bắp khắc — ngực, bụng, sườn, xương bả vai sau, tất cả rèn «theo quy chế của cái đẹp». Tribunate mặc, centurion cấp cao, đôi khi trưởng các Nhà ở dịp lễ. Trong đấu tay đôi musculata không kém cuirass thường, ở diễu binh — hơn tất cả, trên tường — cho xạ thủ địch lý do nhớ chính bạn.",
+          "img": "",
+          "blurb": "Đấu — không kém. Diễu — hơn tất cả. Tường — mục tiêu.",
+          "stats": [
+            ["Lớp", "Giáp tấm trung (cơ thể)"],
+            ["Giáp", "4 thân"],
+            ["Bonus chính xác", "−8 (trọng lượng dồn ngực)"],
+            ["Địa vị", "+15 trong nghi lễ, −10 lén lút"],
+            ["Yêu cầu tối thiểu", "STR 55, hạng tribune trở lên"]
+          ],
+          "vignette": "Xạ thủ trên tường sẽ nhớ chính bạn."
+        },
+        {
+          "name": "Găng Tay Kiếm Sĩ Malatesta",
+          "specs": "**Loại:** Găng tay chiến đấu, tay phải gia cường | **Chất liệu:** da bê, tấm thép trên khớp | **Trọng lượng:** 280 g đôi",
+          "desc": "Trường Malatesta đặt tay phải riêng — và găng cho nó khác. Gia cường mặt lưng, có các tấm thép từ cổ tay đến khớp. Có thể chặn lưỡi bằng lòng bàn tay (một lần), có thể đấm vào mặt sao cho mặt nhớ, có thể đeo gài vào guard sabre. Tay trái — bình thường, mỏng, để cảm nhận cán.",
+          "img": "",
+          "blurb": "Phải — thép trên khớp. Trái — để cảm nhận cán.",
+          "stats": [
+            ["Lớp", "Găng chiến đấu"],
+            ["Giáp", "2 tay phải, 1 tay trái"],
+            ["Bonus chính xác", "+4 đấm, +2 chặn lưỡi"],
+            ["Hiệu ứng", "chặn lưỡi bằng lòng bàn tay — 1 lần/trận không sát thương"],
+            ["Yêu cầu tối thiểu", "trường Malatesta hoặc tương đương"]
+          ],
+          "vignette": "Một lần. Sau đó — trường sẽ chỉ."
+        },
+        {
+          "name": "Full plate Gatton (nhập khẩu từ Gatton)",
+          "specs": "**Loại:** Giáp tấm toàn thân | **Trường:** Gatton, Tây Gatton | **Phủ:** toàn thân | **Trọng lượng:** 22.6 kg",
+          "desc": "Nhập từ phía Tây. Giáp tấm toàn thân làm theo hình học Gatton: tấm ngực liền, vai «chĩa», khuỷu trên ghim, faulds váy hông. Bên trong — gambeson mỏng kiểu khác Thành Phố: thợ Gatton tự may và đến điều chỉnh. Giá bằng bốn sabre kondotyer, mặc khi đấu hoặc xông Tường — chỗ khác không. Ở Thành Phố thấy ở nhà Malatesta và những người học ở phương Tây.",
+          "img": "",
+          "blurb": "Phương Tây. Nhập, may, điều chỉnh. Bằng bốn sabre.",
+          "stats": [
+            ["Lớp", "Giáp tấm toàn thân (Gatton)"],
+            ["Giáp", "6 thân, 5 tay chân, 5 đầu"],
+            ["Bonus chính xác", "−14 (trọng lượng, quán tính, tầm nhìn)"],
+            ["Điểm yếu", "khớp (mép cổ, mép háng)"],
+            ["Giá", "≈ 4× sabre kondotyer"],
+            ["Bảo dưỡng", "hàng tháng — thầy ở Gatton"],
+            ["Yêu cầu tối thiểu", "STR 65, trường chiến phương Tây"]
+          ],
+          "vignette": "Bằng bốn sabre. Mặc tới nơi mà bốn đó ít."
+        },
+        {
+          "name": "Mũ giáp Armet",
+          "specs": "**Loại:** Mũ giáp kín có visor | **Trường:** Gatton | **Trọng lượng:** 3.6 kg",
+          "desc": "Đôi với full plate. Bán cầu trên, visor trên ghim, bevor trên bản lề phía trước — phủ cổ, mà trước đây mọi thứ kết thúc ở đó. Thở trong armet mùa hè — quest riêng; tầm nhìn — khe rộng bằng ngón tay trẻ con và hai lỗ mắt. Nhưng không ai đánh ra răng từ armet. Ở Thành Phố armet là tín hiệu: «tôi từ Gatton, tôi biết mình làm gì, tôi trả được».",
+          "img": "",
+          "blurb": "Thở mùa hè — quest. Răng — còn nguyên.",
+          "stats": [
+            ["Lớp", "Mũ giáp kín (Gatton)"],
+            ["Giáp", "5 đầu, 4 cổ"],
+            ["Bonus chính xác", "−5 (tầm nhìn, hô hấp)"],
+            ["Hiệu ứng", "miễn nhiễm đánh ra răng và chấn động cùn ở mặt"],
+            ["Yêu cầu tối thiểu", "chỉ với mũ độn; STR 50"]
+          ],
+          "vignette": "Tôi từ Gatton. Tôi biết mình làm gì. Tôi trả được."
+        },
+        {
+          "name": "Mũ Streltsy Zarechye",
+          "specs": "**Loại:** Mũ giáp streltsy của Zarechye | **Cấu trúc:** bán cầu đồng trên mũ phớt, viền lông | **Trọng lượng:** 1.4 kg",
+          "desc": "Nhập từ phương Đông — Zarechye, nơi vị Kir riêng cai trị. Bán cầu đồng, phớt ngoài phớt, phớt trong phớt, viền lông ở mép dưới. Mặc với kaftan dài, râu, pishchal và thái độ Đông phương đặc trưng đối với sự sống và cái chết. Ở Thành Phố thấy ở các trăm streltsy được thuê đôi khi nhận hợp đồng bảo vệ đoàn xe của Caliphate Budat. Streltsy ít, mũ — ít hơn.",
+          "img": "",
+          "blurb": "Phớt ngoài, phớt trong, lông viền. Kaftan, râu, pishchal.",
+          "stats": [
+            ["Lớp", "Mũ-bán cầu (phương Đông)"],
+            ["Giáp", "3 đầu"],
+            ["Bonus chính xác", "−1 (nhẹ, quen)"],
+            ["Địa vị", "nhận diện Zarechye — thái độ tùy khu"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Mùa đông không gì tốt hơn. Mùa hè — bất cứ thứ gì khác."
+        },
+        {
+          "name": "Giáp Hỏa-Hồng-Ngọc (trường Kỹ sư Thành phố)",
+          "specs": "**Loại:** Giáp tấm toàn thân với truyền động hơi | **Lò:** khoang thép kín ở lưng, khoáng vật «hồng ngọc lửa» | **Trọng lượng:** 38 kg (với lò)",
+          "desc": "Độc quyền. Hai-ba thợ ở Thành Phố làm, không nhận đơn từ ai. Giáp tấm với truyền động thủy lực ở vai và đùi, sau lưng — lò thép cỡ ấm lớn, nạp khoáng «hồng ngọc lửa» đã mài. Khoáng nóng lên càng mạnh khi không gian càng kín; van điều tiết thông gió. Nhiệt đẩy hơi qua ống đồng, hơi đẩy piston, piston tăng cơ. Người mặc mang được như ba người. Đánh đổi: tiếng nứt liên tục sau lưng, nguy cơ cháy, và bất kỳ vết thủng nào ở lò — là hồng ngọc cháy ra ngoài và bỏng theo diện tích.",
+          "img": "",
+          "blurb": "Độc quyền. Mang như ba người. Thủng lò — cháy như đuốc.",
+          "stats": [
+            ["Lớp", "Giáp lực (steampunk)"],
+            ["Giáp", "6 thân, 5 chi, 4 lưng (lò)"],
+            ["Bonus chính xác", "−8 không hơi, +6 với lò chạy hết (thủy lực hỗ trợ)"],
+            ["Sức mạnh", "+25 kiểm tra sức khi lò chạy"],
+            ["Tiêu hao", "1 «hồng ngọc lửa» (≈ nắm tay) cho 4-6 giờ"],
+            ["Nguy cơ", "thủng lò — K100/30 bỏng bán kính 2 m, gambeson bắt lửa"],
+            ["Giá", "≈ giá một khu phố"],
+            ["Yêu cầu tối thiểu", "STR 60; đào tạo bởi thầy trường Kỹ sư"]
+          ],
+          "vignette": "Tiếng nứt sau lưng không phải sợ. Là đang chạy."
+        }
+      ],
+      "setting": "ВГ"
+    },
+    {
+      "title": "SÚNG & VŨ KHÍ CÁN",
+      "items": [
+        {
+          "name": "Blunderbuss của chủ hiệu",
+          "specs": "**Loại:** Blunderbuss nạp đầu nòng ngắn | **Cỡ:** ≈ 18 mm | **Đạn:** đạn ghém, đạn chùm, đôi khi đạn viên | **Trọng lượng:** 3.2 kg",
+          "desc": "Cái treo trên quầy mọi hiệu thứ hai. Nòng ngắn miệng loa, ổ khóa bên, đá lửa hay capsule — tùy. Nạp gì cũng được: đạn ghém, đạn chùm, đôi khi ốc và đinh cắt. Chính xác — một bước. Nhưng một phát có thể đón ba kẻ đêm cùng lúc, với chủ hiệu quan trọng hơn chính xác. Nạp đạn chậm và nghi lễ: chải nòng, đong thuốc, nén nắp, đổ đạn, nắp nữa.",
+          "img": "",
+          "blurb": "Một bước chính xác. Ba kẻ — rộng rãi. Nạp — nghi lễ.",
+          "stats": [
+            ["Lớp", "Blunderbuss (ngắn)"],
+            ["Sát thương", "K100/8+4 nón 30° đến 5 m · K100/30+1 xa hơn"],
+            ["Xuyên giáp", "35 sát mặt; giảm theo cự ly"],
+            ["Bonus chính xác", "+10 sát mặt, −15 quá 5 m"],
+            ["AP bắn / nạp", "3 / 14 (nghi lễ)"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Trên quầy. Dưới gối. Cạnh cửa. Phòng hờ."
+        },
+        {
+          "name": "Pishchal Zarechye",
+          "specs": "**Loại:** Súng nạp đầu nòng dài | **Cỡ:** ≈ 16 mm | **Khóa:** ngòi hoặc capsule | **Trọng lượng:** 5.6 kg",
+          "desc": "Nhập từ Zarechye, đôi khi cùng với chính các streltsy. Nòng dài, báng nặng, chân chống cho bắn từ tường. Bắn xa và mạnh, trong tay tài — hạ kỵ binh ở hai mươi bước qua áo lưới. Nhược: trọng lượng, độ dài, nạp chậm và trong mưa pishchal câm. Ở Thành Phố đặt nó trên tường và giao cho streltsy thuê theo mùa, không phải người Thành phố — họ có truyền thống khác.",
+          "img": "",
+          "blurb": "Từ tường — hạ kỵ binh ở hai mươi bước qua áo lưới.",
+          "stats": [
+            ["Lớp", "Súng dài (streletsky)"],
+            ["Sát thương", "K100/6+4 viên"],
+            ["Xuyên giáp", "55"],
+            ["Bonus chính xác", "+8 với chân chống, −10 cầm tay"],
+            ["AP bắn / nạp", "4 / 18"],
+            ["Tầm hiệu quả", "60 m"],
+            ["Yêu cầu tối thiểu", "STR 50; câm trong mưa"]
+          ],
+          "vignette": "Trong mưa — câm. Trời khô — thấy ở ba mươi bước."
+        },
+        {
+          "name": "Berdysh streltsy",
+          "specs": "**Loại:** Búa-cán bán nguyệt streltsy | **Dài:** 1.5 m | **Lưỡi:** 60 cm bán nguyệt | **Trọng lượng:** 3.8 kg",
+          "desc": "Đôi với pishchal. Khi diễu hành — trên vai, trong hàng — báng làm chân chống dưới pishchal, cận chiến — vũ khí cán. Lưỡi rộng bán nguyệt, cạnh rộng hơn cán; chém, cắt, móc mép trên khiên và kéo xuống. Với strelets — vừa là chân chống xạ thủ vừa là vũ khí thứ hai khi thuốc súng hết, xạ thủ hết, hoặc mọi thứ đều hết.",
+          "img": "",
+          "blurb": "Vừa chân chống vừa búa. Khi tất cả đã hết.",
+          "stats": [
+            ["Lớp", "Búa-cán bán nguyệt"],
+            ["Sát thương", "K100/7+4 chém"],
+            ["Xuyên giáp", "55"],
+            ["Bonus chính xác", "+5 hàng, −5 chật"],
+            ["Hiệu ứng", "+10 kéo/hạ khiên đối phương"],
+            ["Yêu cầu tối thiểu", "STR 50"]
+          ],
+          "vignette": "Trên vai — búa. Dưới báng — cũng nó."
+        },
+        {
+          "name": "Arquebus dân quân Thành phố",
+          "specs": "**Loại:** Súng nạp đầu nòng trung | **Cỡ:** ≈ 14 mm | **Khóa:** capsule | **Trọng lượng:** 4.4 kg",
+          "desc": "Tiêu chuẩn dân quân Thành phố. Ngắn hơn pishchal, đơn giản hơn blunderbuss, nạp theo điều lệ, bắn không to nhưng đau. Arquebus phát cho mọi người được gọi vào tháng phòng vệ; ai giữ sau dịch vụ thì treo nhà như lời hứa. Gia đình nói trong tình huống ngặt nghèo, arquebus bà già cũng tháo từ tường, không phải đùa.",
+          "img": "",
+          "blurb": "Tiêu chuẩn dân quân. Sau dịch vụ treo như lời hứa.",
+          "stats": [
+            ["Lớp", "Súng nạp đầu nòng (trung)"],
+            ["Sát thương", "K100/8+3 viên"],
+            ["Xuyên giáp", "45"],
+            ["Bonus chính xác", "+4 (quen, cân bằng)"],
+            ["AP bắn / nạp", "3 / 14"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Bà sẽ tháo từ tường. Không phải đùa."
+        },
+        {
+          "name": "Revolver của trường Kỹ sư (gãy nòng, ổ đạn thay)",
+          "specs": "**Loại:** Revolver 6 viên cỡ lớn | **Cỡ:** ≈ 14 mm | **Đạn:** thuốc đen + capsule tích hợp | **Đặc biệt:** khung gãy, ổ đạn thay | **Trọng lượng:** 1.8 kg (khung) + 600 g (ổ)",
+          "desc": "Kỳ tích trường Kỹ sư Thành phố và lý do người ta đặt lịch với thầy Celeste trước hai năm. Revolver gãy nòng — khung gãy ở giữa, như Smith & Wesson; ổ đạn rút nguyên và thay bằng dự phòng. Trong hệ này ổ đạn LÀ đạn: sáu khoang đã nạp thuốc và viên, capsule tích hợp vào khoang phía bên ngòi. Nạp đạn trong chiến đấu = rút ổ rỗng, lắp ổ mới, gãy khung lại. Ba giây vs nghi lễ blunderbuss. Đánh đổi: thuốc đen (sau phát đầu thấy từ khu kế bên), giá (một revolver bằng sabre kondotyer + nửa cuirass), hiếm — hai thầy, hai trăm khách.",
+          "img": "",
+          "blurb": "Ổ đạn là đạn. Sáu phát, ổ mới, gãy khung, sáu phát nữa.",
+          "stats": [
+            ["Lớp", "Revolver (gãy nòng, kỹ sư)"],
+            ["Sát thương", "K100/5+5 cỡ lớn"],
+            ["Xuyên giáp", "60"],
+            ["Bonus chính xác", "+5 sát mặt, +2 đến 15 m"],
+            ["Đạn dược", "1 ổ (6 khoang) + 2-3 dự phòng trong bao"],
+            ["AP bắn / thay ổ / nạp lại ổ", "3 / 4 / 18 (ngoài chiến đấu)"],
+            ["Ghi chú", "phát đầu — mây thuốc đen, −10 lén lút 30 giây"],
+            ["Giá", "≈ sabre + nửa cuirass"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Sáu. Gãy. Ổ mới. Sáu. Mùi khét giữ một giờ."
+        }
+      ],
+      "setting": "ВГ"
+    },
+    {
+      "title": "DI VẬT & VẬT THIÊNG",
+      "items": [
+        {
+          "name": "Ấn Triện Nhà Orsini",
+          "specs": "**Loại:** Triện sáp của trưởng Nhà | **Chất liệu:** bạc, xương | **Trọng lượng:** 80 g",
+          "desc": "Một vật nhỏ nặng hơn nó trông. Triện đeo trên dây xích ở thắt lưng hoặc cổ; đóng phong bì, hợp đồng và bản án. Làm giả — về lý thuyết có thể, nhưng ở Thành Phố triện giả nhận ra qua mùi sáp và góc dấu. Người mang triện là tiếng nói của Nhà; cái anh ta nói, Nhà đã nói. Tháo triện khỏi cổ mình khi còn sống — hoặc chuyển giao quyền lực, hoặc phản bội.",
+          "img": "",
+          "blurb": "Người mang triện là tiếng nói Nhà. Tháo khi còn sống — chuyển giao hoặc phản bội.",
+          "stats": [
+            ["Lớp", "Di vật Nhà"],
+            ["Hiệu ứng", "dấu nhận diện Nhà và lệnh"],
+            ["Xã hội", "+30 trên đàm phán với triện thật"],
+            ["Rủi ro", "trộm triện — cớ chiến tranh giữa các Nhà"],
+            ["Yêu cầu tối thiểu", "trưởng Nhà hoặc nhiếp chính"]
+          ],
+          "vignette": "Tiếng nói của Nhà nằm trong nắm tay. Nặng hơn mọi thứ nắm tay từng cầm."
+        },
+        {
+          "name": "Bình Đựng Tro của Người Sáng Lập",
+          "specs": "**Loại:** Hộp-mề đay đeo được | **Chất liệu:** bạc đen | **Trọng lượng:** 140 g",
+          "desc": "Bên trong — một nhúm tro. Của ai chính xác — mỗi Nhà có phiên bản riêng, và không ai đối chiếu. Bình mở ra hiếm khi, hầu hết trước một trận — áp lên trán, nói lời, đóng lại. Có giúp hay không — không ai chứng minh được, nhưng trong số những người mở bình trước một trận tốt, thống kê cho thấy ít người thua hơn. Có thể vì người thua không vào trận luôn.",
+          "img": "",
+          "blurb": "Mở trước một trận. Có giúp không — không ai chứng minh được.",
+          "stats": [
+            ["Lớp", "Di vật (cá nhân)"],
+            ["Hiệu ứng", "+5 cho một hành động/trận khi mở"],
+            ["Giới hạn", "không quá một lần mỗi ngày"],
+            ["Xã hội", "tôn trọng trong vòng Nhà"],
+            ["Yêu cầu tối thiểu", "thừa kế Nhà hoặc bình được tặng"]
+          ],
+          "vignette": "Một số người nó không giúp — vốn không vào trận."
+        },
+        {
+          "name": "Gương Bạc của Borghese",
+          "specs": "**Loại:** Gương túi trong khung bạc | **Đường kính:** 70 mm | **Trọng lượng:** 95 g",
+          "desc": "Nhìn qua — chiếc gương túi bình thường mà bất kỳ tiểu thư của một Nhà đàng hoàng nào cũng đeo trên xích. Nhưng đây là bạc, và bạc ở Thành Phố không đeo vô cớ. Trong phản chiếu của gương như vậy đôi khi thấy cái không có trong phòng: bóng sau lưng, hình ở cửa, người vừa rời đi và nghĩ rằng không để lại dấu vết. Borghese được dạy gương từ nhỏ; người lạ nhìn vào, may lắm thấy không gì.",
+          "img": "",
+          "blurb": "Đôi khi thấy cái không có trong phòng.",
+          "stats": [
+            ["Lớp", "Vật thiêng-tiêu điểm (thị giác)"],
+            ["Hiệu ứng", "phát hiện ẩn / hiện diện Khác trong phản chiếu"],
+            ["Tầm", "đến 5 m từ gương, theo đường phản chiếu"],
+            ["Chi phí", "1 AP mỗi lần dùng, kiểm tra AGL để đọc"],
+            ["Yêu cầu tối thiểu", "đào tạo Nhà hoặc tương đương"]
+          ],
+          "vignette": "Bạc ở Thành Phố không đeo vô cớ. Gương biết."
+        },
+        {
+          "name": "Xích Tổ Tiên",
+          "specs": "**Loại:** Xích đeo có mặt treo | **Chất liệu:** bạc, đồng, xương | **Trọng lượng:** 220–340 g",
+          "desc": "Xích thêm một mắt cho mỗi tổ tiên có tên được nhớ. Có người mang ba mắt; Lebedini — theo tin đồn — hai mươi bốn. Xích không phải phép thuật theo nghĩa thông thường; nó là ký ức, và ở Thành Phố ký ức được tính là sức mạnh. Đeo sát da, dưới áo, không bao giờ khoe. Nếu xích bị giật khỏi cổ — Nhà đi báo thù bất kể người mang là ai, bị giết thế nào, và có xứng đáng hay không.",
+          "img": "",
+          "blurb": "Một mắt cho mỗi tổ tiên. Nếu bị giật — Nhà đi báo thù.",
+          "stats": [
+            ["Lớp", "Vật thiêng (gia tộc)"],
+            ["Hiệu ứng", "+3 kiểm tra ý chí khi đang đeo"],
+            ["Xã hội", "nhận diện Nhà qua cách chế tác mắt xích"],
+            ["Rủi ro", "mất/giật — sỉ nhục đẫm máu với Nhà"],
+            ["Yêu cầu tối thiểu", "sinh ra trong hoặc được nhận vào Nhà"]
+          ],
+          "vignette": "Ký ức là sức mạnh. Xích là trọng lượng của ký ức."
+        }
+      ],
+      "setting": "ВГ"
+    },
+    {
+      "title": "THƯƠNG MẠI & CỬA HÀNG",
+      "items": [
+        {
+          "name": "Cân của Thương Nhân",
+          "specs": "**Loại:** Cân hai đĩa cánh tay đều với quả cân | **Chất liệu:** đồng đỏ, đồng thau, xương, hộp da | **Độ chính xác:** đến 0.2 g | **Trọng lượng (bộ):** 1.8 kg",
+          "desc": "Cân chuyên nghiệp — hai đĩa đồng đỏ trên cánh, kim chỉ mỏng trên thang, bộ quả cân trong ổ nhung. Thương nhân tự trọng đặt cân trên quầy công khai; người gian giấu trong phòng sau hai bộ. Mỗi quả cân có dấu của trưởng phường thành phố — vì vậy giả mạo phát hiện trong một lần cân đối chứng. Cân bị chỉnh là tội riêng và xét xử nhanh.",
+          "img": "",
+          "blurb": "Tôn trọng đặt trên quầy. Gian giữ hai bộ.",
+          "stats": [
+            ["Lớp", "Dụng cụ thương mại"],
+            ["Độ chính xác", "0.2 g (với quả cân có dấu)"],
+            ["Xã hội", "+10 trong kiểm tra thương mại với cân có dấu"],
+            ["Rủi ro", "giả mạo — tòa trưởng phường, phạt ×10 doanh thu"],
+            ["Yêu cầu tối thiểu", "giấy phép thương nhân hoặc trưởng phường"]
+          ],
+          "vignette": "Kim rung. Thương nhân không. Người mua thấy cả hai."
+        },
+        {
+          "name": "Bàn tính",
+          "specs": "**Loại:** Khung tính gỗ với hạt | **Kích thước:** 32 × 18 cm | **Hạt:** 70 (mười hàng bảy) | **Trọng lượng:** 0.9 kg",
+          "desc": "Trên quầy, trên bàn thư ký, trên kệ quản lý đoàn xe — bàn tính làm việc nơi tiền làm việc. Hạt anh đào, khung sồi, góc đồng. Bàn tính cũ có một hạt khía đen: người tính nhớ chính nó từng nói dối. Ở Thành Phố mỗi thương nhân có phương ngữ tính riêng — ai bàn cờ, ai dòng, ai theo trường mình — và ở bàn tính thường ngồi không phải chính thương nhân mà thư ký cấp cao với hai mươi năm kinh nghiệm và hai cặp kính.",
+          "img": "",
+          "blurb": "Nơi tiền làm việc, nó làm việc. Mỗi thương nhân tính theo cách mình.",
+          "stats": [
+            ["Lớp", "Dụng cụ tính"],
+            ["Hiệu ứng", "+15 «tính lợi nhuận», −20 cho kiểm toán viên không có bàn tính riêng"],
+            ["Tốc độ", "8-12 phép/phút với thư ký có kinh nghiệm"],
+            ["Yêu cầu tối thiểu", "biết tính; phương ngữ — mỗi trường mỗi kiểu"]
+          ],
+          "vignette": "Khía đen trên hạt thứ ba. Người tính nhớ."
+        },
+        {
+          "name": "Bộ Quả Cân Có Dấu",
+          "specs": "**Loại:** Bộ quả cân thương mại thành phố | **Chất liệu:** đồng | **Mệnh giá:** 1 / 2 / 5 / 10 / 20 / 50 / 100 / 200 / 500 g | **Trọng lượng (bộ):** 0.9 kg",
+          "desc": "Chín quả đồng trong ổ nhung, mỗi quả có dấu trưởng phường và số seri đóng bên cạnh. Thương nhân có dù chỉ một quả không dấu, ở Thành Phố không thể buôn — giấy phép rút ở lần kiểm tra đầu. Bản thân bộ giá bằng doanh thu một tuần cửa hàng tốt; mất một quả là rắc rối lớn; nhặt được của người khác mà không trả — đường ngắn nhất đến cuộc nói chuyện tệ.",
+          "img": "",
+          "blurb": "Không có dấu — giấy phép rút. Nhặt được mà không trả — nói chuyện tệ.",
+          "stats": [
+            ["Lớp", "Quả cân thương mại (có dấu)"],
+            ["Độ chính xác", "dấu chứng nhận 0.05 g"],
+            ["Xã hội", "bắt buộc cho giấy phép thương mại"],
+            ["Giá", "≈ doanh thu một tuần cửa hàng trung bình"],
+            ["Yêu cầu tối thiểu", "giấy phép thương nhân"]
+          ],
+          "vignette": "Chín nặng hơn chính thương nhân. Và đắt hơn."
+        },
+        {
+          "name": "Dấu-triện Xưởng",
+          "specs": "**Loại:** Dấu cho đánh nóng và lạnh | **Chất liệu:** thép tôi, vòng đồng, cán gỗ | **Trọng lượng:** 280 g",
+          "desc": "Dấu thép nhỏ — dấu xưởng và năm. Đóng lên sắt đến oxit, ép vào sáp, dập vào sáp gắn. Thợ giữ dấu mình như tên mình: giả mạo dấu người khác ở Thành Phố là tội «xúc phạm nghề», phạt cao đến mức đôi khi rẻ hơn là đốt xưởng và đi. Một số dấu phía sau có lỗ nhỏ ẩn, chỉ đọc được dưới lúp; thế là phân biệt thật giả.",
+          "img": "",
+          "blurb": "Giả dấu — tội «xúc phạm nghề». Phạt cao đến mức đi rẻ hơn.",
+          "stats": [
+            ["Lớp", "Dấu xưởng"],
+            ["Hiệu ứng", "định danh sản phẩm — thầy, năm, seri"],
+            ["Xã hội", "+20 kiểm tra «đây là tác phẩm xưởng tôi»"],
+            ["Bảo vệ", "dấu siêu nhỏ ẩn — bản sao đọc dưới lúp"],
+            ["Yêu cầu tối thiểu", "giấy phép phường cho xưởng"]
+          ],
+          "vignette": "Lúp sẽ nói. Trưởng phường — sẽ xử."
+        },
+        {
+          "name": "Hộp Đa-Tiền",
+          "specs": "**Loại:** Hộp thương nhân cho tiền nhiều loại | **Chất liệu:** sồi xám, góc đồng, bốn ngăn có nắp | **Trọng lượng (rỗng):** 0.7 kg",
+          "desc": "Ở Thành Phố lưu hành bốn đồng tiền của các Nhà chính, cộng hryvenak Zarechye, cộng dinar-lưỡi liềm Budat cho khách, cộng florin Gatton ở khách. Hộp đa-tiền chia chúng theo ngăn, mỗi cái cho tiền mình, có nắp riêng và khóa riêng. Thương nhân kinh nghiệm bằng cảm giác mở ngăn cần thiết, không nhìn món hàng — vì nhìn không được, hàng sẽ hiểu giá.",
+          "img": "",
+          "blurb": "Bốn ngăn, bốn khóa. Và không nhìn món hàng.",
+          "stats": [
+            ["Lớp", "Lưu trữ tiền mặt"],
+            ["Sức chứa", "≈ 200 đồng mỗi ngăn, 4 ngăn"],
+            ["Hiệu ứng", "+5 tốc độ đổi tiền nước ngoài"],
+            ["Rủi ro", "đột nhập — khóa tiêu chuẩn (AGL 35 cho thành thạo)"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Nhìn món hàng — hàng hiểu giá."
+        }
+      ],
+      "setting": "ВГ"
+    },
+    {
+      "title": "VĂN PHÒNG & CHỮ VIẾT",
+      "items": [
+        {
+          "name": "Bút lông và Lọ mực",
+          "specs": "**Loại:** Bút lông ngỗng, lọ mực sừng, dao gọt | **Mực:** muội đèn trên nước sồi với gôm arabic | **Trọng lượng (bộ):** 280 g",
+          "desc": "Bộ cơ bản của Thành Phố. Bút lông ngỗng gọt cho tay trái hay tay phải bằng dao gọt riêng; lọ mực sừng đeo thắt lưng, bịt bằng nút bần và mũ da. Mực «sồi» khô trong nửa giờ và sau đó nước không phai — cái đã viết sẽ ở lại. Vết mực thư ký giỏi xóa bằng nước nóng và muối, nhưng vết mực ở chỗ có hợp đồng — luôn là lý do để nghi ngờ.",
+          "img": "",
+          "blurb": "Cái đã viết, ở lại. Vết mực trong hợp đồng — luôn là lý do.",
+          "stats": [
+            ["Lớp", "Bộ văn phòng (cơ bản)"],
+            ["Hiệu ứng", "cho phép ghi chép kinh doanh"],
+            ["Đặc điểm", "bút gọt cho tay trái/phải — cá nhân"],
+            ["Tiêu hao", "một lần nạp ≈ 4-6 tờ chữ nhỏ"],
+            ["Yêu cầu tối thiểu", "biết chữ"]
+          ],
+          "vignette": "Khô trong nửa giờ. Nhớ — mãi mãi."
+        },
+        {
+          "name": "Bút Khắc (Caliphate Budat)",
+          "specs": "**Loại:** Dụng cụ viết ngoại lai Caliphate Budat | **Cấu trúc:** vỏ đất sét nung dở, lõi khoáng vật tự nhiên | **Dài:** 14 cm | **Trọng lượng:** 22 g",
+          "desc": "Nhập từ phương Đông, đắt. Về cấu trúc — như bút chì, chỉ vỏ không phải gỗ mà là đất sét nung dở đặc biệt, mỏng và mờ. Bên trong — không phải «than chì» mà khoáng vật tự nhiên, ở Caliphate mọc trong các chùm tinh thể bán trong suốt giống thạch anh; tinh thể từ các chùm này viết đường mảnh đen và tự mòn như phấn. Khi mòn, vỏ bẻ bằng ngón tay — đất sét vỡ theo vạch ngang, tinh thể đẩy ra trước. Bút không cần mực, không sợ rung, không nhòe khi đi. Thư ký Thành phố than về giá; địa hình và kỹ sư không than — không có bút, bản vẽ không được.",
+          "img": "",
+          "blurb": "Bút chì trước bút chì. Vỏ — đất sét nung; lõi — khoáng vật giống thạch anh.",
+          "stats": [
+            ["Lớp", "Dụng cụ viết ngoại lai (Budat)"],
+            ["Hiệu ứng", "+10 cho ghi chép bản vẽ/hiện trường (không nhòe)"],
+            ["Tiêu hao", "≈ 8-10 lần bẻ vạch cho hết một tinh thể"],
+            ["Giá", "≈ 6× bút lông+mực; mua được ở thương nhân Budat"],
+            ["Đặc điểm", "không sợ rung, mưa, băng giá"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Bản vẽ không nhòe. Địa hình ngủ yên. Thương nhân — không."
+        },
+        {
+          "name": "Bảng Sáp và Cây Stylos",
+          "specs": "**Loại:** Diptych gỗ với mặt sáp + stylos đồng | **Kích thước:** 18 × 12 cm diptych, 14 cm stylos | **Trọng lượng:** 220 g",
+          "desc": "Thói quen La Mã cũ vẫn sống ở Thành Phố. Các tấm gỗ gắn bản lề; mặt trong đổ sáp; viết bằng đầu nhọn stylos, xóa bằng đầu phẳng. Làm nháp — xóa bằng lòng bàn tay, hơ trên nến, và mặt lại sạch. Bảng mang đến trường, đến forum, đến chợ — mọi thứ không cần lưu vĩnh viễn viết trên đó. Tiết kiệm da, tiết kiệm mực, tiết kiệm thần kinh của người đọc vết mực của bạn sau này.",
+          "img": "",
+          "blurb": "Làm nháp, xóa, hơ. Mặt lại sạch.",
+          "stats": [
+            ["Lớp", "Ghi chép tái sử dụng"],
+            ["Hiệu ứng", "nháp, bài tập trường, tính toán phút"],
+            ["Đặc điểm", "mặt sáp làm mới bằng hơi nến"],
+            ["Độ bền", "1 diptych ≈ 2-3 năm dùng tích cực"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Cái gì không trên da — không phải mãi mãi."
+        },
+        {
+          "name": "Cuộn Da Sạch",
+          "specs": "**Loại:** Da bê thuộc dạng cuộn | **Kích thước:** 30 cm × 4 m (cuộn «hợp đồng» tiêu chuẩn) | **Hạng:** I (cạo cả hai mặt) | **Trọng lượng:** 380 g",
+          "desc": "Mang trong ống da với nắp đồng và dấu sáp ở cổ. Cuộn hạng I — da cạo hai mặt đến mềm bán trong suốt, không lỗ mao mạch và không vết mỡ. Hợp đồng viết trên da như vậy sẽ qua ba thế hệ, hai cuộc chiến và một đám cháy: da khô nhưng không vụn, đọc được kể cả sau khi ngâm nước. Mua từ phường thợ thuộc da theo đơn đặt; hạng II và III rẻ hơn, nhưng cho hợp đồng nghiêm túc không lấy — trưởng phường không nhận.",
+          "img": "",
+          "blurb": "Qua ba thế hệ. Hai cuộc chiến. Một đám cháy.",
+          "stats": [
+            ["Lớp", "Phương tiện tài liệu (da)"],
+            ["Tuổi thọ", "≥ 100 năm trong điều kiện kho"],
+            ["Hiệu ứng", "hiệu lực pháp lý — phương tiện hợp đồng chính"],
+            ["Hạng", "I (hai mặt), II (một mặt), III (thô, học sinh)"],
+            ["Giá", "I — đắt; II — chấp nhận; III — rẻ"],
+            ["Yêu cầu tối thiểu", "không"]
+          ],
+          "vignette": "Khô. Không vụn. Nhớ."
+        },
+        {
+          "name": "Mực và Bút Cọ (bộ phương Đông)",
+          "specs": "**Loại:** Mực thanh đen, nghiên mực, bút cọ lông mềm | **Cung cấp:** Caliphate Budat | **Trọng lượng:** 180 g",
+          "desc": "Nhập từ phương Đông cùng bút khắc. Mực — thanh cứng muội nhựa, mài với nước trong nghiên đá. Bút cọ — mảnh, lông mềm, giữ đường từ chỉ tóc đến nửa cm. Thư ký phương Đông và thư pháp gia Thành Phố làm việc với bộ này: ký giấy chứng nghi lễ, viết hoa văn, ghi sổ nghi lễ các Nhà. Trong thư từ kinh doanh không dùng mực — không khô nhanh như «sồi», và vội thì nhòe.",
+          "img": "",
+          "blurb": "Giấy chứng nghi lễ, hoa văn. Vội thì nhòe, kinh doanh không dùng.",
+          "stats": [
+            ["Lớp", "Thư pháp phương Đông"],
+            ["Hiệu ứng", "+15 cho ghi chép nghi lễ/trang trí"],
+            ["Đặc điểm", "khô trong 1-2 phút — không phù hợp thư kinh doanh"],
+            ["Tiêu hao", "một thanh ≈ 200 tờ chữ nghi lễ"],
+            ["Yêu cầu tối thiểu", "đào tạo thư pháp (phương Đông)"]
+          ],
+          "vignette": "Sồi vì ông. Mực vì cháu."
+        }
+      ],
+      "setting": "ВГ"
+    }
+  ]
+}

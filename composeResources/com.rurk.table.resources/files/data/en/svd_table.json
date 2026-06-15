@@ -1,0 +1,512 @@
+{
+ "version": "0.2",
+ "calibration": "Calibration via «Vasya Pupkin» — the reference character: all attributes 45, all skills average (50). His ZPN for any check is ≈ 46. SVD 0 = an average task for him (~46% success), the anchor of the scale being an ordinary padlock. The impossible for Vasya starts at SVD ≈ 46. Type \"action\" is a self-sufficient difficulty of the action; \"modifier\" is a penalty that adds to the action.",
+ "entries": [
+  {
+   "id": "lock-padlock-simple",
+   "type": "action",
+   "category": "Locks & Breaking",
+   "name": "Pick an ordinary padlock",
+   "svd": 0,
+   "skill": "vzlom-zamkov",
+   "note": "Anchor of the scale. For Vasya — average task (~46%)."
+  },
+  {
+   "id": "lock-mortise-simple",
+   "type": "action",
+   "category": "Locks & Breaking",
+   "name": "Pick an ordinary mortise lock",
+   "svd": 12,
+   "skill": "vzlom-zamkov",
+   "note": "Standard door lock — mortise is harder than padlock."
+  },
+  {
+   "id": "lock-padlock-hard",
+   "type": "action",
+   "category": "Locks & Breaking",
+   "name": "Pick a hardened padlock",
+   "svd": 20,
+   "skill": "vzlom-zamkov",
+   "note": "Pick-resistant lock. For Vasya ~26%."
+  },
+  {
+   "id": "lock-code",
+   "type": "action",
+   "category": "Locks & Breaking",
+   "name": "Crack a combination lock",
+   "svd": 25,
+   "skill": "vzlom-zamkov",
+   "note": "By ear or wear pattern on the buttons."
+  },
+  {
+   "id": "lock-electronic",
+   "type": "action",
+   "category": "Locks & Breaking",
+   "name": "Bypass an electronic lock",
+   "svd": 32,
+   "skill": "vzlom-elektronnyh-sistem",
+   "note": "Card or biometric access."
+  },
+  {
+   "id": "lock-mortise-hard",
+   "type": "action",
+   "category": "Locks & Breaking",
+   "name": "Pick a hardened mortise lock",
+   "svd": 48,
+   "skill": "vzlom-zamkov",
+   "note": "For Vasya impossible. Needs a specialist."
+  },
+  {
+   "id": "lock-safe-simple",
+   "type": "action",
+   "category": "Locks & Breaking",
+   "name": "Crack a simple safe",
+   "svd": 55,
+   "skill": "vzlom-zamkov",
+   "note": "Home/office safe. Only an experienced cracker."
+  },
+  {
+   "id": "lock-safe-bank",
+   "type": "action",
+   "category": "Locks & Breaking",
+   "name": "Crack a bank safe",
+   "svd": 72,
+   "skill": "vzlom-zamkov",
+   "note": "Vault. Even a master is helpless without equipment."
+  },
+  {
+   "id": "force-door",
+   "type": "action",
+   "category": "Strength & Body",
+   "name": "Kick down an ordinary door",
+   "svd": 0,
+   "skill": "rukopashnyy-boy",
+   "note": "Wooden door in one or two kicks — average for Vasya."
+  },
+  {
+   "id": "force-door-steel",
+   "type": "action",
+   "category": "Strength & Body",
+   "name": "Kick down a steel door",
+   "svd": 45,
+   "skill": "rukopashnyy-boy",
+   "note": "For Vasya impossible without tools."
+  },
+  {
+   "id": "climb-wall",
+   "type": "action",
+   "category": "Strength & Body",
+   "name": "Climb a drainpipe",
+   "svd": 10,
+   "skill": "alpinizm",
+   "note": "A low wall with grips."
+  },
+  {
+   "id": "climb-sheer",
+   "type": "action",
+   "category": "Strength & Body",
+   "name": "Climb a sheer wall",
+   "svd": 50,
+   "skill": "alpinizm",
+   "note": "Without gear — impossible for Vasya."
+  },
+  {
+   "id": "search-room",
+   "type": "action",
+   "category": "Search & Observation",
+   "name": "Search a room",
+   "svd": 5,
+   "skill": "obysk",
+   "note": "Find ordinarily hidden things."
+  },
+  {
+   "id": "search-hidden",
+   "type": "action",
+   "category": "Search & Observation",
+   "name": "Find an expertly hidden cache",
+   "svd": 30,
+   "skill": "obysk",
+   "note": "Professionally concealed."
+  },
+  {
+   "id": "spot-ambush",
+   "type": "action",
+   "category": "Search & Observation",
+   "name": "Spot an ambush",
+   "svd": 20,
+   "skill": "predostorozhnost",
+   "note": "Enemy professionally concealed."
+  },
+  {
+   "id": "track-fresh",
+   "type": "action",
+   "category": "Search & Observation",
+   "name": "Follow a fresh trail",
+   "svd": 5,
+   "skill": "ohota-i-vyslezhivanie",
+   "note": "Trail no older than an hour, soft ground."
+  },
+  {
+   "id": "track-cold",
+   "type": "action",
+   "category": "Search & Observation",
+   "name": "Follow a cold trail",
+   "svd": 35,
+   "skill": "ohota-i-vyslezhivanie",
+   "note": "A day old, hard ground."
+  },
+  {
+   "id": "firstaid-stop",
+   "type": "action",
+   "category": "Medicine",
+   "name": "Stop the bleeding",
+   "svd": 5,
+   "skill": "pervaya-pomosch",
+   "note": "Light or moderate wound."
+  },
+  {
+   "id": "firstaid-crit",
+   "type": "action",
+   "category": "Medicine",
+   "name": "Stabilise a dying person",
+   "svd": 30,
+   "skill": "polevaya-medicina",
+   "note": "Critical wound, minutes count."
+  },
+  {
+   "id": "diagnose",
+   "type": "action",
+   "category": "Medicine",
+   "name": "Make a diagnosis",
+   "svd": 10,
+   "skill": "terapiya",
+   "note": "Typical illness."
+  },
+  {
+   "id": "identify-poison",
+   "type": "action",
+   "category": "Medicine",
+   "name": "Identify a poison by symptoms",
+   "svd": 25,
+   "skill": "farmakologiya",
+   "note": "Common poison."
+  },
+  {
+   "id": "repair-simple",
+   "type": "action",
+   "category": "Technology",
+   "name": "Fix a simple mechanism",
+   "svd": 5,
+   "skill": "mehanika",
+   "note": "Familiar device, you have tools."
+  },
+  {
+   "id": "repair-complex",
+   "type": "action",
+   "category": "Technology",
+   "name": "Fix a complex piece of tech",
+   "svd": 30,
+   "skill": "mehanika",
+   "note": "Unfamiliar or damaged device."
+  },
+  {
+   "id": "hotwire",
+   "type": "action",
+   "category": "Technology",
+   "name": "Hotwire a car",
+   "svd": 15,
+   "skill": "elektronika",
+   "note": "Ordinary vehicle."
+  },
+  {
+   "id": "occult-common",
+   "type": "action",
+   "category": "Paranormal",
+   "name": "Identify a common entity",
+   "svd": 10,
+   "skill": "okkultizm",
+   "note": "Vampire, the turned — what is in ORPP bulletins."
+  },
+  {
+   "id": "occult-rare",
+   "type": "action",
+   "category": "Paranormal",
+   "name": "Identify a rare entity",
+   "svd": 40,
+   "skill": "okkultizm",
+   "note": "For Vasya almost impossible."
+  },
+  {
+   "id": "light-bright",
+   "type": "modifier",
+   "category": "Lighting",
+   "name": "Bright daylight",
+   "svd": 0,
+   "note": "No interference."
+  },
+  {
+   "id": "light-dusk",
+   "type": "modifier",
+   "category": "Lighting",
+   "name": "Dusk",
+   "svd": 5,
+   "note": "Outlines blurred."
+  },
+  {
+   "id": "light-dark",
+   "type": "modifier",
+   "category": "Lighting",
+   "name": "Darkness with a weak source",
+   "svd": 15,
+   "note": "Flashlight, moon, reflections."
+  },
+  {
+   "id": "light-pitch",
+   "type": "modifier",
+   "category": "Lighting",
+   "name": "Pitch darkness",
+   "svd": 35,
+   "note": "Without night-vision — by guess."
+  },
+  {
+   "id": "light-blinding",
+   "type": "modifier",
+   "category": "Lighting",
+   "name": "Blinding light in the eyes",
+   "svd": 15,
+   "note": "Sun, headlight, flash."
+  },
+  {
+   "id": "weather-rain",
+   "type": "modifier",
+   "category": "Weather",
+   "name": "Rain",
+   "svd": 5,
+   "note": "Reduced visibility, slippery."
+  },
+  {
+   "id": "weather-wind",
+   "type": "modifier",
+   "category": "Weather",
+   "name": "Strong wind",
+   "svd": 10,
+   "note": "Bends trajectory, drowns out hearing."
+  },
+  {
+   "id": "weather-storm",
+   "type": "modifier",
+   "category": "Weather",
+   "name": "Storm or blizzard",
+   "svd": 22,
+   "note": "The elements against you."
+  },
+  {
+   "id": "weather-temp",
+   "type": "modifier",
+   "category": "Weather",
+   "name": "Extreme heat or frost",
+   "svd": 12,
+   "note": "Hands stop obeying, sweat floods the eyes."
+  },
+  {
+   "id": "range-pointblank",
+   "type": "modifier",
+   "category": "Shooting: Distance",
+   "name": "Point-blank shot",
+   "svd": -20,
+   "note": "Hard to miss."
+  },
+  {
+   "id": "range-medium",
+   "type": "modifier",
+   "category": "Shooting: Distance",
+   "name": "Medium range",
+   "svd": 8,
+   "note": "Within effective range."
+  },
+  {
+   "id": "range-long",
+   "type": "modifier",
+   "category": "Shooting: Distance",
+   "name": "Long range",
+   "svd": 20,
+   "note": "At the edge of effective range."
+  },
+  {
+   "id": "range-extreme",
+   "type": "modifier",
+   "category": "Shooting: Distance",
+   "name": "Extreme range",
+   "svd": 38,
+   "note": "Beyond the rated range."
+  },
+  {
+   "id": "shoot-moving",
+   "type": "modifier",
+   "category": "Shooting: Conditions",
+   "name": "Target is moving",
+   "svd": 12,
+   "note": "Running or evasive target."
+  },
+  {
+   "id": "shoot-cover",
+   "type": "modifier",
+   "category": "Shooting: Conditions",
+   "name": "Target in partial cover",
+   "svd": 12,
+   "note": "Silhouette half visible."
+  },
+  {
+   "id": "shoot-cover-full",
+   "type": "modifier",
+   "category": "Shooting: Conditions",
+   "name": "Target behind cover, part visible",
+   "svd": 28,
+   "note": "Head over the wall."
+  },
+  {
+   "id": "shoot-dual",
+   "type": "modifier",
+   "category": "Shooting: Conditions",
+   "name": "Two-handed shooting without Ambidexterity",
+   "svd": 15,
+   "note": "With the «Ambidexterity» advantage — no penalty."
+  },
+  {
+   "id": "shoot-running",
+   "type": "modifier",
+   "category": "Shooting: Conditions",
+   "name": "Shooting on the run",
+   "svd": 22,
+   "note": "Your own movement throws off aim."
+  },
+  {
+   "id": "shoot-aim",
+   "type": "modifier",
+   "category": "Shooting: Conditions",
+   "name": "Careful aim (one round)",
+   "svd": -12,
+   "note": "A whole round spent only on aiming."
+  },
+  {
+   "id": "phys-wound-light",
+   "type": "modifier",
+   "category": "Character Condition",
+   "name": "Light wound",
+   "svd": 3,
+   "note": "Bleeding, distracting."
+  },
+  {
+   "id": "phys-wound-heavy",
+   "type": "modifier",
+   "category": "Character Condition",
+   "name": "Heavy wound",
+   "svd": 12,
+   "note": "Pain and blood loss."
+  },
+  {
+   "id": "phys-wound-crit",
+   "type": "modifier",
+   "category": "Character Condition",
+   "name": "Critical wound",
+   "svd": 25,
+   "note": "On the edge of consciousness."
+  },
+  {
+   "id": "phys-exhausted",
+   "type": "modifier",
+   "category": "Character Condition",
+   "name": "Severe exhaustion",
+   "svd": 12,
+   "note": "Stamina at zero."
+  },
+  {
+   "id": "phys-drunk",
+   "type": "modifier",
+   "category": "Character Condition",
+   "name": "Drunk or drugged",
+   "svd": 15,
+   "note": "Alcohol or substances."
+  },
+  {
+   "id": "tool-wrong",
+   "type": "modifier",
+   "category": "Tools & Setting",
+   "name": "Wrong tool for the job",
+   "svd": 15,
+   "note": "Not what professionals use."
+  },
+  {
+   "id": "tool-improv",
+   "type": "modifier",
+   "category": "Tools & Setting",
+   "name": "Improvised tool",
+   "svd": 28,
+   "note": "A hairpin instead of a lockpick."
+  },
+  {
+   "id": "tool-none",
+   "type": "modifier",
+   "category": "Tools & Setting",
+   "name": "No tool at all",
+   "svd": 45,
+   "note": "Bare hands where a tool is needed."
+  },
+  {
+   "id": "tool-rush",
+   "type": "modifier",
+   "category": "Tools & Setting",
+   "name": "Hard time pressure",
+   "svd": 15,
+   "note": "Seconds counting."
+  },
+  {
+   "id": "tool-noise",
+   "type": "modifier",
+   "category": "Tools & Setting",
+   "name": "Strong distracting noise",
+   "svd": 6,
+   "note": "Roaring, shouting, sirens."
+  },
+  {
+   "id": "tool-ideal",
+   "type": "modifier",
+   "category": "Tools & Setting",
+   "name": "Ideal conditions and time",
+   "svd": -18,
+   "note": "Quiet, well-lit, everything at hand, no one rushing you."
+  },
+  {
+   "id": "soc-friendly",
+   "type": "modifier",
+   "category": "Social",
+   "name": "Interlocutor is friendly",
+   "svd": -15,
+   "note": "On your side."
+  },
+  {
+   "id": "soc-wary",
+   "type": "modifier",
+   "category": "Social",
+   "name": "Interlocutor is wary",
+   "svd": 12,
+   "note": "Suspicious, keeps distance."
+  },
+  {
+   "id": "soc-hostile",
+   "type": "modifier",
+   "category": "Social",
+   "name": "Interlocutor is hostile",
+   "svd": 28,
+   "note": "About to snap."
+  },
+  {
+   "id": "soc-language",
+   "type": "modifier",
+   "category": "Social",
+   "name": "Language barrier",
+   "svd": 22,
+   "note": "Almost no common tongue."
+  }
+ ]
+}

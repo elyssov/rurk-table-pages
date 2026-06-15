@@ -1,0 +1,1181 @@
+{
+ "chapters": [
+  {
+   "id": "prolog",
+   "title": "Prologue: What This Game Is About",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "16:9",
+     "caption": "The Eternal City — panorama at sunset",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "A steel stiletto enters a patrician's ear — and the slender blade reaches the brain. A marionette with a long nose and burning eyes crumbles into silvery ash that does not reach the floor. In the catacombs of the Eternal City, malefic Craabas del Baarbos removes rings — another year of life bought by another's death.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "On the other edge of reality — in another world, in another time — an ORPP operative grips the service GSh-18 tighter and pushes the cellar door. Behind it — not a human. Behind it — that which had pretended to be a human for three months, until children began to vanish in Nizhny Novgorod. The torch beam tears out of the darkness a face that smiles too wide — wider than anatomy permits.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Two worlds. Two genres. One system of rules.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "RURK is not a story about a particular world. It is a language in which any story can be told. A universal engine that describes equally precisely a gladius-strike on a bronze shield and a Bizon burst in a dark corridor. The die-roll — the same. The math — the same. The adrenaline — the same.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "In this app you will find the rules. Tables. Formulas. A character generator that counts everything for you. A skill catalogue with search. A die-roll with a hint of what exactly you are checking. Everything for the game — in one screen. But before you press the first button — we want you to understand something important.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Rules are the skeleton. The flesh is you. Your decisions, your mistakes, your victories earned not by cheese but by sweat and blood (even if imagined). RURK is built so that your hero is a living person, not a set of optimised numbers. A person who can be a brilliant surgeon and absolutely helpless in a street fight. Who shoots like a god with a pistol — but misses with a sniper rifle, because that is a different skill, different hands, different nerves. Who can lift a hundred kilos — but won't run the hundred metres in twelve seconds, because the muscles that lift and the muscles that run are different muscles.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "That isn't a bug. That is the feature. The single and the main one.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Welcome to RURK.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Roll dice. Make choices. Live.",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "chast-pervaya",
+   "title": "Part One: The Hero",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "9:16",
+     "caption": "An ORPP operative at the doors of an abandoned building",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chapter 1. Who are you?",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The captain of the Lower City watch stood in the rain and thought that he was forty years old. By the watch's standards — already an old man. The polished steel breastplate he had worn with pride twenty years ago now pressed on his shoulders differently — not by the weight of metal but by the weight of emptiness. He caught villains. Took bribes. Was honest — insofar as that word has meaning in the Lower City at all. He was known. He was feared. He was respected.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "And still — at night he talked with the City. Complained about a fate that had never quite given him his chance.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The City listened. The City loved a good joke.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The captain's wishes are about to come true…",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "A hero is not a set of numbers. Numbers are a tool, not the goal. Before you spend the first point, answer three questions for yourself:",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Who is this person?** Not «warrior, level five» and not «mage, intelligence 18». Who is he? Where from? What has he seen? Whom has he lost? For what is he ready to die? What does he fear more than death?",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**What does he want?** Not «to grind experience». What does this living person you hold in your hands want? The watch-captain wanted a feat. The young thief wanted to survive. The Kesarevna wanted freedom. The malefic wanted one more year. They are all heroes. None of them is a «set of stats».",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**What is his price?** Every choice costs something. A captain who put it all into strength and stamina — won't shine in salons. A scholar who spent his life over books — will not survive a hand-to-hand. RURK does not give you everything. RURK forces you to choose. And every choice — is a story.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Character creation: basics",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "You have **460 points**. That is everything the world gave your person from birth to the start of play. His body, his mind, his nerves, his reaction, his willpower, his charm, his senses — all of it is paid out of this pool.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "An average human is 40–55 in each attribute. A hundred is the human ceiling, available to a few. Below twenty — serious limitations. Below ten — disability.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "460 points across eight attributes. Do the math: if you want to be outstanding everywhere (80 in each), you need 640. You have 460. Choose. What is more important for your person — fast feet or a sharp mind? A tough body or a strong will? Charm or perception?",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "There is no right answer. There is your answer.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Basic attributes — summary table",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chapter 2. The Body",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Strength",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "A Child of Ice came ashore. Alone, as always. The rest waited on the bark — angular, fearful, as if cut out of unmelting ice. Two metres sixty in height. White hair. Eyes — blue as the sky frozen into ice.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The merchant asked him to help carry a barrel. The Northerner looked at the barrel, looked at the merchant — the way one looks at a child asking to take an apple from a branch — and lifted the two-hundred-pound cask onto his shoulder with one hand.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The merchant dropped his purse.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The Northerner pulled out of his pouch a ruby the size of a fist. Tapped it on the counter, listening. Squeezed it in his palm. Strained a little. Poured onto the counter a dozen smaller rubies and a little cloud of ruby dust.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "«This — for the barrel,» he said.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The merchant sat down on the floor.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Strength is not an abstract «combat might». It is specific kilograms that your muscles can lift, carry, hold. It is the blow that has mass behind it. It is a handshake that can break bones. Or cannot — if your Strength is 30, you will not break anything except a pencil.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Strength determines: how much you can jerk-lift, how much you can carry ten kilometres, and what damage bonus you get bare-handed. At Strength 40 the bonus is zero — average person, average punch. At Strength 80 — your fist adds +5 to damage. At Strength 100 — +9. That is the difference between «hit and stunned» and «hit and broke the jaw».",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "But Strength demands a body. At high Strength values minimum Toughness rises — you cannot be a wisp with smith's arms. Physics will not permit.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Strength — derived parameters",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Toughness",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "A Sea Legion soldier removed his helmet and wiped blood from his brow. The trireme had just boarded a smuggler — a small fight, ten minutes, nothing serious. But one of the pirates had caught him with a knife across the ribs, and now the wound throbbed in time with his heartbeat.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The centurion examined the cut. «A scratch. Stitch it and tomorrow you'll be in the line.»",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Tomorrow. The legionary knew the centurion was right. His body knew how to mend itself — faster than most. Cuts closed in days, bruises dissolved in hours. Twenty years of oars and boardings had tempered him to a state where a knife across the ribs was indeed a scratch.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Toughness is the safety margin of your body. Hits. Regeneration. Stamina. Mass.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "It is the most «defensive» attribute: it determines how many hits you take before unconsciousness, how fast your wounds heal, and how long you last at the edge of endurance.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Hits in RURK are not abstract «life points». They are distributed across the body. Each body part has its own safety margin, calculated from your global hits. The head is more vulnerable than the legs. The groin — more vulnerable than anything. That is not convention — that is anatomy.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Regeneration — how many hits you restore per day. At Toughness 50 — two hits per day. A heavy wound heals for a week. At Toughness 100 — five hits, and the same wound will heal in three days. With a good surgeon — faster. Without medical help — slower and with complications.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Stamina — your endurance pool. You can run, fight, row, carry the wounded — until stamina runs out. When it does — you fall. Not from a wound, not from a blow — because the body said «enough».",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Toughness — derived parameters",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Coordination",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Malefic Craabas sat motionless. Eight rings lay in a jadeite casket, each in its recess. The litany was long, complex, and every syllable had to be pronounced flawlessly. One mistake — and the demon in the doll wakes early. Another mistake — and the ring burns the finger instead of going onto it.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Craabas's fingers did not tremble. Never. In thirty years of practice — not once. A malefic with trembling fingers is a dead malefic.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Coordination is precision. Not force, not speed — precision. The ability to put the needle where it needs to go. To press the trigger smoothly without jerking. To draw the scalpel along the line, not next to it. To insert the lockpick and turn it — without breaking it.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Coordination is in almost every skill connected with the hands: shooting, fencing, surgery, repair, lockpicking, painting, music. A character with low Coordination may know the theory perfectly — but his hands will let him down.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Coordination — bonus to precise actions",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Speed",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The witch of the Archipelago stood on the deck of her clipper — barefoot, because boots interfered with feeling the deck. The wind hit her face. The winged cat sat on the perch above her head, ears flat — not from fear, from pleasure.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The customs barge was half a mile off. The witch placed a hand on the wheel and turned slightly — the clipper obediently slid right, cutting the wave. Two hulls. Sixty feet. One woman at the wheel.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "She could have hired a crew. But a crew is people who react in a second. And the witch, through her familiar, felt the wind a tenth of a second before it changed direction. Between a second and a tenth — an abyss. Into that abyss fits a life.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Speed is not «running». It is the speed of muscle contraction. The speed of a signal travelling from brain to hand. The speed at which you have time to react to a knife flying at your face.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Speed determines initiative in combat — who strikes first. It determines how many action points you get per round. It determines whether you dodge or are caught standing.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "But Speed limits Toughness: a very fast person cannot be infinitely massive. A sprinter's muscles and a heavy-lifter's muscles are antagonists. At Speed 90, your maximum Toughness is 50. You want to be fast — you have to be light.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Speed — derived parameters",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Charm",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The Kesarevna came out to the envoys in a dress the colour of a thundercloud sky. She was sixteen. The envoys averaged over fifty. They had come to deliver the groom — chosen by the Patricians, not by her.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "She smiled. Not the smile taught by tutors — she had sent those away a year before. A different one. The one the Great Library teaches, if you read the right books.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "An hour later the envoys left the throne hall firmly convinced that the wedding should be postponed — and that this had been their own idea.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Charm is not beauty. Beauty is a special case. Charm is the impression you make. The voice. The bearing. The gaze. The ability to fill a room without saying a word. Or the opposite — the ability to become invisible, insignificant, the-one-no-one-will-remember.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Charm at 30 — people give you a wide berth. At 50 — they don't notice. At 70 — they listen. At 100 — you enter a room and the room changes.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Charm works both ways: high Charm gives a bonus to first impressions — but can also be used as a modifier against an opponent's courage check. If you face a two-metre brute with Charm 90 who looks at you as if deciding — kill now or after lunch — your Spirit may waver.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Charm — bonus to first reaction and to communication",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Intelligence",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The ORPP operative sat over a report. Three missing children in a month. District — the industrial estate at the outskirts. All three — from dysfunctional families. The police had closed the cases as runaways.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "He reread the witness statements for the fourth time. Got out the map. Pins. Threads.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Three points. Three times. Three routes.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "And — a fourth point that no one noticed because no one looked. An abandoned collector. Equidistant from all three points of disappearance. Perfect geometry.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The operative closed the report. Pulled the GSh-18 from the safe. Checked the magazine — eighteen armour-piercing 7N31. Then the second magazine — silver and cold iron. For what was in the collector. If it was alive at all.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Intelligence not only helps to solve the problem. Intelligence tells you when to stop solving — and start acting.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Intelligence is thinking. Not «knowledge» — thinking. Knowledge lives in skills. Intelligence is the speed with which you apply that knowledge. The depth at which you analyse. The ability to see what others miss.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "But the main thing Intelligence does — it sets the ceiling of your skills. How many skills you can master, and to what level. At Intelligence 50 (IQ 100, the average human) — one expert skill, three high, eight medium, twenty low. At Intelligence 100 (IQ 200) — five expert, eight high, eighteen medium, forty low. A genius can hold more — because the brain fits more.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Intelligence 75 and above unlocks access to psionics — if the master allows the paranormal module. A mind able to bend reality must be powerful enough not to break in the process.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Intelligence — IQ, skill limits, psi-power",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Perception",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The Senior Inquisitor of Ordo Maleficarum stood in a dark room and listened. Not with ears — with something else. With the thing that had woken thirty years ago in a twelve-year-old girl who had seen the dark devour her family. And had not screamed — had remembered.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The room was empty. At least to ordinary eyes.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The Inquisitor slowly raised a hand. Pointed a finger at the corner.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "«There,» she said.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The guards struck with pickaxes. Beneath the plaster a hiding place was revealed. In the hiding place — a casket. In the casket — eight recesses for rings.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Seven were empty.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Perception is the senses and observation. Not visual acuity in itself — but the ability to see what matters. To hear the false note in a witness's statement. To smell sulphur in a room where it should not be. To notice that one book on the shelf stands a touch deeper than the rest — because behind it is a hiding place.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Perception has no derived table of its own — but it enters almost every skill. Shooting, surveillance, medicine, caution, tracking, searching, insight — the eye is needed everywhere. A character with low Perception may be a theory-master of his trade, but in the field he will miss the obvious.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Spirit",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The legionary stood in the breach in the wall. Behind him — forty wounded who had not been evacuated in time. In front of him — darkness, from which came sounds that should not come from the dark. Wet, smacking, hungry.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "He was afraid. Very. His knees shook. His hands trembled on the sword's hilt. His stomach clenched into a fist.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "He did not run.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Not because he was unafraid. Because behind him were forty people who could not run. And because his centurion, killed an hour earlier, had once told him: «Courage is not the absence of fear. Courage is being afraid and standing. Cowardice is being afraid and running. The difference is in the feet.»",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The legionary checked that the feet were where they should be.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Standing.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "All right then.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Spirit is will. Not physical endurance — that is Toughness. Not reason — that is Intelligence. Spirit is what stops you running when running would be reasonable. What makes you get up after the third knockdown. What lets you look into a demon's eyes and not look away.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Spirit determines leadership — the ability to lead people. It determines Grace — a resource for spiritual classes. And it determines the courage check: a d100 roll, and if you fail — your character runs, vomits or faints. Regardless of what you, the player, would like to do. Because fear is real. And overcoming it is a skill that also needs to be trained.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Spirit — leadership, grace, courage check",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "chast-vtoraya",
+   "title": "Part Two: What You Can Do",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "9:16",
+     "caption": "The sniper «Lastochka» on a rooftop",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chapter 3. Skills",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The young thief glided along the wall. A shadow among shadows. The Guild of Subtle Arts taught not to run — to swim. Not by water — by air, by stone, by moonlight. To be where you are not expected, and not to be where they are looking.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "He was the best of his graduating class. The youngest Master in a century. Mother — a port whore. Father — unknown. All he had was hands that never trembled, eyes that saw in the dark, and a debt to the Grandmaster of Life-Takers, lost at cards.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Before him was the Great Library. The contract read: enter, take, leave. It did not read: survive.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The thief knew thirty-two ways to open a lock. Twelve ways to bypass a guard. Seven ways to cross a trap without touching the triggering mechanism. And not one way to walk past an Inquisitor of Ordo Maleficarum if she sees you.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Because for that you need a different set of skills entirely.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "A skill is what you have learned. Not what you were born with — that's what attributes are for. A skill is years of training, study, practice, mistakes and scars that turned your natural ability into a professional craft.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "In RURK there are many skills. Deliberately many. Because the world is complex, and there are no universal people. A surgeon who operates on the brain is not a field medic stitching wounds under fire. A sniper who shoots from a kilometre is not a rifleman working in a building. A diplomat who persuades rationally is not a seductress who persuades with a smile.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Each skill is tied to specific attributes. And here the system's magic begins.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**ZPN formula:** the skill-check value is the arithmetic mean of the linked attributes and the skill level. Not the sum. The mean.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "That means: if your Coordination is 80, Speed 80, Perception 80, and the «Pistols» skill at Expert level (100) — your ZPN = (80+80+80+100)/4 = 85. You hit 85% of the time.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "But if your Perception is 20 (half-blind) — ZPN = (80+80+20+100)/4 = 70. One weak link — and the whole chain has weakened.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "That is why you cannot be good at everything. That is why minmaxing does not work. That is why your hero is a living person with a biography, not a spherical warrior in a vacuum.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Skills file — rurc_skills_v1.1.md",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "How it works at the table",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "You want to pick a lock. The master says: «Skill — Lockpicking. Attributes: CO + INT + PER. Calculate ZPN.»",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "You calculate: Coordination 65, Intelligence 70, Perception 55, skill High (75). ZPN = (65+70+55+75)/4 = 66.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "You roll d100. 42 came up. 42 < 66 — the lock is open.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "What if 3 came up? Critical success — the lock is opened silently, in half the usual time, and along the way you noticed it had a secondary mechanism.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "What if 97 came up? Critical failure — the pick has broken inside. The lock is jammed. Now even a key won't help.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "What if 66 came up? Partial completion — the lock is open, but with a crunch. Someone might have heard.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "And now add: darkness (SVD −10), rain (SVD −5), guard twenty paces away (SVD −5). Your ZPN drops from 66 to 46. The same lock, the same thief — but the circumstances are different. And the odds — different.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "That is RURK. Not «I automatically open locks because I'm a thief.» But «I am a thief, and usually I open locks, but tonight there is rain, darkness, and I am very, very frightened, because around the corner is an Inquisitor.»",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "chast-tretya",
+   "title": "Part Three: Combat",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "16:9",
+     "caption": "Sea Legion — boarding",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chapter 4. When words run out",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The steel beak of the trireme entered the smuggler's side with a crunch that set teeth on edge on both ships. Grappling hooks flew — locked the vessels together. Storming ladders crashed onto the deck. And the sandals of the Sea Legion thudded on the wood.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Not slaves sat at the oars. You do not give a slave a weapon. Combat brothers — a hundred men who had just been rowing and now were killing. The hold is narrow: you do not tire crossing ten versts at the oar. But in combat — a hundred more swords.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The centurion was first onto the enemy deck. Shield forward. Gladius — short, because on a deck you cannot swing a long blade. The first strike — to the throat of a pirate who had not raised his cutlass in time. The second — a shield to the face of his comrade. The third…",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "There was no third. Combat on the deck lasted sixty seconds. Twelve pirates. Four dead. The rest — on their knees.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The Sea Legion does not take prisoners. The Sea Legion takes taxes.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "And here is a fight one thousand eight hundred years later. A basement near Moscow. Cultists try to summon an Ancient God. On the altar lies his partner — stripped and painted with ochre and henna in known signs, signs that begin to make her body mutate before his eyes. Around — two dozen cultists, mostly with edged weapons. He has a GSh-18 and pyrokinesis.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The first takes a round between the eyes. The second — a flare from his left hand into the chest; the cultist is wrapped in flame, tries to run, falls in two seconds. The third — a brief look and a quiet «Burn»; the Brownian motion of every molecule in the cultist's body jumps to a thousand degrees at once, as a single flash.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "One more shot — a cultist with a dagger spits on an expansive round, flails his arms before himself and falls. ESP feels a movement from behind — the operative turns just a touch faster than necessary, and a psychokinetic shove drives a cultist with a sickle not into the chest but smears him on the stone wall hard enough to crack the wall.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "After sixty seconds he stands alone amid twenty bodies. His partner on the altar is no longer breathing. The operative lowers the GSh-18, walks over, covers her with a cloak, carefully lifts her. In a thousand eight hundred years the noise of combat has not changed. The weapons have.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Combat in RURK is no abstraction. Not «I attack, he defends, subtract hits». It is seconds in which everything is decided: who struck first, where the blow landed, whether the armour was punched, how deep the blade entered, whether the wounded man lost consciousness from pain-shock, and whether he has enough blood to last till the medic.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**A round** lasts 5 seconds. That is little. Very little. In 5 seconds you can die three times.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Combat in RURK is synchronous. No turn-by-turn moves. The round begins with the **programming phase**: each — both players and the master for his NPCs — secretly and simultaneously writes the actions of his fighter within his AP. «Run to the door, fire at the one by the window, kneel.» No one sees the others' programs.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "If you are playing in the ORPP app — programs are recorded in a protected channel, opponents literally cannot see them. If combat is run verbally at the table — the master makes notes in his pad about NPC programs, or simply holds them in his head, and the players' declarations are accepted afterwards. Yes, the master can cheat. No, we hope he will not — it will simply spoil everyone's game. If you are uneasy — use the app.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Then — the **execution phase**. All programs are resolved at once, as if everything happened in the same real second. You killed an enemy — but if he had been pressing his trigger in the same second, his bullet still goes off. In combat people die simultaneously.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**One scale.** In RURK everything that is rolled is a d100. No d20 for penetration, no d10 for initiative, no d4–d12 for damage. One die. One scale. All skills and attributes — 1 to 100. All rolls — d100. The goal — that the player thinks not «which die to roll», but «what am I doing and what are the odds».",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Initiative** is not a queue. It is **interrupt**. While the system runs the round, two opponents may see each other for the first time around a corner — and at that moment the resolution freezes. **d100 + Speed bonus** for each; whoever rolls higher gets to rewrite the rest of his program. Whoever is slower carries out what he had planned a minute ago, when he didn't yet know what was behind the corner. You programmed «run down the corridor». Around the corner steps a man with a shotgun. Initiative — his. You run toward him because that is what was written. Honestly. And mercilessly.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Hit** — a skill-check with the weapon. d100 ≤ your ZPN with that particular sword, that particular pistol, in those particular conditions (SVD — situational verbose difficulty — added or subtracted by the master). Hit? Where exactly — decided by another d100 by body-area: hitting the broad chest is three times easier than the head. The head? Bad for the opponent. The leg? Less bad. The groin? Very, very bad.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Penetration** — d100 + the weapon's **AP** against armour **AC** + 50 (threshold). A steel sword (AP 60) against a leather jacket (AC 15) — almost certainly through: 60+50 = 110, you need d100 ≥ 65 (36% miss, 64% pierce). The same sword against plate (AC 90) — almost certainly not: 60+50 = 110, you need d100 ≥ 140, impossible. Against chain mail (AC 50) — fifty-fifty. Roll the die. Pray.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Damage** — d100 divided by calibre, plus modifier. A dagger — d100/25, around 1–4. A long sword — d100/15+2, around 3–9. A bastard — d100/10+4, around 5–14. A Kalashnikov — d100/9+3, around 4–14. SVD rifle — d100/7+4, around 5–18. ASh-12 — d100/5+5, around 6–25. Barrett — d100/4+6, around 7–31. A junk iron dagger — minus three, minus zero. A masterwork bulat bastard — plus five, plus thirty to penetration. The difference — like between a firecracker and a cannonball.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Shock** — d100 ≤ the weapon's **BR** + your **Toughness**. Failed? You lose consciousness. In the middle of combat. Sword still in hand. Because pain is real, and the body does not ask your permission when it decides to switch off.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "**Courage** — the same. d100 ≤ your SPIRIT + situation. Failed — your hero runs, vomits or faints. Regardless of what you, the player, wanted. Because fear is real. And overcoming it is a skill that also needs to be trained.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Phases of a combat action — summary",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Hit location — d100, area-weighted",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Severity of wound — consequences",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "chast-chetvertaya",
+   "title": "Part Four: Gear",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "9:16",
+     "caption": "Armoury: GSh-18 and two magazines",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chapter 5. What you kill with and what saves you",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The ORPP operative slid the magazine into the GSh-18. Armour-piercing 7N31 — eighteen rounds, nine by nineteen, the core punches Class III at fifty metres. A standard door — at a hundred. His «G-piece» — light, polymer, 580 grams without the magazine. The best pistol in the world, except for the milling that you have to sand by hand.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "But behind that door — not a man in body armour. Behind that door — that which had pretended to be a man.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The operative pulled the second magazine from the pouch. Bullets of forged cold iron in a silver jacket. Iarann fuar — iron the fire has not touched. Repeated cold-forging. For an average phantom one or two hits is enough: the creature flares with a fiery-yellow border around the entry-wound, the border runs across the body, and the body crumbles in black ash.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "One pistol. Two magazines. Two worlds.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "He inserted the silver one.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Weapons in RURK are not «sword +2». Each blade, each pistol, each crossbow has a set of characteristics that determine its behaviour in combat: damage, penetration, accuracy, rate of fire, weight, requirements on the user.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Material matters. A bronze sword loses to a steel one not because «bronze is worse» — but because steel pierces 20% better. Bulat — 30%. Caesar-alloy — 50%. Meteorite — 75%. The difference in material is the difference between «hit the armour and bounced off» and «sliced like butter».",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Quality of manufacture — from junk (penalty −3 to damage) to unique (+8 to damage and +15 to penetration). A junk sword is rusted iron picked off a corpse. A unique one is a blade forged by a master who spent a year of his life on it. The difference in combat is between life and death.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Armour is not just «subtract damage». Armour has a construction type (soft, semi-rigid, rigid), area of coverage (a vest protects the chest, not the legs), a structure (the armour itself has hits — it degrades from blows), and a weight (heavy armour slows you).",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Chain mail will save you from a cutting blow — but will dent from a mace. A cuirass will stop an arrow — but won't cover the arms. Full cavalry plate will protect everything — but you will move like a pregnant tortoise, with −30 to Speed and −20 to all skills tied to Speed.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Choose. Protection or mobility. As always in RURK — you cannot have everything.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Weapon tables — melee, ranged, firearms",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Armour tables — types, materials, quality",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Ammunition tables — for the high-tech module",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "chast-pyataya",
+   "title": "Part Five: Beyond the Veil",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "9:16",
+     "caption": "Malefic Craabas and the demonic doll",
+     "tone": ""
+    },
+    {
+     "type": "heading",
+     "text": "Chapter 6. Those who see through",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Craabas del Baarbos closed his eyes. Listened. Not with his ears — with what was behind them. With what sees the red, pulsing ribbon of life through three storeys of stone. With what senses another's fear as smell — sour, metallic, thick.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The demon in the doll was hungry. Always hungry. Craabas fed him others' souls — and the demon gave him time. Year by year. Soul by soul.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Once Craabas had been a student. Studied alchemy in a small laboratory at the Library. Then — a mistake. One. Not his — his teacher's. An explosion that killed six and burnt Craabas's left arm to the bone.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "The arm healed. For a certain price.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Thirty years have passed. Craabas long ago stopped counting how many souls had gone on his «subscription». Got used to it. Besides, his profession was always in demand.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Psionics is not magic. Not sorcery. Not a pact with a demon (that is another story, and it ends badly — ask Craabas). Psionics is the ability of the mind to act on reality directly. Without intermediaries, without rituals, without price — except one: burning out your own brain.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Psi-power is a resource. Finite. It is restored by sleep. And it is spent on everything: moving a stone, reading a thought, stopping a heart, slowing time, breaking matter into atoms and putting it together again.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Each psi-discipline is a separate skill with the formula INT + SPIRIT + PER. Three attributes. You need a powerful mind (INT) so as not to break. You need will (SPIRIT) so as not to lose control. You need perception (PER) to see what you act on.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "A psionic is no god. A psionic is a person who sees reality's code. And can write a couple of lines of his own. While the strength lasts. While the brain has not burnt out. Until the demon knocks at the door and proposes a better deal.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "tableRef",
+     "text": "Psionics — disciplines, costs, limits",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  },
+  {
+   "id": "epilog",
+   "title": "Epilogue: Your World",
+   "subtitle": "",
+   "blocks": [
+    {
+     "type": "illustration",
+     "text": "16:9",
+     "caption": "Meeting of two worlds — a crack in reality",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "You have read the rules. The tables. The formulas. You have learned how to calculate ZPN, how to roll for penetration, how to decide whether your hero survived a sword-stroke to the head.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Now forget all of it.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Not literally — you will need the tables again. But remember: rules are a language. The story is what you tell in that language.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "RURK can be a world of steel legions and demonic dolls. It can be a world of armoured personnel carriers and paranormal agents. It can be space opera, post-apocalypse, alternate history, cyberpunk, a western with dragons.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "The engine is one. The worlds — infinite.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "prose",
+     "text": "Roll the dice. Your hero is waiting.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "«I have brought them all today into your walls, Eternal City. The time has come for you to wake, my old friend.",
+     "caption": "",
+     "tone": ""
+    },
+    {
+     "type": "vignette",
+     "text": "Time for change…»",
+     "caption": "",
+     "tone": ""
+    }
+   ]
+  }
+ ]
+}

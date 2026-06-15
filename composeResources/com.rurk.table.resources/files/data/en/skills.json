@@ -1,0 +1,1567 @@
+{
+ "skills": [
+  {
+   "id": "pistolety-i-pp",
+   "name": "Pistols & SMGs",
+   "attrs": [
+    "COR",
+    "SPD",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Пистолеты, револьверы, пистолеты-пулемёты. Основное оружие ближнего и среднего боя.",
+   "vignette": "Khan jerked the Glock from the hip. The runner was tearing across the courtyard, weaving past cars, in a second would be round the corner. Ten metres. Fifteen. Khan didn't aim — pointed the barrel by sense and fired three times in a half-second. The first round took the runner in the calf; he went down on the second. The third round went into the wall above his head — a warning.\nKhan stepped over the body. The runner's face was in dirt. Khan didn't put away the pistol — kept it at his side. «Where's Yashin?» he asked quietly. The runner spoke.",
+   "desc": "Skill of holding a short barrel in the hand and putting rounds where they need to go, under conditions that rarely forgive a mistake.\n\n**Includes:** pistols (from PM to Desert Eagle), revolvers, submachine guns (Vityaz, MP5, PP-2000), service handguns and special variants (silenced SR-1, automatic APS Stechkin with stock-holster), holster work, double-tap groups, switching between targets, magazine changes one-handed, malfunction clearing under pressure, shooting from awkward positions (one knee, lying, off the off-hand), close-quarters shooting under one second, intuitive shooting without aimed sights.\n\n**Specifics mandatory:** at low levels you handle one familiar pistol confidently; at expert you switch any model in your hand, fire from any position, manage a malfunction in two seconds, and at +60 (Specialization) you put two rounds in a moving man at twenty metres in under a second.\n\n**ZPN scale:** beginner ~30 (a citizen with a small concealed-carry course), trained ~50 (a regular cop), professional ~70 (ORPP operative), master ~90+ (Khan).\n\n**Doesn't cover:** rifles, shotguns or sniper fire — that's other skills."
+  },
+  {
+   "id": "shturmovoe-oruzhie",
+   "name": "Assault Weapons",
+   "attrs": [
+    "COR",
+    "PER",
+    "STR"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Автоматы, штурмовые винтовки, карабины.",
+   "vignette": "Group «Beta» entered the entrance with three muzzles. Khmel — senior, with AK-12 — didn't stop at the door: kicked it with his boot and stepped straight in, a burst at the sounds. Behind him — Volkov, an inch to the right, second burst. Then the third — Kovalenok with the silent AS Val — finished off the survivor in the cupboard, two shots to the head.\nFour seconds. Three corpses. The squad didn't pause: kept moving along the wall, sector clearance, the next door.",
+   "desc": "Automatic mid-power weapons — the main tool of infantry from WWII to today.\n\n**Includes:** assault rifles (AK-74M, AK-12, AK-103, AK-15, M4A1, HK416), combat carbines (ADS dual-medium), bullpup-pattern weapons, work in single shot / burst / full auto, recoil control on full auto, switching from auto to single under load, reloading from various carrying systems, shooting from cover and on the move, indoor work at five to thirty metres.\n\n**Specifics:** at low levels — single shots, with effort. At average — bursts of three, recoil under control. At expert — work in any mode in motion, reload in two seconds, no jam under fire. At Specialization — clears a room of four in eight seconds, four rounds spent.\n\n**ZPN scale:** conscript ~35, soldier ~50, marine/spec ~70, ORPP assault group leader ~90.\n\n**Doesn't cover:** pistols/SMGs (Pistols & SMGs), heavy weapons (Support), sniper systems."
+  },
+  {
+   "id": "oruzhie-podderzhki",
+   "name": "Support Weapons",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Пулемёты, гранатомёты, огнемёты. Тяжёлое, требует силы.",
+   "vignette": "Drannikov from «Alpha» laid the PKM on the bipod at the corner of the building and held the gate for forty minutes. The cultists came at the gate in twos and threes. Drannikov let off four-round bursts, breathing out at every press of the trigger. Brass shells piled up on the asphalt by his right hand — like a pile of nuts at the foot of an oak.\nWhen the squad finished the cleanup inside and came out — by Drannikov lay six bodies of cultists and a hundred and sixty spent cases. Drannikov was nibbling at sunflower seeds from a pocket. «Two boxes left,» he said. «Want some?»",
+   "desc": "Heavy weapons of fire support — machine guns, single and crew-served.\n\n**Includes:** light machine guns (RPK-74M), single GP-machine guns (PKM, Pecheneg), heavy machine guns (Kord 6P50), work with bipods and tripods, belt-feed, barrel changes, ranging by tracer, suppressive fire, area work, coordination with a No.2 assistant gunner.\n\n**Specifics:** at low levels — single bursts from the bipod at known distance. At average — sustained suppressive fire, holding fire-sector for a squad. At expert — adjusting fire to a moving target by ear, ranging by tracer in three seconds, working in any position.\n\n**ZPN scale:** trained machine-gunner ~50, support specialist ~70, master ~90+.\n\n**Doesn't cover:** crew-served grenade launchers (Artillery), single weapons (Assault Weapons)."
+  },
+  {
+   "id": "snayperskoe-oruzhie",
+   "name": "Sniper Weapons",
+   "attrs": [
+    "SPR",
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Четыре атрибута: нужны хладнокровие, расчёт, точные руки, глаз. Элитный навык.",
+   "vignette": "Lastochka took the wind by the smoke from a chimney three kilometres away. Two clicks of the elevation drum. Half a click windage. A breath out. A pause. The trigger broke under her finger of itself.\nThe round travelled one and a half seconds. The target — a cult priest on the roof of a Moscow building — stopped speaking mid-sentence, because his upper jaw left the lower without explanation.",
+   "desc": "Aimed precision fire at distances at which the silhouette is no longer a man but a dot.\n\n**Includes:** bolt-action snipers (SV-98, Lobaev DXL-3), semi-auto snipers (SVD), silent snipers (VSS Vintorez, VSSK Vykhlop), heavy-calibre (Barrett M82A1), work with optical sights, ballistic calculation (wind, range, elevation, Coriolis), spotter work, camouflage and position preparation, breath control and trigger break, work with a spotter, two-shooter coordination.\n\n**Specifics:** at low levels — hits at 100–200 m from prepared rest. At average — 400 m on a moving man, calculates wind by visible factors (smoke, dust, grass). At expert — works to 800 m, hits in motion, takes the windage by tracer in two seconds. At Specialization (Lastochka) — a kilometre and a half on a sparrow.\n\n**ZPN scale:** marksman ~50, sniper ~70, spec-sniper ~90, master ~100+."
+  },
+  {
+   "id": "artilleriya",
+   "name": "Artillery",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Стационарные и мобильные орудийные системы.",
+   "vignette": "Forward observer Shilov from the rooftop dictated to «Alpha»: «AGS, target — concentration of cultists in the parade square. Square 47. Adjust three north, two east. Fire on signal.» Crew Lyovsky and Tsigankov at the AGS-30 on the staircase. Tsigankov adjusted by the indicator. Lyovsky waited.\n«Fire,» said Shilov on the radio.\nTwenty 30mm rounds in three seconds. The parade square became a vacant lot.",
+   "desc": "Crew-served and indirect-fire weapons — grenade launchers, mortars, hand-held anti-tank, automatic grenade launchers.\n\n**Includes:** hand-held grenade launchers (RPG-7V, RPO-A Shmel), automatic grenade launchers (AGS-30 Plamya), underbarrel grenade launchers (GP-25 Kostyor), mortars (60mm, 82mm), MANPADS (basic), ballistic calculation by table and angle, coordinates by map and laser rangefinder, coordination with a forward observer, crew safety, grenade types (HE, shaped-charge, thermobaric, smoke).\n\n**Specifics:** at low levels — single shots from a known range. At average — works to 500 m with adjustment. At expert — calculates first-shot fire from approximate coordinates, hits a vehicle on first shot. At Specialization — fires from cover at coordinates dictated by a spotter without seeing the target.\n\n**ZPN scale:** trained ~50, gun-crew ~70, ATGM specialist ~90."
+  },
+  {
+   "id": "energeticheskoe-oruzhie",
+   "name": "Energy Weapons",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Лазеры, бластеры, плазма. [ВТ] только для миров с соотв. технологиями.",
+   "vignette": "On the «Prometheus-2» station, when a swarm of micro-asteroids broke through the outer shell, gunner Volkonsky activated the energetic point-defence system. Eight beams converged on the incoming targets. Forty-two impacts per minute. The asteroids burned out in micro-flashes. The hull held.",
+   "desc": "Energy weapons — lasers, plasma, blasters, EMP. **[HT]** — for high-tech worlds.\n\n**Includes:** beam systems (laser carbines, plasma pistols), pulse weapons (EMP, electromagnetic disruptors), heat management, recharging in the field, dealing with optical interference, calculating beam attenuation in atmosphere/water, work in vacuum (in space — different rules).\n\n**Specifics:** at low — works through the sight at known range. At average — recharges in the field, deals with environmental interference. At expert — fires through optical obstructions (smoke, fog), aims by silhouette through a thermal mask.\n\n**ZPN scale:** trained user ~50, military specialist ~70, master ~90+."
+  },
+  {
+   "id": "legkie-klinki",
+   "name": "Light Blades",
+   "attrs": [
+    "SPD",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Кинжалы, стилеты, шпаги, рапиры, сабли. Скорость и точность важнее силы.",
+   "vignette": "In a Moscow back alley four bratva attacked an SiB operative. The operative had a Cherry knife and a year of close-blade training. The bratva had four switchblades and no manners.\nFor twelve seconds the operative held his ground. On the thirteenth, he disarmed the first one with a parry-and-cut to the wrist, took the knife into his left hand and stood with two blades. The bratva took two steps back. The operative did not advance — gave them the chance to leave. They did not leave. After eighteen seconds three lay on the asphalt. The fourth ran.",
+   "desc": "Light, fast blades — daggers, knives, rapiers, short swords. Speed and accuracy over force.\n\n**Includes:** daggers (combat, throwing), knives (combat, kitchen, ritual), rapiers and small-swords, work from a sheath/scabbard, work with a parrying companion (off-hand dagger), point-shooting throws (5–10 m), parries, ripostes, work in tight spaces (corridor, lift), shaping of the strike (cut, point, slash), work against an unarmed opponent and against a heavier weapon.\n\n**Specifics:** at low — a single straight thrust. At average — a series of three strikes with rotation, the off-hand dagger goes in the gaps. At expert — works against a swordsman with one rapier and a dagger, disarms, leaves the opponent alive if the brief says so.\n\n**ZPN scale:** street-fighter ~30, soldier ~50, fencing-master ~70, classical-school master ~90."
+  },
+  {
+   "id": "tyazhelye-klinki",
+   "name": "Heavy Blades",
+   "attrs": [
+    "STR",
+    "COR",
+    "SPD"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Мечи, бастарды, двуручники, палаши. Нужна сила для работы с весом.",
+   "vignette": "Cossack Mikhail Trofimovich Bogdanov at sixty-three was still working with a shashka. ORPP took him as an instructor — old-school cavalryman. The youngsters laughed.\nBogdanov demonstrated. Three operatives with foam sabres came at him simultaneously. In four seconds — three on the floor, foam sabres in the corners. Bogdanov sheathed his blade and said: «In motion, lads. In motion. Standing still you're a target.»",
+   "desc": "Heavy long blades — swords, sabres, bastards, two-handers, falchions.\n\n**Includes:** one-handed swords (gladius, broadsword, sabre), one-and-a-half-handers (bastard sword), two-handers (zweihänder, zweihendiger), sabres (Cossack shashka), falchions, work with shield (see Shield Fighting), strike at distance, parry-and-bind, footwork to power the strike, breaking of formations, single combat at duel range.\n\n**Specifics:** at low — straight cut. At average — five-strike combination with footwork. At expert — disarms in two strikes, holds a doorway against three. At Specialization — Cossack shashka master cuts in motion through a foe in armour.\n\n**ZPN scale:** legionnaire ~50, mercenary ~70, master ~90+, legend ~100+."
+  },
+  {
+   "id": "drevkovoe-oruzhie",
+   "name": "Polearms",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Копья, алебарды, бердыши, глефы. [Ф] в основном, но универсально для исторических сеттингов.",
+   "vignette": "Sergeant of the City Guard Aldo Velluti held the threshold of the Customs House. Two thugs with daggers tried to push past — Velluti's halberd flowered toward the first, the hook caught at the second's hat-brim and tore the head sideways. Both ended up on the floor.\n«One more?» asked Velluti calmly. The third went away on his own.",
+   "desc": "Pole weapons — halberds, glaives, spears, naginatas, pikes.\n\n**Includes:** spears (one-handed, two-handed, throwing), halberds and glaives, naginatas, pikes (in formation), thrust at distance, parry by the haft, the «push and break» tactic, work in formation, work against cavalry, hooking and bringing-down with a hook, transitions between strike-modes (cut/thrust/hook).\n\n**Specifics:** at low — straight thrust at range. At average — three-strike combination with rotation. At expert — holds a corridor against three. At Specialization — Vechny Gorod halberdier holds formation against cavalry.\n\n**ZPN scale:** militia ~30, professional infantry ~50, halberdier of the Eternal-City Guard ~70, master ~90."
+  },
+  {
+   "id": "udarnoe-oruzhie",
+   "name": "Bludgeoning Weapons",
+   "attrs": [
+    "STR",
+    "COR"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Булавы, молоты, кистени, дубины. Грубая сила + попадание.",
+   "vignette": "Riot officer Pakhomov broke up a brawl at the Cherkizovsky market with a rubber baton. Three drunk thugs lunged at him at once. Pakhomov did not pull a service pistol — drew the baton and worked: a strike to the wrist of the first (the bottle fell, the wrist broke), a strike to the kneecap of the second (the man went down), a strike to the neck of the third with the spine of the baton (a knockout, a controlled fall). Six seconds. Three on the asphalt. Pakhomov radioed: «Three subjects, ambulance, no casualties on the public side.»",
+   "desc": "Bludgeoning melee weapons — clubs, batons, hammers, axes, brass knuckles.\n\n**Includes:** hand-to-hand clubs and batons (police, telescopic, kubotan), war hammers, mauls and shabby-axes (a fireman's axe), pickaxes, brass knuckles and sap-gloves, work against armour (a blunt weapon does not bounce off chain), application zones (head, shoulder, knee), restraint without killing (police baton), non-lethal disarm.\n\n**Specifics:** at low — a straight blow at the head. At average — a series of three blows with steps. At expert — non-lethal disarm in one motion. At Specialization — a war hammer master breaks chain on the first strike.\n\n**ZPN scale:** street thug ~30, riot police ~50, professional bouncer ~70, master ~90."
+  },
+  {
+   "id": "metatelnoe-oruzhie",
+   "name": "Thrown Weapons",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Ножи, дротики, топоры, сюрикены.",
+   "vignette": "Tenin walked the corridor without a sound. Two guards at the doors did not turn. Tenin pulled two knives from the throwing harness, threw both in one motion — left and right hand simultaneously. Both knives entered between the second and third cervical vertebrae. Both guards sank — without a cry, without time to grab at the throat. Tenin walked between the bodies, took the keys from the belt of the right one and went on.",
+   "desc": "Thrown weapons — knives, throwing axes, shuriken, darts, bolas.\n\n**Includes:** throwing knives (combat, range up to 10 m), throwing axes (range up to 8 m), shuriken (range up to 5 m), darts (range up to 15 m), bolas (entanglement), tomahawks (combined: thrown and melee), single throw and burst (three knives in one motion), throwing on the move, throwing from cover, calculating distance by eye, accounting for wind and target movement.\n\n**Specifics:** at low — at 3 m to a stationary target. At average — to 8 m at a moving target. At expert — three knives in two seconds at three targets. At Specialization — a knife into a 5 cm gap in armour at 10 m.\n\n**ZPN scale:** circus performer ~50, professional thrower ~70, ORPP scout-specialist ~90."
+  },
+  {
+   "id": "strelba-iz-luka",
+   "name": "Archery",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Все типы луков. Сила для натяжения, точность для попадания.",
+   "vignette": "On the walls of the Eternal City during the Archipelago raid, the Turkish archer Suleyman ibn Ahmad shot three pirates in eight seconds. Each arrow into the eye-slit of the helmet. Distance — 120 metres. From horseback, in motion. The pirates fell from the deck of the schooner into the bay. Suleyman drew the next arrow.",
+   "desc": "Bow shooting — from the simplest stick-bow to compound (modern).\n\n**Includes:** simple bow (yew, ash), composite (steppe, Turkish), longbow (English yew), compound bow (modern, sport-and-combat), stringing and care, arrow types (broadhead, bodkin, blunt, special), shooting from horseback, shooting at moving targets, shooting in poor light, point-fire ranges and aimed.\n\n**Specifics:** at low — to 30 m at a still target. At average — to 70 m, ranging by sight, moving target. At expert — 150 m, three arrows in five seconds, from horseback. At Specialization — Turkish archer over 200 m, against wind.\n\n**ZPN scale:** beginner ~30, professional hunter ~50, archer of the Royal Guard ~70, Turkish-school master ~90+."
+  },
+  {
+   "id": "arbalety",
+   "name": "Crossbows",
+   "attrs": [
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Не требует силы для выстрела (только для зарядки, это время, не навык). Точность и глаз.",
+   "vignette": "Otto von Grimberg, second from a flat roof of a five-storey building in Tushino, in the dawn fog, took aim with his light crossbow. Below — a vampire, his second of the year. Holy-water bolt with silver tip. Otto pressed the trigger. The bolt travelled fifteen metres and entered the vampire's left eye. The vampire fell. Otto reloaded — six seconds — and prepared the second bolt, in case it was needed. Three hundred years of hunting had taught Otto: always have a second bolt ready.",
+   "desc": "Crossbows — from the simple to the modern.\n\n**Includes:** simple crossbow (light, hand-cocked), heavy (recurve, lever-cocked), siege (windlass-cocked), modern (compound crossbow), bolt types (steel-tipped, broadhead, special), reloading techniques, shooting from cover, special crossbows (silent, with optical sights), accounting for the strong drop on flat-fire weapons.\n\n**Specifics:** at low — at 40 m at a still target. At average — to 100 m, reloads in 6 seconds. At expert — 200 m, a modern compound with optics, reloads in 4 seconds. At Specialization — Otto von Grimberg's bolt with holy water and silver, into a vampire's eye at 80 m, in motion.\n\n**ZPN scale:** city militia ~30, professional hunter ~50, ORPP specialist ~70, hunter-master ~90+."
+  },
+  {
+   "id": "rukopashnyy-boy",
+   "name": "Hand-to-Hand (basic)",
+   "attrs": [
+    "STR",
+    "SPD",
+    "COR"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Инстинктивный бой без оружия: удары, толчки, захваты на уровне «подрался в баре». Не техника — выживание. Любой персонаж может махать кулаками; этот навык определяет, насколько эффективно. Без этого навыка (значение 0) персонаж дерётся с огромными штрафами. С ним — хотя бы не убьёт себя замахом. Это фундамент: все остальные боевые системы предполагают хотя бы низкий уровень базового рукопашного боя.",
+   "vignette": "Cadet Sergeyev, having completed the basic course in hand-to-hand, walked through a courtyard at night and was attacked by three thugs with knives. Sergeyev was not a specialist in martial arts — only the basic course. Six months earlier he would have died.\nNow he disarmed the first with a low kick and a wrist-lock, threw him into the second, knocked the third with an elbow to the temple and ran. Two of them survived. The third — woke up with a concussion. Sergeyev came back to the academy without a scratch and was put on the «promising cadet» list.",
+   "desc": "Basic hand-to-hand combat without specialisation. SR + CO + SP.\n\n**Includes:** basic strikes (jab, cross, kick), basic blocks, throws (judo simplified), grappling (BJJ basics), survival in a melee against multiple opponents, work in restricted clothing, work against an armed opponent, simple incapacitation techniques, working in restraint.\n\n**Specifics:** at low — defends in a one-on-one. At average — handles two opponents, disarms one of them. At expert — handles three, uses environment (chairs, bottles).\n\n**ZPN scale:** civilian ~30, conscript ~50, police trooper ~70, master ~90."
+  },
+  {
+   "id": "udarnye-edinoborstva",
+   "name": "Striking Arts",
+   "attrs": [
+    "SPD",
+    "COR",
+    "STR"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Бокс, кикбоксинг, муай-тай, каратэ (ударное). Работа в стойке: удары руками, ногами, коленями, локтями. Скорость доминирует — быстрый удар важнее сильного. **Сильная сторона:** дистанция, темп, нокаутирующая мощь. Хорош против одиночных противников в стойке. **Слабая сторона:** если самбист или борец переведёт бой в партер — кикбоксёр теряет 80% арсенала. На земле он рыба на суше. Также неэффективен в тесных помещениях, где нет места для ударов ногами.",
+   "vignette": "Light heavyweight Andreyev came out against a vampire in a closed gym. Vampire reaction — quadruple. Andreyev — sixteenth in the world ranking. The fight lasted four minutes. Andreyev did not knock the vampire out. But Andreyev was still standing. After the fight, when the vampire stepped back into the shadow at the back wall, Andreyev sat on the floor, breathing hard. «You're stronger,» he said. «But I'm not done. Come on.» The vampire did not come on.",
+   "desc": "Striking arts — boxing, kickboxing, Muay Thai, taekwondo, karate.\n\n**Includes:** specific styles, distance management, rhythm, working in tempo, combinations, defence by movement (slipping, weaving), kicks (kick-boxing, Muay Thai with knees and elbows), karate kata, classical-school forms, work in clinch (Muay Thai).\n\n**Specifics:** at low — competitive sparring. At average — first ring rank, knocks out an amateur. At expert — interregional level. At Specialization — world champion.\n\n**ZPN scale:** amateur ~30, candidate-master ~50, master ~70, world-level ~90+."
+  },
+  {
+   "id": "borba-greppling",
+   "name": "Wrestling / Grappling",
+   "attrs": [
+    "STR",
+    "TGH",
+    "COR"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Вольная и классическая борьба, дзюдо, бразильское джиу-джитсу (спортивное). Захваты, броски, удержания, переводы в партер, контроль на земле. ТЕЛ в формуле — потому что борец должен держать вес противника на себе и не уставать. **Сильная сторона:** контроль. Борец решает, где идёт бой — стоя или на земле. Может обездвижить противника без нанесения серьёзных травм. **Слабая сторона:** спортивная борьба не учит калечить и убивать. Против вооружённого противника или нескольких — проблема: пока контролируешь одного, второй бьёт.",
+   "vignette": "Sambist Volkov, ORPP operative, in interrogation took an opponent in a rear-naked choke from behind, sitting at the table. The opponent had reached for a knife under the table — Volkov saw it earlier than the opponent finished the motion. The choke went in clean: the opponent went out in seven seconds, woke up cuffed.",
+   "desc": "Grappling and wrestling — judo, sambo, BJJ, freestyle and Greco-Roman.\n\n**Includes:** throws (judo, sambo), holds and submissions (BJJ ground game), takedown defence (sprawl, whizzer), control on the ground (mount, side control), strangle-holds (rear-naked, triangle, guillotine), joint locks (armbar, kimura, kneebar), work against a heavier opponent, escape from holds, ground-and-pound transitions to striking.\n\n**Specifics:** at low — takedown to the ground in a fight. At average — applies a submission in three moves. At expert — chokes a heavier opponent in the first minute. At Specialization — world champion in his weight.\n\n**ZPN scale:** amateur ~30, candidate-master ~50, master ~70, world ~90+."
+  },
+  {
+   "id": "boevoe-sambo",
+   "name": "Combat Sambo",
+   "attrs": [
+    "STR",
+    "COR",
+    "TGH"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Советская/российская боевая система. Объединяет борьбу, удары и болевые приёмы с акцентом на нанесение повреждений. Броски с ускорением в пол. Захваты с переломом конечности. Ground-and-pound. Самбист танкует урон (ТЕЛ в формуле) и наносит структурные повреждения. **Сильная сторона:** универсальность (работает и в стойке, и в партере), способность калечить (целенаправленный перелом руки, ноги, выход на болевой), устойчивость к урону. Самбист в клинче нейтрализует преимущество ударника. **Слабая сторона:** требует близкой дистанции. Против нескольких противников — тот же недостаток, что у борцов. Система заточена под поединок, не под бой с группой. **Игровая механика:** при успешном захвате самбист может заявить целенаправленную атаку на конечность (перелом) — это прицельная атака на конкретную зону с модификатором навыка, не универсальная.",
+   "vignette": "Captain Sokol of «Alpha» disarmed a hostage-taker with a knife at the throat of a hostage in 0.4 seconds. Sambo combat instructor school. The strike was inhuman in speed: one motion fixed the knife wrist, the second motion swept the knife, the third motion put the body of the taker between Sokol and the hostage. The taker lived. The hostage — too. The knife — in Sokol's hand.",
+   "desc": "Combat sambo — the Russian military hand-to-hand school, mix of grappling, striking and weapons.\n\n**Includes:** all of sambo + striking (Western boxing) + work with knife (attack and defence) + work with stick + disarms (knife, pistol, rifle) + immobilization holds for arrest, force-multiplier strikes (with a knee, with an elbow, with the head), close-combat work in restraint and confined space (lift, car interior).\n\n**Specifics:** at low — basic course of conscript. At average — police level. At expert — special-forces level. At Specialization — instructor-school of FSB.\n\n**ZPN scale:** conscript ~30, marine ~50, FSB ~70, instructor-master ~90+."
+  },
+  {
+   "id": "kravmaga-sistemy-unichtozheniya",
+   "name": "Krav Maga / Destruction Systems",
+   "attrs": [
+    "SPD",
+    "COR",
+    "SPR"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Израильская кравмага, российский РОСС (в боевом варианте), филиппинские боевые системы, ножевой бой. Никакого спарринга. Никаких правил. Никакого «спорта». Единственная цель — противник должен перестать функционировать. Глаза, горло, пах, затылок, суставы в разрушительном направлении. ДУХ в формуле — потому что нужна готовность калечить и убивать без колебания. Секунда морального сомнения — и ты труп. **Сильная сторона:** скорость нейтрализации. Каждый удар направлен в уязвимую зону. Высокий шанс критического урона при успехе. Работает против вооружённых (разоружение + использование отнятого оружия). **Слабая сторона:** не умеет «работать мягко». Если задача — задержать, а не убить, кравмагист в невыгодной позиции. Нет спортивной борцовской базы — в затяжном борцовском поединке проиграет самбисту. Система заточена на первые 3–5 секунд боя.",
+   "vignette": "Israeli instructor Yaakov Shapiro, who had served twenty-three years in IDF special-ops, came to ORPP for an exchange. At the demonstration he asked four operatives to attack him simultaneously with rubber knives. In 1.6 seconds all four were on the floor. Two with broken thumbs (off-pattern grip on the knife). One — with a dislocated shoulder. One — with consciousness loss from a strike to the throat (a controlled non-lethal version of the lethal one).\nShapiro brushed himself off. «Krav maga is not a martial art,» he said. «It is a system of destruction. Do not confuse.»",
+   "desc": "Krav Maga / destruction systems — Israeli army, civilian self-defence, in extreme — destruction (not arrest, not subduing — destruction).\n\n**Includes:** instinctive defence (no thinking — body), disarm in motion, weak-point strikes (eyes, throat, groin, knee), work against multiple opponents, lethal techniques (against a vampire — to the heart, to the throat), psychological-action methods (intimidation, decisiveness), aggression-on-demand.\n\n**Specifics:** at low — basic civilian course (one session). At average — police level. At expert — IDF special operations. At Specialization — destruction-school instructor.\n\n**ZPN scale:** civilian course ~40, IDF ~70, instructor ~90+."
+  },
+  {
+   "id": "sistema-kadochnikova",
+   "name": "Kadochnikov System",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Русская военная система рукопашного боя. Принципиально отличается от всех вышеперечисленных: это не набор приёмов, а биомеханический подход. Боец анализирует движение противника и перенаправляет его энергию. Использует рычаги, углы, инерцию. ИНТ в формуле — потому что это мыслящая система: ты не запоминаешь 200 приёмов, ты понимаешь принципы и конструируешь ответ в реальном времени. ВО — потому что нужно читать тело противника до того, как он завершит движение. **Сильная сторона:** может использовать силу противника против него. Менее зависим от собственной СЛ, чем любая другая система. Эффективен против более сильных и тяжёлых. Хорош в тесных пространствах. **Слабая сторона:** требует высокого интеллекта (ИНТ в формуле сильно роняет ЗПН у тупых персонажей). Долго учится — реалистично только на высоком уровне. На низком/среднем уровне хуже прямолинейного ударника или борца, потому что не хватает автоматизма. **Игровая механика:** при успешной проверке может перенаправить атаку противника, используя его СЛ вместо своей для расчёта контрурона.",
+   "vignette": "Veteran instructor Mikhail Pavlovich Klyuyev, eighty-one years old, took a hand-to-hand demonstration session in ORPP. Three young operatives in full gear came at him from three sides. Klyuyev did not throw, did not strike, did not block. He moved by half a step — and all three found themselves on the floor in a manner that confused even themselves.\n«Don't fight strength,» Klyuyev said. «Use it.» The operatives stood up. Klyuyev moved by another half step. All three were on the floor again.",
+   "desc": "Kadochnikov System — Russian unconventional hand-to-hand: movement through resistance, work with mass, biomechanics of the body.\n\n**Includes:** redirection of impact (use of attacker's force), strikes through structure (the body delivers, the fist transmits), work in a fall and from the ground, escape from holds without strength (through biomechanics), weapon disarm by structure, work against a heavier opponent by displacement, work in cramped spaces, calmness as a basic state.\n\n**Specifics:** at low — basic mobility. At average — escapes from a hold without strength. At expert — works against a knife from any position. At Specialization — instructor of the school.\n\n**ZPN scale:** beginner ~30, advanced student ~60, instructor ~80, master of the school ~90+."
+  },
+  {
+   "id": "boevye-iskusstva",
+   "name": "Martial Arts (traditional)",
+   "attrs": [
+    "SPD",
+    "COR",
+    "SPR"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Айкидо, традиционное каратэ (ката), кунг-фу (ушу), тайцзи-цюань в боевом применении. Отличаются от ударных единоборств философским и оборонительным фокусом. ДУХ — дисциплина, контроль эмоций, готовность ждать. **Сильная сторона:** оборонительные бонусы. Мастер традиционного боевого искусства превосходен в защите, перехвате инициативы, контратаке. В поединке 1v1 — опаснейший противник, потому что ждёт ошибки и наказывает за неё. **Слабая сторона:** менее эффективен в хаотическом бою, в бою с несколькими противниками, в ситуации «бей первым или умри». Требует дисциплины, которая может мешать в грязной уличной драке.",
+   "vignette": "Shotokan master Hiroshi Tanaka, eighth dan, demonstrated the Bassai-dai kata in the ORPP gym. Three minutes thirty seconds of motion. The youngsters watched silently. After the kata Tanaka stood and looked at them.\n«Kata is not fighting,» he said through an interpreter. «Kata is a study. Real fighting is fast and ugly. Kata is slow and beautiful. The one who knows both — survives.»",
+   "desc": "Traditional martial arts — karate (Shotokan, Kyokushin), kung fu (various styles), aikido, jiu-jitsu (classical), taekwondo (ITF/WTF). Forms and katas, the codified school.\n\n**Includes:** katas of the chosen style, philosophy of the school, breath work, control of attacks (the kata says: not to kill, but to teach), tradition of meeting opponents, work with a weapon according to the school (bo, jo, tonfa, sai — for karate; jian, dao — for kung fu; bokken, jo — for aikido).\n\n**Specifics:** at low — three katas. At average — first dan. At expert — fifth dan. At Specialization — master of the school, his style.\n\n**ZPN scale:** student ~30, first dan ~50, master ~70, school master ~90+."
+  },
+  {
+   "id": "schitovoy-boy",
+   "name": "Shield Fighting",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Использование щита для защиты. Важен в [Ф], но применим в [ВТ] для спецподразделений с тактическими щитами.",
+   "vignette": "Centurion Gaius Marcius of the Tenth Legion held the threshold of the gate of Castrum Aurum with his shield. Twelve attackers tried to break through one by one. The first — into the iron rim of the shield, a step back. The second — the gladius from below, into the lower part of the belly. The third — edge strike with the shield, a knockout. By the end of the fourth Gaius was still on the threshold. The relief column from the second cohort arrived twenty minutes later. Gaius was bleeding from three minor wounds and had killed seven.",
+   "desc": "Shield combat — Roman tactic, Viking shield-wall, riot shield.\n\n**Includes:** types of shields (round, kite, scutum, riot), holding the shield (positioning, weight distribution, edge work), combinations with the sword/spear/baton, work in formation (shield-wall, testudo), one-on-one with a shield, edge strikes (the shield is a weapon, not just a defence), defence against arrows/bolts/throwing weapons.\n\n**Specifics:** at low — holds the shield in defence. At average — works in formation. At expert — holds the corridor against four. At Specialization — Vechny-Gorod legionnaire holds a formation against cavalry.\n\n**ZPN scale:** militia ~30, legionnaire ~50, centurion ~70, master ~90."
+  },
+  {
+   "id": "uklonenie",
+   "name": "Evasion",
+   "attrs": [
+    "SPD",
+    "COR",
+    "PER"
+   ],
+   "category": "Weapons & Combat",
+   "note": "Уход от ударов без щита и парирования. Лёгкая альтернатива тяжёлой броне.",
+   "vignette": "When a cultist with a Glock fired three shots at operative Yaroshenko at five metres, Yaroshenko was no longer in the place of the shot. He started moving before the trigger had broken — by the slight shift of the cultist's shoulder. Three rounds went into the wall behind. Yaroshenko closed the distance and disarmed the cultist with a wrist-lock. «You should have led the shot,» he said softly. «I led you.»",
+   "desc": "Combat dodging — getting out of the line of strike, of fire, of a thrown object.\n\n**Includes:** quick dodge (slip, drop, roll), use of environment (cover, walls, furniture), pre-emptive movement (reading the opponent's intent), going out of the line of fire of multiple opponents, dodging projectiles (knives, arrows, bullets at long range), work in low light, restrained dodging in a tight space.\n\n**Specifics:** at low — dodges one strike. At average — dodges a knife in motion. At expert — dodges a bullet at long range (predicts the shot by movement of the barrel). At Specialization — a Bruce Lee-style master in a corridor.\n\n**ZPN scale:** civilian ~30, soldier ~50, special forces ~70, master ~90+."
+  },
+  {
+   "id": "taktika",
+   "name": "Tactics",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPR"
+   ],
+   "category": "Tactics & Command",
+   "note": "Планирование и ведение боя на уровне отделения/взвода. Засады, манёвры, огневое взаимодействие.",
+   "vignette": "Group «Beta», six people, entered a three-storey detached house in which a possessed was holding a family: ground floor, first floor, attic. Commander Shilov surveyed the building, drew a quick scheme on the back of the operation sheet, broke the squad into three pairs.\n«Pair one — ground floor right via the kitchen, pair two — ground floor left via the porch, pair three (me + Volkov) — up the side fire-escape directly to the attic.» Forty-second sweep simultaneously on three levels. The possessed was waiting for them on the ground floor — and missed the third pair coming down on top of him through the attic. Eleven seconds — controlled, family alive, possessed in a body bag.",
+   "desc": "Planning and conducting combat at the squad / platoon / group level. Ambushes, manoeuvres, fire interaction, sectors, radio coordination.\n\n**Includes:** terrain and situation appraisal, mission-setting, distribution of squad roles (assault / cover / reserve), choice of formation (column, wedge, line), fire sectors, coordination of fire and movement, comms protocols, communication with the higher echelon, exit and evacuation plans, contingency planning for the unexpected.\n\n**Specifics:** at low — runs a four-man fire group in known terrain. At average — coordinates two groups in linked operation. At expert — runs a multi-axis operation with several groups. At Specialization — directs at the level of «Alpha» commander.\n\n**ZPN scale:** sergeant ~50, lieutenant ~70, captain ~80, ORPP group commander ~90+."
+  },
+  {
+   "id": "strategiya",
+   "name": "Strategy",
+   "attrs": [
+    "INT",
+    "SPR"
+   ],
+   "category": "Tactics & Command",
+   "note": "Оперативный и стратегический уровень. Кампании, логистика, большие операции.",
+   "vignette": "Colonel Stavrov spent two years planning the operation to dismantle the Great Scarlet Council in Moscow. On the office wall — a city map, on it three hundred and seventy pins, of three colours: red — confirmed members, yellow — suspected, green — neutrals on whom verification was being done. The campaign was executed over one and a half months in three phases — simultaneous strikes by twenty-three groups across nine cities and two countries. Three hundred and forty-three members of the Council were neutralised. Three escaped: one through Belarus into Lithuania, one to Iran, one to ground.",
+   "desc": "Operational and strategic level: campaigns, logistics, large operations, coordination of multiple groups and units over days / weeks / months.\n\n**Includes:** long-term planning, reconnaissance and analysis, resource and budget management, deployment of multiple groups, logistics chains, inter-service coordination, scenario planning, political-administrative aspects (working with ministries, agencies, foreign partners), operational security at scale.\n\n**Specifics:** at low — designs a week-long operation for two groups. At average — runs a month-long campaign across a region. At expert — runs a national-scale operation across multiple regions and agencies. At Specialization — Samoylov directing the dismantling of the Great Scarlet Council.\n\n**ZPN scale:** major ~70, colonel ~80, general ~90, ORPP director ~100."
+  },
+  {
+   "id": "liderstvo",
+   "name": "Leadership",
+   "attrs": [
+    "SPR",
+    "CHR"
+   ],
+   "category": "Tactics & Command",
+   "note": "Способность вести людей за собой. Отличается от запугивания — это вдохновение.",
+   "vignette": "When Lieutenant Yermakov took the squad in the haunted school, two minutes after the wounding of the commander, he didn't ask anyone if they were ready. Said: «We go.» And went first. The squad went after. Not because the order was correct. Because Yermakov had gone — and they could not stay.",
+   "desc": "Leadership: ability to lead people, give weight to one's word, motivate, hold the unit together in crisis.\n\n**Includes:** giving orders, holding morale in crisis, decision-making under pressure, distribution of responsibility, communication with subordinates and superiors, mediation of conflict in the unit, motivation by personal example, recognising people's strengths and weaknesses, public speaking before the unit.\n\n**Specifics:** at low — leads a four-man fire group. At average — leads a fifteen-man platoon. At expert — leads a unit of a hundred. At Specialization — by his name alone people enlist.\n\n**ZPN scale:** corporal ~30, sergeant ~50, lieutenant ~70, captain ~85, ORPP director ~95."
+  },
+  {
+   "id": "osadnoe-delo",
+   "name": "Siegecraft",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Tactics & Command",
+   "note": "Осада и оборона укреплений. [Ф] в основном, но применим и к штурмовым операциям [ВТ].",
+   "vignette": "Engineer Kazariny of the Eternal City Engineering Corps led the assault on the rebel castle in the Northern Mountains. Three weeks of preparation: mining the gate, towers, water-line poisoning, secret tunnel cut by miners under the wall. On the assault day three weak points cracked at once: the gate flew off the hinges from the mine, the tunnel disgorged a hundred storming infantry into the heart of the keep, and on the wall the tower-fall opened the lord's chambers. The castle fell in forty minutes. Kazariny received a medal for «application of three simultaneous methods of breach».",
+   "desc": "Siegecraft — capture and defence of fortified positions.\n\n**Includes:** assessment of a fortified position, drawing up assault and defence plans, mining and breaching (engineering), ladder and tower work, supply and water lines, smoke and noise screens, demoralisation tactics (display, propaganda), starvation siege, defence: fortification, supply, garrison rotation.\n\n**Specifics:** at low — assaults a single building. At average — handles a fortified compound. At expert — runs a city-scale siege. At Specialization — historical sieges of the Eternal City held thirty months.\n\n**ZPN scale:** lieutenant ~50, major ~70, colonel ~85, master of siegecraft ~95."
+  },
+  {
+   "id": "vyzhivanie",
+   "name": "Survival: (environment)",
+   "attrs": [
+    "INT",
+    "TGH",
+    "PER"
+   ],
+   "category": "Survival & Nature",
+   "note": "Лес, пустыня, горы, джунгли, арктика, город, космос — каждая среда отдельно. Знание опасностей, укрытий, воды, пищи.",
+   "vignette": "When the helicopter went down in the taiga and the group was without comms for four days, Lieutenant Borovikov forbade anyone to light a signal fire for the first day. «By night they fly over the search corridor with thermals,» he said. «By day they don't see smoke through the canopy.» For four days the squad ate the squirrels Borovikov knocked down with a hatchet (no firearms — the helicopter had burned), drank water from the spring he found by the local moss pattern, and slept in a lean-to of pine branches that he taught them to build in twenty minutes. They were found on the fourth night by thermal — by the small fire that Borovikov had lit exactly when the search rotor would be flying over them. Everyone alive.",
+   "desc": "Knowledge of hazards, shelter, water and food in a specific environment. **Each environment is a separate skill**: temperate forest, taiga, tropics, desert, mountains (above 2000 m), arctic, urban, ocean.\n\n**Includes:** finding water (filtration, condensation, melt), gathering food (edible plants, fishing, trapping), shelter (improvised, snow, sand, jungle), fire under any condition, signalling for rescue, navigation without instruments, conservation of warmth/coolness, medical self-help for environment-specific issues (hypothermia, dehydration, sunstroke, frostbite).\n\n**Specifics:** at low — survives 24 h in the chosen environment without equipment. At average — week-long autonomy. At expert — three weeks. At Specialization — survives in the environment indefinitely (taiga lifelong).\n\n**ZPN scale:** civilian ~30, scout ~50, professional ~70, master ~90+."
+  },
+  {
+   "id": "ohota-i-vyslezhivanie",
+   "name": "Hunting & Tracking",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPR"
+   ],
+   "category": "Survival & Nature",
+   "note": "Чтение следов, преследование, засады на дичь и людей.",
+   "vignette": "Sniper Perets walked two days on the trail of a sanguinophage through mixed forest near Tver. There were no tracks — the vampire glided, did not touch the ground. But Perets read by something else: by the slightly bent branches that he would have brushed past (at vampire height, two metres), by the temperature difference in the leaf-litter (a vampire is two degrees colder than the air, the leaves don't catch dew where he walks), by the small forest creatures that hid in his presence (mice, hares) and came out again in his absence. Perets caught up with the vampire at dawn of the third day at the den. The vampire understood that Perets had tracked him only at the last second.",
+   "desc": "Reading tracks, pursuit, ambushes on game and on men. INT + PER + SP: mind for interpretation, eye for detail, spirit for patience.\n\n**Includes:** reading tracks (prints, breaks, droppings, scrape), pursuit through varied terrain, ambush, predicting prey behaviour, signs of human presence (smoke, sound, smell), tracking through scent (with dogs), counter-tracking, reading old traces (a day, a week, a month), tracking of paranormal (different signs: temperature, energy traces).\n\n**Specifics:** at low — follows a fresh trail an hour old in soft ground. At average — a day-old trail on hard ground. At expert — a week-old trail by indirect signs. At Specialization — sees what isn't visible: a vampire's astral trail.\n\n**ZPN scale:** beginner ~30, hunter ~50, professional ~70, master ~90+."
+  },
+  {
+   "id": "orientirovanie",
+   "name": "Orienteering",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Survival & Nature",
+   "note": "Определение местоположения без GPS. Звёзды, солнце, местность, карты.",
+   "vignette": "When fog covered the squad in the woods near Vyborg and the compass had given up the ghost (a magnetic anomaly), Lieutenant Vorobyov led the group out by the angle of the slopes of the spruce branches (they grow denser on the south side), by the depth of moss on the trunks (always thicker on the north), and at night — by the few breaks in the cloud through which Polaris peeked. Eighteen kilometres in fog without a compass. Output point: thirty metres from the planned. The squad called him «compass-bearer» from that point on.",
+   "desc": "Orienteering — finding the way without GPS, by map, compass, sun, stars and signs.\n\n**Includes:** map and compass, calculating azimuth, accounting for declination, reading topographic maps, orienteering by sun and stars, by natural signs (moss, anthills, wind), reading terrain by elevation, plotting routes, accounting for distance and time, navigation in poor visibility (fog, blizzard, dark).\n\n**Specifics:** at low — by map and compass in familiar terrain. At average — without map by signs at known direction. At expert — full astral and natural navigation. At Specialization — feels north like an animal.\n\n**ZPN scale:** scout ~30, hunter ~50, special-forces sgt ~70, master ~90."
+  },
+  {
+   "id": "maskirovka",
+   "name": "Camouflage",
+   "attrs": [
+    "COR",
+    "PER",
+    "INT",
+    "SPR"
+   ],
+   "category": "Survival & Nature",
+   "note": "Камуфляж, сокрытие позиции, скрытное перемещение. Четыре атрибута — элитный навык разведчика.",
+   "vignette": "Sniper Lastochka set up at the edge of a Khrushchev rooftop. Two hours of preparation: rooftop dust over her ghillie suit, broken bits of tar paper around the muzzle, a hollow in the corner of the parapet for her right elbow. The OPI brought a thermal — at fifteen metres they saw nothing. At eight metres — they began to suspect. At three metres — they saw her right eye, open. Lastochka was already lining up the third shot.",
+   "desc": "Camouflage — disguise of personnel and equipment from observation (visual, thermal, sound).\n\n**Includes:** colour pattern of camo and concealment (forest, desert, urban, snow), use of vegetation and shadow, work with ghillie suits (snipers), masking heat signature (a thermal sheet, water-cooled), masking sound and smell (a cat-tail, scent neutraliser), masking position (no shimmer, no glints, no straight lines), masking equipment, work in poor light.\n\n**Specifics:** at low — survives a glance from 50 m. At average — survives a search with optics from 30 m. At expert — survives a thermal sweep from 50 m. At Specialization — sniper-master invisible at 20 m to professionals.\n\n**ZPN scale:** scout ~30, sniper ~50, ORPP sniper ~70, master ~90+."
+  },
+  {
+   "id": "verhovaya-ezda",
+   "name": "Horsemanship",
+   "attrs": [
+    "COR",
+    "SPD"
+   ],
+   "category": "Survival & Nature",
+   "note": "Лошади и аналоги. [Ф] в основном, но может применяться в любом сеттинге.",
+   "vignette": "Cossack Bogdanov rode his war-trained gelding Vorobey through three Moscow yards at full gallop, sabre in hand, after the runner. The runner had a Toyota Camry. Bogdanov had a horse. In the third yard the runner ran into a dead end. Bogdanov did not stop the gallop — leaped from the saddle and landed on the bonnet of the Camry. The runner forgot to start the engine.",
+   "desc": "Horsemanship — handling a horse in any condition.\n\n**Includes:** types of horses (riding, draft, war-trained), gaits (walk, trot, canter, gallop), control with reins and legs, jumping, rough-country riding, swimming with the horse, combat riding (a sabre, a lance, a bow from horseback), care of the horse (saddling, harness, feed), reading the horse (its mood, fear, fatigue), riding without saddle and bridle (Cossack school).\n\n**Specifics:** at low — sits a calm horse on level ground. At average — gallop on a war-trained, jumps obstacles. At expert — fights from horseback, recovers a horse in panic. At Specialization — Cossack-school master bareback in a saddle-less gallop.\n\n**ZPN scale:** rider ~30, cavalryman ~50, dragoon ~70, Cossack master ~90."
+  },
+  {
+   "id": "plavanie",
+   "name": "Swimming",
+   "attrs": [
+    "STR",
+    "TGH",
+    "SPD"
+   ],
+   "category": "Survival & Nature",
+   "note": "Базовое плавание.",
+   "vignette": "Black Sea Fleet special swimmer Mikhail Khovrin in storm conditions swam four kilometres to the shore from a damaged submarine. With a 30 kg load (the wounded comrade he was towing). Air temperature plus three. Water temperature plus eight. Wave height three metres. Swim time — two hours forty. On the shore, Khovrin did not bother breathing — went straight to the field doctor, said «Volodya is alive but needs warming, fast» and only then sank to his knees, refusing to fall.",
+   "desc": "Swimming — water survival under any condition.\n\n**Includes:** sport styles (freestyle, breaststroke, back, butterfly), swimming in rough water (current, waves), swimming in cold water (under 10°C — special techniques), long-distance swimming (kilometre and up), swimming with a load (boots, clothes, weapon), free-diving (without scuba) to fifteen metres, water survival (without supports for hours), rescue (towing, holds).\n\n**Specifics:** at low — 200 m freestyle on flat water. At average — kilometre with a load. At expert — five km in rough water with a wounded man. At Specialization — special-forces sea swimmer, ten km in a stormy sea with a 30 kg load.\n\n**ZPN scale:** civilian ~30, lifeguard ~50, marine ~70, special swimmer ~90+."
+  },
+  {
+   "id": "podvodnoe-plavanie",
+   "name": "Diving",
+   "attrs": [
+    "STR",
+    "TGH",
+    "SPR",
+    "COR"
+   ],
+   "category": "Survival & Nature",
+   "note": "С аквалангом или без. Дух — контроль дыхания и паника.",
+   "vignette": "Combat diver Sergeyev under the bridge in Kerch on a rebreather waited fourteen hours, breathing closed-circuit, with no bubbles to give him away. When the bridge mining task was ready and the surface squad had given the go-signal — Sergeyev set the charges in seventy minutes (water temperature plus six, hands worked by feel), exited by the planned vector four kilometres to the south. On the surface he was met by the boat. Total task time — twenty-one hours. The bridge stood till the day appointed.",
+   "desc": "Diving — work below the surface with apparatus or without.\n\n**Includes:** scuba diving (open-circuit), closed-circuit (rebreather, low signature), free diving (apnoea), gas mixes (air, nitrox, trimix), decompression and tables, work with combat tasks (mine clearance, sabotage, recon), work in cold water (drysuit), work in low visibility, underwater navigation, underwater communication (signals), underwater shooting (ADS, special).\n\n**Specifics:** at low — open-water scuba to 18 m. At average — 40 m, decompression, work in zero visibility. At expert — rebreather, trimix at 80 m. At Specialization — combat diver, twelve-hour task on the rebreather.\n\n**ZPN scale:** sport-diver ~30, professional ~50, combat-diver ~70, master ~90."
+  },
+  {
+   "id": "alpinizm",
+   "name": "Climbing",
+   "attrs": [
+    "STR",
+    "COR",
+    "TGH"
+   ],
+   "category": "Survival & Nature",
+   "note": "Скалы, стены, верёвки.",
+   "vignette": "When the ORPP needed to lower an operative on a rope down the side of the Federation tower from the eightieth floor (a cultist was barricaded with a hostage on the fifty-second), industrial climber and special-ops officer Sergey Kalinin descended fifty metres in two minutes by manual rappel, hanging by one carabiner, entered through the window at the fifty-second feet first (controlled fall into the building) and disarmed the cultist before he understood that someone had come in through the window.",
+   "desc": "Climbing — rock, ice, mountains.\n\n**Includes:** rock climbing (free, on rope), ice climbing (axe and crampons), mountaineering (combined), tackle and gear (rope, harness, jumar, descender, friends, hooks), belay (top, bottom, partner-belay), descent (rappel, descender), work in altitude (acclimatisation, hypoxia), rescue (extraction from a crevasse, stretcher-down), urban climbing (industrial alpinism, building work).\n\n**Specifics:** at low — climbs the wall in a gym. At average — third-class route in the mountains. At expert — winter ascent on a five-thousander. At Specialization — opens new routes.\n\n**ZPN scale:** beginner ~30, sportsman ~50, master of sport ~70, top-level alpinist ~90+."
+  },
+  {
+   "id": "rybalka",
+   "name": "Fishing",
+   "attrs": [
+    "SPR",
+    "PER"
+   ],
+   "category": "Survival & Nature",
+   "note": "Терпение и наблюдательность.",
+   "vignette": "Old Cossack Mikhail Trofimovich Bogdanov on the river Don fished with bare hands. Stood in the water to his knees, hand under a steep undercut bank, waited. Waited up to an hour. Then a pike came out of the dark — Bogdanov clasped it just behind the gills with two fingers and tossed it onto the bank. Twelve pike a day. «Hands, lads,» Bogdanov used to say. «With hands, no tackle. Tackle is the school for laziness.»",
+   "desc": "Fishing — catching fish under any condition.\n\n**Includes:** types of fishing (rod, fly, net, trap, harpoon, hand), fresh-water and sea, ice (winter), reading water (where the fish stand), tackle and bait, work without tackle (hand under a stone, makeshift trap), preparing the catch (cleaning, processing, drying, smoking).\n\n**Specifics:** at low — catches in known water by tackle. At average — anywhere by tackle. At expert — anywhere without tackle. At Specialization — by hand under a stone within a minute.\n\n**ZPN scale:** amateur ~30, professional ~50, taiga-hunter ~70, master ~90."
+  },
+  {
+   "id": "priruchenie-zhivotnyh",
+   "name": "Animal Handling",
+   "attrs": [
+    "SPR",
+    "CHR",
+    "PER"
+   ],
+   "category": "Survival & Nature",
+   "note": "Дрессировка, успокоение, работа с животными.",
+   "vignette": "Old kynologist Goncharov of ORPP trained the German shepherd «Drake» to track sanguinophages over a year. The dog was supposed to react to a particular trail-signature that a vampire leaves (a cold, sticky energy). Forty days of training. Then Drake was led to a confirmed vampire trail in the Botanical Gardens. The dog froze, lay on the ground and refused to go. Goncharov interpreted this as a confirmed alert: when the dog lay down — the vampire was within ten metres. The squad found the vampire in a tree above. Drake refused to come over until they took down the body. From then on Drake was always taken to vampire jobs. He never made a mistake.",
+   "desc": "Animal handling — handling, training and reading the behaviour of dogs, horses, birds-of-prey, exotic animals.\n\n**Includes:** dogs (training, working, combat, search), horses (training, work, war-trained), birds-of-prey (training, hunting, kennel work), exotic (bear, wolf, lynx, eagle), reading mood (anger, fear, sickness), first aid, professional-level care.\n\n**Specifics:** at low — handles a domestic dog. At average — trains a working dog (search, combat). At expert — handles wild animals. At Specialization — animals do «impossible» things on command.\n\n**ZPN scale:** owner ~30, professional ~50, master ~70, ORPP kynologist ~90."
+  },
+  {
+   "id": "vozhdenie",
+   "name": "Driving: ground",
+   "attrs": [
+    "SPD",
+    "PER"
+   ],
+   "category": "Transport",
+   "note": "Автомобили, мотоциклы, грузовики. Каждый класс — условно отдельно, но пересадка с легковой на грузовик — это СВД, а не отсутствие навыка. Обычный человек к 20 годам водит машину на бытовом уровне; навык нужен для экстремальных ситуаций (погоня, гололёд, боевое вождение). Мотоцикл — отдельно от автомобиля, другая физика. Без навыка мотоцикла на автомобильном навыке — большой СВД.",
+   "vignette": "Khan drove the night Moscow in a seven-series BMW as if Moscow were his personal property. Courtyards, alleys, exits onto the counter-flow — at the wheel he was not a driver, he was a part of the car. ORPP investigators twice tried to put a tail on him. Both tails lost him in three minutes — in his own city, with his own cameras, his own helicopters. Khan didn't know they were following. He simply drove like that.",
+   "desc": "Driving cars, motorcycles, trucks. SP + PER. The average person at 20 drives at a domestic level; the skill is for **extreme** situations — chase, ice, combat driving.\n\n**Specific:** chase (cutting and outpacing), ice and snow (recovery from a skid), combat driving (defence and ramming), evasion (pursuit, ambush), heavy traffic, off-road, motorcycle specifics (balance, speed, agility).\n\n**ZPN scale:** ordinary driver ~30, professional chauffeur ~50, ORPP combat driver ~70, master ~90."
+  },
+  {
+   "id": "vozhdenie-2",
+   "name": "Driving: heavy vehicles",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Transport",
+   "note": "Танки, БТР, бульдозеры, экскаваторы. СЛ — потому что рычаги тяжёлой техники требуют физической силы (особенно старая техника без гидроусилителей). В фэнтези — осадные машины, требушеты. Навык вождения легкового автомобиля не помогает — совершенно другая механика.",
+   "vignette": "When «Alpha» needed to break down the wall of a cult shrine, a BTR-82A was brought up by senior warrant-officer Kolosov. Kolosov had served on BTRs since '86 and knew them as a horseman knows his horse. He approached the brick wall at angle, took it diagonally so the wall would not slow the machine, and held the wheel exactly steady. The BTR took the wall and twenty metres of the inner courtyard before the engine slowed. The wall fell. The shrine was open. Kolosov reversed and parked outside.",
+   "desc": "Tanks, APCs, IFVs, bulldozers, excavators, heavy construction and special equipment. SR — heavy-vehicle controls are physically heavy, especially older ones without hydraulics. CO — precision of motion on large masses.\n\n**Specifics:** at low — operates a familiar machine on level ground. At average — works in difficult conditions. At expert — combat use under fire, awkward terrain. At Specialization — passes through a wall without losing the engine.\n\n**ZPN scale:** tractor driver ~30, military driver ~50, tank battalion driver ~70, master ~90."
+  },
+  {
+   "id": "pilotirovanie",
+   "name": "Piloting: (type)",
+   "attrs": [
+    "COR",
+    "SPD",
+    "INT",
+    "STR"
+   ],
+   "category": "Transport",
+   "note": "Гражданские летательные аппараты. **Каждый тип — отдельно:** одномоторный самолёт (Цессна), многомоторный самолёт, лёгкий вертолёт, транспортный вертолёт, гражданский лайнер. Пилот «Цессны» в кабине «Боинга 747» — как водитель «Жигулей» за штурвалом танкера. Формально один навык, но без переучивания — катастрофа. ИНТ в формуле — приборы, навигация, процедуры. СЛ — штурвалы ранних самолётов и вертолётов физически тяжелы. Четыре атрибута — пилот должен быть разносторонне развит.",
+   "vignette": "Mi-8 pilot major Antonov landed the helicopter in a clearing 15×15 metres in a Caucasian gorge in a downpour at night. The clearance from the rotor to the rocks of the gorge was 1.5 metres. Antonov landed by the noise of the rocks (sonar). The squad disembarked, took the wounded, the helicopter took off in the same way. The wounded was saved.",
+   "desc": "Aircraft and helicopters. **Each type is a separate specialisation**: helicopter (Mi-8, Ka-52), light plane (Cessna), transport (An-26), fighter (Su-27), spacecraft (separately — Space Piloting).\n\n**Includes:** flight in different conditions (rain, snow, wind, night), take-off and landing on prepared and unprepared runways, navigation, work with the dispatcher, aircraft systems (autopilot, navigation, defence), emergency procedures, formation flight, combat manoeuvres (for combat aircraft).\n\n**Specifics:** at low — flight in good weather. At average — flight in difficult weather, unprepared site. At expert — flight at the limits of the machine. At Specialization — combat use against tasks at the limit of physical possibility.\n\n**ZPN scale:** sport pilot ~30, line pilot ~50, special-ops pilot ~70, ace ~90+."
+  },
+  {
+   "id": "boevoe-pilotirovanie",
+   "name": "Combat Piloting: (type)",
+   "attrs": [
+    "COR",
+    "SPD",
+    "TGH",
+    "SPR",
+    "STR",
+    "PER"
+   ],
+   "category": "Transport",
+   "note": "**Шесть атрибутов — самый требовательный навык в системе.** Истребители, штурмовики, боевые вертолёты. **Каждый тип — отдельно.** Пилот Ф-16 не сядет в Ка-52 без переучивания. ТЕЛ — перегрузки до 9G, нужно не потерять сознание. ДУХ — готовность убивать и умирать на скорости звука. ВО — контроль воздушного пространства, обнаружение целей. СЛ — физическое управление на перегрузках. Это элитный навык: средний ЗПН будет низким, потому что шесть атрибутов размывают среднее. Только выдающийся человек может быть хорошим боевым пилотом. Именно так и задумано.",
+   "vignette": "Su-27 captain Ivanchenko in the Kola sky brought down two F-16s in three minutes in a 2-against-1 dogfight. The first — through energy-management manoeuvre: pulled into the vertical, lost speed, let the F-16 zoom past, fell on his tail, R-73 missile. The second — by knife-fight in the horizontal: rolled into the F-16's six on the second turn, R-73. Ivanchenko: «Energy and patience. The rest the machine will do.»",
+   "desc": "Combat employment of aircraft. **Each platform is a separate specialisation.**\n\n**Includes:** combat manoeuvres (loop, barrel-roll, scissors, breaking), weapon use (cannons, rockets, missiles, bombs), air-to-air combat, air-to-ground, work with target-acquisition systems, evasion of missiles (chaff, IR, manoeuvre), formation work, work under EW.\n\n**Specifics:** at low — controlled use of the simplest weapon. At average — handles a one-on-one against a similar machine. At expert — handles two-on-one. At Specialization — ace, eighteen confirmed kills.\n\n**ZPN scale:** combat pilot ~50, experienced ~70, ace ~90+."
+  },
+  {
+   "id": "morehodstvo",
+   "name": "Seamanship: (type)",
+   "attrs": [
+    "INT",
+    "SPD",
+    "PER"
+   ],
+   "category": "Transport",
+   "note": "Управление судами. **Типы:** малые парусные, большие парусные, моторные катера, крупные суда. Парусник и моторная яхта — совершенно разная физика. Шкипер парусной яхты не управится с контейнеровозом. ВО — ветер, течения, опасности. ИНТ — навигация, правила, маршруты.",
+   "vignette": "Captain Lorenzo dei Conti brought his three-masted galleon «Speranza» through the strait between two pirate squadrons of the Archipelago by night, on jib alone. Forty-two miles in seven hours. Not a shot fired. By dawn «Speranza» was thirty miles past the pirate cordon. The pirates saw nothing — the captain had read wind, current and clouds so accurately that the galleon went through a corridor in which the pirates were not looking.",
+   "desc": "Seamanship — handling ships of various types.\n\n**Includes:** sailing (yachts, sloops, schooners, square-riggers), motor vessels (boats, cutters, large), navigation by sea (with marine charts, sextant, GPS), reading weather and current, port manoeuvres, work in storm, knots and rigging, crew management, navigation by stars (in absence of GPS — see Marine Navigation).\n\n**Specifics:** at low — sport sailing in fair weather. At average — coastal cruising in any weather. At expert — oceanic, storm-handling. At Specialization — Eternal-City flotilla captain.\n\n**ZPN scale:** yachtsman ~30, navy mate ~50, naval captain ~70, master ~90."
+  },
+  {
+   "id": "kosmicheskoe-pilotirovanie",
+   "name": "Space Piloting: (type)",
+   "attrs": [
+    "COR",
+    "SPD",
+    "INT",
+    "PER"
+   ],
+   "category": "Transport",
+   "note": "[ВТ] для соответствующих миров. **Типы:** орбитальный челнок, межпланетный корабль, истребитель (если есть — это уже боевое космическое пилотирование по формуле боевого). ИНТ критичен — орбитальная механика контринтуитивна, человеческая интуиция «лечу туда, куда смотрю» не работает в космосе.",
+   "vignette": "On the «Prometheus-2», when one of the engines failed during the descent from Earth orbit, pilot Kondratyev brought the ship down to the planned strip without engine on the right side by re-distributing thrust between the left engine and the manoeuvring jets. The descent had to use one third more atmospheric braking — the heat shield held to the limit. Touchdown — twenty metres off centre. Ship saved.",
+   "desc": "Space piloting. **[HT]** — for high-tech worlds.\n\n**Includes:** atmospheric exit and re-entry, orbital manoeuvres (Hohmann transfer, plane change), docking and undocking, work with onboard computer, work in zero-g, emergency situations (hull breach, fire in zero-g, life-support failure), combat manoeuvring in space (different rules from atmospheric), interplanetary navigation (see Astronavigation).\n\n**Specifics:** at low — handles a shuttle to known parameters. At average — atmospheric re-entry to a moving site. At expert — combat manoeuvring in orbit. At Specialization — master at the limit of the engineering possibilities of the ship.\n\n**ZPN scale:** orbital pilot ~50, interplanetary ~70, ace ~90+."
+  },
+  {
+   "id": "fizika",
+   "name": "Physics",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Механика, оптика, термодинамика, электричество. Общая физика.",
+   "vignette": "When the dosimeter at the forensic on the ritual circle in Zelenograd went off the scale, Somov looked at the diagram lying inside the circle and said: «It isn't radiation. It is a static field of the order of a hundred kilovolts. The cultists assembled a high-voltage circuit. Don't go in — you'll get knocked down.» The squad re-deployed. The OPI later confirmed Somov's analysis: not radiation, an electric circuit with a paranormal element.",
+   "desc": "General physics: mechanics, optics, thermodynamics, electricity, waves, basics of quantum and relativistic. INT + PER.\n\n**Includes:** assessment of physical phenomena in the field, calculation of trajectories, ballistics, optics, heat transfer, electrical and electromagnetic effects, fluid mechanics, acoustic phenomena, evaluation of anomalies (paranormal-related — see Occultism).\n\n**Specifics:** at low — solves school-level tasks. At average — postgraduate. At expert — academic level. At Specialization — opens new directions."
+  },
+  {
+   "id": "yadernaya-fizika",
+   "name": "Nuclear Physics",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Атомная и субатомная физика, радиация, деление/синтез. Отдельно, потому что это опасные и узкоспециальные знания.",
+   "vignette": "When in the basement of an industrial estate the ORPP discovered a case with ampoules and the counter clicked like a machine gun, the only one who did not leave the room was Kurnikov — physicist from OPI. Kurnikov approached the case calmly, opened it without protective gear (which was useless against neutron flux anyway), looked inside and said: «Strontium-90. Half-life 28.8 years. Activity around 200 Curies. Dirty bomb. We carry it out gently, the ampoules cannot be damaged.» Kurnikov got 50 rem in 40 minutes. Lived to retirement. The bomb did not go off.",
+   "desc": "Atomic and subatomic physics, radiation, fission and fusion, radiochemistry. INT. A separate skill — because this is dangerous narrow specialised knowledge.\n\n**Includes:** diagnosis of a radiation threat, dose calculation, sources of radiation (alpha, beta, gamma, neutron), shielding, decontamination, ionising-radiation effects on humans, principles of nuclear weapons, dirty bombs and detection of them.\n\n**Specifics:** at low — handles a Geiger counter. At average — calculates dose and shielding. At expert — diagnoses a dirty bomb. At Specialization — works at design level of installations."
+  },
+  {
+   "id": "astrofizika",
+   "name": "Astrophysics",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Звёзды, космология, орбитальная механика. Нужна для навигации в космосе. [ВТ]",
+   "vignette": "On the night the meteor fell in the Tunguska forest, astrophysicist Tikhomirov calculated the trajectory from witness accounts in twenty minutes. Found the impact site to within four kilometres. The ORPP expedition went out next morning.",
+   "desc": "Astronomy and astrophysics. INT + PER. Stars, galaxies, cosmology, spectral analysis.\n\n**Includes:** celestial navigation, identification of celestial bodies, spectral analysis of light, calculation of orbits and trajectories of celestial bodies, predictions of astronomical events (eclipses, conjunctions), astrobiology basics, interpretation of phenomena (meteor, comet, asteroid)."
+  },
+  {
+   "id": "himiya",
+   "name": "Chemistry",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Органическая, неорганическая, аналитическая. Общая химия.",
+   "vignette": "OPI chemist Petrov by the smell of the residue at the crime scene identified a synthesis of methamphetamine in eight seconds. Two hours later he reproduced the technological scheme of the cooks from the residue. By the scheme the OPI located the laboratory — by the equipment that could produce that scheme.",
+   "desc": "General chemistry: organic, inorganic, physical, analytical. INT.\n\n**Includes:** identification of substances by reactions, synthesis of simple compounds, recognition of unknowns by smell/colour/reactions, recognition of poisons, analytical work in the field (kit), explosive chemistry (basics).\n\n**Specifics:** at low — school. At average — university. At expert — research level. At Specialization — Marie Curie of her field."
+  },
+  {
+   "id": "himiya-2",
+   "name": "Chemistry: Specialized Compounds",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Взрывчатые вещества, отравляющие вещества, экзотические материалы. Отдельно по тем же причинам, что и ядерная физика.",
+   "vignette": "When the OPI broke a cult laboratory, Petrov was looking for the synthesis chamber. He didn't find it. Looked again. Didn't find. Asked the squad to wait, and shut the air. Petrov stood, breathed in. Said: «The chamber is in the next room behind the wall. They synthesise here something that gives off mercury vapour. Two minutes more — and we leave.» The squad left in two minutes. Twenty minutes later — Petrov got a respirator and went back. Found the synthesis chamber for a substance that the OPI had not seen for forty years.",
+   "desc": "Specialised compounds — explosives, drugs, poisons, ritual substances. INT. A separate skill from general Chemistry — dangerous narrow knowledge.\n\n**Includes:** synthesis of explosives (TNT, RDX, plastic), drugs (alkaloid, synthetic), poisons (organic, mineral, biological), ritual substances (for the paranormal, when chemistry crosses occultism), counter-synthesis (destroy a clandestine lab)."
+  },
+  {
+   "id": "biologiya",
+   "name": "Biology",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Зоология, ботаника, экология. Полезна для выживания и медицины.",
+   "vignette": "OPI biologist Nikitina by the skin sample of the «Tunguska anomaly creature» reconstructed its diet, climate of habitat, age and immunity in 36 hours of analysis. Concluded: «A vertebrate of unknown order, cold-blooded, lifespan around 200 years, climate cool damp.» The ORPP knew where to look.",
+   "desc": "Biology: anatomy, physiology, ecology, microbiology. INT + PER.\n\n**Includes:** anatomy of humans and animals, physiology, ecology of habitats, microbiology and immunology, identification of organisms (plants, animals, fungi, microorganisms), biology of paranormal creatures (where canon allows — see Bestiary).\n\n**Specifics:** at low — school level. At average — university. At expert — research. At Specialization — opens new directions."
+  },
+  {
+   "id": "geologiya",
+   "name": "Geology",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Минералы, горные породы, тектоника. Полезна для выживания, горного дела, оценки ресурсов.",
+   "vignette": "Geologist Pavlov by a sample of clay on the boots of a corpse determined: «From a quarry in the Ramensk district, south wall. There are only three such quarries in Moscow oblast. Two are working, one is abandoned.» The ORPP found the body's path in the abandoned quarry.",
+   "desc": "Geology: rocks, minerals, tectonics, hydrogeology. INT + PER.\n\n**Includes:** identification of rocks and minerals, age dating of strata, prediction of earthquakes and volcanoes, search for water and useful minerals, paleontology basics, application in archaeology and forensics (soil analysis)."
+  },
+  {
+   "id": "matematika",
+   "name": "Mathematics",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Алгебра, анализ, статистика, теория вероятности, геометрия. Одним навыком — дробить нет смысла.",
+   "vignette": "Mathematician Khankhanyan of OPI by a statistical analysis of the disappearances of children in Moscow oblast over five years located a node in the Volokolamsk district — a 92% concentration. The local cult was discovered three weeks later.",
+   "desc": "Mathematics: algebra, geometry, analysis, statistics, discrete. INT.\n\n**Includes:** algebra and analysis, geometry and topology, theory of probability and statistics, discrete mathematics (combinatorics, graphs), numerical methods, applied math (cryptography, ballistics, modelling)."
+  },
+  {
+   "id": "yurisprudenciya",
+   "name": "Jurisprudence",
+   "attrs": [
+    "INT",
+    "SPR",
+    "CHR"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Право, суды, контракты, расследования. Дух — для принципиальности, Обаяние — для зала суда.",
+   "vignette": "ORPP legal counsel Solovyov by a regulation of '23 found the loophole that allowed the search of the residence of a deputy of the State Duma without a parliamentary committee's sanction. Three days of paperwork. The deputy was a cultist. The committee learned of the search post factum.",
+   "desc": "Jurisprudence: knowledge of laws, regulations, judicial practice. INT.\n\n**Includes:** criminal, civil, administrative law, judicial practice, drafting of documents, work with prosecutors and courts, knowledge of departmental regulations, knowledge of international law (where applicable)."
+  },
+  {
+   "id": "finansy",
+   "name": "Finance",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Бухгалтерия, инвестиции, аудит, экономика. ВО — внимание к деталям.",
+   "vignette": "OPI auditor Korobov for a month traced the money flows of a Moscow cult of «Children of the Underworld» through eight shell companies and three countries. Found the end account on Cyprus. Frozen $40 million.",
+   "desc": "Finance: accounting, audit, financial analysis, tax law. INT.\n\n**Includes:** accounting and audit, financial analysis, search for shadow money flows, money laundering (recognition), tax law and the search for tax fraud, work with banks and financial institutions."
+  },
+  {
+   "id": "istoriya",
+   "name": "History",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Знание прошлого. Может быть критически важно для оценки политических ситуаций и артефактов.",
+   "vignette": "ORPP historian Rumyantsev recognised the cult «Children of the Underworld» as a continuation of a Bulgarian heretical movement of the X century — by the pattern of three triangles on the floor of the prayer-house. From this recognition came the strategy of disclosure of the cult network.",
+   "desc": "History: world, of the state, military, of religions, of culture. INT.\n\n**Includes:** chronology and key events, source analysis, knowledge of military history, of religions and their schisms, of the history of paranormal phenomena (parallel to occult)."
+  },
+  {
+   "id": "teologiya",
+   "name": "Theology",
+   "attrs": [
+    "INT",
+    "SPR"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Знание религий, ритуалов, священных текстов. Доминантный навык для духовных классов.",
+   "vignette": "Father Nikita read the prayer of exorcism over a possessed by the Tikhvin pattern — the early Russian formula. The demon left the body in three minutes. The doctors said: «We've not seen this for thirty years.»",
+   "desc": "Theology and study of religions. INT + SP.\n\n**Includes:** dogma and theology of world religions, comparative religious studies, study of texts (Bible, Quran, Talmud, Veda, Tripitaka), heresies and sects, practice (liturgy, prayer, ritual), application against the paranormal (exorcism — see Occultism)."
+  },
+  {
+   "id": "okkultizm",
+   "name": "Occultism",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Знание сверхъестественного: мифология, ритуалы, нежить, магические традиции. [Ф] [П]",
+   "vignette": "OPI occultist Sheremetyev by three signs in a Moscow apartment (cold spot, soot pattern, smell of ozone) read out: «A type-three Hauntmaster, summoned through a Lower Cycle ritual three days ago, anchored on a child's belonging in the bedroom.» The ORPP found the anchor (a teddy bear) and burned it. The mansion died.",
+   "desc": "Occultism — knowledge of the paranormal: entities, rituals, artefacts, signs.\n\n**Includes:** classification of entities (the unholy, demons, fae, vampires), recognition of rituals by traces, work with artefacts (identification, neutralisation), reading the signs of paranormal presence, basic counter-rituals, history of occult schools."
+  },
+  {
+   "id": "lingvistika",
+   "name": "Linguistics",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Теория языка, дешифровка, изучение незнакомых языков.",
+   "vignette": "ORPP linguist Volynets by the dialect of a suspect identified Vyatka oblast (specific «o»-clearing in unstressed) and a particular age cohort (1960s, with phrases that left living speech by the '80s). Within an hour the suspect was identified by databases.",
+   "desc": "Linguistics: knowledge of language structure, etymology, ancient and modern languages. INT.\n\n**Includes:** comparative linguistics, ancient languages (Greek, Latin, Sanskrit, Old Church Slavonic), structural and historical linguistics, decoding of inscriptions, dialectology and accents (where the speaker is from)."
+  },
+  {
+   "id": "znanie-yazyka",
+   "name": "Language: (specify)",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Каждый язык — отдельный навык.",
+   "vignette": "OPI operative Suleymanov spoke seven languages at native level: Russian, Tajik, Uzbek, Farsi, Arabic, Pashto, Dari. In Central Asia could go anywhere. «You are not a stranger,» the locals would say. «You are one of us.»",
+   "desc": "Knowledge of a specific language — **each is a separate skill specialisation**. SP + INT.\n\n**Includes:** reading, writing, speaking, listening. Lower levels — phrasebook. Higher — fluent. At Specialization — native speaker, with idiom and slang."
+  },
+  {
+   "id": "literatura",
+   "name": "Literature",
+   "attrs": [
+    "INT",
+    "SPR"
+   ],
+   "category": "Science & Knowledge",
+   "note": "Знание и создание текстов. Может использоваться для подделки документов, написания пропаганды и т.д.",
+   "vignette": "ORPP investigator Yakovenko recognised in a suicide letter a citation from Mayakovsky's «How Are You?» — a citation that almost no one in modern Russia would notice. The signature of the «suicide» was thus checked: a poet would have written more clearly. The death was reclassified as murder. The killer was an editor at a literary house.",
+   "desc": "Literature: knowledge of world and national literary tradition. INT + SP.\n\n**Includes:** classic and modern literature, poetics, literary criticism, the cultural code (allusions, citations), application (recognition of cultic literature, literature as evidence in history)."
+  },
+  {
+   "id": "kompyuting",
+   "name": "Computing",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Technology",
+   "note": "Использование компьютерных систем, баз данных, интерфейсов. Пользовательский уровень и выше.",
+   "vignette": "When the ORPP Centre's database on sanguinophages crashed after a cyber-attack, and the technician was calling everyone in panic, the only one on site was Zorina from the data administration department. Zorina, without a coffee, opened a terminal, brought the database up from a backup in 47 minutes, traced the attack vector, sealed the hole. Then she had coffee.",
+   "desc": "General computer work: systems, networks, databases, administration. INT + PER.\n\n**Includes:** operating systems (Windows / Linux / macOS), server administration, networking (TCP/IP, routing, DNS), databases (SQL, NoSQL), virtualisation and containers, cloud platforms (AWS, Azure), CLI and scripting.\n\n**Doesn't cover:** writing software (Programming), security (Hacking)."
+  },
+  {
+   "id": "programmirovanie",
+   "name": "Programming",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Technology",
+   "note": "Написание кода, алгоритмы, архитектура ПО.",
+   "vignette": "When operative Gordeyev brought back from a search an encrypted hard drive with a ritual-murder case, the OPI's programmer Reshetnikov looked at the cipher, looked at the operating-system metadata, looked at the file headers. Said: «Lazy encryption. Cracks in a day on home equipment. Bring me a Mac, I'll do it on the train home.» He did. The hard drive opened.",
+   "desc": "Software creation: writing, debugging, optimisation, design. INT.\n\n**Includes:** programming in multiple languages (C/C++, Python, Java, Rust, JavaScript, Kotlin), software design, work with libraries and frameworks, debugging, optimisation, reading and modifying others' code, security in code."
+  },
+  {
+   "id": "haking-kiberbezopasnost",
+   "name": "Hacking / Cybersecurity",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPD"
+   ],
+   "category": "Technology",
+   "note": "Взлом и защита систем. СК — скорость реакции в реалтайм-противостоянии.",
+   "vignette": "When the OPI needed to break the bank that financed the Moscow cult, hacker Demidov sat at his terminal for three days. On the fourth day all the cult's transactions over five years lay in the OPI database. The bank still does not know about the breach.",
+   "desc": "Hacking and cybersecurity. INT + PER + SP — for the work needs flair, patience and nerve.\n\n**Includes:** pentest (penetration testing), reverse engineering, network attacks (intrusion, MITM, DNS-spoofing), exploitation of vulnerabilities, malware (creation and analysis), social engineering as part of an attack, cryptography (breaking), forensics (investigation of incidents), defence (firewall, IDS/IPS)."
+  },
+  {
+   "id": "elektronika",
+   "name": "Electronics",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Technology",
+   "note": "Схемы, платы, датчики, ремонт электронных систем. КО — пайка и тонкая работа.",
+   "vignette": "When the special bug in the form of a watch on a suspect's wrist needed to be deactivated without taking it off, OPI electronics expert Kuzin opened the case in nine minutes, found the radio module, disconnected the power supply via the bypass scheme. The suspect did not notice. The bug carried on broadcasting silence.",
+   "desc": "Electronics: circuits, components, signals. INT + KO.\n\n**Includes:** analogue and digital electronics, circuit design and reading, work with components (resistors, capacitors, microchips), repair of electronic devices, soldering and assembly, work with measuring instruments (oscilloscope, multimeter), simple programming of micro-controllers."
+  },
+  {
+   "id": "mehanika",
+   "name": "Mechanics",
+   "attrs": [
+    "INT",
+    "COR",
+    "STR"
+   ],
+   "category": "Technology",
+   "note": "Двигатели, механизмы, слесарка, ремонт машин. СЛ — физическая работа с тяжёлыми деталями.",
+   "vignette": "When «Alpha's» Tigr-2330 broke down in the Caucasian mountains, mechanic Sandzhiev got the engine running in 42 minutes from improvised parts (broken stamping replaced with a sleeve from a tin can, the bushing was a piece of cable insulation). The squad continued the operation.",
+   "desc": "Mechanical engineering: machines, mechanisms, repair. INT + KO + SR.\n\n**Includes:** car repair, machine and tractor work, work with hand tools and machines, fixing complex mechanisms, basic engineering drawing, fitter's work, making improvised mechanisms."
+  },
+  {
+   "id": "elektrotehnika",
+   "name": "Electrical Engineering",
+   "attrs": [
+    "INT",
+    "COR"
+   ],
+   "category": "Technology",
+   "note": "Силовые системы, проводка, генераторы, электросети.",
+   "vignette": "Building electrician Karpov rewired the unconfigured wiring in the office of an OPI cover-front in three hours. Sixteen sockets, four switches, the lighting on twelve circuits. Compliant. Tested. By the end of the day the office worked.",
+   "desc": "Electrical engineering: power supply, motors, transformers. INT + KO.\n\n**Includes:** wiring layout, work with high voltage (with safety), motors (electrical), transformers, work with switchboards, power systems for buildings and vehicles, electric drives, fault repair."
+  },
+  {
+   "id": "inzhenernoe-konstruirovanie",
+   "name": "Engineering Design",
+   "attrs": [
+    "INT",
+    "PER",
+    "COR"
+   ],
+   "category": "Technology",
+   "note": "Проектирование устройств, механизмов, систем. От часов до космических кораблей.",
+   "vignette": "OPI engineer Pirogov designed an exoskeleton for a paralysed operative in fourteen months. Three iterations. The third — works: the operative walks, holds a rifle, fires standing. The exoskeleton's full weight is 14 kg, the battery — 6 hours of work.",
+   "desc": "Engineering design: design of mechanical and electromechanical systems. INT + PER + KO.\n\n**Includes:** mechanical design (gears, levers, shafts), pneumatics and hydraulics, design of housings and assemblies, engineering drawing in CAD, prototyping, material selection (steel, aluminium, polymers), modelling and calculations."
+  },
+  {
+   "id": "nanotehnologii",
+   "name": "Nanotechnology",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Technology",
+   "note": "Работа на наноуровне. [ВТ] только для высоких ТУ.",
+   "vignette": "Researcher Vorontsov developed nano-particles capable of binding lead in the body. The first test subject of the OPI on stage-three lead poisoning was healed in eleven days. The technology went into mass production for the workers of the Moscow plant of «old assembly».",
+   "desc": "Nanotechnology. **[HT]** — for high-tech worlds. INT.\n\n**Includes:** nano-materials (carbon, silicon, polymer), self-assembling systems, nano-medicine, nano-electronics, design of nano-mechanisms, work with electron microscope and atomic-force microscope, manufacture of nano-products."
+  },
+  {
+   "id": "biotehnologii",
+   "name": "Biotechnology",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Technology",
+   "note": "Генная инженерия, клонирование, синтетическая биология. [ВТ] для высоких ТУ.",
+   "vignette": "OPI bioengineer Vetrov grew a layer of skin for the operative who had taken second-degree burns on 40% of the body. Time to grow — six weeks. Skin survived transplantation. The operative came back to service in nine months.",
+   "desc": "Biotechnology. **[HT]**. INT.\n\n**Includes:** genetic engineering, biomedical engineering, bioinformatics, work with cellular cultures, growing of organs and tissues, biopharmaceuticals (insulin, antibodies), gene therapy."
+  },
+  {
+   "id": "pervaya-pomosch",
+   "name": "First Aid",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Medicine",
+   "note": "Перевязка, остановка кровотечения, шинирование, СЛР, противошоковые мероприятия. Может быть у любого — солдата, полицейского, туриста. **Может:** остановить кровотечение, наложить шину, провести СЛР, не дать человеку умереть до приезда врача. **Не может:** диагностировать, назначить лечение, оперировать, определить внутреннее кровотечение. Разница между первой помощью и полевой медициной: первая помощь — «не дай умереть», полевая медицина — «верни в бой».",
+   "vignette": "When in Moscow a passer-by had a stroke in the street, the only one who didn't get lost in the crowd was the accountant Lena — she had recently done a first-aid course. Lena laid the man on his side, called the ambulance, monitored breathing and pulse for twelve minutes till arrival. The doctor said: «The man owes his life to you. Twelve minutes of correct posture saved his brain.»",
+   "desc": "Basic care up to the arrival of paramedics. INT + KO + PER.\n\n**Includes:** assessment of the victim's state, stopping bleeding (tourniquet, pressure bandage, haemostatic), CPR, immobilisation of fractures, first aid in burns, electrical injuries, suffocation, anaphylaxis.\n\n**Specifics:** at low — covers basic injuries. At average — handles a complicated trauma (multiple injuries) for fifteen minutes till the ambulance. At expert — handles an injured for hours."
+  },
+  {
+   "id": "polevaya-medicina",
+   "name": "Field Medicine",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER",
+    "SPD"
+   ],
+   "category": "Medicine",
+   "note": "Медицина в боевых и экстремальных условиях. Четыре атрибута — потому что работаешь быстро (СК), точно (КО), под огнём, при плохом освещении, грязными руками. **Может:** извлечь пулю/осколок, зашить рану в поле, провести экстренную трахеотомию, определить пневмоторакс и дренировать, вправить вывих, собрать перелом. **Не может:** провести полостную операцию, лечить хронические заболевания, работать с нейрохирургией. Полевой медик — это человек, который делает страшные вещи кухонным ножом в грязном подвале и спасает жизни. Хирург в стерильной операционной сделает лучше, но хирурга рядом нет, а осколок в лёгком — есть.",
+   "vignette": "When «Alpha» in the cellar of a shrine had to wait six hours for evacuation with three heavies, the only medic was Kronin — the group's paramedic. Kronin worked six hours without a break: two intravenous infusions on each, two intubations, three pressure-bandages, antibiotics, painkillers, monitoring of consciousness. All three lived. Kronin came out of the cellar wet to the elbow in someone else's blood.",
+   "desc": "Help in field conditions, far from a hospital. INT + KO + PER + SP. **Four attributes** — a field medic in the field must decide quickly.\n\n**Includes:** extended first aid, intravenous therapy in the field, oxygenation, intubation in the field, work with traumas (bullet, mine-shrapnel, blunt, burn, thermal), prevention and treatment of infection, prevention of shock, evacuation to a stationary medical facility."
+  },
+  {
+   "id": "terapiya",
+   "name": "Internal Medicine",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Medicine",
+   "note": "Диагностика, лечение болезней, назначение терапии, ведение пациентов. Врач общей практики. ВО — потому что терапевт должен видеть то, что пациент не говорит: цвет кожи, характер дыхания, походку, зрачки. **Может:** поставить диагноз, назначить лечение, определить, нужна ли операция, вести хронических больных, распознать отравление. **Не может:** оперировать, проводить нейрохирургические вмешательства. Терапевт — это детектив от медицины: его работа — понять что не так. Починить — работа хирурга.",
+   "vignette": "ORPP doctor Zubova on a routine examination diagnosed a stage-1 pulmonary tuberculosis in operative Voronchuk — by the auscultation and a slight asymmetry on the radiograph. Voronchuk had no complaints. Treatment for six months. Voronchuk returned to duty without consequences.",
+   "desc": "Internal medicine: diagnosis and treatment of diseases of internal organs. INT + PER.\n\n**Includes:** general diagnosis (anamnesis, palpation, auscultation, percussion), interpretation of analyses and instrumental examinations (X-ray, ECG, ultrasound, MRI), treatment of common internal diseases (pneumonia, hypertension, gastritis, diabetes), prevention."
+  },
+  {
+   "id": "hirurgiya",
+   "name": "Surgery",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Medicine",
+   "note": "Оперативное вмешательство: от аппендэктомии до пересадки органов. ИНТ — знание анатомии и процедур. КО — руки, которые не дрожат. ВО — видеть что делаешь. **Может:** всё, что требует скальпеля, за исключением мозга и нервной системы (это нейрохирургия). **Не может:** работать без оборудования и стерильности (это полевая медицина), диагностировать сложные случаи так же хорошо, как терапевт. В поле хирург без инструментов — дорогой полевой медик.",
+   "vignette": "Surgeon Lyashchenko of OPI in field conditions stopped the bleeding from a torn iliac artery in operative Kovalyov, sewing the artery on the spot. The operation in the basement, eighteen minutes, without an operating room. Kovalyov lived. Lyashchenko was given a state award for «surgical work in extreme conditions».",
+   "desc": "Surgery: surgical intervention. INT + KO + PER + SP.\n\n**Includes:** general surgery (laparotomy, vascular, traumatic), specialised (cardiac, pulmonary), work with surgical instruments, asepsis and antisepsis, stages of operation (access, mobilisation, intervention, restoration, suturing), post-operative care."
+  },
+  {
+   "id": "neyrohirurgiya",
+   "name": "Neurosurgery",
+   "attrs": [
+    "INT",
+    "COR"
+   ],
+   "category": "Medicine",
+   "note": "Операции на мозге и нервной системе. Высшая медицинская специализация. Только ИНТ и КО — никакая скорость и восприятие не заменят чистое знание и ювелирные руки. **Может:** операции на мозге, спинном мозге, периферической нервной системе. В [ВТ] мирах — работа с нейроимплантами. **Не может:** то, что не относится к нервной системе, нейрохирург делает как обычный хирург, не лучше.",
+   "vignette": "Neurosurgeon Petrosyan at the OPI extracted a metallic fragment from the brain of operative Levenchuk, two centimetres from the visual cortex. Eleven hours of operation. Levenchuk retained vision in 70% (lost 30% peripheral on the right). Returned to duty in eight months.",
+   "desc": "Neurosurgery: surgery on the brain and spinal cord. INT + KO + PER + SP.\n\n**Includes:** craniotomies, removal of tumours, brain trauma, work with the spinal cord, microsurgery, work with the cranial nerves, neuroimaging (CT/MRI), post-operative neurological care."
+  },
+  {
+   "id": "farmakologiya",
+   "name": "Pharmacology",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Medicine",
+   "note": "Лекарства, яды, дозировки, взаимодействия, побочные эффекты, синтез. Чистое знание — руки не нужны. **Может:** подобрать лекарство, рассчитать дозу, определить отравление по симптомам, синтезировать препарат (при наличии оборудования), определить неизвестное вещество. **Не может:** лечить руками. Фармаколог знает, что нужно ввести 10 мг морфина, но если у него нет навыка «Первая помощь», он может промахнуться мимо вены.",
+   "vignette": "OPI pharmacologist Sergeyeva by the symptoms of an unconscious operative recognised barbiturate poisoning, but with an unusual time-course (slow). Suggested a specific synthetic barbiturate of '90s production. The OPI checked: bingo. The antidote was administered, the operative woke in four hours.",
+   "desc": "Pharmacology: drugs, dosing, interactions, side effects. INT.\n\n**Includes:** classes of drugs (antibiotics, analgesics, anti-shock, anti-toxic), dosing by weight/age/state, drug interactions, recognition of overdose and poisoning, antidotes (paranormal — separately, see Anti-paranormal Kit)."
+  },
+  {
+   "id": "psihiatriya",
+   "name": "Psychiatry",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPR",
+    "CHR"
+   ],
+   "category": "Medicine",
+   "note": "Четыре атрибута — элитный навык. ИНТ — знание. ВО — наблюдательность (читать невербалику). ДУХ — собственная психическая устойчивость (нельзя лечить чужое безумие, если своё трещит). ОБ — умение установить контакт с пациентом, который может быть параноиком, психотиком или манипулятором. **Может:** диагностировать психические расстройства, проводить терапию, гипноз, оценивать вменяемость, противостоять ментальным манипуляциям. **Не может:** лечить физические болезни. В [П] мирах — может быть частичной защитой от телепатии (понимание механизмов внушения).",
+   "vignette": "ORPP psychiatrist Yakovlev in eight sessions worked out the PTSD of operative Kashirin after the «Black Spring» operation. CBT + medication. Kashirin returned to duty without restrictions. Yakovlev: «Don't break a man with the wrong words. Words work both ways.»",
+   "desc": "Psychiatry: mental disorders. INT + PER + SP.\n\n**Includes:** diagnosis of mental illness (schizophrenia, bipolar, PTSD, depression, anxiety disorders), psychopharmacology, psychotherapy (CBT, psychodynamic, EMDR), work with trauma (combat, accident, abuse), forensic psychiatric examination."
+  },
+  {
+   "id": "mikrobiologiya",
+   "name": "Microbiology",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Medicine",
+   "note": "Патогены, вирусы, бактерии, эпидемиология, вакцины, биологическое оружие. **Может:** определить возбудителя, оценить эпидемиологическую угрозу, разработать вакцину (время + оборудование), работать с биологическим оружием. **Не может:** лечить конкретного пациента — это терапия. Микробиолог знает, чем болен город. Терапевт знает, чем болен Иван Петрович.",
+   "vignette": "OPI microbiologist Konnov by a smear from a wound recognised an antibiotic-resistant Staphylococcus aureus — recommended a substitution of antibiotics in twenty minutes. The patient came back from the brink of sepsis.",
+   "desc": "Microbiology: bacteria, viruses, fungi, parasites. INT.\n\n**Includes:** microscopy, isolation of cultures, identification of pathogens, antibiogram, virology (basics), parasitology (worms, ectoparasites), microbiological diagnosis of infectious diseases."
+  },
+  {
+   "id": "implantologiya",
+   "name": "Implantology",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Medicine",
+   "note": "[ВТ] Установка, настройка, обслуживание и удаление имплантов: от кардиостимулятора до нейроимпланта «Цереброн». Гибрид хирургии и электроники. **Может:** имплантировать, калибровать, диагностировать сбои импланта, удалить. **Не может:** разработать новый имплант (это инженерное конструирование + биотехнологии). Имплантолог — это хирург для киборгов.",
+   "vignette": "OPI implantologist Vrubov installed a special neural implant on an operative who had lost a hand at the shoulder. The implant connects the brain's motor cortex directly with the prosthetic. The operative learned to use it in three months. Now he holds a rifle, fires, reloads — as if the hand were his own.",
+   "desc": "Implantology. **[HT]**. INT + KO. Installation of mechanical and electronic implants in the human body.\n\n**Includes:** orthopaedic implants (joints, bones), cardiovascular (pacemaker, stent), neural (deep brain stimulation, cochlear), prostheses with feedback, special (OPI-cybernetics)."
+  },
+  {
+   "id": "kuznechnoe-delo",
+   "name": "Blacksmithing",
+   "attrs": [
+    "STR",
+    "COR",
+    "INT"
+   ],
+   "category": "Crafts & Production",
+   "note": "Ковка оружия, брони, инструментов. Сила для молота, КО для точности, ИНТ для знания материалов.",
+   "vignette": "Blacksmith Velimir worked in his Podmoskovye smithy for forty years. When the OPI ordered from him twelve aspen stakes with silver points and cold-iron sleeves, Velimir made them in eleven days. The work was inspected by the OPI engineer with a microscope: structure of the steel — uniform, the silver fused with the iron at exactly the right temperature without inclusions. «Master,» said the engineer. «You are a master.» Velimir shrugged. «Forty years. By touch.»",
+   "desc": "Working metal on the anvil. SR + KO + INT.\n\n**Includes:** forging, hardening, annealing, hot and cold work, making tools, weapons and armour at the basic level, restoration of old works, work with steel/iron/bronze/copper, knowledge of alloys and their properties, work with cold iron for the unholy."
+  },
+  {
+   "id": "oruzheynoe-delo",
+   "name": "Gunsmithing",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Crafts & Production",
+   "note": "Обслуживание, модификация и изготовление огнестрельного оружия.",
+   "vignette": "Gunsmith Zharkov in a workshop near Tula restored a German sniper rifle from 1944 — found in the development of a shrine where a German sniper-hunter had hidden during the war. Three months of work. The rifle began to shoot to 0.4 MOA. Zharkov said: «Old weapons live longer than men. If you handle it right.»",
+   "desc": "Production and repair of firearms and edged weapons. INT + KO + PER.\n\n**Includes:** design of weapons, manufacture of main components (barrel, bolt, trigger group), assembly, calibration, cleaning and care, repair of jams, gunsmithing modifications."
+  },
+  {
+   "id": "bronnoe-delo",
+   "name": "Armorsmithing",
+   "attrs": [
+    "INT",
+    "COR",
+    "STR"
+   ],
+   "category": "Crafts & Production",
+   "note": "Изготовление и ремонт доспехов.",
+   "vignette": "Armourer Gerhardt of OPI repaired the combat suit of operative Korovina, who had taken a shot of 7.62 from short range and survived only thanks to the suit. Korovina watched as Gerhardt cut out the damaged section and inserted a new one in nine hours of work. «It will hold a 7.62 again?» — «Now,» said Gerhardt, «it will hold .50 BMG. With reservations.»",
+   "desc": "Production of armour. SR + KO + INT.\n\n**Includes:** chain mail, plate, modern composite, ballistic plates, riveting and welding of plate, anatomy of an armour, fit on a body, work with non-standard sizes and against unusual threats (cold iron, silver)."
+  },
+  {
+   "id": "kulinariya",
+   "name": "Cooking",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Crafts & Production",
+   "note": "Приготовление пищи. ВО — обоняние и вкус. Да, это навык. Отравить тоже навык.",
+   "vignette": "Master cook Bagrationov fed the «Alpha» squad during a sixteen-hour wait in a field stop. Field kitchen, three pots, no proper supply. Borscht, kasha with stew, tea. The squad in three sessions ate everything and asked for seconds. Bagrationov: «To feed eight men under fire is harder than to make a banquet for forty in a restaurant.»",
+   "desc": "Cooking. INT + PER + CH.\n\n**Includes:** classic culinary techniques (boiling, frying, baking, sauces), national cuisines, work with limited ingredients (field cuisine, ration cuisine), food safety, presentation, paranormal-related (knowledge that water for the unholy must be boiled in an eggshell — see Folklore)."
+  },
+  {
+   "id": "alhimiya",
+   "name": "Alchemy",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPR"
+   ],
+   "category": "Crafts & Production",
+   "note": "Зелья, эликсиры, трансмутация. Если мастер включает магический модуль.",
+   "vignette": "Old alchemist Pyotr Filippovich Khramtsov in a wooden house in Yaroslavl oblast prepared «liver tea» according to a recipe of XVII century — for a child with a paranormal poisoning brought from Moscow. The OPI couldn't help: a modern medicine didn't work. Khramtsov took eleven hours. The child started recovering on the eighteenth hour. «It is not chemistry,» Khramtsov said. «It is patience.»",
+   "desc": "Alchemy. INT + PER + SP. **[F]** for fantasy worlds — or — practical for modern (pharmacology + ritual).\n\n**Includes:** preparation of potions and tinctures, work with rare ingredients (mandrake, hellebore, paranormal substances), basic transmutation (small steps), distillation, extraction, work according to old recipes, recognition of compounds."
+  },
+  {
+   "id": "diplomatiya",
+   "name": "Diplomacy",
+   "attrs": [
+    "INT",
+    "CHR",
+    "SPR"
+   ],
+   "category": "Social",
+   "note": "Переговоры, компромиссы, союзы, торговые соглашения. Рациональное убеждение: ты предлагаешь решение, выгодное обеим сторонам. ИНТ — потому что нужно понимать интересы собеседника. ОБ — подача. ДУХ — стержень: хороший дипломат не прогибается под давлением. **Когда использовать:** переговоры с равными или сильнейшими, заключение сделок, предотвращение конфликтов, установление союзов. **Не работает:** когда собеседнику нечего терять или он иррационален.",
+   "vignette": "When between two criminal groups in Moscow a dispute arose over a district, and both sides were preparing for a shoot-out, ORPP negotiator Kalinina met with both — separately and together — over three weeks. Found common ground: both sides lost from the war more than they would gain. Proposed a compromise on territorial division. Both sides signed. No shoot-out. Three weeks of negotiation saved 18 lives by the OPI's later estimate.",
+   "desc": "Negotiation, finding compromise, mediation. INT + CH + SP.\n\n**Includes:** analysis of stakeholders, separating interests from positions, finding common ground, mediation in conflict, protocol and etiquette of high meetings, work with interpreters and cross-cultural communication."
+  },
+  {
+   "id": "krasnorechie",
+   "name": "Oratory",
+   "attrs": [
+    "SPR",
+    "CHR",
+    "INT"
+   ],
+   "category": "Social",
+   "note": "Публичные выступления, проповеди, пропаганда, мотивационные речи, агитация. Отличается от дипломатии: дипломатия — один на один, красноречие — один перед многими. ДУХ доминирует — толпу ведёт тот, кто горит. **Когда использовать:** поднять боевой дух перед боем, убедить горожан открыть ворота, провести предвыборную речь, обратить в свою веру. **Не работает:** в тихой беседе один на один — там дипломатия.",
+   "vignette": "When General Serov came out before the troops after a defeat in which two hundred fighters had fallen, and the morale had to be raised, Serov did not speak in pathetic words. He stood, looked at the men, said: «Two hundred ours. By name I do not have the strength to read. The Living Memorial will be made. But the war does not wait. Two days. Then we go again. I am with you.» The silence stood five seconds. Then someone in the back said «Hurrah» — quietly. The others picked it up. Loudly. Serov knew: he had raised them.",
+   "desc": "Public speaking, oratorical art. SP + CH + INT. Differs from Diplomacy: diplomacy is a talk with one whose interests you must understand; oratory is a speech to a crowd, whose hearts you must ignite.\n\n**Includes:** rhetoric, structure of speech (intro, body, climax, ending), work with the audience, voice (timbre, pace, volume), gesture, knowing what the audience needs in different states (fear, anger, hope, doubt)."
+  },
+  {
+   "id": "obolschenie",
+   "name": "Seduction",
+   "attrs": [
+    "SPR",
+    "CHR"
+   ],
+   "category": "Social",
+   "note": "Очарование, соблазнение, манипуляция через привлекательность и эмоциональную связь. ДУХ — потому что настоящее обольщение требует внутренней силы и уверенности, а не только красивого лица. **Когда использовать:** получить информацию от стражника, войти в доверие к цели, отвлечь внимание. **Не работает:** против тех, кто к вам физически/культурно нечувствителен, и против проницательных — они видят манипуляцию. Модификатор Сексапильности (достоинство) добавляется к этому навыку.",
+   "vignette": "Interrogator Roshchina sat opposite the suspect, set a cup of coffee on his side of the table — \"is yours warmer than mine\" — leaned forward by half a centimetre. The suspect, twice convicted of armed robbery, told her everything in two hours. Not because she had threatened. Because she had been more interesting than freedom.",
+   "desc": "Seduction. CH + SP.\n\n**Includes:** social charm, body language and presentation, conversation skills, reading the partner (interest, defence, openness), use of the personal field of attraction, fine line between flirting and inappropriate."
+  },
+  {
+   "id": "zapugivanie",
+   "name": "Intimidation",
+   "attrs": [
+    "SPR",
+    "STR"
+   ],
+   "category": "Social",
+   "note": "Прямое давление через угрозу насилия. СЛ в формуле — потому что «я тебя убью» от щуплого интеллектуала звучит иначе, чем от двухметрового самбиста. Угроза должна быть подкреплена. **Когда использовать:** допрос пленного, устрашение противника перед боем, заставить бандита заговорить. **Не работает:** против тех, кто сильнее вас (контр-проверка по СЛ+ДУХ), и против фанатиков (высокий ДУХ).",
+   "vignette": "Captain Shchur did not raise his voice. Did not gesture. Did not threaten. Stood opposite the suspect, two metres tall, with a scar from temple to chin, and said in his ordinary tone: «You will answer in fifteen minutes. Or in five hours after a meeting with my colleague Bernard. The choice is yours.» Bernard did not exist. The suspect spoke in twelve minutes.",
+   "desc": "Intimidation, presence, pressure. SR + CH + SP.\n\n**Includes:** physical presence and stance, voice (low, slow, with weight), eye contact, demonstration of capability without action, knowing where the opponent's weak point is (family, freedom, money, fear), restraint of one's own force in front of the appearance."
+  },
+  {
+   "id": "torgovlya",
+   "name": "Bargaining",
+   "attrs": [
+    "INT",
+    "CHR",
+    "PER"
+   ],
+   "category": "Social",
+   "note": "Купля-продажа, оценка товаров, торг, понимание рынка, определение подделок. ВО — чтение контрагента: нервничает ли продавец? Врёт ли про качество? **Когда использовать:** покупка снаряжения, продажа добычи, оценка артефакта, понимание экономической ситуации в городе. **Отличается от дипломатии:** торговля — про деньги и вещи, дипломатия — про политику и отношения.",
+   "vignette": "OPI procurement officer Bogdanov bargained the price of three off-road vehicles with the Tigr factory by 18% — by hinting at an alternative order through MoD channels. The factory understood the hint and agreed. Three Tigr-2330s came into the ORPP at the lower price.",
+   "desc": "Bargaining. CH + INT.\n\n**Includes:** assessment of the value of goods and services, bargaining (skill of moving the price), reading the partner's intent (he needs to sell more than I need to buy or vice versa), knowledge of markets and prices, smooth speech, escaping a dead end, deal-closing."
+  },
+  {
+   "id": "etiket",
+   "name": "Etiquette",
+   "attrs": [
+    "INT",
+    "CHR"
+   ],
+   "category": "Social",
+   "note": "Знание правил поведения: от королевского двора до корпоративного приёма, от чайной церемонии до воровской малины. Каждая социальная среда имеет свои правила — этикет позволяет не облажаться. **Когда использовать:** первое появление в незнакомом обществе, приём у аристократа, переговоры с чужой культурой. Высокий уровень позволяет интуитивно считывать правила даже незнакомой среды.",
+   "vignette": "ORPP operative Polyakov at a reception of a foreign ambassador knew at which moment to take the proffered drink, at which moment to put it down, at which moment to address whom, at which moment to step aside. The ambassador said: «Your people understand. With them one can speak.» So began the eight-month cooperation.",
+   "desc": "Etiquette and protocol — knowledge of the rules for various circles.\n\n**Includes:** secular etiquette (greeting, address, table, dance), business etiquette (negotiations, gifts, business cards), national differences (Asia, Arab world, Europe), etiquette of the criminal world (where applicable), religious etiquette (church, mosque, synagogue, temple)."
+  },
+  {
+   "id": "blef",
+   "name": "Bluff",
+   "attrs": [
+    "SPR",
+    "CHR"
+   ],
+   "category": "Social",
+   "note": "Ложь, покерфейс, хладнокровное враньё на голубом глазу. ДУХ — не столько моральная устойчивость, сколько внутренний стержень: чтобы врать убедительно, нужно не бояться разоблачения. **Когда использовать:** любая ситуация, где нужно убедительно соврать. От «у меня есть пропуск» до «я понятия не имею, кто убил барона». **Контр-навык:** Проницательность. Спор блефа и проницательности — ключевое социальное противостояние.",
+   "vignette": "Investigator Smolny entered the cult's safe-house under cover, identified himself as a buyer of «special goods». Three hours of conversation. Made out he had been on the market five years, knew names, knew prices, knew rituals. Came out with the inventory of the stockroom, a roster of buyers, and the timetable for the delivery. Smolny had been on this case eight months. Cover was perfect.",
+   "desc": "Bluff. CH + SP.\n\n**Includes:** convincing lying with body language, holding the line under questioning, false leads, false documents (orally), fluid switching of legend, work without preparation."
+  },
+  {
+   "id": "pronicatelnost",
+   "name": "Insight",
+   "attrs": [
+    "SPR",
+    "INT",
+    "PER"
+   ],
+   "category": "Social",
+   "note": "Чтение людей, распознавание лжи, оценка истинных намерений. Три атрибута: ДУХ — доверяешь ли своей интуиции. ИНТ — анализируешь ли сказанное логически. ВО — видишь ли микровыражения, дрожь рук, бегающие глаза. **Контр-навык** к блефу, обольщению, дипломатии, запугиванию — ко всему, где вас пытаются убедить в том, что не является правдой. Без проницательности в группе — группу обведут вокруг пальца. **Важно:** проницательность не читает мысли. Она говорит «он врёт» — но не говорит «что именно скрывает». Для этого нужен допрос.",
+   "vignette": "Interrogator Roshchina by the third question knew the suspect was lying about an alibi. The pupils dilated slightly on the third question; the breathing held by a third of a second. Roshchina did not call out the lie — kept on the line. By the eleventh question the suspect was confused in details that should have been straightforward. By the fifteenth — confessed.",
+   "desc": "Insight, lie-detection, reading state. PER + INT + SP.\n\n**Includes:** microexpressions of the face (Ekman), body language, voice tone shift under lying, cognitive load on lying (delays in speech), behavioural baseline, deviations from it, reading emotional state, recognising imminent action (a knife in a pocket, a moment of impending attack)."
+  },
+  {
+   "id": "dopros",
+   "name": "Interrogation",
+   "attrs": [
+    "SPR",
+    "CHR",
+    "PER"
+   ],
+   "category": "Social",
+   "note": "Извлечение информации. Может быть мягким (беседа, расположение к себе, «мы просто разговариваем») или жёстким (давление, угрозы, манипуляция страхом). ОБ — для мягкого допроса: умение расположить к себе. ВО — для чтения реакций допрашиваемого. ДУХ — для жёсткого: давление без потери контроля. **Отличается от запугивания:** запугивание — «делай что говорю». Допрос — «скажи что знаешь». Разные цели, разная техника. Можно допрашивать без угроз. Можно запугать без допроса.",
+   "vignette": "ORPP investigator Kashirin worked with a captive cultist for eleven hours without sleep. No physical pressure. Just questions, in shifts, in different intonations, with the same details from different sides. By the eleventh hour the cultist had confessed to seventeen ritual murders, to the structure of the cult, to the names of the patrons. Kashirin: «The truth is in the dial. Eleven hours — the dial wears out, the truth surfaces.»",
+   "desc": "Interrogation — extraction of information from a subject.\n\n**Includes:** various techniques (Reid, PEACE, classic confrontation), psychological pressure within the legal framework, working with a person under stress (preserving information), spotting lies and contradictions, working with witnesses and victims (carefully), recognising broken testimony (the lie is too well-prepared)."
+  },
+  {
+   "id": "skrytnost",
+   "name": "Stealth",
+   "attrs": [
+    "SPD",
+    "COR",
+    "PER"
+   ],
+   "category": "Stealth & Illegal",
+   "note": "Бесшумное перемещение, прятание, незаметность. Отличается от Маскировки — это активное движение, а не статичная позиция.",
+   "vignette": "Operative Tenin walked the corridor of the mafia boss's mansion past two guards, within three metres of each. The guards did not turn their heads. Tenin was not hiding behind cover. He simply moved in the rhythm of the corridor — at the pace of the air-conditioner blower. The guards were used to this rhythm; their hearing did not pick out Tenin's footsteps against it. He passed them, set the bug, came back the same way. The guards did not notice.",
+   "desc": "Stealthy movement and hiding of presence. SP + KO + PER.\n\n**Includes:** silent walking, use of cover and shadow, control of one's silhouette, calculation of observers' lines of sight, movement in low light, hiding the smell and sound of equipment, work with surveillance cameras (where to stand to be invisible), urban camouflage."
+  },
+  {
+   "id": "vorovstvo",
+   "name": "Theft",
+   "attrs": [
+    "SPD",
+    "COR",
+    "PER"
+   ],
+   "category": "Stealth & Illegal",
+   "note": "Карманная кража, срезание кошельков, мелкая кража на глазах у жертвы.",
+   "vignette": "Pickpocket Yura in Prague worked a thousand people a day and was not caught once in eighteen years. Not a «window-thief» — a pickpocket. From a crowd on the Charles Bridge in the morning to the back-streets of Wenceslas Square in the afternoon. Yura was a thief in three generations. ORPP, when they came for him at the Czech police's request, was offered a deal: tell us how you do it. Yura told. ORPP got an excellent training for surveillance operatives.",
+   "desc": "Theft without breaking and entering: pickpocketing, household, fine hand-work. SP + KO + PER.\n\n**Includes:** pickpocketing, theft from open bags and pockets, «window-thief» methods through distraction, dexterity, removal of small objects under observation (the magician's «pass»), team-work (a distractor and a lifter)."
+  },
+  {
+   "id": "vzlom-zamkov",
+   "name": "Lockpicking",
+   "attrs": [
+    "COR",
+    "INT",
+    "PER"
+   ],
+   "category": "Stealth & Illegal",
+   "note": "Механические замки, отмычки, сейфы.",
+   "vignette": "Locksmith Andronov in twelve seconds opened a Mossler home safe by ear. The OPI brought the safe with money for the cult — a sealed safe was a problem; it had to be opened without traces of breaking. Andronov sat at the safe, turned the dial slowly, listening to the clicks of the gates. Twelve seconds — and the safe opened. The money went into evidence. The safe went back to the cult untouched.",
+   "desc": "Lockpicking. PER + KO + SP.\n\n**Includes:** padlocks (pick and tension), mortise locks (regular and complex), code locks (by ear and by wear), classic-cracker safe-work, work with picks, bumping technique, decoding tools, knowledge of lock-internals."
+  },
+  {
+   "id": "vzlom-elektronnyh-sistem",
+   "name": "Electronic Bypass",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER",
+    "SPD"
+   ],
+   "category": "Stealth & Illegal",
+   "note": "Электронные замки, сигнализации, камеры. [ВТ]",
+   "vignette": "OPI technician Vladislav Bobylyov bypassed the security system of a private museum on Rublyovka in nineteen minutes. Card cloner on the reader, alarm — silenced via the network, cameras — looped two minutes of stable footage. The team entered, took the cultic artefact, came out. The owner discovered the loss next morning. The cameras showed a normal night.",
+   "desc": "Bypass of electronic security systems. INT + PER + KO.\n\n**Includes:** electronic locks (card, biometric, mechanical-electronic), alarms (motion sensors, perimeter, IR), card readers and their cloning, CCTV (looping, masking), basic understanding of network security to interrupt linked systems."
+  },
+  {
+   "id": "lovushki",
+   "name": "Traps",
+   "attrs": [
+    "COR",
+    "INT",
+    "PER"
+   ],
+   "category": "Stealth & Illegal",
+   "note": "Установка и обезвреживание. От растяжки до сложного механизма.",
+   "vignette": "Combat engineer Lavrov went through the cultic mansion ahead of the storming group — looking for traps. Found six. The seventh — found him. A trip-cord at thigh height across the doorway, attached to a fragmentation grenade. Lavrov noticed the cord 0.4 seconds before he would have crossed it. Stopped. Disarmed. Said in the radio: «Watch the cords. They are not at the floor here.» The squad came in carefully.",
+   "desc": "Traps — setting and disarming. INT + PER + KO.\n\n**Includes:** mechanical (snares, snags, deadfalls), explosive (mines, IEDs), electronic, ritual (paranormal — separately), recognition of placed traps in a building, disarming, setting of own traps for ambush."
+  },
+  {
+   "id": "vzryvotehnika",
+   "name": "Demolitions",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER",
+    "SPD"
+   ],
+   "category": "Stealth & Illegal",
+   "note": "Изготовление, установка, обезвреживание взрывных устройств. Четыре атрибута — одна ошибка и тебя нет.",
+   "vignette": "Combat engineer Kazarinov of «Delta» placed five focused charges on the supports of the cult's prayer-house ceiling. Two C-4 charges of 250 g each at four supports, one half-kilo on the central one. Detonation sequence — central first, then the four corners in 0.4 seconds. The roof fell on itself. The cult was buried. The neighbouring buildings — intact.",
+   "desc": "Demolitions. INT + KO + PER + SP.\n\n**Includes:** explosives (TNT, RDX, plastic, ammonal), detonators (electric, pyrotechnic, radio, time), placement of charges (focused, distributed, fragmentation), demolition of structures (doors, walls, columns, supports), shaped charges (anti-tank), mine clearance (anti-personnel, anti-tank), counter-explosive search."
+  },
+  {
+   "id": "slezhka",
+   "name": "Surveillance",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPR",
+    "CHR"
+   ],
+   "category": "Stealth & Illegal",
+   "note": "Наблюдение за объектом. ОБ — способность не привлекать внимание. ДУХ — терпение.",
+   "vignette": "OPI surveillance officer Sergeyenko followed a suspect three days through three cities. Lost the suspect three times — and three times found him again, anticipating the next move. The suspect was a professional, an instructor of his service. Sergeyenko was three steps better. On the fourth day, the suspect realised he had been followed all three days. ORPP got the suspect's full route, contacts, and the safe-house in Krasnodar.",
+   "desc": "Surveillance — observation and tailing.\n\n**Includes:** static surveillance (post, vehicle), mobile tailing (foot, vehicle), group tailing (multiple agents, rotation), counter-surveillance, evasion of one's own tail, working with surveillance equipment (cameras, bugs, tracker)."
+  },
+  {
+   "id": "grim",
+   "name": "Disguise",
+   "attrs": [
+    "COR",
+    "CHR",
+    "PER"
+   ],
+   "category": "Stealth & Illegal",
+   "note": "Изменение внешности. ВО — оценка результата.",
+   "vignette": "OPI grease-paint artist Kozyrev transformed operative Yashin from a 28-year-old man into a 70-year-old «retired engineer» in 3 hours. Prosthetic cheeks, age makeup of hands, grey wig, glasses, walking stick. Yashin came to the meeting with the cult's recruiter. The recruiter saw a sad old man, talked freely. By the end of the meeting Yashin had the full list of the cult's «special collection».",
+   "desc": "Disguise — change of appearance with grease-paint, prosthetics, costume. INT + KO + CH.\n\n**Includes:** classical theatrical grease-paint, prosthetic noses/cheeks/chin, change of hair colour and style, wigs, age makeup (younger / older), masking of scars and tattoos, voice change (additional skill — Acting), gait change."
+  },
+  {
+   "id": "poddelka-dokumentov",
+   "name": "Forgery",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Stealth & Illegal",
+   "note": "Создание фальшивых документов, подписей, печатей.",
+   "vignette": "OPI forger Plotnikov made a passport for operative Krylov under another name in eight hours. Real paper, real photograph, real holograms, real stamps. Krylov went under cover for six months as a different person. The cover held to the end.",
+   "desc": "Forgery of documents. INT + KO + PER.\n\n**Includes:** copy of passports, IDs, certificates, contracts, work with watermarks and seals, knowledge of security features (hologram, microtext, UV), making old documents (work with paper and ink for aging), digital forgery (PDF, photo)."
+  },
+  {
+   "id": "yady",
+   "name": "Poisons",
+   "attrs": [
+    "INT",
+    "COR"
+   ],
+   "category": "Stealth & Illegal",
+   "note": "Знание и применение ядов. Отдельно от фармакологии — это специфическое, целенаправленно деструктивное знание.",
+   "vignette": "Old Cossack Mikhail Bogdanov knew thirty-two herbal poisons by name and could identify them in a field meadow at a glance. ORPP got from him a list of plant antidotes used by the Cossack tradition. Two of these — actually worked against modern toxins. The pharmacology lab is reproducing them now.",
+   "desc": "Poisons — preparation, application, recognition. INT.\n\n**Includes:** plant poisons (hellebore, hemlock, monkshood), animal poisons (snakes, frogs, fish), mineral (arsenic, mercury), synthetic (cyanide, ricin), preparation of poisons in field conditions, application (food, drink, contact, dart), recognition of poisoning by symptoms, antidotes."
+  },
+  {
+   "id": "legkaya-atletika",
+   "name": "Athletics (running/jumping)",
+   "attrs": [
+    "COR",
+    "SPD"
+   ],
+   "category": "Sports & Physical",
+   "note": "Бег, прыжки, спринт.",
+   "vignette": "When «Beta» had to chase a runner across the rooftops of a housing block in Biryulyovo, the only one who caught him was Turov — a former long-distance runner. Six roofs, three drops with safe landings, two jumps. Turov caught the runner on the seventh roof, in a regular flying tackle. They both rolled along the roof to the parapet. Turov held the runner by the harness with one hand and held the parapet with the other. The squad came up in two minutes.",
+   "desc": "Athletics: running, jumping, throwing. KO + SP.\n\n**Includes:** sprint and stayer, jumps (long, high, triple), throws (hammer, discus, javelin), hurdles, parkour, general running endurance, jumping over obstacles."
+  },
+  {
+   "id": "tyazhelaya-atletika",
+   "name": "Weightlifting",
+   "attrs": [
+    "STR",
+    "TGH"
+   ],
+   "category": "Sports & Physical",
+   "note": "Подъём тяжестей, силовые упражнения.",
+   "vignette": "When «Alpha» was stuck under rubble in the basement of an industrial estate and had to lift a concrete slab to get a wounded man out, the only one who actually did it was Sergeant Pavlov — master of sport in weight-lifting. Pavlov lifted 600 kg of slab for 12 seconds on his shoulders. The wounded was dragged out by the squad in those 12 seconds. Pavlov dropped the slab and sat down. Three weeks of recovery. Came back.",
+   "desc": "Weight-lifting and power exercises. SR + TOUGH.\n\n**Includes:** deadlift, squat, bench press, snatch and clean (classic Olympic), powerlifting, strongman events (atlas-stones, log-press, yoke)."
+  },
+  {
+   "id": "akrobatika",
+   "name": "Acrobatics",
+   "attrs": [
+    "COR",
+    "SPD",
+    "STR"
+   ],
+   "category": "Sports & Physical",
+   "note": "Кувырки, сальто, паркур, балансирование.",
+   "vignette": "Operative Stepashina, former gymnast, took a roll from a moving van at 40 km/h, hit the asphalt and rolled out without injury. Got up — and ran the alley, gun out. The squad's commander on the radio: «How are you not killed?» — «Acrobatics is a school of falling, not jumping,» said Stepashina. «You can land on anything.»",
+   "desc": "Acrobatics and gymnastics. KO + SP.\n\n**Includes:** rolls, somersaults, handstands, work on the bar/parallel bars/rings (gymnastics), parkour with acrobatic elements, falls without injury (judo school), aerial gymnastics (rope, silk), circus acrobatics."
+  },
+  {
+   "id": "pryzhki-s-parashyutom",
+   "name": "Parachuting",
+   "attrs": [
+    "SPR",
+    "COR",
+    "SPD"
+   ],
+   "category": "Sports & Physical",
+   "note": "Дух — потому что надо прыгнуть.",
+   "vignette": "ORPP airborne specialist Yermilov took a HAHO jump from 8000 m at night over forest in Tver oblast. Time under canopy 32 minutes, 14 km of horizontal travel. Landing in a 30-metre clearing in pitch dark. Twigs from the spruce skimmed the canopy on landing. Yermilov landed on his feet, gathered the canopy in 90 seconds, set off to the rendezvous point on foot.",
+   "desc": "Parachuting. KO + SP + SP.\n\n**Includes:** static-line jumping, free-fall (manual deployment), high-altitude (HALO/HAHO), tactical landing on terrain, wind-and-altitude calculation, work with the gear (D-1-5U, D-6, special), formation jumping, jumping into water."
+  },
+  {
+   "id": "muzyka",
+   "name": "Music: instrument",
+   "attrs": [
+    "COR",
+    "SPD",
+    "SPR"
+   ],
+   "category": "Creative",
+   "note": "Каждый инструмент — отдельный навык (гитара, фортепиано, скрипка и т.д.).",
+   "vignette": "When the mystic Somov played the violin at home in Moscow, no one understood why he did it. Somov played Bach — not very technically, but with feeling. Neighbours: nice. But once Somov played «Chaconne d-moll» from a partita in a flat where there was suspicion of a haunting. The haunting tried to manifest — and faded mid-manifestation. Somov: «Music is not entertainment. It is a barrier.»",
+   "desc": "Playing a musical instrument. KO + SP + SP. **Each instrument / family is a separate specialisation.**\n\n**Includes:** mastering the instrument, sight-reading, improvisation, ensemble work, repertoire, knowledge of music theory."
+  },
+  {
+   "id": "penie",
+   "name": "Singing",
+   "attrs": [
+    "SPR",
+    "CHR"
+   ],
+   "category": "Creative",
+   "note": "Вокал. Один навык, без деления на жанры — жанр определяется репертуаром, а не механикой.",
+   "vignette": "At a monastery near Moscow where «something» was happening, Father Anthony asked for reinforcement — a good singer. They sent operative Krasnov with a trained baritone. Krasnov sang akathist with Father Anthony for two hours. The «something» faded. Krasnov said: «I didn't think singing was a working skill.» Father Anthony said: «It is one of the oldest working skills there is.»",
+   "desc": "Vocal art. SP + CH.\n\n**Includes:** academic vocal, pop, folk, church (chant, akathist), improvisation and canonical work, ensemble singing, voice control under stress, projection across a hall without amplification."
+  },
+  {
+   "id": "zhivopis",
+   "name": "Painting",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER",
+    "SPR"
+   ],
+   "category": "Creative",
+   "note": "Четыре атрибута: знание, руки, глаз, душа.",
+   "vignette": "Artist Kalinkina of OPI restored an icon from XVIII century which had become a cult-anchor. Restoration as a counter-ritual. Eight months of work. The icon began to «work» again — the haunting at the monastery where it had stood for 250 years died down. Kalinkina: «Painting is not entertainment. It is a function.»",
+   "desc": "Painting. KO + INT + CH.\n\n**Includes:** drawing (pencil, charcoal, sanguine), painting (oil, watercolour, tempera, acrylic), composition, work with anatomy, perspective, light, ritual painting (icons, mandalas, paranormal-bound — separately)."
+  },
+  {
+   "id": "akterskoe-masterstvo",
+   "name": "Acting",
+   "attrs": [
+    "SPR",
+    "CHR",
+    "PER"
+   ],
+   "category": "Creative",
+   "note": "Перевоплощение, убедительная игра. ВО — чтение аудитории.",
+   "vignette": "OPI operative under deep cover Solovyova played the role of a wife of a high-ranking cultist for two years. Every day. Twenty-four seven. No breaks. Even at home, on her own, she did not break the role — in case of bugs. Two years. The cult was destroyed. Solovyova came out with a Stanislavsky-quality performance. The first three months after the operation she had to be brought back to herself through psychiatry.",
+   "desc": "Acting craft. CH + SP + INT.\n\n**Includes:** schools (Stanislavsky, Meisner, Strasberg), inhabiting a role, voice and speech, plasticity, work with text, improvisation, stage and film acting, work in cover (legend, behaviour, emotion)."
+  },
+  {
+   "id": "zhurnalistika",
+   "name": "Journalism",
+   "attrs": [
+    "INT",
+    "CHR",
+    "PER"
+   ],
+   "category": "Creative",
+   "note": "Сбор, анализ и подача информации.",
+   "vignette": "OPI consultant journalist Volynsky uncovered the cult of «Children of the Underworld» through a two-year investigation in the press. Eighteen articles, three documentary films, one book. The cult was exposed publicly — and after that the ORPP could move openly. Without Volynsky's groundwork the operation would have been politically impossible.",
+   "desc": "Journalism. INT + SP + PER.\n\n**Includes:** investigative reporting, interview techniques, source verification, writing under deadline, fact-checking, working with archives, photo-journalism (basics), media law."
+  },
+  {
+   "id": "fotografiya-video",
+   "name": "Photography / Video",
+   "attrs": [
+    "PER",
+    "COR",
+    "INT"
+   ],
+   "category": "Creative",
+   "note": "Композиция, свет, момент. [ВТ] для цифровых технологий.",
+   "vignette": "OPI surveillance photographer Vorobyov shot a confidential meeting of the cult's patron with an undefined contact at 200 metres through a window of a high-floor flat opposite. 600 mm lens, ISO 800, manual focus. Twelve frames in two minutes. Three of them — clear. The patron was identified.",
+   "desc": "Photography and video. KO + PER + INT.\n\n**Includes:** technical (camera, lens, exposure, focus), composition, light, mobile work (paparazzi, surveillance), event reporting, post-processing, video (camera, montage, sound)."
+  },
+  {
+   "id": "fortifikaciya",
+   "name": "Fortification",
+   "attrs": [
+    "INT",
+    "COR",
+    "STR"
+   ],
+   "category": "Fortification & Construction",
+   "note": "Строительство и разрушение укреплений. От окопа до крепости.",
+   "vignette": "When «Alpha» had to entrench at a border facility until reinforcement arrival (three hours), the fortifier Karkayev in thirty minutes transformed the ordinary fence into a battle line: sandbags from the storehouse, fire-positions in two echelons, barbed wire on improvised stakes, observation post on the roof. The cultists came twice. Both times — pushed back.",
+   "desc": "Field fortification and engineering equipment of positions. INT + KO + SR.\n\n**Includes:** trench and dugout building, sandbags and barricades, camouflage of positions, fire-sectors and observation, anti-tank obstacles, mining (with Demolitions), water-line for the unit, building defensive system for an outpost."
+  },
+  {
+   "id": "stroitelstvo",
+   "name": "Construction",
+   "attrs": [
+    "INT",
+    "COR",
+    "STR"
+   ],
+   "category": "Fortification & Construction",
+   "note": "Гражданское строительство: дома, мосты, дороги. Отличается от фортификации целью.",
+   "vignette": "When the OPI needed to equip a secret research base under an industrial estate near Moscow, foreman Gonchar personally led the works for eight months. He did not «build» — he turned a basement into a laboratory: ventilation with separate filters for each room, electrical wiring on three separate circuits (regular, backup, emergency), water with a filtration system for paranormal pollutants, walls with electromagnetic insulation. The base was operating for fifteen years before it was decommissioned. Gonchar: «Build for the long term. Build for the strange.»",
+   "desc": "Civilian and industrial building. INT + KO + SR. Differs from Fortification: fortification is for defence; building is for creating buildings and infrastructure.\n\n**Includes:** reading and drafting of construction documentation, work with materials (concrete, brick, wood, metal), foundation, walls, roofs, engineering systems (water, sewage, electricity, heating), interior work, knowledge of building codes."
+  },
+  {
+   "id": "sapernoe-delo",
+   "name": "Combat Engineering",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER",
+    "SPR"
+   ],
+   "category": "Fortification & Construction",
+   "note": "Минирование и разминирование. Отличается от взрывотехники тем, что это про полевую работу под огнём, а не про лабораторную сборку.",
+   "vignette": "Combat engineer Krylov of «Delta» mined the approach to the cultic compound for the night before the storming. Eight POM-2R mines on the perimeter, two MON-50 in the alleys. Mine clearance — at the storming's signal. Krylov did the mine clearance personally, in 14 minutes. The squad came in across his cleared corridor.",
+   "desc": "Combat engineering — mines, traps, breaching.\n\n**Includes:** mining (anti-personnel, anti-tank, controlled), mine clearance (manual, technical, dog), breach charges, water and obstacle crossings (improvised bridges, lifelines), camouflage of engineering work, work with engineering machines (excavator, bulldozer)."
+  },
+  {
+   "id": "psihokinez",
+   "name": "Psychokinesis",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Paranormal",
+   "note": "Перемещение предметов усилием воли.",
+   "vignette": "When «Alpha» entered the cultists' den, and operative Yermakov, a psionic-psychokinetic, saw a cultist with a sickle behind his partner, Yermakov had half a second. Without weapons in his hands — Yermakov shot psychokinetically. A glass bottle from the table flew across the room and hit the cultist on the back of the head. The cultist fell. The partner turned around and saw the bottle. «Was that you?» he asked. Yermakov: «Yes.» — «Thanks.»",
+   "desc": "Movement of matter by force of will. **[P]** — only for worlds with psionics. INT + SP + PER.\n\n**Includes:** telekinesis (moving objects), psychokinetic push (directed strike), holding (stationary fixation), small fine work (lockpick from a distance), tossing of an object as a weapon (a stone, a knife, a chair)."
+  },
+  {
+   "id": "pirokinez",
+   "name": "Pyrokinesis",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Paranormal",
+   "note": "Изменение температуры объектов.",
+   "vignette": "An operative bursts into the basement where cultists are trying to summon an Ancient God. Alone. On the altar — his partner, stripped and painted with ochre and henna in known signs. Around — eighteen cultists, finishing the words. The operative does not raise the GSh-18. Raises his right hand and exhales a thread of flame from his fingertips — a hand-width thick, a forearm in length. The cultists ignite one by one — like candles in a row. Sixty seconds. Twenty bodies. No Ancient God.",
+   "desc": "Control of fire and temperature through will. **[P]**. INT + SP + PER.\n\n**Includes:** ignition (without a source of flame), bursts of flame (directed fire), thermal localisation (raising the temperature of a point), heat shielding (slowing the spread of fire), control of an existing fire (turn, stop, intensify)."
+  },
+  {
+   "id": "telepatiya",
+   "name": "Telepathy",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Paranormal",
+   "note": "Чтение мыслей, передача мыслей, ментальные атаки.",
+   "vignette": "OPI telepath Sheremetyeva read the captured cultist for 18 minutes. Not interrogation — direct reading. The cultist felt nothing. By the end of 18 minutes Sheremetyeva had: the cult's full hierarchy, locations of three other cells, names of the patrons, schedule of next ritual. «Thank you,» she said to the cultist in his cell. «You don't even need to talk.»",
+   "desc": "Telepathy. **[P]**. INT + SP + CH.\n\n**Includes:** mental reading (surface thoughts), deep reading (memories, hidden), mental projection (sending a thought), telepathic communication with another psionic, blocking of one's own thoughts (against another telepath), reading of emotions (passive), recognition of psionic presence."
+  },
+  {
+   "id": "ekstrasensorika",
+   "name": "Extrasensory Perception",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Paranormal",
+   "note": "Расширенное восприятие: ауры, аномалии, скрытые объекты.",
+   "vignette": "OPI extrasense Vereshchagin in a flat in Moscow felt at a distance the presence of a vampire den three kilometres away. Pointed at the map: «Here. Three vampires, one ancient. Den under a former cellar. Entrance through Krasnokursantsky Lane, second courtyard, basement door behind a green van.» ORPP came at night. The den was exactly there. Three vampires, one ancient. Destroyed.",
+   "desc": "Extrasensory perception. **[P]**. PER + SP + INT.\n\n**Includes:** clairvoyance (vision of the distant or hidden), clairaudience, premonition (intuitive flashes of the future), aura-reading, sensing the presence of the unholy at distance, dowsing (water, metal, paranormal anchors)."
+  },
+  {
+   "id": "biokinetika",
+   "name": "Biokinetics",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Paranormal",
+   "note": "Управление биологическими процессами. Лечение и убийство.",
+   "vignette": "OPI biokinetic Sheremetyeva (different Sheremetyeva — the healer-Sheremetyeva, partner of Serov in «Gamma») in the basement of a cultic compound healed operative Volkov of a torn liver in 14 minutes. Volkov should have died of internal haemorrhage. Sheremetyeva put her hands on the abdomen, closed her eyes, breathed deeply. The bleeding stopped. The tissue began to gather. Volkov lived. Sheremetyeva sweated through three shirts.",
+   "desc": "Biokinetics — manipulation of biological tissue. **[P]**. INT + KO + SP.\n\n**Includes:** healing (acceleration of regeneration), wound closure (sealing of vessels, sewing of tissues by will), pain relief, manipulation of one's own body (changes in adrenaline, change of body temperature for half an hour), in extreme — manipulation of an opponent's body (a heart stop — a war crime in any system)."
+  },
+  {
+   "id": "psihotemporalnyy-kontrol",
+   "name": "Psycho-Temporal Control",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Paranormal",
+   "note": "Манипуляция временем. Высшая форма.",
+   "vignette": "OPI psycho-temporal Mikhalkov sensed a fae glade in a Tver forest 200 metres before he stepped into it. «Don't go in,» he said to the group. «Time goes wrong there. We'll come out in three years if we get in now.» The group went round. The OPI later sent a research expedition with a chronometer. Mikhalkov was right. The time anomaly was confirmed.",
+   "desc": "Psycho-temporal control. **[P]** — rare ability. INT + SP.\n\n**Includes:** subjective time-slowing (the carrier feels time slower — reactions faster), foresight (instantaneous flash of the next 1–3 seconds), short jumps backward (a few seconds — at extreme cost), sensing of «time-anomalies» (where time flows differently — a fae glade, a haunted manor)."
+  },
+  {
+   "id": "kontrol-materii",
+   "name": "Matter Control",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Paranormal",
+   "note": "Разрушение и перестроение атомарной структуры. Высшая форма.",
+   "vignette": "OPI matter-controller Verbitskaya melted the door of a vault by raising the temperature of the metal at one point to 1100°C in fourteen seconds. Without external heat. Without explosives. The vault opened. Inside — three documents and an artefact. ORPP took them. The OPI insists Verbitskaya does not exist.",
+   "desc": "Matter control — changing the state of matter by will. **[P]** — rare. INT + SP + KO.\n\n**Includes:** changing aggregate state (water to ice, ice to vapour), changing matter properties (steel into soft metal at one point — the lock opens), creation of small amounts of matter from nothing (an OPI controversial discipline), at extreme — transmutation (a controversy at the level of «not in practice»)."
+  },
+  {
+   "id": "morskaya-navigaciya",
+   "name": "Marine Navigation",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Navigation",
+   "note": "Штурманское дело на море.",
+   "vignette": "When the ship «Alfa-7» got into a storm in the Kara Sea and the navigation system failed, the only seaman-navigator aboard was first mate Gromyko. Gromyko worked at the chart-table with sextant and chronometer for forty minutes — between storm pitches he caught the sun for an instant through a break in the clouds. The course was held. Three days later the ship came into Murmansk by hand-navigation. Gromyko on the bridge said: «Sextant is older than GPS by three centuries. It can be relied on.»",
+   "desc": "Marine navigation without GPS. INT + PER. Differs from general Orienteering: marine is a specialised discipline with its own instruments and methods.\n\n**Includes:** work with sextant, marine compass, magnetic declination, marine maps and charts, plotting course by current and wind, work with chronometer (for longitude), star navigation (Polaris in northern hemisphere, Southern Cross — south), reading sea conditions (currents, swells, depth changes by water colour).\n\n**Specifics:** at low — coastal navigation. At average — oceanic without GPS. At expert — by stars without sextant. At Specialization — Suleyman ibn Ahmad in stormy nights leads through the strait by sense.\n\n**ZPN scale:** sport-navigator ~30, mate ~50, master mariner ~70, legend ~90."
+  },
+  {
+   "id": "astronavigaciya",
+   "name": "Astronavigation",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Navigation",
+   "note": "Прокладка курсов в космосе.",
+   "vignette": "On the «Prometheus-2» (the OPI's experimental interplanetary ship) the on-board navigator Lev Dyomin calculated the Hohmann transfer to Mars. Not «entered the data» — personally drew up an alternative trajectory by hand, on paper, with a slide rule and a chronometer, in case the computer should fail. Twelve hours of calculation. The result coincided with the computer's to within 200 km of the destination point and 17 seconds of arrival time. Dyomin handed the table to the captain. The captain looked. «Astronomers' work in space?» he asked. «Always,» said Dyomin.",
+   "desc": "Navigation in space. INT + PER. **[HT]** — for worlds with space technology. Closely linked with Astrophysics and Space Piloting — but a separate skill: the pilot pilots, the astronavigator COUNTS.\n\n**Includes:** orbital mechanics (Hohmann, bi-elliptic, gravitational slingshot), interplanetary navigation, astronomical orientation (against the background of the celestial sphere), accounting for solar wind and gravitational perturbations, computer modelling of trajectories, manual calculation in the event of computer failure (Apollo 13).\n\n**Specifics:** at low — orbital corrections. At average — interplanetary trajectory by computer. At expert — manual calculation of a trajectory under emergency. At Specialization — Lev Dyomin manually calculating a Hohmann transfer in 12 hours with paper.\n\n**ZPN scale:** trained ~50, experienced ~70, master ~90+."
+  },
+  {
+   "id": "kartografiya",
+   "name": "Cartography",
+   "attrs": [
+    "INT",
+    "PER",
+    "COR"
+   ],
+   "category": "Navigation",
+   "note": "Составление и чтение карт. КО — для точности рисунка.",
+   "vignette": "Wang Shi, blind master cartographer, drew the relief map of the Archipelago by touch. His fingers felt the difference in 0.1 mm in the relief — accurate to the thinness of the lines, the angles of the slopes, the depths of the bays. The map became canonical for the Eternal City's flotilla: the captains studied by it from then on. Wang Shi had not seen the Archipelago. He had felt it through his hands.",
+   "desc": "Cartography — making and reading maps.\n\n**Includes:** topographic maps, sea charts, tactical maps, projections (Mercator, gnomonic), scale and accuracy, compilation by sources (aerial photography, field measurement, satellite), reading symbols and contour lines, drawing routes, calculating distances and elevations, drawing combat-zone maps.\n\n**Specifics:** at low — reads a topographic map. At average — draws by ground survey. At expert — drafts maps for operations. At Specialization — Wang Shi made relief maps by touch better than computers.\n\n**ZPN scale:** beginner ~30, professional ~50, master ~70, Wang Shi ~90+."
+  }
+ ]
+}

@@ -1,0 +1,1343 @@
+{
+ "perks": [
+  {
+   "id": "rasputnost",
+   "name": "PROMISCUITY",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "You cannot stay faithful. No relationship has survived your habit of waking up in other people's beds. You flirt with witnesses, you sleep with informants. It isn't pathology yet — just a weakness that regularly drops you into idiotic situations.",
+     "mechanics": "SPIRIT under sexual temptation (DC 10). Failure — you pursue the target ignoring consequences."
+    },
+    {
+     "cost": 6,
+     "desc": "Satyriasis. Nymphomania. You think about sex constantly — not «often», constantly. It is the background noise drowning out everything. You have already been used through the bed, you knew it while it was happening, and you couldn't stop. The honey-trap will work even if you SEE that it's a trap.",
+     "mechanics": "SPIRIT against any sexual subtext (DC 20). Critical failure — you are ready for betrayal in exchange for contact."
+    },
+    {
+     "cost": 9,
+     "desc": "One minute to death by thirst. You do not control this. A succubus not hiding her nature — you will go. Your body burns, your brain lost long ago.",
+     "mechanics": "SPIRIT against ANY contact with an attractive person (DC 30). Failure — you drop everything. Every 24 hours without contact: a cumulative −5 to everything."
+    }
+   ],
+   "vignette": "Cleanup of a sanguinophage outbreak in an industrial estate took eight hours. Eight hours of unbroken hell — burning bodies, the screech of the infected, the smell of charred meat from plasma emitters. When the last carrier dropped and stopped twitching, Lori stood knee-deep in something black and thick, with an empty GSh-18 magazine and shaking hands.\nThe adrenaline was leaving. And in its place, as always, as every cursed time after combat, the other thing was rising. Heat. Hunger. Not the kind food cures.\nShe was supposed to go back to base. Write the report. Take a shower. Lie down to sleep.\nInstead she walked into the first bar she came to. Cheap, dirty, the kind where they don't ask names and don't ask questions. Twenty minutes later she was at the bar without underwear — pulled it off in the toilet — in a dress that barely covered her arse. Leaning forward, pushing her arse out, elbows on the sticky wood of the bar, she ordered the first shot.\nThe first stranger took her right at the bar. Lori pushed back, impaling herself, and at the same moment tipped the vodka down her throat, feeling her body receive at both ends exactly what it needed more than oxygen.\nBy the third she stopped counting. The bar, the toilet, the bar again. Shots in between. Hands — other people's, all different, she didn't care whose. Faces — she didn't remember.\nHer handler Kenneth found her after two days. A motel out of town. On the bathroom floor. Phone dead. On her wrists — bruises from holds she didn't remember.\nThe blood-work result came back a week later.\n«One of them was carrying a modified strain of Sigma-7,» said Kenneth. «You know what that is.»\nLori knew. Every ORPP operative knew every strain by heart. Sigma-7 — turning vector via body fluids. Incubation seventy-two hours. She had crossed the window of safe testing two days ago.\nKenneth set the protocol kit on the bedside table. Self-injection capsule. Or wait three days for confirmation, then field termination by a colleague.\nLori looked at the capsule and understood: it had been worth it, every time. Not because of the bar. Not because of the shots. Because for those two days, between the first man at the bar and the bathroom floor, she had not been at war. She had been only a body, and only a body's needs, and no thoughts about strains and patrols and the eight hours that morning.\nShe took the capsule. Decided she would inject when the bruises faded — there were still maybe six hours of grace. And used the six hours the way she knew how.",
+   "desc": "An inability to stay faithful, the constant background of sexual hunger — through three stages, from a quirk that costs you relationships to a pathology that costs you operations.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "paranoyya",
+   "name": "PARANOIA",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "You see patterns where they aren't. A late colleague isn't late — he's reporting on you. A repaired car wasn't repaired — someone has put a tracker in it. It doesn't yet stop you working, but spoils relations with the squad: your suspicions land on each one of them in turn.",
+     "mechanics": "INSIGHT against the verdict «no, there really isn't a conspiracy here» (DC 10). Failure — you proceed from the conspiracy version and waste time."
+    },
+    {
+     "cost": 6,
+     "desc": "Paranoia in the clinical sense. Every coincidence is meaningful. Every door is a possible ambush. Every meal that arrived not from your hand is poisoned. You no longer trust anyone — not even your handler. Especially not your handler.",
+     "mechanics": "INSIGHT against trust (DC 20). On critical failure — you act against your own squad's plan because you've decided «they're playing me too»."
+    },
+    {
+     "cost": 9,
+     "desc": "Total destructive paranoia. The squad is the enemy. Family is the enemy. Your own thoughts are the enemy (someone has put them in there). You sleep with a weapon and shoot first.",
+     "mechanics": "INSIGHT against extreme paranoia (DC 30). Failure — pre-emptive action against someone in your circle. Permanent −10 to all social skill checks."
+    }
+   ],
+   "vignette": "Major Sokolov's apartment had been swept for bugs four times in the last month. By his own hands. The first three times he didn't find anything; the fourth time he found, in the cap of a ballpoint pen on the kitchen table, a tiny piece of soldered electronics, very convincing in its smallness. Then he remembered that he had built that piece himself, last year, for a training exercise, and had forgotten it in the pen.\nAt that moment Sokolov took a decision: he would not sleep at home any more. He started spending nights in different hotels, in different parts of Moscow, paying cash, signing in under invented names. On the third week the receptionists started recognising him anyway and smiling without questions, and he understood — they had been informed. Someone in the chain of registrars had been instructed.\nHe stopped sleeping in hotels and started sleeping in his car, parking in a new place every night. Three weeks of that and his back began to give out. He could no longer reach for a weapon at speed; the squad doctor, examining him, said: «Major, you need physical therapy.» Sokolov nodded and quietly noted: the doctor is part of it too, this is how they neutralise me first, then they come for me.\nAt the next operation, an ordinary one, in an old apartment with a vampire den, Sokolov shot his own coverman in the back. He explained later that the coverman had been turning towards him in a manner that confirmed all his suspicions for the last month. The coverman survived (Class IV armour), but the squad was disbanded, and Sokolov went on a long retreat for treatment. He believed of course that the retreat was the operation against him, and that the therapist was the operative running it.\nIn the file is a photograph of the pen with the piece of electronics in it. Sokolov insists that the piece is not the one he soldered himself last year. Someone substituted it. Even now. Right here in the file.",
+   "desc": "An organic distrust of the world, sliding from harmless suspicion through clinical paranoia to a state where the operative shoots his own squad first.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "razdrazhitelnost",
+   "name": "IRRITABILITY",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "You explode over trifles. A colleague's joke at the wrong moment, a kettle that wouldn't boil, a slow witness — and you have already raised your voice. People grow tired around you, the squad mutters that «you can't talk to him before lunch».",
+     "mechanics": "SPIRIT against irritation in a tense situation (DC 10). Failure — −2 to social checks for the next hour, plus you have offended somebody."
+    },
+    {
+     "cost": 6,
+     "desc": "You break things. Door handles, smartphones, witnesses' jaws. In the squad you have a separate set of paperwork — for repaying damage to civilian property. Two squad-mates are afraid of you, three have stopped speaking to you outside the operation.",
+     "mechanics": "SPIRIT against rage from a noticeable trigger (DC 20). Failure — physical action with consequences. Critical failure — you have hit a witness, an informant, or your own."
+    },
+    {
+     "cost": 9,
+     "desc": "Pathological rage. Any frustration is a punch to the table, the wall, somebody. You no longer try to hold back; the moment between trigger and blow is gone. The squad refuses to take you on operations with civilians.",
+     "mechanics": "SPIRIT against pathological rage (DC 30). Failure — uncontrolled violence. Restraint requires a separate INSIGHT check (DC 25) to remember whom you can hit."
+    }
+   ],
+   "vignette": "Captain Voronin stood at the duty doctor's window in the regional ORPP outpatient clinic and listened to the receptionist explain to him, for the fourth time, that without a referral from his unit she could not see him. Voronin had a referral. The referral was in the file, the file was in the office of the unit, the office was closed because the operations officer had gone to lunch.\nVoronin felt the heat rise from his collar to his temples. He noted it; he had been working on this for two years with the psychotherapist. Noting helps. Sometimes.\nThe receptionist repeated, for the fifth time, that without a referral she could not. The window between them was glass with a small slot for documents. Voronin's left hand closed on the rim of the slot.\nThe psychotherapist would say: «Now you breathe. Three seconds in, six out. Three in, six out.» Voronin breathed. Three in, six out.\nThe receptionist looked at her screen and added that the system was reporting an issue with his policy as well. He would also have to go to the policy office. Across town.\nVoronin's left hand tore the rim off the slot.\nThe window did not crack. The metal frame came away cleanly because it had been held only by two screws and an old strip of caulk. Voronin looked at the strip of metal in his hand, looked at the receptionist's face, looked at the camera in the corner, set the strip carefully on the counter, said «I beg your pardon, that was structural fatigue», turned and walked out.\nIn the squad they say Voronin came back changed: now he sits in the queue for two hours and only carefully cracks his knuckles, every minute exactly. The psychotherapist says this is progress. The receptionist, when she sees him through the new aluminium window, says nothing at all.",
+   "desc": "Inflammable temper from low boil to clinical aggression. The operative breaks objects, then property, then people.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "neterpelivost",
+   "name": "IMPATIENCE",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "You don't know how to wait. Stake-outs torment you, briefings drag, witnesses speak too slowly. Your foot taps under the table, you cut people off, finish their sentences for them. You don't yet break operations — but you make them more nervous.",
+     "mechanics": "SPIRIT against impatience on a long observation (DC 10). Failure — you give yourself away (a movement, a noise) or you withdraw too early."
+    },
+    {
+     "cost": 6,
+     "desc": "Inability to maintain position. After half an hour of waiting you start improvising; after an hour you're moving on the target on your own. Your handler has stopped putting you on surveillance operations; the squad sends you in first because «you'll go anyway».",
+     "mechanics": "SPIRIT against waiting (DC 20). Failure — you break position. Critical failure — you draw the operation into a contact prematurely."
+    },
+    {
+     "cost": 9,
+     "desc": "Pathological impatience. You can't wait two minutes for the kettle. You smash open a door instead of trying the handle. You shoot first, ask never. The squad doesn't take you on covert operations any more.",
+     "mechanics": "SPIRIT against pathological impatience (DC 30). Failure — uncontrolled action with no thought of consequences."
+    }
+   ],
+   "vignette": "Lieutenant Khasanova spent forty-five minutes lying flat on the roof of a five-storey housing block in Babushkin, with optics trained on the third floor of the building opposite, where the operations group was supposed to record the meeting between the target and his contact. Forty-five minutes. The target was due in fifteen. The contact in thirty. The operations group needed the recording of both.\nAt the thirty-ninth minute Khasanova felt the lower part of her stomach go cold. She had read about that signal in the squad handbook: it is the first symptom of «moving body syndrome», when the body begins to demand action irrespective of what the head is planning. She made herself count to ten. She made herself count to twenty.\nAt the forty-fifth minute she rose to her elbows, took an angle for a clean entry through the third-floor window, and shot through the glass directly at the empty desk where the target was supposed to be sitting in fifteen minutes. The rifle was a Vintorez, the shot was subsonic, no one inside the building heard a thing.\nNo one outside heard either. But the round travelled cleanly through the empty desk, broke the glass on the opposite side, and hit the wall in the apartment across the road, where the target's contact, who had arrived early and was sitting in the wrong place, was just calling the target on the phone to say «I'm here, where are you». The bullet took him through the shoulder.\nThe target, hearing the cry on the phone, instantly broke contact, threw away the phone and disappeared from the city for three months. The operations group recorded nothing. The contact survived. Khasanova was assigned a year of light duty and a course of stake-out drills, on which she has, to date, lain motionless for as much as eleven hours.",
+   "desc": "Inability to wait. A discomfort with idleness that grows from a fidget into an action regardless of consequences.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "fobiya",
+   "name": "PHOBIA",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "A specific phobia (the player and master agree on one): heights, water, the dark, spiders, closed spaces, etc. In an ordinary situation it does not interfere, but when the trigger arrives — anxiety, sweating, a need to leave. You are still able to work, but with effort and a noticeable drop in performance.",
+     "mechanics": "SPIRIT against the trigger (DC 10). Failure — −3 to all checks while you remain in contact with the trigger."
+    },
+    {
+     "cost": 6,
+     "desc": "A serious phobia. Contact with the trigger triggers a panic attack: shallow breathing, tunnel vision, hands shake. You cannot fire accurately. You cannot speak coherently. To remain in the situation requires conscious effort beyond what an ordinary operative can sustain.",
+     "mechanics": "SPIRIT against the panic attack (DC 20). Failure — −10 to all checks, you are looking only for a way out of the trigger zone."
+    },
+    {
+     "cost": 9,
+     "desc": "Crippling phobia. You CANNOT remain in contact with the trigger. You will retreat, push past your squad, leave the wounded behind. After the attack — half a day of physical exhaustion.",
+     "mechanics": "SPIRIT against extreme panic (DC 30). On failure — uncontrolled flight; on critical failure — abandonment of the operation with consequences."
+    }
+   ],
+   "vignette": "Sergeant Petrov was afraid of closed spaces. A childhood story: locked in by an elder brother in a wardrobe, three hours, no one heard him calling. In ordinary life that fear didn't bother him — he chose a flat on the eighth floor, never used lifts, took the stairs in any building. In the squad they knew, the squad made allowances; on entries Petrov was the second man through the door, never the breacher.\nThe operation in the old Stalinka basement on Vernadsky started normally: confirmed nest of vurdalaks, six confirmed bodies, second floor down from ground level, two entries, mapped exits, a squad of four. Petrov was on cover at the second entry, by the boiler-room door. Then the first entry collapsed under an explosion (one of the vurdalaks had been waiting with a pipe bomb) — and through the second entry the whole squad came pouring through, and Petrov's role rotated: now he was clearing forward, into the corridor leading deeper.\nThe corridor narrowed. The ceiling came down by half a metre. The walls came in on him. Petrov made himself walk three more paces — and then his lungs stopped taking air. Stopped fully. The next breath would not come. His vision started to narrow.\nBehind him the squad shouted, asking for forward fire on a vurdalak coming out of the side branch. Petrov heard the shout from very far away, as though through cotton wool. He turned and shoved through the squad-mate behind him, then through the next, and was suddenly running back, up the stairs, into the boiler room, out into the yard. The cold air hit his face and he understood that the second-to-last man in the squad had taken two hits from the vurdalak in the side branch, because the cover fire he, Petrov, was supposed to provide, had not arrived.\nThe squad-mate survived, three months in hospital. Petrov is now on light duty, working from the second floor of department headquarters, and he agrees with that placement.",
+   "desc": "A specific phobia chosen at character creation. Triggers anxiety in mild form, a panic attack in moderate, uncontrollable flight in severe.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "kompleks-betmena",
+   "name": "BATMAN COMPLEX",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    6,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Personal refusal to kill humans. The unholy you take down without hesitation, but on a human you keep your finger off the trigger. Sometimes that costs lives — your own, your squad's, the victim's. In your file there is at least one entry where you were ordered to terminate a target and you arranged the situation so that someone else did it for you.",
+     "mechanics": "SPIRIT against orders to lethally engage a human target (DC 10). Failure — you fire wide, in the limb, beside the target. Squad-mates note it."
+    }
+   ],
+   "vignette": "Captain Ryabov was an ORPP veteran with sixteen years' service. He had killed vampires, vurdalaks, leprechauns of the lower court, a sebekite shaman in the Volgograd undercity, two changelings and one mavka who had refused his offer of evacuation. He did not lose sleep over any of it. The unholy were the unholy.\nThe Yaroslav cult operation went sideways on the seventh minute. The cell, instead of being seven adepts as agreed in the briefing, turned out to be twenty-three, and only three of them were psi-active sectarians; the rest were villagers who had been recruited in the last six months, and stood in the prayer hall in their farmer's clothes, with hunting carbines and one bored-out Mosin. The three sectarians were brought down first. Then the villagers opened up.\nRyabov stood behind the corner of the door frame, his Vityaz-SN ready, and looked through the corner at a man of about fifty in a quilted jacket and a fur hat, who was holding a shotgun and trying to remember how to release the safety. The man had recognised Ryabov as ORPP and was visibly frightened. The shotgun shook in his hands. The safety had still not come off.\nThe villager could have been incapacitated by a shot to the shoulder; Ryabov was accurate enough. He could have been shot dead. He could have been shouted at. Ryabov did not do any of these. He stood and looked at the safety on the shotgun, and the safety was very slowly being slid forward.\nThe villager managed to fire first. The round took Ryabov's squad-mate Voronova through the throat above the body armour. Voronova went down without a sound. Ryabov shot the villager next, in the chest, after he had reloaded. The villager did not survive the operation.\nIn the report Ryabov wrote that he had hesitated on the identification of the target. The board accepted the wording. Voronova survived after twelve hours of surgery and three months of rehabilitation. Ryabov has not been put on operations with human cult collaborators since. He himself says it suits him.",
+   "desc": "Refusal to lethally engage humans, growing from a moral preference into a physiological block. The squad has to compensate.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "himicheskaya-zavisimost",
+   "name": "CHEMICAL DEPENDENCY",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Daily dose: alcohol, nicotine, mild stimulants. You are still functional — but mornings are difficult, evenings drift in one direction. The squad puts up with it because as a working officer you're still good.",
+     "mechanics": "Every 24 hours without a dose — −2 to all checks. Two days — −5. Hangover at the start of a shift is a separate penalty by the master's choice."
+    },
+    {
+     "cost": 6,
+     "desc": "Heavy dose: hard drinking, opiates, amphetamines. Without a dose your hands shake, you can't sleep, you can't focus. With a dose you work, but no longer at peak. The squad has stopped trusting you with single-handed operations.",
+     "mechanics": "Every 12 hours without a dose — −5 to all checks. After 24 hours — withdrawal syndrome, you can't fight. Restoring functionality requires a dose."
+    },
+    {
+     "cost": 9,
+     "desc": "Fatal. You don't work without the drug at all. Your fingers won't close on a pistol grip. Your vision blurs. Without a dose you are clinically incapable.",
+     "mechanics": "Every 6 hours without a dose — −10 to all checks. After 12 hours — bedridden. Withdrawal can kill you outright without medical support."
+    }
+   ],
+   "vignette": "Lieutenant Antipov of the Khabarovsk department had been on heroin for two and a half years. It started after the operation against the «Children of the Amur» cult, in which his partner had been ritually disembowelled in his presence while Antipov was held in a paralysis ward by a cult medium. The squad doctor wrote him an Express-2 prescription for the rehabilitation, then a Forsazh-1 prescription for return to duty, then an Express-2 prescription again. Antipov found out on his own where to get cleaner material at lower cost.\nIn the operational sense Antipov stayed sharp for a year and a half. Then his accuracy dropped. Then the squad-mates noticed that he was sweating heavily on stake-outs. Then once, on entry, his hand could not hold the GSh-18 grip and he dropped the pistol in front of an open doorway. He was retrieved by a partner who tackled him into the wall and held him there for two and a half minutes while a vurdalak passed the corridor.\nThe internal investigation board called him in. Antipov came in clean and gave coherent testimony — he hadn't dosed for thirty-six hours and his hands were already shaking by the third question. The board did not formally retire him; it placed him on rehabilitation with active duty suspended.\nAt the rehabilitation clinic Antipov lasted a week. On the eighth day he checked out under his own signature and went looking for his old dealer in the Khabarovsk slums. He was found three days later in a basement with two of his old combat colleagues — Sergeant Lebedev and Sergeant Pavlov, both also under treatment, both also failing it — all three of them with needles still in their arms and a paramedic kneeling over Lebedev (the only one breathing).\nAntipov was buried with the customary honours. The department has since changed its prescribing protocols on Express-2.",
+   "desc": "Chemical dependency on a particular substance. Daily dose — functional. Heavy — degrading. Fatal — clinically incapable without the dose.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "zhestokost",
+   "name": "CRUELTY",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "You take pleasure in violence. A blow lands not because it had to land, but because you wanted it to. In interrogations you go beyond what was authorised; in fights you don't stop on the first knockdown. The squad whispers; the supervisors are not yet writing it down.",
+     "mechanics": "SPIRIT against gratuitous violence (DC 10). Failure — you go further than needed. Civil witnesses to the act are creating problems for the department."
+    },
+    {
+     "cost": 6,
+     "desc": "You take pleasure in pain. You enjoy not victory but the moment when the opponent realises he is losing. You can hold a wounded man at the limit of his endurance for an hour, because you want to. In interrogations you cross the legal line; in the squad two officers refuse to work with you.",
+     "mechanics": "SPIRIT against cruelty (DC 20). Failure — sadistic action with witnesses. Critical failure — you have killed someone you were supposed to capture."
+    },
+    {
+     "cost": 9,
+     "desc": "Sadism in the clinical sense. Operations that don't allow for the slow killing of an opponent torment you. You arrange situations so that you can. The squad operates around you, supervisors look for ways to retire you, you are useful only against the unholy where any restraint is irrelevant.",
+     "mechanics": "SPIRIT against sadism (DC 30). Failure — a war crime by the law of any country. Critical failure — the witness was your own."
+    }
+   ],
+   "vignette": "Senior Lieutenant Khromov had a peculiarity that the squad noticed in the first month: at interrogations of human cult adepts he did not raise his voice and did not strike. He simply set the cooking timer on the table to ninety seconds, and put on the adept's hand — usually the right hand, since it was usually the right hand that had held the ritual knife — a small steel ring connected by a wire to a battery on the table. Khromov asked his question, then pressed the button. For ninety seconds the ring heated until it began to scorch the skin off the finger.\nKhromov did not pose his second question for thirty minutes after the first. He observed. He watched the adept's face, watched the burn glaze over and the skin around it whiten, watched the breath shorten. After thirty minutes he posed the second question and pressed the button again.\nThe answers Khromov obtained were impeccable. In two years not one investigation he had handled failed on credibility. Twelve cells were rolled up on his work. The supervisors had a quiet, separate conversation about his methods, and concluded that as long as no one in the cult survived to file a complaint, the methods were the methods.\nIn the third year a complaint did arrive. From a member of the prosecutor's office, who had attended an interrogation as an observer. The text of the complaint contained the phrase «the officer was not extracting information, the officer was extracting his own pleasure». Khromov was transferred to anti-vampire operations. Now he interrogates only the dead, and only with a stake. Supervisors note he has lost some of his sparkle.",
+   "desc": "Pleasure in inflicting violence and pain. From extra blows in interrogation to clinical sadism. The squad and the department compensate by walling the operative off from civilians.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "mstitelnost",
+   "name": "VINDICTIVENESS",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    9
+   ],
+   "levels": [
+    {
+     "cost": 9,
+     "desc": "You don't forget grievances. A slight, a betrayal, a half-broken promise — you keep them in a separate folder of your head. You don't make scandals, but when an opportunity comes you will quietly bend the situation against the offender. People who have brushed against you no longer trust you.",
+     "mechanics": "SPIRIT against an opportunity to settle a small score (DC 10). Failure — you act against the operation's interest in order to gratify the grievance."
+    }
+   ],
+   "vignette": "Major Kostina kept a notebook. The notebook was small, black, in a cover of Indian leather, and held the names of everyone who, over fifteen years of service, had wronged Kostina personally. Not in a professional sense, where there was a separate file; in a personal sense — a humiliation in front of subordinates, a betrayal of confidence, an unkept promise. There were forty-one names in the notebook. Five had been crossed out. The crossings-out were neat, in two lines, with the date in the margin.\nThe crossings-out were not accidents. The first crossing-out — Captain Polev, who in 2018 had publicly mocked Kostina's appearance at a department gathering — happened in 2020, when his name turned up in the documents of a small leak investigation, and the investigation had been led by Kostina herself, and Polev had ended up retired with a black mark in his file. The second crossing-out — Major Sokolovsky, who had once promised Kostina cover on an operation and not provided it — happened in 2022 the same way. And so on.\nKostina did not invent the situations. She watched. She had learnt to wait years. She had learnt to use only such moments as had presented themselves of their own accord. In a department review by an internal investigator, no event in her record fell outside the regular framework of her duties.\nThe notebook came to light only when Kostina was killed on the «Black Spring» operation, and her personal effects were inventoried by a clerk who saw the names and the crossings-out and counted on his fingers how many of the crossed-out had died in the line of duty, in operations that Kostina had touched directly or indirectly. The clerk filed a memo. The memo was filed in turn — into the archive, under «Closed: officer deceased, no further action possible».",
+   "desc": "An incapacity to forget grievances. Vengeance ranges from a quietly arranged small slight to operations conceived solely to bring an old offender down.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "kodeks-chesti",
+   "name": "CODE OF HONOR",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    12
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "A personal code that you do not violate. Not strike a man who is down. Not lie to a colleague. Not hit a woman. The code is not religious or written, it is yours, but it works. Sometimes the situation demands a violation and you suffer through and don't violate.",
+     "mechanics": "SPIRIT against breaking the code (DC 10). Failure — you act according to the code, the operation suffers."
+    },
+    {
+     "cost": 6,
+     "desc": "A heavy code. You will not violate the code even when it means losing the operation. You will lay down a witness's testimony in your own report verbatim, even if it harms the squad. You will refuse an order that the code forbids. The supervisors find you difficult.",
+     "mechanics": "SPIRIT against breaking the code (DC 20). Failure — refusal of an order. Critical failure — the operation has been lost on principle."
+    },
+    {
+     "cost": 12,
+     "desc": "Absolute. You will die before you break the code. You will let yourself, your squad, and the operation perish before you violate. Supervisors have stopped trying to bend you. The squad operates only on operations where your code does not come into conflict with the mission.",
+     "mechanics": "SPIRIT against breaking the code (DC 30). Failure — total refusal at any cost."
+    }
+   ],
+   "vignette": "Captain Reshetnikov had a code of three lines, of which the third was: «do not betray a colleague». In 2024, on the operation against a cell of the «White Hand» cult in the Saratov region, his partner Lieutenant Yashin took a wound in the abdomen during the assault, and Reshetnikov dragged him through three hundred metres of forest under intermittent fire from the cult's snipers, who, contrary to the briefing, had turned out to be six and not two.\nThree months later, in the formal review of the operation, Reshetnikov was asked to confirm that Yashin had pulled the pin on a fragmentation grenade in the cellar of the cult's main building during the assault, and that the grenade detonation had killed three cult adepts and severely wounded a fourth — a fifteen-year-old, who survived but had lost both legs. The departmental board had to confirm that the grenade use had been authorised. By the actual record it had not been: Yashin had thrown a Limonka in panic, having lost his nerve.\nReshetnikov, in his testimony, said the grenade had been authorised. The grenade had been thrown by Yashin on the verbal order of Reshetnikov as senior of the entry. Reshetnikov had given the verbal order on the assessment that the cell had ritual hostages in the cellar (it had not). Yashin had executed the order in full compliance with regulations.\nThe testimony saved Yashin's career. It also placed Reshetnikov on a black mark for unsanctioned grenade use, fined him three months' pay, and removed him from active operations for six months on retraining. The fifteen-year-old, recovered now, has filed a civil suit naming Reshetnikov by name.\nReshetnikov says he would do it again. The third line of the code, he says, has no asterisks.",
+   "desc": "A personal code that the operative will not violate. The cost grows with the rigidity: from small operational losses through refused orders to losing oneself to keep the code intact.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "krovnyy-vrag",
+   "name": "BLOOD ENEMY",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    6,
+    12,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "**−6. Enemy (local).** A local gangster, a wronged ex, a mad neighbour. Dangerous enough to make you check the street. Not enough to stop you sleeping. **−12. Enemy (influential).** A criminal-clan head. A high-ranking official. A patrician. Someone with resources, people and a long memory. There is a city you cannot return to. Or a district. Or a country. Your name is on a list — and the list is not forgotten. **−24. Enemy (omnipotent).** An organisation. A state. A demon with eternal memory. Ordo Maleficarum. The one from whom you cannot hide because his eyes are everywhere. You live on the run. Every stranger is a potential killer. Every city — temporary. Your friends risk their lives just being beside you.",
+     "mechanics": "Master brings the enemy into play regularly. −6: every 3–5 sessions. −12: every 1–2 sessions. −24: a constant threat, a background element of every session."
+    }
+   ],
+   "vignette": "The motto of the Elder House of Pauletti read «Pauletti always pay». It was hard to say whether the original sense was debts or revenge, but since none of the descendants knew the correct answer either, Pauletti, just in case, paid on every account.\nPatrician Marco del Fuego could not explain the death of his young wife Giulietta, née Pauletti. He surrounded himself with guards, turned the house into a fortress, ate only the food of his own cook, slept behind three doors.\nDeep in the catacombs, Craabas del Baarbos opened a jadeite casket carved with a pale green lid. The carving showed a marionette with a long nose, holding a heart on its outstretched arm. One by one the rings of pale-blue translucent stone left their hollows. With a thin sound like a snapping string.\nThe last thing the patrician saw was two eyes burning with a cold, otherworldly blue flame on a roughly carved wooden face. Then the slender blade of a stiletto entered his ear.\nThe Pauletti paid.",
+   "desc": "An enemy who actively works against the operative. Three tiers of seriousness: a local who can spoil days; an influential figure who can shut down whole cities for you; an organisation that finds you anywhere.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "geroy",
+   "name": "HEROIC IMPULSE",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    2,
+    4,
+    6
+   ],
+   "levels": [
+    {
+     "cost": 2,
+     "desc": "You can't walk past when someone's in trouble. A scream in an alley — you're already running. You don't think. Your legs carry you. Then you think — but it's too late, you're already in the alley, and there are three thugs there, and you're alone.",
+     "mechanics": "SPIRIT (DC 5) NOT to intervene in another's trouble. Failure — runs to help."
+    },
+    {
+     "cost": 4,
+     "desc": "You actively seek heroic acts. You risk your life for strangers. You can't not. A burning house — you're inside, dragging people out until the beams fall.",
+     "mechanics": "SPIRIT (DC 15). Failure — risks life. Critical failure — sacrifices himself without assessing the situation."
+    },
+    {
+     "cost": 6,
+     "desc": "Self-sacrifice is reflex. You shield with your own body. The body decides for the head. Always. A bullet is flying at a comrade — and you're already standing in its way. Not because you want to die. Because NOT to shield — you cannot.",
+     "mechanics": "SPIRIT (DC 25) NOT to shield. Failure — throws himself in to protect regardless of tactics, logic and common sense."
+    }
+   ],
+   "vignette": "Serov dived. No order, no plan, no thought — he dived, and Sheremetyeva's body, flying into emptiness, hit his hands instead of the concrete four floors below. He caught her a fraction of a second from the edge — having gone over the rail himself — and landed on his back on the staircase landing, taking the whole impact.\nThree broken ribs. A crack in a vertebra. Sheremetyeva — not a scratch.\n«Why?» she asked in hospital.\nSerov shrugged. Winced in pain. «Don't know. The body decided.»\nThe OPI staff exchanged glances. Serov's luck-index — already anomalous — was recalculated. Twice. The instrument, by rumour, jammed.",
+   "desc": "You can't walk past when someone's in trouble. A scream in an alley — you're already running. You don't think. Your legs carry you. Then you think — but it's too late, you're already in the alley, and there are three thugs there, and you're alone.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "fanatizm",
+   "name": "FANATICISM",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Devotion to an idea, an organisation or a faith. You do not listen to counter-arguments — not because you are stupid, but because the matter is not open for discussion. The Emperor is holy. The One is true. The Revolution is inevitable. Period. Whoever disagrees is wrong. Or an enemy.",
+     "mechanics": "SPIRIT (DC 10) to act AGAINST the object of fanaticism. Failure — impossible."
+    },
+    {
+     "cost": 6,
+     "desc": "You are ready to sacrifice for the cause. Your own, others' — it doesn't matter. The mission demands betraying a friend? Friend betrayed. The faith demands destroying heretics? Destroyed. You don't sleep — you serve. You don't live — you burn.",
+     "mechanics": "SPIRIT (DC 20). Failure — sacrifices anything for the object. −10 to social with «unbelievers»."
+    },
+    {
+     "cost": 9,
+     "desc": "Ready to die. And to kill. In the name of. The terrorist, the crusader, the possessed revolutionary — different banners, the same eyes. Empty, burning, absolutely certain. With such eyes one does not argue. From such eyes one runs.",
+     "mechanics": "SPIRIT (DC 30). Failure — any action for the Cause, including suicide attacks. +5 to intimidation (a fanatic is terrifying). −20 to social with outsiders."
+    }
+   ],
+   "vignette": "Brother Thomas of the Order of the One Flame had been reading the interrogation transcript of a witch from the Archipelago for the third time. The witch insisted that her power was natural. That she had no part of the Dark. That her winged cat was not a demon but a familiar, a living creature created by alchemy, not by sorcery.\nThomas set the transcript aside. Took a pen. In careful, calligraphic hand he wrote in the margin: «A lie. Any power not from the One is from the Dark. There is no alternative.»\nThe witch was bound to a stake at dawn. The cat screamed — in a high, almost human voice, beating itself in the cage and breaking its wings on the bars. Thomas stood and watched. His face calm. His eyes empty and burning at once.\nThe captain of the guard, present at the execution, would later say in the tavern, having drunk: «I have seen men who enjoy killing. Bernard, for example. With Thomas it's different. He doesn't enjoy it. He doesn't care. He doesn't see a person. He sees heresy. Heresy is not a person. Heresy — burns.»\n«And that,» the captain would add, «is far more terrifying.»",
+   "desc": "Devotion to an idea, an organisation or a faith. You do not listen to counter-arguments — not because you are stupid, but because the matter is not open for discussion. The Emperor is holy. The One is true. The Revolution is inevitable. Period. Whoever disagrees is wrong. Or an enemy.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "zamknutost",
+   "name": "WITHDRAWN",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Coldness. You avoid contact. Monosyllabic answers. Colleagues invite you for a drink after shift — you refuse. Always. Not because you don't want to — you don't know how. Words stick in your throat. Silence is more familiar. Safer.",
+     "mechanics": "−5 to social skills. Doesn't initiate contact unless necessary."
+    },
+    {
+     "cost": 6,
+     "desc": "You can't form bonds. People are functions to you. This one drives. That one shoots. She heals. Names you remember with difficulty. Faces — worse. You're not considered evil — you're considered empty.",
+     "mechanics": "−15 to social. Can't make friends or allies without a SPIRIT check (DC 15). Doesn't respond to emotional appeals."
+    },
+    {
+     "cost": 9,
+     "desc": "Contact with people causes physical discomfort. Their voices — like the screech of metal. Their presence — like heat from a bonfire you want to move back from. You live alone. Work alone. If you can — you're silent. If forced to speak — every word costs an effort, as if you're pushing a stone uphill.",
+     "mechanics": "−25 to social. SPIRIT (DC 15) for any conversation longer than two sentences. Cannot stand in a crowd without a check."
+    }
+   ],
+   "vignette": "Analyst Zimin, OPI, didn't go to the canteen. He ate at his desk in the laboratory, alone, with his back to the door. Didn't greet people — not because he was rude but because he forgot. People, for Zimin, were obstacles that occasionally produced a useful signal (a report, a query, data) and more often useless noise (conversations, questions, greetings).\nSamoylov once tried to take him into the field. Zimin spent fourteen hours in the surveillance van, said not a word, wrote a brilliant analytical report and asked never to be taken anywhere again.\n«There were people there,» he explained. «In the van. They were talking. All day.»\nSamoylov looked at Zimin. Zimin looked at the wall.\n«Fine,» said Samoylov. «Work here.»\nZimin nodded. Didn't thank him — not because he wasn't grateful. Because the word «thank you» got stuck somewhere between throat and lips and didn't come out.",
+   "desc": "Coldness. You avoid contact. Monosyllabic answers. Colleagues invite you for a drink after shift — you refuse. Always. Not because you don't want to — you don't know how. Words stick in your throat. Silence is more familiar. Safer.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "nedoverchivost",
+   "name": "DISTRUST",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "You don't take anyone's word. Informer gave a tip — you triple-check. Wife said «I'll be late» — you check. Sometimes useful. More often insulting and slow.",
+     "mechanics": "−5 to social. Re-verifies information (costs time and resources)."
+    },
+    {
+     "cost": 6,
+     "desc": "Evidence doesn't help. You saw it with your own eyes — and still don't believe it. «Could be a set-up. Could be they showed me what they wanted me to see.» You doubt facts, documents, your own eyes.",
+     "mechanics": "−10 to social. Refuses to accept information without «absolute» confirmation (which doesn't exist)."
+    },
+    {
+     "cost": 9,
+     "desc": "You don't trust yourself. Your memories — a lie? Your sensations — an illusion? Reality — a play staged for you? The only truth is the one you can verify right now, with your own hands. Everything else is a lie. Including your own thoughts.",
+     "mechanics": "−20 to social. May refuse to act on a plan because «what if the plan is a trap for me». SPIRIT (DC 20) to execute an order without independent verification."
+    }
+   ],
+   "vignette": "Senior Analyst Boris Fomin, OPI, received intelligence from three sources simultaneously. All three said the same: a den of demon-cultists in an abandoned shop beyond the Ring. Coordinates. Building schematic. Adept count — five to eight. Two sources human, one technical (drone thermal).\nFomin sat over the data for six hours. Cross-checked. Compared. Hunted for discrepancies. Found one: human source «Two» said «north entrance», technical source said «northwest corner». Thirty-metre discrepancy.\n«Disinformation,» Fomin wrote in his conclusion. «I recommend postponing the operation until verification by a fourth independent source.»\nThere was no fourth source. Samoylov ordered the storm. Fomin refused to sign the analytical support.\nThe den was exactly where all three sources said. Seven adepts, two lesser demons. The cleanup took fourteen minutes. The thirty-metre discrepancy was explained: human «Two» described a door, the drone — a heat-signature behind a wall. The same place.\nFomin read the report. Did not apologise — because he did not consider himself wrong. The data diverged. And divergent data is unreliable. Always.\nA month later Fomin got other data — a real set-up, masked as three converging sources. He spotted it. Saved the group.\nThe problem was that by then no one believed him any more.",
+   "desc": "You don't take anyone's word. Informer gave a tip — you triple-check. Wife said «I'll be late» — you check. Sometimes useful. More often insulting and slow.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "razdvoenie-lichnosti",
+   "name": "SPLIT PERSONALITY",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    24
+   ],
+   "levels": [
+    {
+     "cost": 24,
+     "desc": "Inside you there are two. Or more. The second appears under stress — or when it wants. You don't control the switch. The second can be calmer than you, angrier, smarter, dumber, harder. The second has its own skills, its own habits, its own relations with people. You can wake in an unfamiliar place, with blood on your hands, with money in your pocket you didn't earn, or a bruise you didn't take.",
+     "mechanics": "Under stress or at the master's call — SPIRIT (DC 20). Failure — switch. The secondary personality is created by the master (different skills, behaviour, disadvantages). Switching back — SPIRIT (DC 15) or end of stress."
+    }
+   ],
+   "vignette": "Andrey Karpov, archive clerk of OPI. A quiet, unremarkable man in glasses and a rumpled jumper. Sorted documents. Drank tea with lemon. Left at six on the dot.\nThe duty guard at the gate one day noticed Karpov leaving at six. And at seven — entering again. Through another gate. Without glasses. In a leather jacket. With a gait that had nothing in common with the shuffling shamble of an archive worm. This Karpov walked like a man used to people stepping aside before him.\nCameras recorded: the «second Karpov» spent four hours in the archive. Looked through files. Photographed. With a pocket camera the «first Karpov» had never bought and had never laid eyes on.\nSamoylov summoned Karpov the next morning. Karpov — the first, the real one, in glasses and rumpled jumper — sat opposite the ORPP director and didn't understand what he meant. Honestly. A telepath confirmed: not lying. He genuinely didn't remember.\nThe «second» was hunted for a week. Cameras, surveillance, a trap with planted documents in the right cabinet. He came at night — bypassing three security layers as if they didn't exist.\nWhen they took him — he didn't resist. Sat in a chair, crossed his legs, looked at Samoylov with calm, icy eyes and said:\n«Konstantin. You can call me Kostya. Andrey is the bag. I am the contents. Sometimes the bag needs a rest, and then I come out.»\n«You're a spy?» asked Samoylov.\nKonstantin laughed. «A spy? No. I'm just... curious. Andrey sorts your files but doesn't read them. I read them. You know, you have astonishing work. A pity Andrey doesn't appreciate it.»\nWhich of them was the «real one» was never established. The OPI staff wrote: «Dissociative identity disorder with an autonomous secondary personality possessing an independent skill profile.» Samoylov read it and crossed it out. Wrote by hand: «Two people in one body. One an archivist. The other a problem.»\nKarpov was transferred to an isolated sector. Konstantin continued to appear. Sometimes — at interrogations, when the first Karpov lost consciousness from fear. Konstantin knew no fear. Konstantin didn't know much that normal people know.",
+   "desc": "Inside you there are two. Or more. The second appears under stress — or when it wants. You don't control the switch. The second can be calmer than you, angrier, smarter, dumber, harder. The second has its own skills, its own habits, its own relations with people. You can wake in an unfamiliar place, with blood on your hands, with money in your pocket you didn't earn, or a bruise you didn't take.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "tormoz",
+   "name": "SLUGGISHNESS",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Slow reaction. A second to process a question. Two — to answer. Bearable in conversation. Fatal in combat.",
+     "mechanics": "Never wins initiative on interrupt. −5 to SPD for AP calculation."
+    },
+    {
+     "cost": 6,
+     "desc": "Everyone's already firing — you're still processing. Everyone's running — you're deciding where.",
+     "mechanics": "Automatic loss of initiative. −10 to SPD for AP. First round of combat — loss of 1/3 AP."
+    },
+    {
+     "cost": 9,
+     "desc": "The world moves faster than you. Significantly. The body as if under water. Every movement an effort. Every reaction delayed.",
+     "mechanics": "Automatic loss of initiative always. −15 to SPD for AP. First round — loss of half AP. −10 to skills requiring reaction."
+    }
+   ],
+   "vignette": "Lieutenant Borshchov of Group «Epsilon» was a brilliant analyst. Samoylov personally moved him from OPI to a field group because «this kid sees connections the rest of us miss». That was true. Borshchov saw patterns in seconds. The problem was elsewhere.\nBetween what Borshchov saw and what Borshchov did lay a gulf. One or two seconds. Exactly what the brain needs to finish processing and send a command to the body. In an ordinary person — a fraction of a second. In Borshchov — one and a half. Sometimes two.\nOne and a half seconds — nothing. At lunch. At a meeting. In a report.\nOne and a half seconds — an eternity. When the door blows off its hinges and a Turned stands in the opening.\nEveryone raised their weapons. Borshchov too. One and a half seconds later. In those one and a half seconds the commander had already fired twice, Sheremetyeva had already rolled behind cover, the rookie Serov had already jumped sideways.\nBorshchov stood still. His hands rising. His finger settling on the trigger. The sight aligning. All correct, all by the book — only one and a half seconds later than needed.\nThe Turned hit him before his finger pressed. Borshchov saw the blow. Borshchov knew he had to dodge. The body had not yet received the command.\nSheremetyeva later spent six hours healing his torn shoulder.\n«Did you see the blow?» asked the commander in hospital.\n«Yes. A second before.»\n«Why didn't you dodge?»\nBorshchov was silent for a long time. Not because he was choosing words. Because the «answer» command was still processing.\n«Didn't make it,» he said at last.",
+   "desc": "Slow reaction. A second to process a question. Two — to answer. Bearable in conversation. Fatal in combat.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "istericheskaya-amneziya",
+   "name": "HYSTERICAL AMNESIA",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "Memory loss under stress. Not «forgot a name» — a gap of months and years of life. Trigger: severe stress, shock, trauma. Skills remain — you remember HOW to shoot, but not WHO taught you and WHY.",
+     "mechanics": "After a shock (heavy wound, death of a comrade, paranormal exposure) — SPIRIT (DC 20). Failure — amnesia. Depth: d6 months / d4 years / d10 years. Skills preserved. Context, people, events — wiped."
+    }
+   ],
+   "vignette": "Sister Adelaide walked out of the catacombs on her own legs. The guards helped — leading her by the arms, going round the steps she didn't see because her eyes looked but didn't see. The spiders remained two levels lower. Their many-legged bodies, their gleaming shells, their blind bead-eyes — all that stayed in the dark.\nBut the phobia was only the beginning. The scream that burst the sergeant's eardrum was only the first crack. When Adelaide was brought to the monastery infirmary and seated on a cot, when the healer took her hand and said «sister, you are safe» — Adelaide looked at her with a calm, clear, absolutely empty gaze.\n«Sister?» she repeated. «I am no sister. I am… who am I?»\nThirty years. Thirty years of war with the Dark — erased. Ordo Maleficarum — unfamiliar words. Interrogations — doesn't remember. The Inquisition — doesn't remember. Her own name — remembers, but not sure. Her own hands — familiar, but the scars on them — alien.\nSkills remained. She still knew how to interrogate, to recognise heresy, to read traces of the Dark. The body remembered. The mind did not.\nShe sat in the infirmary and worked beads she didn't remember picking up. Thirty years of life — like a dream you wake from and forget.\nMemory came back over three weeks. Partially. In shreds. Faces without names. Names without faces. Screams whose voices she didn't recognise — her own or others'.\nThe spiders she remembered. The spiders — clearly.",
+   "desc": "Memory loss under stress. Not «forgot a name» — a gap of months and years of life. Trigger: severe stress, shock, trauma. Skills remain — you remember HOW to shoot, but not WHO taught you and WHY.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "kompleks-nepolnocennosti",
+   "name": "INFERIORITY COMPLEX",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "You know you're not good enough. You don't think it — you know. Every success a fluke. Every compliment politeness. You compensate: work twice as much, check three times more carefully. And you're still sure you'll botch it.",
+     "mechanics": ""
+    },
+    {
+     "cost": 6,
+     "desc": "Compensation slips into sabotage. You decline assignments: «I won't manage». You don't take responsibility. You don't command — even when you do it better than anyone. Others get promoted, and you — «no, I'm not ready, give it to someone better».",
+     "mechanics": ""
+    },
+    {
+     "cost": 9,
+     "desc": "Self-hatred. Every mistake confirms: you're nothing. Success doesn't count because «lucky». Only failure counts — and it's inevitable. You prepare for it in advance, and it comes, because you called it.",
+     "mechanics": "−3/−6/−9 to leadership and team checks. At −9: SPIRIT (DC 20) to accept command or responsibility. Failure — refuses."
+    }
+   ],
+   "vignette": "Senior Lieutenant Nina Lesovaya of Group «Zeta» was the best tactician in ORPP. Not by management opinion — by results. Her operation plans saved men, ammunition and time. Samoylov three times offered her command of a group. Three times she refused.\n«I'm no commander,» she said every time. «I just count well.»\nShe didn't «just count well». She saw the tactical situation as a chess board — five moves ahead, with probabilities and forks. OPI tested her: strategic thinking in the upper percentile. Leadership traits also — if she'd agreed even once to use them.\nWhen during an operation the commander of «Zeta» took shrapnel to the head and stopped giving orders — Lesovaya was supposed to take command. She was the senior in rank. She knew the plan best. She saw — clearly, as on a screen — what needed to be done.\nShe stood and was silent. Four seconds. Five. Six. The group lay under fire and waited for an order. Any.\nOn the seventh second junior sergeant Petrov, who had neither tactical thinking nor strategic vision nor an upper percentile in anything, yelled: «After me, left, through the fence!» And ran.\nThe group ran after him. Lesovaya ran too — last, on autopilot, because running after someone she knew how to do. Lead — she did not.\nPetrov led the group into a dead end. Lesovaya knew he would — saw it the moment he yelled. But did not say.\nTwo wounded. One badly. Pulled out of the dead end for twenty minutes under «Delta's» covering fire.\nIn her report Lesovaya wrote: «Did not assume command owing to uncertainty in own competence.» Samoylov read it, took off his glasses, rubbed his nose.\n«Nina,» he said tiredly. «You're the best tactician I've seen in thirty years. And you just nearly got six men killed because you decided Petrov would manage better.»\nLesovaya lowered her eyes. She knew Samoylov was right. And knew that next time — she still wouldn't be able to.",
+   "desc": "You know you're not good enough. You don't think it — you know. Every success a fluke. Every compliment politeness. You compensate: work twice as much, check three times more carefully. And you're still sure you'll botch it.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "navyazchivaya-ideya",
+   "name": "OBSESSION",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "A recurring thought you keep coming back to. «What if that suspect was innocent.» It nags, stops you sleeping, distracts at briefings.",
+     "mechanics": ""
+    },
+    {
+     "cost": 6,
+     "desc": "The thought dominates. For hours. For days. It branches, takes root in every decision.",
+     "mechanics": ""
+    },
+    {
+     "cost": 9,
+     "desc": "Obsession. You stop sleeping, stop eating. You pursue the Thought as the hunter pursues game.",
+     "mechanics": "SPIRIT (DC 10/20/30) to deal with unrelated work. At −9: −10 to everything off-topic, sleep disturbances."
+    },
+    {
+     "cost": 2,
+     "desc": "Others' problems become yours. You climb into every conflict. *(SPIRIT DC 5 NOT to intervene.)*",
+     "mechanics": ""
+    },
+    {
+     "cost": 4,
+     "desc": "You actively interfere in others' investigations, families, wars. *(SPIRIT DC 15.)*",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Detective Rogov closed the case of the missing boy after two weeks. Officially — an accident. The boy went to the river, drowned, the current took the body. All evidence matched. The brass signed. The prosecutor's office approved.\nRogov knew the case was closed. Rogov knew the evidence matched. Rogov knew the next file on his desk — an arson at a shop — required attention.\nRogov could not stop thinking about the shoe.\nOne shoe, found on the bank. The left. Laces tied. If the boy had run to the water — the shoe slips off, lace untied. If the boy had walked — the shoe does not slip off. The shoe had slipped off. The lace was tied.\nA trifle. Insignificant. Explicable a dozen ways.\nRogov stopped sleeping on day four. On day six — stopped working on the arson. On day eight — drove to the river. Alone. After hours. Walked the bank — metre by metre.\nOn day twelve he found the second shoe. The right. In the bushes. Three hundred metres from the first. The lace also tied. And on the sole — clay that is not on the bank. It is in the ravine beyond the treeline.\nRogov reopened the case. Brass — furious. Prosecutor's office — furious. Colleagues — twirled fingers at their temples.\nThe boy was found in the cellar of a house beyond the ravine. Alive. On day twenty.\nIs Rogov a hero? No. Rogov is sick. Because if the shoe had been just a shoe — he still could not have stopped.",
+   "desc": "A recurring thought you keep coming back to. «What if that suspect was innocent.» It nags, stops you sleeping, distracts at briefings.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "eto-moe-delo",
+   "name": "«IT'S MY BUSINESS!»",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    2,
+    4,
+    6
+   ],
+   "levels": [
+    {
+     "cost": 2,
+     "desc": "Others' problems are yours. You climb into every conflict. *(SPIRIT DC 5 NOT to intervene.)*",
+     "mechanics": ""
+    },
+    {
+     "cost": 4,
+     "desc": "You actively interfere in others' investigations, families, wars. «I'm just trying to help» — after those words it usually gets worse. *(SPIRIT DC 15.)*",
+     "mechanics": ""
+    },
+    {
+     "cost": 6,
+     "desc": "Started — you won't drop it. Team left, but you stayed. *(SPIRIT DC 25. Cannot drop what you started without SPIRIT DC 20.)*",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Operative Zuyev had his orders: clean the nest, return to base. Nest cleaned. Eight creatures. The team is gathering. The flight in twenty minutes.\nZuyev found a diary in the nest. Human. Before the turning the owner had been a teacher. In the diary — names of pupils. Twelve. Beside five — crosses.\n«We fly, Zuyev.»\n«Five crosses. What about the other seven?»\n«That's not our case. We cleaned the nest. The children — the police will handle.»\nZuyev knew the police wouldn't handle it. The police don't know the teacher was Turned. The police think the children just went missing. Seven children who maybe are still alive. Somewhere.\nThe flight left without Zuyev. He stayed with the diary, his pack and the GSh-18. Found four in three days. Three alive. One — not. Searched for the other three the next two weeks. Alone, no comms, no support, on his own money.\nSamoylov summoned him after a month. Zuyev stood in the office — unshaven, gaunt, red-eyed.\n«Found them?»\n«Six of seven.»\n«The seventh?»\nZuyev was silent.\n«Zuyev. Let it go.»\n«I can't, Director.»\nSamoylov knew he couldn't. That's why he didn't dismiss him.",
+   "desc": "Others' problems are yours. You climb into every conflict. *(SPIRIT DC 5 NOT to intervene.)*",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "slomya-golovu",
+   "name": "RECKLESS",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Pedal to the floor. Always. Every drive — a Driving check (DC 10). Failure — near miss. Critical failure — crash. Bonus: +5 to Speed in transit. Penalty: a constant risk of dying against a lamppost.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "The driver of Group «Gamma», Lyokha Kirillov, used to race motorbikes as a youth. Through the night city, no helmet, on a bet with friends. Three crashes, two broken bones, one clinical episode — when his heart stopped for forty seconds and started again on its own.\nORPP took him for his driving skills. OPI tested him: reactions — upper percentile. Driving skill — expert. Fear — absent. Literally. Not suppressed, not hidden — absent. The part of the brain that says «slow down», in Lyokha was either removed at birth or had never worked.\nLyokha delivered Group «Gamma» to the target in half the standard time. Counter-flow, over kerbs, once — through a shopping-centre window (the shortest route, if you think about it). Volkov belted in and closed his eyes. Sheremetyeva did not belt in — she healed herself on the move, when Lyokha entered a corner at a speed that lifted the car on two wheels.\nFourth service vehicle in a year. ORPP accounts refused to issue a fifth. Samoylov called personally.\n«He's smashed another?»\n«Technically — no. The car moves. Just... the frame.»\n«What — the frame?»\n«Bent into a «zed», Director.»",
+   "desc": "Pedal to the floor. Always. Every drive — a Driving check (DC 10). Failure — near miss. Critical failure — crash. Bonus: +5 to Speed in transit. Penalty: a constant risk of dying against a lamppost.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "plohoy-son",
+   "name": "POOR SLEEP",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Two variants: **A: Insomnia.** −3: −1 regeneration/day. −6: −2, penalty −5 for the first 2 hours. −9: −3, penalty −10, TOUGH check after 3 days. **B: Sleeper of the dead.** −3: SPIRIT DC 10 to wake from noise. −6: only physical contact. −9: only severe pain. Lose d4 rounds at the start of a night attack.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Sniper Vorontsov slept like the dead. Not metaphorically — the regimental doctor checked his pulse twice in the first week, because Vorontsov didn't react to light, sound or being shaken by the shoulder.\nThey woke him by pinching his ear. Hard. Bruise-hard. No other way was found.\nOn an operation in an abandoned village the group slept in the school. Two-man watches, two-hour rotations. Vorontsov lay down for the fourth watch.\nAt three in the morning a Turned crawled through the gym window. The watch — a rookie — saw too late and shouted. Everyone woke up. Everyone — except Vorontsov.\nThe fight lasted a minute forty. The creature took six rounds and went. In the gym — two wounded. Vorontsov lay on a mattress. In the same pose. With the same breath rate.\nHe was woken ten minutes later. By a pinch. Vorontsov opened his eyes, saw blood on the walls, weapons in his comrades' hands and bullet-holes in the wall above his head — two, twenty centimetres apart.\n«What did I miss?» he asked.",
+   "desc": "Two variants: **A: Insomnia.** −3: −1 regeneration/day. −6: −2, penalty −5 for the first 2 hours. −9: −3, penalty −10, TOUGH check after 3 days. **B: Sleeper of the dead.** −3: SPIRIT DC 10 to wake from noise. −6: only physical contact. −9: only severe pain. Lose d4 rounds at the start of a night attack.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "psihicheskaya-neperenosimost",
+   "name": "PSYCHIC INTOLERANCE",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "A pathological reaction to a specific phenomenon: lying, betrayal, incompetence, cowardice. Sounds noble — in practice, a bomb. SPIRIT (DC 10/20/30) on contact, failure — aggression.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Group «Beta» commander Kovalyov could not bear cowardice. Not «didn't respect» — physically could not bear. When a man beside him was being a coward — Kovalyov felt something hot, dark, suffocating rise inside. Not anger — disgust. Like to an insect on a plate.\nOn a cellar sweep a rookie froze at a door. Not from a wound — from fear. The creature behind the door was howling, scraping claws on the metal, and the rookie stood, white as paper, hands shaking, unable to step over the threshold.\nKovalyov could have said: «Stand aside, I'll do it.» Could have said: «Wait, breathe.» Could — kept silent and shouldered the door open.\nInstead he turned, grabbed the rookie by the harness and slammed his head into the wall. Once. Hard. The helmet protected him — but the rookie slid down the wall and sat, stunned.\n«Fight or leave,» said Kovalyov. «But don't stand here and reek of fear.»\nHe kicked the door open himself. Killed the creature himself. The rookie was transferred to another group.\nKovalyov's report: «Applied physical force to a subordinate owing to refusal to execute combat task.» Samoylov imposed a reprimand. And did not transfer Kovalyov — because commanders of that calibre were four in all of ORPP.\nThe rookie, incidentally, became one of «Delta's» best fighters a year later. Used to say: «Kovalyov beat the coward out of me. Literally.»",
+   "desc": "A pathological reaction to a specific phenomenon: lying, betrayal, incompetence, cowardice. Sounds noble — in practice, a bomb. SPIRIT (DC 10/20/30) on contact, failure — aggression.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "psihicheskaya-zavisimost",
+   "name": "PSYCHOLOGICAL DEPENDENCE",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    12
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Dependence on a person, object or ritual. Without it — penalty −5/−10/−20 to everything. At −12: panic without the object under stress.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Kostin could not fire without his gloves. Not «preferred» — physically could not. Without them the fingers became foreign, the trigger slick and unfamiliar.\nThe creature tore the glove off his right hand. One swipe — glove and three strips of skin from the back of his hand. The hand worked. Muscles intact. Bones intact.\nBut the glove was gone.\nKostin stood with the rifle. The creature — five metres away. Finger on the trigger. He saw the target. Knew where to fire.\nCould not press.\nGromova killed the creature with two shots. Looked at Kostin. Kostin looked at his bare hand. Without the glove he was not himself.",
+   "desc": "Dependence on a person, object or ritual. Without it — penalty −5/−10/−20 to everything. At −12: panic without the object under stress.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "rasizm",
+   "name": "RACISM",
+   "kind": "disadvantage",
+   "category": "Mental",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Distrust toward a particular group of people: by ethnicity, by faith, by social class, by profession. Not active hatred — pre-formed opinion. «With these you can't deal.» Affects work indirectly: you'd rather not interrogate, not collaborate, not believe their evidence.",
+     "mechanics": "−5 to social with the target group."
+    }
+   ],
+   "vignette": "Operative Stryapchev grew up in a town where in the nineties the bratva were not Russians. His grandmother kept the door bolted; the door was kicked open every other week. His grandfather went out to the kicking and came home with broken ribs. Twice. Three times. The fourth time he didn't come home.\nStryapchev was eight then.\nForty years later, the senior operative of «Eta» refused to take a witness statement from a man in a turban. Refused — politely, by all the regulations. Asked a colleague to take it. The colleague took it. The witness was credible. The case moved.\nNo one fired Stryapchev. Forty years he had worked impeccably — only he gently bent the workload so as not to deal with «these». The brass knew. The brass allowed it. Because the alternative was forty years of arguments — and Stryapchev was an excellent operative in everything that didn't touch this nerve.\nHis grandson, by the way, married a Tajik girl. Stryapchev didn't come to the wedding. The granddaughter-in-law forgave him in advance. He himself did not forgive himself — but couldn't go either.",
+   "desc": "Distrust toward a particular group of people: by ethnicity, by faith, by social class, by profession. Not active hatred — pre-formed opinion. «With these you can't deal.» Affects work indirectly: you'd rather not interrogate, not collaborate, not believe their evidence.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "zapominayuschayasya-lichnost",
+   "name": "MEMORABLE PRESENCE",
+   "kind": "disadvantage",
+   "category": "Physical",
+   "costs": [
+    9
+   ],
+   "levels": [
+    {
+     "cost": 9,
+     "desc": "Striking appearance. Or voice. Or scar. Something that makes you stand out from a crowd, that strangers remember. A bonus in some situations (charm, intimidation), a problem in covert work.",
+     "mechanics": "−10 to Stealth, Disguise and any covert operation. +3 to Charm or Intimidation by master's choice."
+    }
+   ],
+   "vignette": "Captain Shchur stood two metres tall, was the shape of a wardrobe and had a thin white scar from temple to chin. People remembered Shchur. Not «remembered the face» — remembered him. Witnesses described him in detail a year after a chance meeting. The barmaid in the dive where Shchur went undercover ID'd him as «the SiB man» on the second visit.\nORPP's solution was to retire Shchur from covert work. He worked door-breaching, intimidation interrogations and operations where everyone was supposed to remember the operative anyway. There he was indispensable.\n«Lucky for me,» Shchur said over beers, «that the bratva remember me as «that scary one». Saves work.»",
+   "desc": "Striking appearance. Or voice. Or scar. Something that makes you stand out from a crowd, that strangers remember. A bonus in some situations (charm, intimidation), a problem in covert work.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "odnorukiy",
+   "name": "ONE-ARMED",
+   "kind": "disadvantage",
+   "category": "Physical",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "Missing an arm. Choice: left or right. The operative compensates with a prosthetic, training, will. But two-handed weapons, climbing, surgery, fine assembly — impossible or with a heavy penalty.",
+     "mechanics": "Two-handed weapons not used. −20 to skills requiring two hands. Aimed shooting with a pistol — no penalty. Hand-to-hand only with the working arm."
+    }
+   ],
+   "vignette": "Lieutenant Voloshin lost his right arm to a Turned at Smolensk. The Turned bit, the arm came apart at the elbow, the field doctor cut what remained — clean to the shoulder. Voloshin remained left-handed by need.\nA year later Voloshin was hitting the silhouette at thirty metres with the GSh-18 from a fixed magazine. Left hand. Quickly. They put him back on the line — with restrictions: no breach work, no two-handed weapons, no rope-climbing.\nHe took a prosthetic later. With a hook. Used the hook to hold an opponent's wrist in interrogation. Said: «With a hook it's easier, the suspect doesn't see a hand, sees a hook. Loosens the tongue.»",
+   "desc": "Missing an arm. Choice: left or right. The operative compensates with a prosthetic, training, will. But two-handed weapons, climbing, surgery, fine assembly — impossible or with a heavy penalty.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "odnonogiy",
+   "name": "ONE-LEGGED",
+   "kind": "disadvantage",
+   "category": "Physical",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "Missing a leg. The operative walks on a prosthetic or crutch. Mobility is reduced; running, climbing, mountain work, swimming — with penalty or impossible.",
+     "mechanics": "SPD −30 effective for running and dodge. Climbing, swimming, balancing — impossible without rest of crew assistance. Aimed shooting from prone or seated — no penalty."
+    }
+   ],
+   "vignette": "Captain Dyomin lost his left leg to a mine on the Caucasus border, twenty years before ORPP took him. He came with a prosthetic and a written promise to keep up with the squad on flat ground. On uneven ground — drop him at the staging point, let him cover with a rifle.\nDyomin became one of the best snipers in «Iota». He sat in the prepared spot, did not move for hours, did not need to run after the target — the target ran toward him, into the sights. ORPP joke: «Best sniper in the corps is the one who can't run anywhere anyway.»",
+   "desc": "Missing a leg. The operative walks on a prosthetic or crutch. Mobility is reduced; running, climbing, mountain work, swimming — with penalty or impossible.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "odnoglazyy",
+   "name": "ONE-EYED",
+   "kind": "disadvantage",
+   "category": "Physical",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "One eye. Loss of depth perception, narrowed field of view, problems with aimed shooting at distance. Compensates with practice and angles, but never fully.",
+     "mechanics": "−5 to aimed shooting at any distance. −10 to driving. Sniper work impossible without recalibration of the sight (rests easier on the working eye)."
+    }
+   ],
+   "vignette": "Major Vorobyov lost his left eye to an aspen splinter in a vampire dustup three years ago. The splinter went in clean, did its job, came out clean. The eye did not survive. Vorobyov wears a black patch — refuses a glass eye on principle. «The patch says: «I survived» — the eye says nothing.»\nWith the patch he hits at fifty metres. At a hundred — with a marker. At three hundred — refuses to fire. «Won't put a man in the morgue because I miscounted the distance,» he says.",
+   "desc": "One eye. Loss of depth perception, narrowed field of view, problems with aimed shooting at distance. Compensates with practice and angles, but never fully.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "gluhota",
+   "name": "DEAFNESS",
+   "kind": "disadvantage",
+   "category": "Physical",
+   "costs": [
+    9
+   ],
+   "levels": [
+    {
+     "cost": 9,
+     "desc": "−10 to PERCEPTION skills. In the tactical module: no audio contacts. Doesn't hear the radio. Doesn't hear the one creeping up. Lip-reading — Linguistics.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Operative Tikhonov went deaf from a grenade in a sealed room. Eardrums — in shreds. Hearing aids helped in life but were useless in combat: every shot overloaded them into protection mode, and Tikhonov stayed in silence exactly when hearing was most needed.\nHe did not leave the group. He learned to lip-read — in three months, to a level at which he caught every second word. The rest he filled in from context.",
+   "desc": "−10 to PERCEPTION skills. In the tactical module: no audio contacts. Doesn't hear the radio. Doesn't hear the one creeping up. Lip-reading — Linguistics.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "slepota",
+   "name": "BLINDNESS",
+   "kind": "disadvantage",
+   "category": "Physical",
+   "costs": [
+    36
+   ],
+   "levels": [
+    {
+     "cost": 36,
+     "desc": "−50 to PERCEPTION-based skills. −20 to CHARM-based skills. Without tactical comms — no visual information. The most expensive physical disadvantage. 36 points — enough to buy «Psionic». Compensation: heightened hearing (+10 to auditory), tactile perception, extrasensory perception [P].",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Master cartographer Wang Shi lost his sight in an OPI laboratory. A flash during the testing of an artefact — and the world went out.\nWang Shi did not leave. He learned to «see» with his hands — relief maps made by touch were more precise than the computer ones. His fingers felt a difference of 0.1 mm.\nAnd then an extrasensory gift woke. OPI considered it a compensatory rewiring of the brain. Wang Shi began to «see» auras: a warm living patch — a human; cold and patchy — undead; flickering — psionic; empty — a doppelgänger.",
+   "desc": "−50 to PERCEPTION-based skills. −20 to CHARM-based skills. Without tactical comms — no visual information. The most expensive physical disadvantage. 36 points — enough to buy «Psionic». Compensation: heightened hearing (+10 to auditory), tactile perception, extrasensory perception [P].",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "blizorukost",
+   "name": "NEARSIGHTEDNESS",
+   "kind": "disadvantage",
+   "category": "Physical",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "−5/−10/−15 to PERCEPTION-based skills without correction. Glasses/contacts remove the penalty. Lost in combat — full penalty instantly. Hit to the face: d6, 1–2 = broken.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Forensic Lenka removed her glasses only in the shower and during kisses. At crime scenes she always had spares — in a pocket, a bag, the car, a safe at the office. «A short-sighted forensic is a dead forensic,» she repeated. «In our line you have to look. Otherwise you miss the very thing.»\nOnce on a storming her glasses broke: she fell, turned awkwardly, a shard in the brow. The spares were in the car, ten metres away, on the other side of an open courtyard. Lenka didn't cross. She finished the storming half-blind: stopped seeing fingerprints, dust, hairs — the things she normally saw. Counted on hands and instructions of others. A regular forensic in her place would not even have understood that she missed something. Lenka understood and bit her own lip until it bled.",
+   "desc": "−5/−10/−15 to PERCEPTION-based skills without correction. Glasses/contacts remove the penalty. Lost in combat — full penalty instantly. Hit to the face: d6, 1–2 = broken.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "allergiya",
+   "name": "ALLERGY",
+   "kind": "disadvantage",
+   "category": "Physical",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Trigger — a specific allergen. On contact, a cascade: stage 1 (−15%, sneezing, tears), stage 2 (−30%, laboured breathing), stage 3 (−60%, anaphylaxis, TOUGH check or unconsciousness), stage 4 (coma → death). The level of the disadvantage = starting stage (−3: first, −9: third). Antihistamine removes one stage, adrenaline — two.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Warrant officer Kolesnikov feared neither vampires nor sebekites. Warrant officer Kolesnikov feared peanuts. Somewhere around age ten his mother gave him peanut butter, and Kolesnikov barely survived. Since then — stage 3 on the ORPP scale: on contact the face swells in minutes, the lungs close, TOUGH check or unconsciousness.\nAn adrenaline shot was always in his pouch. On a mission to Georgia he ate only what he cooked himself. Once, at a banquet at the Georgian colleagues', he refused to touch the satsivi — pointing in a fluent translator to «walnuts». The host, an old proud Caucasian, was offended. Kolesnikov shrugged and said: «I'd rather you be offended than I get a coffin.»",
+   "desc": "Trigger — a specific allergen. On contact, a cascade: stage 1 (−15%, sneezing, tears), stage 2 (−30%, laboured breathing), stage 3 (−60%, anaphylaxis, TOUGH check or unconsciousness), stage 4 (coma → death). The level of the disadvantage = starting stage (−3: first, −9: third). Antihistamine removes one stage, adrenaline — two.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "impotenciya",
+   "name": "IMPOTENCE",
+   "kind": "disadvantage",
+   "category": "Physical",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "**−3:** Intermittent dysfunction. −3 to CHARM in intimate situations. Shame. Affects relationships. **−6:** Permanent. Impossibility of intimate life. Complexes, avoidance of closeness, vulnerability to blackmail. **−9:** Total loss + psychological trauma. −5 to CHARM permanently. SPIRIT DC 15 not to react aggressively to flirtation.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Sergeyev was a vampiress's third in a month. The sanguinophages, sensing that with this thing he was no good since his wound in Afghanistan, somehow quickly lost interest — the honey-trap didn't work. This regularly saved Sergeyev's life.\n«You know,» Somov told him after another cleanup, «maybe they took you into the group not for your shooting.»\nSergeyev looked at his handler. Didn't get it. Then got it. Then breathed out.\n«No,» he said. «No comment.»",
+   "desc": "**−3:** Intermittent dysfunction. −3 to CHARM in intimate situations. Shame. Affects relationships. **−6:** Permanent. Impossibility of intimate life. Complexes, avoidance of closeness, vulnerability to blackmail. **−9:** Total loss + psychological trauma. −5 to CHARM permanently. SPIRIT DC 15 not to react aggressively to flirtation.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "specializaciya",
+   "name": "SPECIALIZATION",
+   "kind": "advantage",
+   "category": "Combat",
+   "costs": [
+    6,
+    12,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "+15/+30/+60 to one chosen skill. Lifelong, not unbought. This isn't «good at it» — it's the level at which a person stops being a person and becomes an instrument. At +60 your ZPN may exceed 100 — meaning you hit even in conditions in which an ordinary expert misses.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Her callsign was Lastochka — «Swallow». The best sniper of Group «Zakat». A girl from the back of Moscow oblast whose father had bought her an air rifle at six, because her mother was against it. By twelve, she shot squirrels in the eye from twenty metres. By twenty, she dropped a moving lorry from a kilometre. By thirty, they sent her where other snipers were no longer dispatched — pointless.\nA spotter once asked her how she did it. Lastochka shrugged. «I don't know. The body knows.»",
+   "desc": "+15/+30/+60 to one chosen skill. Lifelong, not unbought. This isn't «good at it» — it's the level at which a person stops being a person and becomes an instrument. At +60 your ZPN may exceed 100 — meaning you hit even in conditions in which an ordinary expert misses.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "mehanicheskiy-simbioz",
+   "name": "MECHANICAL SYMBIOSIS",
+   "kind": "advantage",
+   "category": "Combat",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Intuitive understanding of machinery. Machines, devices, systems «obey» you. You don't read manuals — you feel how it works. Pick up an unfamiliar device and in a minute you know it better than its maker.",
+     "mechanics": "+10 to any skill with tech on first contact with an unfamiliar device. Time to master new tech — half. Bonus to improvisation (off-label use, field repair from improvised materials)."
+    }
+   ],
+   "vignette": "Maks was six when he took apart his father's electric razor and assembled a high-voltage stun gun. Not by instructions — there was no internet in the village. He just looked at the motor, the capacitor and the coil, and the circuit fell together in his head. Like a puzzle. Click — done.\nHe brought it to school to defend Lyosha from the parallel class from the older kids. The older kid got a shock, fell, wet himself and stuttered for two days. Maks was put on the school record.",
+   "desc": "Intuitive understanding of machinery. Machines, devices, systems «obey» you. You don't read manuals — you feel how it works. Pick up an unfamiliar device and in a minute you know it better than its maker.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "terminator",
+   "name": "TERMINATOR",
+   "kind": "advantage",
+   "category": "Combat",
+   "costs": [
+    32
+   ],
+   "levels": [
+    {
+     "cost": 32,
+     "desc": "No critical wounds. No bleeding. Consciousness is lost only after losing 3/4 of global hits. You are a machine. You can be killed. But not stopped. Not until you have finished.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Senior operative Gromov took three 7.62 rounds in the torso in four seconds. Chest — through the vest. Belly — below the plate. Shoulder.\nDidn't fall. Looked down — three dark patches spreading on the vest. Raised his eyes. The shooter was reloading.\nEighteen rounds from the GSh-18 in three seconds. Fourteen hits.\nThen Gromov sat down. Carefully. Leaned against the wall. Began to wrap his belly.\n«How did you stay standing?» the medic asked later.\n«Hadn't finished,» said Gromov.",
+   "desc": "No critical wounds. No bleeding. Consciousness is lost only after losing 3/4 of global hits. You are a machine. You can be killed. But not stopped. Not until you have finished.",
+   "requirement": "ТЕЛ 80+. Самое дорогое боевое достоинство. 32 очка — почти весь бюджет с максимальными дизадвами.",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "dvoerukost",
+   "name": "AMBIDEXTERITY",
+   "kind": "advantage",
+   "category": "Combat",
+   "costs": [
+    9
+   ],
+   "levels": [
+    {
+     "cost": 9,
+     "desc": "No penalty for actions with the off-hand. Two pistols at once. Two blades. Less than 1% from birth.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Operative Yezhov entered the room with two GSh-18s. Left — armour-piercing. Right — silver. Because in the room were both humans and undead. Two shots at once — right at the vampire, left at his human bodyguard. Both — to the head. Both — hits. Simultaneously. Different targets, different ammunition, different hands, one second.",
+   "desc": "No penalty for actions with the off-hand. Two pistols at once. Two blades. Less than 1% from birth.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "zhivuchest",
+   "name": "TOUGHNESS",
+   "kind": "advantage",
+   "category": "Combat",
+   "costs": [
+    3,
+    9,
+    15
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "+2/+4/+6 global hits. At TOUGH 50 (10 hits) even +2 is +20% survivability.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Colonel Serov took three bullets in the chest, two in the belly and one in the shoulder during a shoot-out in Nizhny Novgorod. By every protocol he should have died in hospital on day three. Serov died on day seventeen — of pneumonia, because the lungs never properly worked. But seventeen days are seventeen days.\nWhen the doctor in intensive care asked him on day five how he was holding on, Serov rasped: «I just don't want to die today. I'll think about tomorrow tomorrow.»",
+   "desc": "+2/+4/+6 global hits. At TOUGH 50 (10 hits) even +2 is +20% survivability.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "uskorennaya-regeneraciya",
+   "name": "ACCELERATED REGENERATION",
+   "kind": "advantage",
+   "category": "Combat",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "+2/+4/+6 regeneration hits/day. Wounds close two or three times faster.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "When operative Velikhov came to the doctor for the third time that month with a stitched-up brow, the doctor frowned. «You — back to me three times in two weeks?» — «Everything's fine,» Velikhov shrugged. «I heal like a dog.»\nThe doctor looked at the stitches. Clean, pink, ready to come out, though he had put them in five days ago.\n«A dog doesn't heal like that,» said the doctor. «A dog heals slower.»\nVelikhov shrugged again. «So I heal better than a dog. Where's the problem?»",
+   "desc": "+2/+4/+6 regeneration hits/day. Wounds close two or three times faster.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "aktivnost",
+   "name": "ALACRITY",
+   "kind": "advantage",
+   "category": "Combat",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "+2 AP per round. One extra action. *(Cost 12, not 3 — in a synchronous system every AP is critical.)*",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "When Malakhov entered a room, in one round he managed: to shoot the nearest, step over the body, reload, fire at the second and kick an overturned stool so that it covered the doorway. None of the rest of the group managed more than two shots in the same round.\nMalakhov was not faster. He simply did one action more — every time, the whole operation. By the end of combat he had used five extra rounds-worth of action that the others did not. Five rounds in a synchronous fight is an eternity.",
+   "desc": "+2 AP per round. One extra action. *(Cost 12, not 3 — in a synchronous system every AP is critical.)*",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "tonkoe-lezvie",
+   "name": "FINE BLADE",
+   "kind": "advantage",
+   "category": "Combat",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Extended critical zone: 1–15 and 85–100 (instead of 1–5 and 95–100). Doubled successes and doubled failures. You are a person of extremes. When it works, it works brilliantly. When it doesn't, catastrophe. Life on the edge — in both directions.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Player Renzo at the Grandmaster's table threw three times in a row below 15. Three critical successes. A dagger entering exactly through the armour gap. Parrying a bastard's blow with a one-handed blade. A throwing knife severing a crossbow's bowstring.\nThe fourth throw — 97. Critical failure. Renzo tripped on his own cloak and fell face-first onto his own dagger.\nFine blade. Cuts both ways.",
+   "desc": "Extended critical zone: 1–15 and 85–100 (instead of 1–5 and 95–100). Doubled successes and doubled failures. You are a person of extremes. When it works, it works brilliantly. When it doesn't, catastrophe. Life on the edge — in both directions.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "chuvstvo-opasnosti",
+   "name": "DANGER SENSE",
+   "kind": "advantage",
+   "category": "Combat",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "A warning of danger an instant before it lands. d10: succeeds on 1–2 / 1–4 / 1–6. Hairs on the nape. A cold finger down the spine. «Don't go in there.» It doesn't explain what or why — it just is. Trust it.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Grigoryev stopped on the threshold of the flat. Ordinary flat. Nine-storey building. Third floor. Case of poltergeist — furniture flying, neighbours complaining, the woman of the house in hysterics. Routine.\nGrigoryev had no paranormal abilities. None. He was an ordinary detective with an ordinary brain and thirty years' experience. But on the threshold of this ordinary flat — the hairs on his nape stood up.\nHe stepped back. Said to the group: «Wait outside.» Called the OPI scanner. The scanner read the flat — and the meter went off the chart. The «poltergeist» was a higher-class entity, materialising from a thin world. Three operatives in the flat would have died in the first thirty seconds.\nWhen Grigoryev was asked later how he knew, he shrugged. «The skin felt it. I didn't.»",
+   "desc": "A warning of danger an instant before it lands. d10: succeeds on 1–2 / 1–4 / 1–6. Hairs on the nape. A cold finger down the spine. «Don't go in there.» It doesn't explain what or why — it just is. Trust it.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "vezunchik",
+   "name": "LUCKY",
+   "kind": "advantage",
+   "category": "Spirit",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Re-roll one failed roll per session. By the master's call — can be used at a critical moment. Doesn't guarantee success: just a second chance. Sometimes a second chance is all you need.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Serov was aiming at a cultist. Hood, black robe, ritual knife in hand — classic possessed, a stranger from a thin world in a human body. Behind the cultist — Katya Sheremetyeva, tied to the ritual pillar. The sight rested on the cultist's head. Finger — on the trigger.\nAnd then Serov SAW it.\nNot with his eyes. With something else — what OPI couldn't measure but called «the sense of the moment». In the second the trigger gave, the cultist would step back. The bullet would go past him — into Katya.\nSerov took his finger off the trigger. Lowered the GSh-18 by two centimetres. Fired into the cultist's knee.\nThe cultist fell. The trick worked — though Serov could not say how he knew, in advance, that the cultist would step back. Katya was untied that same evening. Serov, signing the report, wrote: «Took the shot on the knee on intuition.»\nThe operations head circled the word «intuition» in red ink and added in the margin: «You don't shoot on intuition, Serov. You shoot on luck. And luck likes you.»",
+   "desc": "Re-roll one failed roll per session. By the master's call — can be used at a critical moment. Doesn't guarantee success: just a second chance. Sometimes a second chance is all you need.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "hranimyy-sudboyu",
+   "name": "DESTINY'S CHILD",
+   "kind": "advantage",
+   "category": "Spirit",
+   "costs": [
+    9
+   ],
+   "levels": [
+    {
+     "cost": 9,
+     "desc": "+20 to a critically important skill at a critical moment. Once per session. When all is lost, when failure means death — fate winks. Not magic. Not divine intervention. Just... lucky. Or: someone watches over you. Up to the master.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "A warehouse. Darkness. A rusalka — not the fairy-tale kind, with tails and shells. The real kind: grey skin, black eyes without pupils, a mouth that opens to a hundred and eighty degrees and is full of teeth, each like a fishhook. She was singing. Infrasound, at the edge of hearing — a vibration in the ribs, nausea, clouding of consciousness.\nVolkov on the floor, on all fours, vomiting onto the concrete. Sheremetyeva pressed against the wall, the silver dagger in her hand jerking erratically. Two more operatives — out.\nSerov was last on his feet. He couldn't think. He couldn't aim. He fired by feel — without sights, without bracing, just turned the gun toward the singing and pulled the trigger.\nThe round went into the rusalka's left eye. Through the optic nerve. Into the centre of the skull.\nA dying rusalka stops singing.\nOPI later wrote: «Probability of such a hit blindly, in a state of incipient unconsciousness, on a moving target — under 0.01%.»\nSerov, when he read the report, shrugged. «I just had to. So it happened.»",
+   "desc": "+20 to a critically important skill at a critical moment. Once per session. When all is lost, when failure means death — fate winks. Not magic. Not divine intervention. Just... lucky. Or: someone watches over you. Up to the master.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "stalnoy-sterzhen",
+   "name": "STEEL CORE",
+   "kind": "advantage",
+   "category": "Spirit",
+   "costs": [
+    6,
+    12,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "**6:** In an ethical wavering — the «right» decision comes by itself. Not morals — a core. You don't agonise over the choice: your internal compass works. Others doubt. You don't. **12:** People feel it. The voice carries weight. Subordinates accept your decisions without question. **24:** A force-of-nature presence. Where you go, even higher powers stop and listen.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Group «Epsilon» entered the school building on the twelfth minute of the operation. A Satanist cult — real, not dressed-up, not nuts with chalk pentagrams — had holed up in the assembly hall with hostages. Forty-three children. Seven teachers.\nWhen «Epsilon» kicked the doors — there was no hall. Instead — a well. The walls fanned downward like a funnel, and at the bottom of that funnel sat a Thing with no name in any human language. The cult had opened a Gate.\nLieutenant Yermakov, who had taken command after the wounding of the captain, looked into the well. The Thing looked back.\nA voice without a mouth said: «What do you want?»\nYermakov did not look away. Did not waver. Did not seek words. From inside, from where the steel core was, came: «The children.»\nThe Thing was silent. Then said: «Pay.»\n«No,» said Yermakov.\n«Pay or all die.»\n«No.»\nThe Thing closed. The Gate folded. The hall returned. The children came out alive.\nWhat exactly had Yermakov done — OPI could not establish.",
+   "desc": "**6:** In an ethical wavering — the «right» decision comes by itself. Not morals — a core. You don't agonise over the choice: your internal compass works. Others doubt. You don't. **12:** People feel it. The voice carries weight. Subordinates accept your decisions without question. **24:** A force-of-nature presence. Where you go, even higher powers stop and listen.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "seksapilnost",
+   "name": "SEX APPEAL",
+   "kind": "advantage",
+   "category": "Social",
+   "costs": [
+    3,
+    6,
+    9
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "+3/+6/+9 to seduction and social skills. Not beauty — magnetism.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Interrogator Roshchina was no beauty — the nose too long, the chin too heavy. But when she entered a room, men forgot what they had been saying. Something in the movements, in the voice, in the way she tilted her head while listening — as if every word of yours was the most important she'd heard that week.\nWhere her male colleagues sent in an arrest team, dragging the suspect in by the collar, Roshchina went in herself. With coffee. Two cups. Sat across from the suspect, listened. Half an hour. An hour. Two hours.\nBy the third hour the suspect was confessing. Not because she had threatened. Because in front of her one couldn't lie. One didn't want to.",
+   "desc": "+3/+6/+9 to seduction and social skills. Not beauty — magnetism.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "vliyatelnye-druzya",
+   "name": "INFLUENTIAL FRIENDS",
+   "kind": "advantage",
+   "category": "Social",
+   "costs": [
+    6,
+    12,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "An ally to whom one can turn for a favour. Not free help — a return favour follows. **6:** local authority, captain of the guard. **12:** patrician, guild head. **24:** one of the High.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Blacksmith Taddeo had forged swords in the Lower City for thirty years. Not a great master — an honest craftsman. Swords sturdy, without flourishes, affordable to legionnaire and mercenary.\nOne night a wounded man stumbled into the workshop. Young, in an expensive but torn cloak. Behind him — three with blades. Taddeo asked no questions. Grabbed a hammer — not a war hammer, a smith's, two poods of weight — and went to the door.\nThe three saw the smith with the hammer. The smith was big. The hammer was bigger. The three left.\nThe young man was Lorenzo dei Conti, second son of the Patrician House Conti. He gave Taddeo his ring. «If you ever need the House Conti,» he said, «show this.»\nTaddeo carried the ring fifteen years. Never used it. When his daughter Caterina was abducted by slavers from the Archipelago — Taddeo took the ring to the Conti palazzo.\nThree weeks later Caterina came home. Alive. The slavers — gone. Taddeo asked the smith next door whether he heard what had happened on the Archipelago. The smith next door said the half of the Archipelago had been visited by something black, big and unforgiving. They didn't go into details.",
+   "desc": "An ally to whom one can turn for a favour. Not free help — a return favour follows. **6:** local authority, captain of the guard. **12:** patrician, guild head. **24:** one of the High.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "sostoyatelnost",
+   "name": "WEALTH",
+   "kind": "advantage",
+   "category": "Social",
+   "costs": [
+    6,
+    12,
+    24
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Starting resources and lifestyle. **6:** comfortable. **12:** rich. **24:** one of the richest.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Amir al-Budati al-Sindbad — not his real name, but the only one under which he was known from the Archipelago to the Ice Lands — owned three ships, two caravanserais, a spice warehouse on the Royal Pier and, by rumour, a controlling interest in half the debts of the Merchant Quarter.\nWhen a mercenary group needed equipment for an expedition to the Archipelago — to hunt a sea-serpent for the Patrician House Veneto — Amir was the only address. The group came in their best clothes. Amir sat on cushions and drank a black-red tea no one else in the city knew.\n«Equipment for an expedition?» he repeated. «Of course. A list, please.» He read the list. Nodded once.\n«All. By tomorrow evening at the Royal Pier. The price — twelve thousand gold ducats.»\nThe group commander coughed. «We don't have twelve thousand.»\nAmir smiled. «I know. You will pay half from the serpent's head. The other half — at thirty per cent annual. With a guarantee of the House Veneto.»\nThe commander did not ask how Amir knew about the contract with the House Veneto. With Amir one didn't ask such things.",
+   "desc": "Starting resources and lifestyle. **6:** comfortable. **12:** rich. **24:** one of the richest.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "chelovek-mira",
+   "name": "MAN OF THE WORLD",
+   "kind": "advantage",
+   "category": "Social",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "An intuitive feeling for the etiquette and customs of any culture. You didn't study them — you feel them. Walk into another's temple — you know what is not allowed. Sit at a table with strangers — you give no offence. Meet a foreign people — you know how to greet them.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Lorenzo's schooner broke up on the rocks three leagues off the coast of the Ice Lands. Two days on the wreckage. When he was thrown ashore — half-dead, salty, blue.\nThe Children of Ice found him at dawn. Three figures — each a head taller than a Eternal-City man, in furs and bone, faces painted with blue clay. They did not kill strangers — that was a southerner's tale they themselves found amusing — but they did not welcome them either.\nLorenzo, half-conscious, did the right thing. Did not stand up. Did not raise his hands. Did not speak. Sat in the snow, his eyes lowered, and waited.\nThe eldest of the three crouched beside him. Took a fistful of snow, pressed it to his lips. Lorenzo took the snow. Did not eat. Held in his palm until it melted.\nThe eldest nodded. «Stranger from the south,» he said in broken Ancient. «You know our custom. Live.»\nLorenzo stayed with the Children of Ice three months. Came home with stories that paid for the loss of the schooner three times over. He never could say how he had known about the snow. «Felt it,» he answered. «There was no other way.»",
+   "desc": "An intuitive feeling for the etiquette and customs of any culture. You didn't study them — you feel them. Walk into another's temple — you know what is not allowed. Sit at a table with strangers — you give no offence. Meet a foreign people — you know how to greet them.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "toksicheskiy-immunitet",
+   "name": "TOXIC IMMUNITY",
+   "kind": "advantage",
+   "category": "Biology",
+   "costs": [
+    6,
+    9,
+    15
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "+25% / +50% / full immunity to poisons.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Ghulbsh of the Second Circle did not understand the problem. The little people stood beyond the door in their ridiculous costumes with proboscises — as if a thin layer of fabric could save you from what he breathed. Ghulbsh was small of stature, stooped, lean. No claws, no fangs, no muscles — why bother, if one exhale kills fifty warm-blooded? He licked his dry lips and waited. Let the buncha come in. Let them be heroes. Heroes die quickly. The cheaper the heroism — the quicker.\nOne of those in the proboscises came in. Without a mask. Tall, thin, in an ORPP combat suit but without the gas mask. He smelled the air. Looked at Ghulbsh.\nGhulbsh exhaled. A wave of foul air rolled through the corridor.\nThe little one without a mask said: «Smells like a sewer with a corpse.» Casually. As though commenting on the weather.\nThen he shot Ghulbsh in the head.\nOPI later asked operative Boldyrev how he was alive. Boldyrev shrugged. «I'm immune. Mum drank from puddles in the Kemerovo region. Said I'd grow up — there'd be no problem with poisons.» Boldyrev's mother had been right.",
+   "desc": "+25% / +50% / full immunity to poisons.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "biologicheskiy-immunitet",
+   "name": "BIOLOGICAL IMMUNITY",
+   "kind": "advantage",
+   "category": "Biology",
+   "costs": [
+    3,
+    6,
+    12
+   ],
+   "levels": [
+    {
+     "cost": 3,
+     "desc": "Immune to disease: ordinary / serious / all including paranormal.",
+     "mechanics": ""
+    }
+   ],
+   "vignette": "Plague came to the Lower City on a trading ship from the Budati Caliphate. By the third day the streets of the Fish Quarter were piled with bodies — alive and dead, because the difference was no longer made. Healers in masks with long beaks stuffed with herbs did not go south of the Third Wall. The watch — also. The gates of the Lower were closed and nailed. Who was inside — was inside.\nDoctor Beretta walked the streets of the Lower without a mask. He didn't have one. He had a leather bag with what tools he had left, a flask of plum brandy that wasn't doing the patients any good but kept Beretta on his feet, and a calm that, in his line of work, was a separate diagnosis.\nBeretta saw the plague three times in his life. Was infected twice. Once recovered. The second time — survived without recovering: never developed symptoms. His mother had been from the Marshes, where in childhood she had eaten anything that didn't run away. Beretta had inherited her stomach and, with it, a stomach for diseases.\nIn the Lower City Beretta did not save the city — no doctor could have. He saved seventeen specific people. Without a mask. While the watch stood on the wall and crossed itself.",
+   "desc": "Immune to disease: ordinary / serious / all including paranormal.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "vneshnee-zrenie",
+   "name": "EXTERNAL VISION",
+   "kind": "advantage",
+   "category": "Biology",
+   "costs": [
+    6
+   ],
+   "levels": [
+    {
+     "cost": 6,
+     "desc": "Spontaneous, uncontrollable vision of the hidden. A gift or a curse.",
+     "mechanics": "d10 in key scenes (secretly, by the master). 1–2 — a visual hint."
+    }
+   ],
+   "vignette": "He had long forgotten his name. Long — how long? In his world there was no time. There were walls he remembered. There were rooms that had once belonged to him. There were windows beyond which the light changed — that, it seemed, was called «days», but he wasn't sure.\nHe guessed he was dead. He vaguely remembered the words «paradise» and «hell» — the first good, the second bad. Neither did he see. He saw a corridor. The corridor turned. Behind the turn — a door. Behind the door — another corridor.\nSometimes the corridors lengthened. Sometimes they shortened. He walked them, because what else does one do.\nOnce — once for the first time in time-that-was-not-time — he saw a person at the end of a corridor. A living one. He knew it was alive because around it was warmth, and warmth he had not seen in this world for a long time. The person stood, looked at a wall as if it could see through.\nHe came up. The person — a woman, dark-haired, with grey eyes — turned. Looked at him. He thought she would not see. But she did.\n«Hello,» she said. «I'm Olga.»\nHe couldn't remember his name. Said: «I think I'm dead.»\nOlga nodded. «Yes. But you can help me. Tell me what you see.»\nHe said. About corridors. About walls. About a door that he could not pass through but behind which there was a light. About a child — strange, since he had not seen a child for a long time — somewhere far in a corridor he did not enter.\nOlga listened. Wrote. Thanked. Said: «You helped. The child is alive.»\nThen she went away. He continued to walk. But now in the corridors he sometimes saw light at the ends. Not always. But more often.",
+   "desc": "Spontaneous, uncontrollable vision of the hidden. A gift or a curse.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  },
+  {
+   "id": "seyf",
+   "name": "SAFE",
+   "kind": "advantage",
+   "category": "Biology",
+   "costs": [
+    12
+   ],
+   "levels": [
+    {
+     "cost": 12,
+     "desc": "Innate immunity to direct paranormal influence. A telepath will not read your thoughts. A pyrokinetic will not set you on fire. A demon will not possess you. A mental attack breaks on you like a wave on a rock. You give off no aura, do not show on scanners, do not bleed psi.",
+     "mechanics": "Full immunity to: telepathy, pyrokinesis, biokinetics, possession, mental attacks, mind control, psi-scanning. Vulnerable to: telekinesis on inanimate objects (a thrown stone hurts), physical paranormal effects (a vampire still bites, a werewolf still claws)."
+    }
+   ],
+   "vignette": "The mansion on Kamennoostrovsky Avenue showed itself yesterday. Thirty years — an ordinary house, a family, renovations, children. And then — in a single night — a haunting killed the father and the elder daughter. The wife and the two younger ones tore out through a window and called SiB.\nGroup «Gamma» went in by four. Twenty minutes in, three were down. Grigoryev — mental crush, glassy eyes. Serov — mental crush, looped, walking in circles muttering the same sentence. Volkov — paralysis, ankles locked, lay in the corridor on his back, eyes alive.\nOne was left. Captain Demidov. Demidov took two steps into the parlour. The mansion swept its presence over him.\nNothing.\nDemidov was a Safe. The mansion didn't feel him. The mansion's pressure didn't pass through him.\nDemidov walked through three floors, found the icon-shaped artefact that anchored the haunting in the wall behind the chimney, ripped it out and broke it in the kitchen sink under cold water. The mansion died.\nThe operatives came round one by one. Sheremetyeva fixed Volkov's ankles. The mansion was sealed and turned over to OPI for vivisection.\nDemidov never knew what the others had felt. They had tried to describe it. He had listened. Nodded. Could not imagine.",
+   "desc": "Innate immunity to direct paranormal influence. A telepath will not read your thoughts. A pyrokinetic will not set you on fire. A demon will not possess you. A mental attack breaks on you like a wave on a rock. You give off no aura, do not show on scanners, do not bleed psi.",
+   "requirement": "",
+   "img": "placeholder_perk.jpg"
+  }
+ ]
+}

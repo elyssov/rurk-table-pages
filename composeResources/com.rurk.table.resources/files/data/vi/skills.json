@@ -1,0 +1,1567 @@
+{
+ "skills": [
+  {
+   "id": "pistolety-i-pp",
+   "name": "Súng ngắn & Tiểu liên",
+   "attrs": [
+    "COR",
+    "SPD",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Пистолеты, револьверы, пистолеты-пулемёты. Основное оружие ближнего и среднего боя.",
+   "vignette": "Khan rút Glock từ hông. Người chạy đang lao qua sân, lượn qua xe, một giây nữa sẽ qua góc. Mười mét. Mười lăm. Khan không ngắm — chĩa nòng theo cảm và bắn ba lần trong nửa giây. Viên đầu trúng bắp chân; người chạy ngã ở viên thứ hai. Viên ba vào tường trên đầu — cảnh báo.",
+   "desc": "Kỹ năng cầm nòng ngắn trong tay và đặt đạn vào nơi cần, trong điều kiện ít tha thứ sai lầm.\n\n**Bao gồm:** pistol (từ PM đến Desert Eagle), revolver, súng tiểu liên (Vityaz, MP5, PP-2000), holster work, double-tap, chuyển mục tiêu, thay magazine dưới áp lực, bắn yếu tay.\n\n**Đặc trưng:** mức thấp — trúng người ở 5–7m. Mức trung — 15m, double-tap. Mức cao — 25m, hai pistol đồng thời. Expert — 40m, bắn theo âm thanh."
+  },
+  {
+   "id": "shturmovoe-oruzhie",
+   "name": "Vũ khí tấn công",
+   "attrs": [
+    "COR",
+    "PER",
+    "STR"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Автоматы, штурмовые винтовки, карабины.",
+   "vignette": "Nhóm «Beta» vào lối vào với ba nòng. Khmel cầm AK-12 — không dừng ở cửa: đá bằng giày và bước thẳng vào, loạt bắn theo tiếng động. Sau hắn — Volkov, loạt thứ hai. Bốn giây. Ba xác. Đội không mất một viên.",
+   "desc": "Vũ khí tự động công suất trung — công cụ chính của bộ binh từ Thế chiến II đến nay.\n\n**Bao gồm:** súng trường tấn công (AK-74M, AK-12, M4A1, HK416), carbine, bullpup, single/burst/full auto, điều khiển giật, chuyển auto/single, bắn từ chỗ ẩn và trên di chuyển.\n\n**Đặc trưng:** mức thấp — single shot ở 50m. Trung — burst, 100m. Cao — full auto kiểm soát, mục tiêu di chuyển. Expert — đa mục tiêu trong giây, đổi nguồn lực."
+  },
+  {
+   "id": "oruzhie-podderzhki",
+   "name": "Vũ khí yểm trợ",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Пулемёты, гранатомёты, огнемёты. Тяжёлое, требует силы.",
+   "vignette": "Drannikov từ «Alpha» đặt PKM trên bipod ở góc tòa nhà và giữ cổng bốn mươi phút. Tín đồ đến cổng theo nhóm hai ba. Drannikov bắn loạt bốn viên, thở ra mỗi lần nhấn cò. Vỏ đạn đồng chất đống trên nhựa đường bên phải tay.",
+   "desc": "Vũ khí hỏa lực hỗ trợ nặng — súng máy, đơn và đội.\n\n**Bao gồm:** súng máy nhẹ (RPK-74M), súng máy GP đơn (PKM, Pecheneg), súng máy nặng (Kord 6P50), bipod và tripod, băng đạn, thay nòng, bắn ranging theo tracer, suppressive fire, phối hợp với phụ xạ thủ.\n\n**Đặc trưng:** mức thấp — loạt từ bipod 50m. Trung — đè 150m. Cao — chuyển mục tiêu trong loạt. Expert — phối hợp với hỏa lực gián tiếp."
+  },
+  {
+   "id": "snayperskoe-oruzhie",
+   "name": "Súng bắn tỉa",
+   "attrs": [
+    "SPR",
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Четыре атрибута: нужны хладнокровие, расчёт, точные руки, глаз. Элитный навык.",
+   "vignette": "Lastochka đọc gió theo khói ống khói cách ba cây số. Hai click drum elevation. Nửa click windage. Một hơi thở ra. Một dừng. Cò gãy dưới ngón cô tự nó. Đạn đi một giây rưỡi. Mục tiêu — tu sĩ tà giáo trên mái Moscow — ngừng nói giữa câu, vì hàm trên rời hàm dưới không lời giải thích.",
+   "desc": "Bắn chính xác có ngắm ở khoảng cách mà bóng người không còn là người mà là một chấm.\n\n**Bao gồm:** snipers bolt-action (SV-98, Lobaev DXL-3), semi-auto (SVD), silent (VSS Vintorez), heavy-calibre (Barrett M82A1), ngắm quang học, tính đạn đạo (gió, tầm, độ cao, Coriolis), spotter work, ngụy trang, kiểm soát thở.\n\n**Đặc trưng:** mức thấp — 300m mục tiêu cố định. Trung — 600m. Cao — 1.2km có gió. Expert — 2km+, mục tiêu di động."
+  },
+  {
+   "id": "artilleriya",
+   "name": "Pháo binh",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Стационарные и мобильные орудийные системы.",
+   "vignette": "Quan sát viên Shilov từ mái đọc cho «Alpha»: «AGS, mục tiêu — tập trung tín đồ ở quảng trường. Ô 47. Điều chỉnh ba bắc, hai đông. Bắn theo tín hiệu.» Đội Lyovsky và Tsigankov ở AGS-30 trên cầu thang. «Bắn,» Shilov nói qua radio. Hai mươi viên 30mm trong ba giây. Quảng trường thành chỗ trống.",
+   "desc": "Vũ khí đội và hỏa lực gián tiếp — súng phóng lựu, cối, chống tăng cầm tay, súng phóng lựu tự động.\n\n**Bao gồm:** RPG cầm tay (RPG-7V, RPO-A Shmel), súng phóng lựu tự động (AGS-30 Plamya), súng phóng lựu gắn nòng (GP-25), cối (60mm, 82mm), MANPADS cơ bản, tính đạn đạo theo bảng và góc, tọa độ qua bản đồ và laser, hiệu chỉnh.\n\n**Đặc trưng:** mức thấp — RPG ở 200m. Trung — AGS 800m theo bảng. Cao — cối 4km không quan sát. Expert — phối hợp đa vũ khí."
+  },
+  {
+   "id": "energeticheskoe-oruzhie",
+   "name": "Vũ khí năng lượng",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Лазеры, бластеры, плазма. [ВТ] только для миров с соотв. технологиями.",
+   "vignette": "Trên trạm «Prometheus-2», khi đàn vi-thiên thạch xuyên vỏ ngoài, xạ thủ Volkonsky kích hoạt hệ phòng thủ năng lượng. Tám tia hội tụ vào mục tiêu đến. Bốn mươi hai cú trúng mỗi phút. Thiên thạch cháy trong vi-chớp. Vỏ giữ.",
+   "desc": "Vũ khí năng lượng — laser, plasma, blaster, EMP. **[HT]** — cho thế giới công nghệ cao.\n\n**Bao gồm:** hệ tia (carbine laser, plasma pistol), vũ khí xung (EMP, gián đoạn điện từ), quản lý nhiệt, sạc trên thực địa, can thiệp quang học, tính suy giảm tia trong khí quyển/nước, làm việc trong chân không.\n\n**Đặc trưng:** mức thấp — qua giáp nhẹ. Cao — qua giáp hạng nặng. Expert — chính xác micro, vô hiệu hóa thiết bị."
+  },
+  {
+   "id": "legkie-klinki",
+   "name": "Lưỡi nhẹ",
+   "attrs": [
+    "SPD",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Кинжалы, стилеты, шпаги, рапиры, сабли. Скорость и точность важнее силы.",
+   "vignette": "Trong hẻm Moscow bốn tên bratva tấn công đặc vụ SiB. Đặc vụ có dao Cherry và một năm huấn luyện cận chiến. Bratva có bốn dao bấm. Trong mười hai giây đặc vụ giữ vững. Ở giây mười ba, hắn tước vũ khí tên đầu bằng parry-and-cut vào cổ tay, lấy dao vào tay trái và đứng với hai lưỡi.",
+   "desc": "Lưỡi nhẹ, nhanh — dao găm, dao, rapier, kiếm ngắn. Tốc độ và chính xác hơn lực.\n\n**Bao gồm:** dao găm (combat, ném), dao (combat, bếp, nghi lễ), rapier, làm việc từ vỏ, parry với off-hand dagger, point-shooting throws (5–10m), parries, ripostes, không gian chật (hành lang, thang máy).\n\n**Đặc trưng:** mức thấp — phòng thủ 1-on-1. Trung — tấn công, ném 5m. Cao — đa đối thủ. Expert — tước vũ khí tức thì."
+  },
+  {
+   "id": "tyazhelye-klinki",
+   "name": "Lưỡi nặng",
+   "attrs": [
+    "STR",
+    "COR",
+    "SPD"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Мечи, бастарды, двуручники, палаши. Нужна сила для работы с весом.",
+   "vignette": "Cossack Mikhail Trofimovich Bogdanov ở tuổi sáu mươi ba vẫn làm việc với shashka. ORPP nhận hắn làm huấn luyện viên — kỵ binh cũ. Bọn trẻ cười. Bogdanov biểu diễn. Ba đặc vụ với sabre xốp tấn công đồng thời. Trong bốn giây — ba người trên sàn, sabre xốp trong các góc. Bogdanov tra kiếm vào vỏ.",
+   "desc": "Lưỡi dài nặng — kiếm, sabre, bastard, hai tay, falchion.\n\n**Bao gồm:** kiếm một tay (gladius, broadsword, sabre), một tay rưỡi (bastard), hai tay (zweihänder), sabre (Cossack shashka), falchion, làm việc với khiên, đánh ở khoảng cách, parry-and-bind, vũ thuật chân.\n\n**Đặc trưng:** mức thấp — đối kháng 1-on-1. Trung — phá đội hình. Cao — đa đối thủ trong vũ thuật chân. Expert — vũ thuật kỵ binh, đa hướng."
+  },
+  {
+   "id": "drevkovoe-oruzhie",
+   "name": "Vũ khí dài",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Копья, алебарды, бердыши, глефы. [Ф] в основном, но универсально для исторических сеттингов.",
+   "vignette": "Trung sĩ Bảo vệ Thành phố Aldo Velluti giữ ngưỡng Customs House. Hai tên côn đồ với dao găm cố đẩy qua — halberd của Velluti hoa về tên đầu, móc bắt vành mũ tên hai và xé đầu sang bên. Cả hai trên sàn. «Còn nữa?» Velluti hỏi bình tĩnh. Tên ba tự đi.",
+   "desc": "Vũ khí cán dài — halberd, glaive, giáo, naginata, pike.\n\n**Bao gồm:** giáo (một tay, hai tay, ném), halberd và glaive, naginata, pike (đội hình), đâm ở khoảng cách, parry bằng cán, chiến thuật «đẩy và phá», đội hình, chống kỵ binh, móc và đánh ngã.\n\n**Đặc trưng:** mức thấp — đứng trong đội hình. Trung — 1-on-1 cận chiến. Cao — đa đối thủ ở khoảng cách. Expert — phá đội hình, chống kỵ binh."
+  },
+  {
+   "id": "udarnoe-oruzhie",
+   "name": "Vũ khí đập",
+   "attrs": [
+    "STR",
+    "COR"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Булавы, молоты, кистени, дубины. Грубая сила + попадание.",
+   "vignette": "Cảnh sát chống bạo loạn Pakhomov dập đám đánh nhau ở chợ Cherkizovsky bằng dùi cui cao su. Ba tên say lao vào cùng lúc. Pakhomov không rút pistol — rút dùi cui và làm việc: đập cổ tay tên đầu (chai rơi, cổ tay gãy), đập đầu gối tên hai (ngã), đập cổ tên ba bằng sống dùi cui (knockout).",
+   "desc": "Vũ khí cận chiến đánh — gậy, dùi cui, búa, rìu, gậy đồng.\n\n**Bao gồm:** gậy và dùi cui (cảnh sát, telescopic, kubotan), búa chiến, mauls và rìu cứu hỏa, cuốc chim, gậy đồng và găng nặng, làm việc chống giáp (vũ khí cùn không bật từ chain mail), vùng áp dụng (đầu, vai, đầu gối), khống chế không giết.\n\n**Đặc trưng:** mức thấp — phòng thủ trong tay không. Trung — khống chế nhanh. Cao — phá giáp. Expert — vô hiệu hóa chính xác."
+  },
+  {
+   "id": "metatelnoe-oruzhie",
+   "name": "Vũ khí ném",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Ножи, дротики, топоры, сюрикены.",
+   "vignette": "Tenin đi hành lang không tiếng. Hai lính canh ở cửa không quay. Tenin rút hai dao từ dây đeo, ném cả hai trong một động tác — tay trái và phải đồng thời. Cả hai dao vào giữa đốt sống cổ thứ hai và ba. Cả hai lính canh đổ — không tiếng kêu, không kịp túm cổ. Tenin đi giữa các xác.",
+   "desc": "Vũ khí ném — dao, rìu ném, shuriken, dart, bolas.\n\n**Bao gồm:** dao ném (combat, tầm 10m), rìu ném (8m), shuriken (5m), dart (15m), bolas (gài bẫy), tomahawk (kết hợp), ném đơn và loạt (ba dao một động tác), ném trên di chuyển, ném từ chỗ ẩn, tính khoảng cách bằng mắt.\n\n**Đặc trưng:** mức thấp — 3m mục tiêu cố định. Trung — 8m, di động. Cao — loạt ném. Expert — ném cùng lúc đa mục tiêu."
+  },
+  {
+   "id": "strelba-iz-luka",
+   "name": "Bắn cung",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Все типы луков. Сила для натяжения, точность для попадания.",
+   "vignette": "Trên tường Vĩnh Đô trong cuộc tấn công Quần Đảo, cung thủ Thổ Nhĩ Kỳ Suleyman ibn Ahmad bắn ba cướp biển trong tám giây. Mỗi mũi tên vào khe mắt mũ giáp. Khoảng cách — 120 mét. Từ lưng ngựa, trên di chuyển. Cướp biển rơi từ sàn schooner xuống vịnh. Suleyman rút mũi tên tiếp theo.",
+   "desc": "Bắn cung — từ cung que đơn giản đến compound (hiện đại).\n\n**Bao gồm:** cung đơn (yew, ash), composite (steppe, Turkish), longbow (Anh yew), compound (hiện đại, thể thao-combat), giương dây và bảo quản, loại mũi tên (broadhead, bodkin, blunt), bắn từ lưng ngựa, bắn mục tiêu di động, bắn ánh sáng kém.\n\n**Đặc trưng:** mức thấp — 30m cố định. Trung — 80m. Cao — 150m di động. Expert — 250m+, kỵ binh."
+  },
+  {
+   "id": "arbalety",
+   "name": "Nỏ",
+   "attrs": [
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Не требует силы для выстрела (только для зарядки, это время, не навык). Точность и глаз.",
+   "vignette": "Otto von Grimberg, lần thứ hai từ mái phẳng tòa năm tầng ở Tushino, trong sương bình minh, nhắm với crossbow nhẹ. Bên dưới — ma cà rồng, con thứ hai trong năm. Mũi tên nước thánh với đầu bạc. Otto nhấn cò. Mũi tên đi mười lăm mét và vào mắt trái ma cà rồng. Ma cà rồng ngã. Otto nạp lại — sáu giây.",
+   "desc": "Crossbow — từ đơn giản đến hiện đại.\n\n**Bao gồm:** crossbow đơn (nhẹ, lên bằng tay), nặng (recurve, đòn bẩy), siege (windlass), hiện đại (compound crossbow), loại bolt (đầu thép, broadhead, đặc biệt), kỹ thuật nạp lại, bắn từ chỗ ẩn, crossbow đặc biệt (im lặng, có ngắm quang học).\n\n**Đặc trưng:** mức thấp — 30m. Trung — 80m. Cao — 150m im lặng. Expert — 200m chính xác."
+  },
+  {
+   "id": "rukopashnyy-boy",
+   "name": "Cận chiến cơ bản",
+   "attrs": [
+    "STR",
+    "SPD",
+    "COR"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Инстинктивный бой без оружия: удары, толчки, захваты на уровне «подрался в баре». Не техника — выживание. Любой персонаж может махать кулаками; этот навык определяет, насколько эффективно. Без этого навыка (значение 0) персонаж дерётся с огромными штрафами. С ним — хотя бы не убьёт себя замахом. Это фундамент: все остальные боевые системы предполагают хотя бы низкий уровень базового рукопашного боя.",
+   "vignette": "Học viên Sergeyev, hoàn thành khóa cơ bản tay không, đi qua sân đêm và bị ba tên côn đồ với dao tấn công. Sergeyev không phải chuyên gia võ thuật — chỉ khóa cơ bản. Sáu tháng trước hắn đã chết. Bây giờ hắn tước vũ khí tên đầu bằng đá thấp và khóa cổ tay, ném vào tên hai, hạ tên ba bằng cùi chỏ vào thái dương và chạy.",
+   "desc": "Cận chiến cơ bản không chuyên môn. STR + COR + SPD.\n\n**Bao gồm:** đòn cơ bản (jab, cross, kick), khối cơ bản, ném (judo đơn giản), grappling (BJJ cơ bản), sống sót giữa đa đối thủ, làm việc trong quần áo hạn chế, chống đối thủ vũ trang, kỹ thuật vô hiệu hóa, làm việc trong còng.\n\n**Đặc trưng:** mức thấp — 1-on-1. Trung — đa người tay không. Cao — chống vũ trang. Expert — kiểm soát mà không giết."
+  },
+  {
+   "id": "udarnye-edinoborstva",
+   "name": "Nghệ thuật đấm đá",
+   "attrs": [
+    "SPD",
+    "COR",
+    "STR"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Бокс, кикбоксинг, муай-тай, каратэ (ударное). Работа в стойке: удары руками, ногами, коленями, локтями. Скорость доминирует — быстрый удар важнее сильного. **Сильная сторона:** дистанция, темп, нокаутирующая мощь. Хорош против одиночных противников в стойке. **Слабая сторона:** если самбист или борец переведёт бой в партер — кикбоксёр теряет 80% арсенала. На земле он рыба на суше. Также неэффективен в тесных помещениях, где нет места для ударов ногами.",
+   "vignette": "Hạng nặng nhẹ Andreyev ra đấu với ma cà rồng trong phòng tập kín. Phản ứng ma cà rồng — gấp bốn. Andreyev — hạng mười sáu thế giới. Trận đấu bốn phút. Andreyev không hạ knockout ma cà rồng. Nhưng Andreyev vẫn đứng. Sau trận, khi ma cà rồng lùi vào bóng tường sau, Andreyev ngồi xuống sàn, thở mạnh.",
+   "desc": "Võ thuật đánh — boxing, kickboxing, Muay Thai, taekwondo, karate.\n\n**Bao gồm:** phong cách cụ thể, quản lý khoảng cách, nhịp, làm việc theo tempo, combo, phòng thủ bằng di chuyển (slipping, weaving), đá (kick-boxing, Muay Thai với gối và cùi chỏ), karate kata, clinch (Muay Thai).\n\n**Đặc trưng:** mức thấp — sparring thi đấu. Trung — hạng đầu, knockouts. Cao — quốc tế. Expert — không thua trong môi trường có luật."
+  },
+  {
+   "id": "borba-greppling",
+   "name": "Vật / khóa",
+   "attrs": [
+    "STR",
+    "TGH",
+    "COR"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Вольная и классическая борьба, дзюдо, бразильское джиу-джитсу (спортивное). Захваты, броски, удержания, переводы в партер, контроль на земле. ТЕЛ в формуле — потому что борец должен держать вес противника на себе и не уставать. **Сильная сторона:** контроль. Борец решает, где идёт бой — стоя или на земле. Может обездвижить противника без нанесения серьёзных травм. **Слабая сторона:** спортивная борьба не учит калечить и убивать. Против вооружённого противника или нескольких — проблема: пока контролируешь одного, второй бьёт.",
+   "vignette": "Sambist Volkov, đặc vụ ORPP, trong thẩm vấn bắt đối thủ vào rear-naked choke từ phía sau, ngồi ở bàn. Đối thủ với tay tới dao dưới bàn — Volkov thấy sớm hơn đối thủ hoàn thành động tác. Choke vào sạch: đối thủ ngất trong bảy giây, tỉnh dậy đã bị còng.",
+   "desc": "Vật và grappling — judo, sambo, BJJ, freestyle và Greco-Roman.\n\n**Bao gồm:** ném (judo, sambo), holds và submissions (BJJ ground game), phòng thủ takedown, kiểm soát mặt đất (mount, side control), siết cổ (rear-naked, triangle, guillotine), khóa khớp (armbar, kimura, kneebar), chống đối thủ nặng hơn, thoát khỏi holds.\n\n**Đặc trưng:** mức thấp — vật cơ bản. Trung — submission. Cao — chống đối thủ nặng. Expert — bắt nhanh."
+  },
+  {
+   "id": "boevoe-sambo",
+   "name": "Sambo chiến đấu",
+   "attrs": [
+    "STR",
+    "COR",
+    "TGH"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Советская/российская боевая система. Объединяет борьбу, удары и болевые приёмы с акцентом на нанесение повреждений. Броски с ускорением в пол. Захваты с переломом конечности. Ground-and-pound. Самбист танкует урон (ТЕЛ в формуле) и наносит структурные повреждения. **Сильная сторона:** универсальность (работает и в стойке, и в партере), способность калечить (целенаправленный перелом руки, ноги, выход на болевой), устойчивость к урону. Самбист в клинче нейтрализует преимущество ударника. **Слабая сторона:** требует близкой дистанции. Против нескольких противников — тот же недостаток, что у борцов. Система заточена под поединок, не под бой с группой. **Игровая механика:** при успешном захвате самбист может заявить целенаправленную атаку на конечность (перелом) — это прицельная атака на конкретную зону с модификатором навыка, не универсальная.",
+   "vignette": "Đại úy Sokol của «Alpha» tước vũ khí kẻ bắt con tin với dao kề cổ trong 0.4 giây. Trường huấn luyện sambo chiến đấu. Đòn vô nhân về tốc độ: một động tác cố định cổ tay dao, hai gạt dao, ba đặt cơ thể kẻ bắt giữa Sokol và con tin. Kẻ bắt sống. Con tin — cũng. Dao — trong tay Sokol.",
+   "desc": "Sambo chiến đấu — trường cận chiến quân sự Nga, kết hợp grappling, đánh và vũ khí.\n\n**Bao gồm:** tất cả sambo + đánh (boxing phương Tây) + làm việc với dao (tấn công và phòng thủ) + làm việc với gậy + tước vũ khí (dao, pistol, súng trường) + holds bất động cho bắt giữ, đòn tăng lực (gối, cùi chỏ, đầu), cận chiến trong còng và không gian chật.\n\n**Đặc trưng:** mức thấp — vô hiệu hóa 1-on-1. Trung — tước vũ khí dao. Cao — tước pistol. Expert — đa đối thủ vũ trang."
+  },
+  {
+   "id": "kravmaga-sistemy-unichtozheniya",
+   "name": "Krav Maga",
+   "attrs": [
+    "SPD",
+    "COR",
+    "SPR"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Израильская кравмага, российский РОСС (в боевом варианте), филиппинские боевые системы, ножевой бой. Никакого спарринга. Никаких правил. Никакого «спорта». Единственная цель — противник должен перестать функционировать. Глаза, горло, пах, затылок, суставы в разрушительном направлении. ДУХ в формуле — потому что нужна готовность калечить и убивать без колебания. Секунда морального сомнения — и ты труп. **Сильная сторона:** скорость нейтрализации. Каждый удар направлен в уязвимую зону. Высокий шанс критического урона при успехе. Работает против вооружённых (разоружение + использование отнятого оружия). **Слабая сторона:** не умеет «работать мягко». Если задача — задержать, а не убить, кравмагист в невыгодной позиции. Нет спортивной борцовской базы — в затяжном борцовском поединке проиграет самбисту. Система заточена на первые 3–5 секунд боя.",
+   "vignette": "Huấn luyện viên Israel Yaakov Shapiro, hai mươi ba năm IDF special-ops, đến ORPP trao đổi. Trong biểu diễn yêu cầu bốn đặc vụ tấn công đồng thời bằng dao cao su. Trong 1.6 giây cả bốn trên sàn. Hai với ngón cái gãy (nắm dao sai mẫu). Một — trật khớp vai. Một — mất ý thức từ đòn vào họng.",
+   "desc": "Krav Maga / hệ tiêu diệt — quân đội Israel, tự vệ dân sự, ở cực — tiêu diệt (không bắt, không khuất phục — tiêu diệt).\n\n**Bao gồm:** phòng thủ bản năng (không nghĩ — cơ thể), tước vũ khí trên di chuyển, đòn điểm yếu (mắt, họng, háng, đầu gối), chống đa đối thủ, kỹ thuật chết người (chống ma cà rồng — tim, họng), phương pháp tâm lý.\n\n**Đặc trưng:** mức thấp — phòng thủ phản ứng. Trung — đa đối thủ. Cao — chống vũ trang. Expert — tiêu diệt 4 trong 2 giây."
+  },
+  {
+   "id": "sistema-kadochnikova",
+   "name": "Hệ Kadochnikov",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Русская военная система рукопашного боя. Принципиально отличается от всех вышеперечисленных: это не набор приёмов, а биомеханический подход. Боец анализирует движение противника и перенаправляет его энергию. Использует рычаги, углы, инерцию. ИНТ в формуле — потому что это мыслящая система: ты не запоминаешь 200 приёмов, ты понимаешь принципы и конструируешь ответ в реальном времени. ВО — потому что нужно читать тело противника до того, как он завершит движение. **Сильная сторона:** может использовать силу противника против него. Менее зависим от собственной СЛ, чем любая другая система. Эффективен против более сильных и тяжёлых. Хорош в тесных пространствах. **Слабая сторона:** требует высокого интеллекта (ИНТ в формуле сильно роняет ЗПН у тупых персонажей). Долго учится — реалистично только на высоком уровне. На низком/среднем уровне хуже прямолинейного ударника или борца, потому что не хватает автоматизма. **Игровая механика:** при успешной проверке может перенаправить атаку противника, используя его СЛ вместо своей для расчёта контрурона.",
+   "vignette": "Cựu huấn luyện viên Mikhail Pavlovich Klyuyev, tám mươi mốt tuổi, dạy session biểu diễn cận chiến tại ORPP. Ba đặc vụ trẻ đầy gear tấn công từ ba phía. Klyuyev không ném, không đánh, không khối. Hắn di chuyển nửa bước — và cả ba trên sàn theo cách thậm chí làm họ bối rối. «Đừng đấu sức mạnh,» Klyuyev nói. «Dùng nó.»",
+   "desc": "Hệ Kadochnikov — cận chiến không chính thống Nga: chuyển động qua kháng cự, làm việc với khối lượng, sinh học cơ học.\n\n**Bao gồm:** chuyển hướng tác động (dùng lực kẻ tấn công), đòn qua cấu trúc (cơ thể đưa, nắm đấm truyền), làm việc trong rơi và từ mặt đất, thoát khỏi holds không sức (qua sinh học cơ học), tước vũ khí bằng cấu trúc, chống đối thủ nặng hơn.\n\n**Đặc trưng:** mức thấp — chuyển hướng đơn. Trung — đa đối thủ nặng. Cao — chuyển động liên tục. Expert — vô hiệu hóa không lực."
+  },
+  {
+   "id": "boevye-iskusstva",
+   "name": "Võ thuật truyền thống",
+   "attrs": [
+    "SPD",
+    "COR",
+    "SPR"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Айкидо, традиционное каратэ (ката), кунг-фу (ушу), тайцзи-цюань в боевом применении. Отличаются от ударных единоборств философским и оборонительным фокусом. ДУХ — дисциплина, контроль эмоций, готовность ждать. **Сильная сторона:** оборонительные бонусы. Мастер традиционного боевого искусства превосходен в защите, перехвате инициативы, контратаке. В поединке 1v1 — опаснейший противник, потому что ждёт ошибки и наказывает за неё. **Слабая сторона:** менее эффективен в хаотическом бою, в бою с несколькими противниками, в ситуации «бей первым или умри». Требует дисциплины, которая может мешать в грязной уличной драке.",
+   "vignette": "Master Shotokan Hiroshi Tanaka, đệ bát đẳng, biểu diễn kata Bassai-dai trong phòng tập ORPP. Ba phút ba mươi giây chuyển động. Bọn trẻ xem im lặng. Sau kata Tanaka đứng và nhìn họ. «Kata không phải đấu,» hắn nói qua phiên dịch. «Kata là học. Đấu thật nhanh và xấu. Kata chậm và đẹp. Ai biết cả hai — sống sót.»",
+   "desc": "Võ thuật truyền thống — karate (Shotokan, Kyokushin), kung fu (đa phong cách), aikido, jiu-jitsu cổ điển, taekwondo (ITF/WTF). Hình thức và kata, trường học mã hóa.\n\n**Bao gồm:** kata phong cách chọn, triết học trường, hơi thở, kiểm soát tấn công (kata nói: không giết, mà dạy), truyền thống gặp đối thủ, vũ khí theo trường (bo, jo, sai).\n\n**Đặc trưng:** mức thấp — sparring. Trung — kata sạch. Cao — đa kata, master phong cách. Expert — đệ bát đẳng+, dạy."
+  },
+  {
+   "id": "schitovoy-boy",
+   "name": "Đánh khiên",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Использование щита для защиты. Важен в [Ф], но применим в [ВТ] для спецподразделений с тактическими щитами.",
+   "vignette": "Centurion Gaius Marcius của Legion Mười giữ ngưỡng cửa Castrum Aurum bằng khiên. Mười hai kẻ tấn công cố phá qua từng người. Đầu tiên — vào vành sắt khiên, lùi bước. Hai — gladius từ dưới, vào phần dưới bụng. Ba — đòn cạnh bằng khiên, knockout. Đến cuối kẻ thứ tư Gaius vẫn ở ngưỡng.",
+   "desc": "Cận chiến khiên — chiến thuật La Mã, Viking shield-wall, khiên chống bạo loạn.\n\n**Bao gồm:** loại khiên (tròn, kite, scutum, riot), giữ khiên (vị trí, phân phối trọng lượng, làm việc cạnh), kết hợp với kiếm/giáo/dùi cui, đội hình (shield-wall, testudo), 1-on-1 với khiên, đòn cạnh, phòng thủ chống tên/bolt/ném.\n\n**Đặc trưng:** mức thấp — đứng trong đội hình. Trung — 1-on-1. Cao — đa đối thủ. Expert — phá đội hình bằng khiên."
+  },
+  {
+   "id": "uklonenie",
+   "name": "Tránh né",
+   "attrs": [
+    "SPD",
+    "COR",
+    "PER"
+   ],
+   "category": "Vũ khí và chiến đấu",
+   "note": "Уход от ударов без щита и парирования. Лёгкая альтернатива тяжёлой броне.",
+   "vignette": "Khi tín đồ với Glock bắn ba phát vào đặc vụ Yaroshenko ở năm mét, Yaroshenko không còn ở chỗ phát bắn. Hắn bắt đầu di chuyển trước khi cò gãy — bởi sự dịch nhẹ vai tín đồ. Ba viên vào tường sau. Yaroshenko thu hẹp khoảng cách và tước vũ khí tín đồ bằng khóa cổ tay. «Anh nên dẫn phát bắn,» hắn nói khẽ.",
+   "desc": "Né cận chiến — ra khỏi tuyến đòn, hỏa lực, vật ném.\n\n**Bao gồm:** né nhanh (slip, drop, roll), dùng môi trường (chỗ ẩn, tường, đồ đạc), chuyển động phòng ngừa (đọc ý đồ đối thủ), ra khỏi tuyến hỏa lực đa đối thủ, né dự án (dao, tên, đạn ở khoảng cách xa), làm việc ánh sáng thấp, né hạn chế trong không gian chật.\n\n**Đặc trưng:** mức thấp — né đơn. Trung — đa hướng. Cao — né đạn ở khoảng cách. Expert — né tia ở không gian chật."
+  },
+  {
+   "id": "taktika",
+   "name": "Chiến thuật",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPR"
+   ],
+   "category": "Chiến thuật và chỉ huy",
+   "note": "Планирование и ведение боя на уровне отделения/взвода. Засады, манёвры, огневое взаимодействие.",
+   "vignette": "Nhóm «Beta», sáu người, vào nhà ba tầng nơi kẻ bị nhập đang giữ một gia đình. Chỉ huy Shilov khảo sát tòa nhà, vẽ sơ đồ nhanh trên mặt sau tờ thao tác, chia đội thành ba cặp. «Cặp một — tầng trệt phải, cặp hai — trái, cặp ba — lên qua mái.»",
+   "desc": "Lập kế hoạch và tiến hành chiến đấu cấp tiểu đội / trung đội / nhóm. Mai phục, di chuyển, tương tác hỏa lực, sectors, phối hợp radio.\n\n**Bao gồm:** đánh giá địa hình và tình huống, đặt nhiệm vụ, phân vai (assault / cover / reserve), chọn đội hình (column, wedge, line), bố trí sectors, phối hợp pha tấn công, phản ứng tình huống bất ngờ.\n\n**Đặc trưng:** mức thấp — tiểu đội ở địa hình bình. Trung — phối hợp ba pair. Cao — kế hoạch dynamic. Expert — đa biến số, dự đoán."
+  },
+  {
+   "id": "strategiya",
+   "name": "Chiến lược",
+   "attrs": [
+    "INT",
+    "SPR"
+   ],
+   "category": "Chiến thuật và chỉ huy",
+   "note": "Оперативный и стратегический уровень. Кампании, логистика, большие операции.",
+   "vignette": "Đại tá Stavrov dành hai năm lập kế hoạch tháo dỡ Đại Hội Đồng Đỏ ở Moscow. Trên tường văn phòng — bản đồ thành phố với ba trăm bảy mươi đinh ghim ba màu: đỏ thành viên xác nhận, vàng nghi ngờ, xanh trung lập đang kiểm tra. Camera mỗi cuộc gặp, mỗi xe theo dõi, mỗi gọi điện.",
+   "desc": "Cấp tác chiến và chiến lược: chiến dịch, hậu cần, chiến dịch lớn, phối hợp đa nhóm trong ngày / tuần / tháng.\n\n**Bao gồm:** lập kế hoạch dài hạn, tình báo và phân tích, quản lý tài nguyên và ngân sách, triển khai đa nhóm, chuỗi hậu cần, phối hợp liên ngành.\n\n**Đặc trưng:** mức thấp — chiến dịch một tuần. Trung — một tháng đa nhóm. Cao — năm với chính trị. Expert — đa năm, đa cấp."
+  },
+  {
+   "id": "liderstvo",
+   "name": "Lãnh đạo",
+   "attrs": [
+    "SPR",
+    "CHR"
+   ],
+   "category": "Chiến thuật và chỉ huy",
+   "note": "Способность вести людей за собой. Отличается от запугивания — это вдохновение.",
+   "vignette": "Khi Trung úy Yermakov nhận đội trong trường ma ám, hai phút sau khi chỉ huy bị thương, hắn không hỏi ai sẵn sàng chưa. Nói: «Ta đi.» Và đi trước. Đội theo sau. Không phải vì lệnh đúng. Vì Yermakov đã đi — và họ không thể ở lại.",
+   "desc": "Lãnh đạo: khả năng dẫn dắt người, có sức nặng trong lời, động viên, giữ đội cùng nhau trong khủng hoảng.\n\n**Bao gồm:** ra lệnh, giữ tinh thần trong khủng hoảng, quyết định dưới áp lực, phân phối trách nhiệm, giao tiếp với cấp dưới và cấp trên, hòa giải xung đột trong đội.\n\n**Đặc trưng:** mức thấp — dẫn nhóm nhỏ tin cậy. Trung — đội bất cứ ai. Cao — đa đội trong khủng hoảng. Expert — đại đoàn, tổ chức."
+  },
+  {
+   "id": "osadnoe-delo",
+   "name": "Công thành",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Chiến thuật và chỉ huy",
+   "note": "Осада и оборона укреплений. [Ф] в основном, но применим и к штурмовым операциям [ВТ].",
+   "vignette": "Kỹ sư Kazariny của Quân đoàn Kỹ sư Vĩnh Đô dẫn dắt cuộc tấn công lâu đài quân nổi dậy ở Bắc Sơn. Ba tuần chuẩn bị: gài mìn cổng, tháp, đầu độc đường nước, hầm bí mật do thợ mỏ đào dưới tường. Ngày tấn công ba điểm yếu nứt cùng lúc.",
+   "desc": "Công thành — chiếm và phòng thủ vị trí phòng ngự.\n\n**Bao gồm:** đánh giá vị trí phòng ngự, lập kế hoạch tấn công và phòng thủ, gài mìn và phá vỡ (kỹ thuật), làm việc với thang và tháp, đường tiếp tế và nước, màn khói và tiếng, chiến thuật demoralisation (biểu diễn, tuyên truyền).\n\n**Đặc trưng:** mức thấp — phòng thủ. Trung — tấn công đơn giản. Cao — đa phase. Expert — chiến dịch dài hạn."
+  },
+  {
+   "id": "vyzhivanie",
+   "name": "Sinh tồn",
+   "attrs": [
+    "INT",
+    "TGH",
+    "PER"
+   ],
+   "category": "Sinh tồn và thiên nhiên",
+   "note": "Лес, пустыня, горы, джунгли, арктика, город, космос — каждая среда отдельно. Знание опасностей, укрытий, воды, пищи.",
+   "vignette": "Khi trực thăng rơi trong taiga và nhóm không có liên lạc bốn ngày, Trung úy Borovikov cấm đốt lửa tín hiệu ngày đầu. «Đêm họ bay qua hành lang tìm kiếm với thermal,» hắn nói. «Ngày họ không thấy khói qua tán cây.» Bốn ngày sau cứu hộ tìm thấy nhóm — tất cả còn sống.",
+   "desc": "Kiến thức về nguy hiểm, nơi trú, nước và thức ăn trong môi trường cụ thể. **Mỗi môi trường là kỹ năng riêng**: rừng ôn đới, taiga, nhiệt đới, sa mạc, núi (trên 2000m), bắc cực, đô thị, đại dương.\n\n**Bao gồm:** tìm nước (lọc, ngưng tụ, tan), thu thập thức ăn (thực vật ăn được, bẫy), xây nơi trú, đốt lửa trong điều kiện khó, phòng tránh động vật.\n\n**Đặc trưng:** mức thấp — sống ngày. Trung — tuần. Cao — tháng. Expert — không giới hạn."
+  },
+  {
+   "id": "ohota-i-vyslezhivanie",
+   "name": "Săn & Theo dấu",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPR"
+   ],
+   "category": "Sinh tồn và thiên nhiên",
+   "note": "Чтение следов, преследование, засады на дичь и людей.",
+   "vignette": "Lính bắn tỉa Perets đi hai ngày trên dấu một sanguinophage qua rừng hỗn hợp gần Tver. Không có dấu chân — ma cà rồng trôi, không chạm đất. Nhưng Perets đọc bằng thứ khác: bằng nhánh cây hơi cong mà hắn lẽ ra đã chạm (ở chiều cao ma cà rồng, hai mét).",
+   "desc": "Đọc dấu, truy đuổi, mai phục thú và người. INT + PER + SPR: trí cho diễn giải, mắt cho chi tiết, tinh thần cho kiên nhẫn.\n\n**Bao gồm:** đọc dấu (vết in, gãy, phân, cào), truy đuổi qua địa hình đa dạng, mai phục, dự đoán hành vi mồi, dấu hiệu hiện diện người (khói, âm thanh, mùi).\n\n**Đặc trưng:** mức thấp — dấu rõ ràng. Trung — dấu cũ. Cao — siêu nhiên. Expert — dấu siêu mờ."
+  },
+  {
+   "id": "orientirovanie",
+   "name": "Định hướng",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Sinh tồn và thiên nhiên",
+   "note": "Определение местоположения без GPS. Звёзды, солнце, местность, карты.",
+   "vignette": "Khi sương phủ đội trong rừng gần Vyborg và compass đã chết (dị thường từ tính), Trung úy Vorobyov dẫn nhóm ra bằng góc dốc nhánh thông (mọc dày hơn ở phía nam), bằng độ dày rêu trên thân (luôn dày hơn phía bắc).",
+   "desc": "Định hướng — tìm đường không GPS, bằng bản đồ, compass, mặt trời, sao và dấu hiệu.\n\n**Bao gồm:** bản đồ và compass, tính azimuth, tính độ lệch, đọc bản đồ địa hình, định hướng bằng mặt trời và sao, dấu hiệu tự nhiên (rêu, ổ kiến, gió), đọc địa hình theo độ cao, vẽ tuyến.\n\n**Đặc trưng:** mức thấp — bản đồ rõ. Trung — bản đồ kém. Cao — không bản đồ. Expert — bất kỳ địa hình."
+  },
+  {
+   "id": "maskirovka",
+   "name": "Ngụy trang",
+   "attrs": [
+    "COR",
+    "PER",
+    "INT",
+    "SPR"
+   ],
+   "category": "Sinh tồn và thiên nhiên",
+   "note": "Камуфляж, сокрытие позиции, скрытное перемещение. Четыре атрибута — элитный навык разведчика.",
+   "vignette": "Lính bắn tỉa Lastochka thiết lập ở mép mái Khrushchev. Hai giờ chuẩn bị: bụi mái trên ghillie suit, mảnh giấy mài quanh nòng, hốc ở góc parapet cho khuỷu tay phải. OPI mang thermal đến — ở mười lăm mét họ không thấy gì.",
+   "desc": "Ngụy trang — che giấu người và thiết bị khỏi quan sát (thị giác, nhiệt, âm thanh).\n\n**Bao gồm:** mẫu màu ngụy trang và che giấu (rừng, sa mạc, đô thị, tuyết), dùng thực vật và bóng, làm việc với ghillie suit (lính bắn tỉa), che dấu hiệu nhiệt (tấm thermal, làm mát nước), che tiếng (giảm thanh, di chuyển êm).\n\n**Đặc trưng:** mức thấp — che hộp. Trung — che người 50m. Cao — che thermal 30m. Expert — che ở 5m."
+  },
+  {
+   "id": "verhovaya-ezda",
+   "name": "Cưỡi ngựa",
+   "attrs": [
+    "COR",
+    "SPD"
+   ],
+   "category": "Sinh tồn và thiên nhiên",
+   "note": "Лошади и аналоги. [Ф] в основном, но может применяться в любом сеттинге.",
+   "vignette": "Cossack Bogdanov phi ngựa chiến luyện Vorobey qua ba sân Moscow ở galloping, sabre trong tay, theo người chạy. Người chạy có Toyota Camry. Bogdanov có ngựa. Ở sân ba người chạy lao vào ngõ cụt. Bogdanov không dừng galloping — nhảy từ yên và đáp.",
+   "desc": "Cưỡi ngựa — xử lý ngựa trong mọi điều kiện.\n\n**Bao gồm:** loại ngựa (cưỡi, kéo, chiến), bước (walk, trot, canter, gallop), điều khiển bằng dây cương và chân, nhảy, cưỡi địa hình thô, bơi với ngựa, cưỡi chiến đấu (sabre, giáo, cung từ ngựa), chăm sóc ngựa.\n\n**Đặc trưng:** mức thấp — cưỡi cơ bản. Trung — galloping địa hình. Cao — chiến đấu từ ngựa. Expert — đa kỹ thuật."
+  },
+  {
+   "id": "plavanie",
+   "name": "Bơi",
+   "attrs": [
+    "STR",
+    "TGH",
+    "SPD"
+   ],
+   "category": "Sinh tồn và thiên nhiên",
+   "note": "Базовое плавание.",
+   "vignette": "Lính bơi đặc biệt Hạm đội Biển Đen Mikhail Khovrin trong điều kiện bão bơi bốn cây số đến bờ từ tàu ngầm hỏng. Với tải 30kg (đồng đội bị thương đang kéo). Nhiệt độ không khí +3. Nước +8. Sóng cao ba mét. Thời gian bơi — hai giờ bốn mươi.",
+   "desc": "Bơi — sống sót dưới nước trong mọi điều kiện.\n\n**Bao gồm:** kiểu thể thao (freestyle, breaststroke, ngửa, butterfly), bơi trong nước hỗn loạn (dòng chảy, sóng), bơi trong nước lạnh (dưới 10°C — kỹ thuật đặc biệt), bơi đường dài (cây số+), bơi với tải (giày, quần áo, đồng đội).\n\n**Đặc trưng:** mức thấp — sống. Trung — cây số yên. Cao — nhiều cây số sóng. Expert — bão với tải."
+  },
+  {
+   "id": "podvodnoe-plavanie",
+   "name": "Lặn",
+   "attrs": [
+    "STR",
+    "TGH",
+    "SPR",
+    "COR"
+   ],
+   "category": "Sinh tồn và thiên nhiên",
+   "note": "С аквалангом или без. Дух — контроль дыхания и паника.",
+   "vignette": "Lính bơi chiến đấu Sergeyev dưới cầu Kerch trên rebreather đợi mười bốn giờ, thở vòng kín, không bọt khí lộ. Khi nhiệm vụ gài mìn cầu sẵn sàng và đội mặt nước cho tín hiệu — Sergeyev đặt thuốc nổ trong bảy mươi phút.",
+   "desc": "Lặn — làm việc dưới mặt nước có thiết bị hoặc không.\n\n**Bao gồm:** scuba (vòng mở), vòng kín (rebreather, dấu hiệu thấp), free diving (apnoea), hỗn hợp khí (air, nitrox, trimix), giải nén và bảng, làm việc với nhiệm vụ chiến đấu (rà mìn, phá hoại, trinh sát), làm việc trong nước lạnh.\n\n**Đặc trưng:** mức thấp — scuba 20m. Trung — 40m. Cao — combat. Expert — rebreather đa giờ."
+  },
+  {
+   "id": "alpinizm",
+   "name": "Leo núi",
+   "attrs": [
+    "STR",
+    "COR",
+    "TGH"
+   ],
+   "category": "Sinh tồn và thiên nhiên",
+   "note": "Скалы, стены, верёвки.",
+   "vignette": "Khi ORPP cần thả đặc vụ trên dây xuống cạnh tháp Federation từ tầng tám mươi, leo viên công nghiệp và sĩ quan đặc nhiệm Sergey Kalinin xuống năm mươi mét trong hai phút bằng rappel thủ công, treo đầu xuống.",
+   "desc": "Leo — đá, băng, núi.\n\n**Bao gồm:** leo đá (free, dây), leo băng (rìu và crampon), leo núi (kết hợp), gear (dây, harness, jumar, descender, friends, hook), belay (top, bottom, partner-belay), xuống (rappel, descender), làm việc ở độ cao (acclimatisation).\n\n**Đặc trưng:** mức thấp — đá đơn giản. Trung — multi-pitch. Cao — chiến thuật. Expert — núi cao, đa thử thách."
+  },
+  {
+   "id": "rybalka",
+   "name": "Câu cá",
+   "attrs": [
+    "SPR",
+    "PER"
+   ],
+   "category": "Sinh tồn và thiên nhiên",
+   "note": "Терпение и наблюдательность.",
+   "vignette": "Cossack già Mikhail Trofimovich Bogdanov trên sông Don câu cá bằng tay không. Đứng trong nước đến đầu gối, tay dưới bờ cong, đợi. Đợi đến một giờ. Rồi cá pike ra từ tối — Bogdanov ôm nó sau mang bằng hai ngón và ném lên bờ.",
+   "desc": "Câu cá — bắt cá trong mọi điều kiện.\n\n**Bao gồm:** loại câu (cần, fly, lưới, bẫy, lao, tay), nước ngọt và biển, băng (đông), đọc nước (cá đứng đâu), cần và mồi, làm việc không cần (tay dưới đá, bẫy tạm), xử lý mồi (làm sạch, chế biến).\n\n**Đặc trưng:** mức thấp — câu cá ăn. Trung — đa loại. Cao — câu chuyên. Expert — đa môi trường."
+  },
+  {
+   "id": "priruchenie-zhivotnyh",
+   "name": "Thuần thú",
+   "attrs": [
+    "SPR",
+    "CHR",
+    "PER"
+   ],
+   "category": "Sinh tồn và thiên nhiên",
+   "note": "Дрессировка, успокоение, работа с животными.",
+   "vignette": "Kynologist già Goncharov của ORPP huấn luyện chó shepherd Đức «Drake» theo dấu sanguinophage trong một năm. Chó phải phản ứng với dấu đặc biệt ma cà rồng để lại (năng lượng lạnh, dính). Bốn mươi ngày huấn luyện. Rồi Drake được dẫn đến dấu ma cà rồng xác nhận ở Vườn Bách Thảo.",
+   "desc": "Xử lý động vật — xử lý, huấn luyện và đọc hành vi chó, ngựa, chim săn, động vật ngoại lai.\n\n**Bao gồm:** chó (huấn luyện, làm việc, chiến đấu, tìm kiếm), ngựa (huấn luyện, làm việc, chiến đấu), chim săn (huấn luyện, săn, chuồng), ngoại lai (gấu, sói, lynx, đại bàng), đọc tâm trạng.\n\n**Đặc trưng:** mức thấp — chó nhà. Trung — chó làm việc. Cao — exotic. Expert — sinh vật siêu nhiên."
+  },
+  {
+   "id": "vozhdenie",
+   "name": "Lái xe",
+   "attrs": [
+    "SPD",
+    "PER"
+   ],
+   "category": "Phương tiện",
+   "note": "Автомобили, мотоциклы, грузовики. Каждый класс — условно отдельно, но пересадка с легковой на грузовик — это СВД, а не отсутствие навыка. Обычный человек к 20 годам водит машину на бытовом уровне; навык нужен для экстремальных ситуаций (погоня, гололёд, боевое вождение). Мотоцикл — отдельно от автомобиля, другая физика. Без навыка мотоцикла на автомобильном навыке — большой СВД.",
+   "vignette": "Khan lái Moscow đêm trong BMW seven-series như Moscow là tài sản cá nhân. Sân, hẻm, ra đường ngược chiều — sau vô lăng hắn không phải tài xế, hắn là một phần xe. Điều tra viên ORPP hai lần cố theo đuôi. Cả hai mất hắn trong ba phút.",
+   "desc": "Lái xe ô tô, mô tô, tải. SPD + PER. Người trung bình ở 20 lái cấp độ gia đình; kỹ năng cho **tình huống cực đoan** — đuổi, băng, lái chiến đấu.\n\n**Đặc trưng:** đuổi (cắt và vượt), băng và tuyết (phục hồi khỏi trượt), lái chiến đấu (phòng thủ và đâm), né (đuổi, mai phục).\n\n**Đặc trưng:** mức thấp — gia đình. Trung — đuổi. Cao — chiến đấu. Expert — bất kỳ địa hình."
+  },
+  {
+   "id": "vozhdenie-2",
+   "name": "Lái xe nặng",
+   "attrs": [
+    "STR",
+    "COR",
+    "PER"
+   ],
+   "category": "Phương tiện",
+   "note": "Танки, БТР, бульдозеры, экскаваторы. СЛ — потому что рычаги тяжёлой техники требуют физической силы (особенно старая техника без гидроусилителей). В фэнтези — осадные машины, требушеты. Навык вождения легкового автомобиля не помогает — совершенно другая механика.",
+   "vignette": "Khi «Alpha» cần phá tường đền thờ tà giáo, BTR-82A được mang đến bởi thượng úy Kolosov. Kolosov đã làm trên BTR từ '86 và biết chúng như kỵ binh biết ngựa. Hắn tiếp cận tường gạch ở góc, lấy nó theo đường chéo để tường không làm chậm máy.",
+   "desc": "Xe tăng, APC, IFV, máy ủi, máy xúc, thiết bị xây dựng và đặc biệt nặng. STR — điều khiển xe nặng nặng vật lý, đặc biệt cũ không hydraulics. COR — chính xác chuyển động trên khối lượng lớn.\n\n**Đặc trưng:** mức thấp — máy quen ở địa hình bằng. Trung — nhiều loại. Cao — chiến đấu. Expert — phối hợp đa máy."
+  },
+  {
+   "id": "pilotirovanie",
+   "name": "Lái máy bay",
+   "attrs": [
+    "COR",
+    "SPD",
+    "INT",
+    "STR"
+   ],
+   "category": "Phương tiện",
+   "note": "Гражданские летательные аппараты. **Каждый тип — отдельно:** одномоторный самолёт (Цессна), многомоторный самолёт, лёгкий вертолёт, транспортный вертолёт, гражданский лайнер. Пилот «Цессны» в кабине «Боинга 747» — как водитель «Жигулей» за штурвалом танкера. Формально один навык, но без переучивания — катастрофа. ИНТ в формуле — приборы, навигация, процедуры. СЛ — штурвалы ранних самолётов и вертолётов физически тяжелы. Четыре атрибута — пилот должен быть разносторонне развит.",
+   "vignette": "Phi công Mi-8 thiếu tá Antonov đáp trực thăng trong khoảng trống 15×15 mét ở khe núi Caucasus trong mưa to ban đêm. Khoảng cách từ rotor đến đá khe là 1.5 mét. Antonov đáp bằng tiếng ồn đá (sonar). Đội xuống, lấy bị thương, trực thăng cất cánh.",
+   "desc": "Máy bay và trực thăng. **Mỗi loại là chuyên môn riêng**: trực thăng (Mi-8, Ka-52), máy bay nhẹ (Cessna), vận tải (An-26), tiêm kích (Su-27), tàu vũ trụ (riêng — Space Piloting).\n\n**Bao gồm:** bay trong điều kiện khác nhau (mưa, tuyết, gió, đêm), cất cánh và đáp trên chuẩn bị và improvise, định hướng quan sát và bằng thiết bị, làm việc với đội (co-pilot, kỹ thuật).\n\n**Đặc trưng:** mức thấp — VFR ngày. Trung — IFR. Cao — đêm khắc nghiệt. Expert — improvise."
+  },
+  {
+   "id": "boevoe-pilotirovanie",
+   "name": "Lái máy bay chiến đấu",
+   "attrs": [
+    "COR",
+    "SPD",
+    "TGH",
+    "SPR",
+    "STR",
+    "PER"
+   ],
+   "category": "Phương tiện",
+   "note": "**Шесть атрибутов — самый требовательный навык в системе.** Истребители, штурмовики, боевые вертолёты. **Каждый тип — отдельно.** Пилот Ф-16 не сядет в Ка-52 без переучивания. ТЕЛ — перегрузки до 9G, нужно не потерять сознание. ДУХ — готовность убивать и умирать на скорости звука. ВО — контроль воздушного пространства, обнаружение целей. СЛ — физическое управление на перегрузках. Это элитный навык: средний ЗПН будет низким, потому что шесть атрибутов размывают среднее. Только выдающийся человек может быть хорошим боевым пилотом. Именно так и задумано.",
+   "vignette": "Đại úy Su-27 Ivanchenko trên bầu trời Kola hạ hai F-16 trong ba phút trong dogfight 2-against-1. Tên đầu — qua quản lý năng lượng: kéo dọc, mất tốc độ, để F-16 vọt qua, rơi vào đuôi, R-73 missile. Tên hai — knife-fight ngang.",
+   "desc": "Sử dụng máy bay chiến đấu. **Mỗi platform là chuyên môn riêng.**\n\n**Bao gồm:** thao tác chiến đấu (loop, barrel-roll, scissors, breaking), sử dụng vũ khí (cannon, rocket, missile, bom), không chiến không-đối-không, không-đối-đất, làm việc với hệ thống bám mục tiêu, né missile (chaff, flare, manoeuvre).\n\n**Đặc trưng:** mức thấp — bay cơ bản. Trung — dogfight 1-on-1. Cao — đa đối thủ. Expert — đa loại."
+  },
+  {
+   "id": "morehodstvo",
+   "name": "Đi biển",
+   "attrs": [
+    "INT",
+    "SPD",
+    "PER"
+   ],
+   "category": "Phương tiện",
+   "note": "Управление судами. **Типы:** малые парусные, большие парусные, моторные катера, крупные суда. Парусник и моторная яхта — совершенно разная физика. Шкипер парусной яхты не управится с контейнеровозом. ВО — ветер, течения, опасности. ИНТ — навигация, правила, маршруты.",
+   "vignette": "Thuyền trưởng Lorenzo dei Conti đưa galleon ba cột buồm «Speranza» qua eo biển giữa hai đội cướp biển Quần Đảo ban đêm, chỉ trên jib. Bốn mươi hai dặm trong bảy giờ. Không phát đạn nào. Bình minh «Speranza» cách ba mươi dặm sau hàng phòng cướp biển.",
+   "desc": "Đi biển — xử lý tàu các loại.\n\n**Bao gồm:** thuyền buồm (yacht, sloop, schooner, square-rigger), tàu động cơ (boat, cutter, lớn), định hướng biển (bằng bản đồ biển, sextant, GPS), đọc thời tiết và dòng chảy, thao tác cảng, làm việc trong bão, nút và rigging, quản lý thủy thủ.\n\n**Đặc trưng:** mức thấp — thuyền nhỏ. Trung — đại dương. Cao — bão. Expert — đa thủy thủ."
+  },
+  {
+   "id": "kosmicheskoe-pilotirovanie",
+   "name": "Lái phi thuyền",
+   "attrs": [
+    "COR",
+    "SPD",
+    "INT",
+    "PER"
+   ],
+   "category": "Phương tiện",
+   "note": "[ВТ] для соответствующих миров. **Типы:** орбитальный челнок, межпланетный корабль, истребитель (если есть — это уже боевое космическое пилотирование по формуле боевого). ИНТ критичен — орбитальная механика контринтуитивна, человеческая интуиция «лечу туда, куда смотрю» не работает в космосе.",
+   "vignette": "Trên «Prometheus-2», khi một trong các động cơ hỏng trong descent từ quỹ đạo Trái Đất, phi công Kondratyev đưa tàu xuống dải kế hoạch không động cơ phía phải bằng phân phối lực giữa động cơ trái và jet thao tác.",
+   "desc": "Lái vũ trụ. **[HT]** — cho thế giới công nghệ cao.\n\n**Bao gồm:** thoát khí quyển và tái nhập, thao tác quỹ đạo (Hohmann transfer, plane change), docking và undocking, làm việc với máy tính onboard, làm việc trong zero-g, tình huống khẩn (vỏ vỡ, lửa trong zero-g, life-support hỏng), thao tác chiến đấu.\n\n**Đặc trưng:** mức thấp — quỹ đạo cơ bản. Trung — phức tạp. Cao — chiến đấu. Expert — improvise."
+  },
+  {
+   "id": "fizika",
+   "name": "Vật lý",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Механика, оптика, термодинамика, электричество. Общая физика.",
+   "vignette": "Khi dosimeter trên vòng nghi lễ ở Zelenograd vọt khỏi thang, Somov nhìn sơ đồ trong vòng và nói: «Không phải phóng xạ. Đó là trường tĩnh điện hàng trăm kilovolt. Tín đồ lắp tụ điện cao thế.»",
+   "desc": "Vật lý tổng quát: cơ học, quang học, nhiệt động, điện, sóng, cơ sở lượng tử và tương đối. INT + PER.\n\n**Bao gồm:** đánh giá hiện tượng vật lý trên thực địa, tính quỹ đạo, đạn đạo, quang học, truyền nhiệt, điện và trường, hiểu thiết bị thí nghiệm.\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — đại học. Cao — chuyên gia. Expert — nghiên cứu."
+  },
+  {
+   "id": "yadernaya-fizika",
+   "name": "Vật lý hạt nhân",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Атомная и субатомная физика, радиация, деление/синтез. Отдельно, потому что это опасные и узкоспециальные знания.",
+   "vignette": "Khi trong hầm khu công nghiệp ORPP phát hiện hộp ampoul và counter kêu như súng máy, người duy nhất không rời phòng là Kurnikov — physicist từ OPI. Kurnikov tiếp cận hộp bình tĩnh, mở nó.",
+   "desc": "Vật lý nguyên tử và hạ nguyên tử, phóng xạ, phân hạch và hợp hạch, hóa phóng xạ. INT. Kỹ năng riêng — vì đây là kiến thức chuyên hẹp nguy hiểm.\n\n**Bao gồm:** chẩn đoán mối đe dọa phóng xạ, tính liều, nguồn phóng xạ (alpha/beta/gamma/neutron), bảo vệ, làm việc với vật liệu phóng xạ, phản ứng hạt nhân.\n\n**Đặc trưng:** mức thấp — đọc dosimeter. Trung — đánh giá nguồn. Cao — neutralisation. Expert — thiết kế."
+  },
+  {
+   "id": "astrofizika",
+   "name": "Vật lý thiên văn",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Звёзды, космология, орбитальная механика. Нужна для навигации в космосе. [ВТ]",
+   "vignette": "Đêm thiên thạch rơi ở rừng Tunguska, astrophysicist Tikhomirov tính quỹ đạo từ lời khai nhân chứng trong hai mươi phút. Tìm vị trí va chạm trong vòng bốn cây số. Đoàn ORPP đi sáng hôm sau.",
+   "desc": "Thiên văn và astrophysics. INT + PER. Sao, thiên hà, vũ trụ học, phân tích phổ.\n\n**Bao gồm:** định hướng thiên thể, nhận diện thiên thể, phân tích phổ ánh sáng, tính quỹ đạo thiên thể, dự đoán hiện tượng, cosmology.\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — chuyên môn. Cao — nghiên cứu. Expert — lý thuyết."
+  },
+  {
+   "id": "himiya",
+   "name": "Hóa học",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Органическая, неорганическая, аналитическая. Общая химия.",
+   "vignette": "OPI chemist Petrov bằng mùi cặn ở hiện trường nhận biết tổng hợp methamphetamine trong tám giây. Hai giờ sau tái tạo sơ đồ công nghệ của cooker từ cặn. OPI định vị phòng lab theo sơ đồ.",
+   "desc": "Hóa tổng quát: hữu cơ, vô cơ, vật lý, phân tích. INT.\n\n**Bao gồm:** nhận diện chất theo phản ứng, tổng hợp hợp chất đơn giản, nhận diện chất không xác định bằng mùi/màu/phản ứng, nhận diện độc, làm việc phân tích trong lab.\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — đại học. Cao — chuyên gia. Expert — nghiên cứu."
+  },
+  {
+   "id": "himiya-2",
+   "name": "Hóa: Hợp chất đặc biệt",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Взрывчатые вещества, отравляющие вещества, экзотические материалы. Отдельно по тем же причинам, что и ядерная физика.",
+   "vignette": "Khi OPI phá lab tà giáo, Petrov tìm phòng tổng hợp. Không thấy. Tìm lại. Không. Xin đội đợi, đóng khí. Petrov đứng, hít. Nói: «Phòng ở phòng kế sau cửa giả.»",
+   "desc": "Hợp chất chuyên biệt — chất nổ, ma túy, độc, chất nghi lễ. INT. Kỹ năng riêng từ Hóa chung — kiến thức chuyên hẹp nguy hiểm.\n\n**Bao gồm:** tổng hợp chất nổ (TNT, RDX, plastic), ma túy (alkaloid, tổng hợp), độc (hữu cơ và vô cơ), chất nghi lễ (theo kiến thức occult), trung hòa.\n\n**Đặc trưng:** mức thấp — nhận diện. Trung — tổng hợp đơn. Cao — phức. Expert — sáng tạo."
+  },
+  {
+   "id": "biologiya",
+   "name": "Sinh học",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Зоология, ботаника, экология. Полезна для выживания и медицины.",
+   "vignette": "OPI biologist Nikitina theo mẫu da «sinh vật dị thường Tunguska» tái tạo chế độ ăn, khí hậu môi trường sống, tuổi và miễn dịch trong 36 giờ phân tích. Kết luận: «Động vật có xương sống bộ chưa rõ, máu lạnh, tuổi thọ khoảng 200 năm.»",
+   "desc": "Sinh học: giải phẫu, sinh lý, sinh thái, vi sinh. INT + PER.\n\n**Bao gồm:** giải phẫu người và động vật, sinh lý, sinh thái môi trường sống, vi sinh và miễn dịch, nhận diện sinh vật (thực vật, động vật, nấm, vi sinh), sinh học siêu nhiên.\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — đại học. Cao — chuyên gia. Expert — siêu nhiên."
+  },
+  {
+   "id": "geologiya",
+   "name": "Địa chất",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Минералы, горные породы, тектоника. Полезна для выживания, горного дела, оценки ресурсов.",
+   "vignette": "Geologist Pavlov theo mẫu sét trên giày một xác xác định: «Từ mỏ ở quận Ramensk, vách nam. Chỉ ba mỏ như vậy ở oblast Moscow. Hai đang hoạt động, một bỏ.» ORPP tìm đường xác trong hai giờ.",
+   "desc": "Địa chất: đá, khoáng, kiến tạo, hydrogeology. INT + PER.\n\n**Bao gồm:** nhận diện đá và khoáng, định tuổi địa tầng, dự đoán động đất và núi lửa, tìm nước và khoáng sản, cơ sở cổ sinh vật học, ứng dụng trong điều tra (theo dấu địa chất).\n\n**Đặc trưng:** mức thấp — đọc bản đồ. Trung — đánh giá hiện trường. Cao — dự đoán. Expert — nghiên cứu."
+  },
+  {
+   "id": "matematika",
+   "name": "Toán học",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Алгебра, анализ, статистика, теория вероятности, геометрия. Одним навыком — дробить нет смысла.",
+   "vignette": "Mathematician Khankhanyan của OPI bằng phân tích thống kê mất tích trẻ em ở oblast Moscow trong năm năm định vị nút ở quận Volokolamsk — tập trung 92%. Tà giáo địa phương được phát hiện ba tuần sau.",
+   "desc": "Toán: đại số, hình học, giải tích, thống kê, rời rạc. INT.\n\n**Bao gồm:** đại số và giải tích, hình học và topology, lý thuyết xác suất và thống kê, toán rời rạc (tổ hợp, đồ thị), phương pháp số, toán ứng dụng (mã hóa, tài chính, vật lý).\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — đại học. Cao — chuyên gia. Expert — nghiên cứu."
+  },
+  {
+   "id": "yurisprudenciya",
+   "name": "Luật học",
+   "attrs": [
+    "INT",
+    "SPR",
+    "CHR"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Право, суды, контракты, расследования. Дух — для принципиальности, Обаяние — для зала суда.",
+   "vignette": "ORPP legal counsel Solovyov bằng quy định '23 tìm lỗ hổng cho phép khám nơi ở của đại biểu State Duma không có phép ủy ban quốc hội. Ba ngày giấy tờ. Đại biểu là tín đồ. Ủy ban không kịp can thiệp.",
+   "desc": "Luật học: kiến thức luật, quy định, thực tiễn tư pháp. INT.\n\n**Bao gồm:** luật hình sự, dân sự, hành chính, thực tiễn tư pháp, soạn thảo tài liệu, làm việc với công tố và tòa, kiến thức quy định ngành, kiến thức luật quốc tế và so sánh.\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — luật sư. Cao — chuyên gia. Expert — nghiên cứu."
+  },
+  {
+   "id": "finansy",
+   "name": "Tài chính",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Бухгалтерия, инвестиции, аудит, экономика. ВО — внимание к деталям.",
+   "vignette": "OPI auditor Korobov trong một tháng theo dòng tiền tà giáo Moscow «Children of the Underworld» qua tám công ty vỏ và ba quốc gia. Tìm tài khoản cuối ở Síp. Đóng băng 40 triệu USD.",
+   "desc": "Tài chính: kế toán, kiểm toán, phân tích tài chính, luật thuế. INT.\n\n**Bao gồm:** kế toán và kiểm toán, phân tích tài chính, tìm dòng tiền ngầm, rửa tiền (nhận diện), luật thuế và tìm gian lận thuế, làm việc với ngân hàng và tổ chức tài chính.\n\n**Đặc trưng:** mức thấp — kế toán cơ bản. Trung — chuyên môn. Cao — điều tra. Expert — quốc tế."
+  },
+  {
+   "id": "istoriya",
+   "name": "Lịch sử",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Знание прошлого. Может быть критически важно для оценки политических ситуаций и артефактов.",
+   "vignette": "ORPP historian Rumyantsev nhận tà giáo «Children of the Underworld» là tiếp nối phong trào dị giáo Bulgaria thế kỷ X — theo mẫu ba tam giác trên sàn nhà cầu nguyện. Từ nhận diện này đến chiến lược.",
+   "desc": "Lịch sử: thế giới, quốc gia, quân sự, tôn giáo, văn hóa. INT.\n\n**Bao gồm:** niên đại và sự kiện chính, phân tích nguồn, kiến thức lịch sử quân sự, tôn giáo và phân nhánh, lịch sử hiện tượng siêu nhiên (song song với occult).\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — đại học. Cao — chuyên gia. Expert — nghiên cứu."
+  },
+  {
+   "id": "teologiya",
+   "name": "Thần học",
+   "attrs": [
+    "INT",
+    "SPR"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Знание религий, ритуалов, священных текстов. Доминантный навык для духовных классов.",
+   "vignette": "Cha Nikita đọc kinh trừ tà qua một kẻ bị nhập theo mẫu Tikhvin — công thức Nga cổ. Quỷ rời thân trong ba phút. Bác sĩ nói: «Chúng tôi đã không thấy điều này ba mươi năm.»",
+   "desc": "Thần học và nghiên cứu tôn giáo. INT + SPR.\n\n**Bao gồm:** giáo lý và thần học các tôn giáo thế giới, nghiên cứu tôn giáo so sánh, nghiên cứu văn bản (Kinh Thánh, Quran, Talmud, Veda, Tripitaka), dị giáo và phái, thực hành (phụng vụ, cầu nguyện, nghi lễ), ứng dụng trong trừ tà.\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — chủng viện. Cao — học giả. Expert — thực hành."
+  },
+  {
+   "id": "okkultizm",
+   "name": "Huyền học",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Знание сверхъестественного: мифология, ритуалы, нежить, магические традиции. [Ф] [П]",
+   "vignette": "OPI occultist Sheremetyev theo ba dấu trong căn hộ Moscow (chỗ lạnh, mẫu bồ hóng, mùi ozone) đọc: «Hauntmaster loại ba, triệu qua nghi lễ Vòng Dưới ba ngày trước, neo vào vật của trẻ trong phòng ngủ.»",
+   "desc": "Occultism — kiến thức về siêu nhiên: thực thể, nghi lễ, vật phẩm, dấu hiệu.\n\n**Bao gồm:** phân loại thực thể (kẻ không thánh, quỷ, tiên, ma cà rồng), nhận diện nghi lễ theo dấu, làm việc với vật phẩm (nhận diện, trung hòa), đọc dấu hiện diện.\n\n**Đặc trưng:** mức thấp — nhận biết cơ bản. Trung — phân loại. Cao — nghi lễ. Expert — thực hành."
+  },
+  {
+   "id": "lingvistika",
+   "name": "Ngôn ngữ học",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Теория языка, дешифровка, изучение незнакомых языков.",
+   "vignette": "ORPP linguist Volynets theo phương ngữ một nghi can xác định oblast Vyatka (cụ thể «o»-clearing trong âm không stress) và cohort tuổi cụ thể (thập niên 60, với cụm rời ngôn ngữ sống vào những năm 80).",
+   "desc": "Ngôn ngữ học: kiến thức cấu trúc ngôn ngữ, từ nguyên, ngôn ngữ cổ và hiện đại. INT.\n\n**Bao gồm:** ngôn ngữ học so sánh, ngôn ngữ cổ (Hy Lạp, Latin, Sanskrit, Old Church Slavonic), ngôn ngữ học cấu trúc và lịch sử, giải mã văn tự, phân tích phương ngữ, ứng dụng trong điều tra.\n\n**Đặc trưng:** mức thấp — đại học. Trung — chuyên môn. Cao — đa ngôn ngữ. Expert — nghiên cứu."
+  },
+  {
+   "id": "znanie-yazyka",
+   "name": "Ngôn ngữ",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Каждый язык — отдельный навык.",
+   "vignette": "OPI operative Suleymanov nói bảy ngôn ngữ ở mức bản địa: Nga, Tajik, Uzbek, Farsi, Ả Rập, Pashto, Dari. Ở Trung Á có thể đi mọi nơi. «Anh không phải kẻ lạ,» dân địa phương nói. «Anh là một trong chúng tôi.»",
+   "desc": "Kiến thức ngôn ngữ cụ thể — **mỗi cái là chuyên môn riêng**. SPR + INT.\n\n**Bao gồm:** đọc, viết, nói, nghe. Mức thấp — phrasebook. Cao — thông thạo. Specialization — bản địa, với thành ngữ và slang.\n\n**Đặc trưng:** mức thấp — sống sót du lịch. Trung — giao tiếp công việc. Cao — đàm phán phức. Expert — bản địa."
+  },
+  {
+   "id": "literatura",
+   "name": "Văn học",
+   "attrs": [
+    "INT",
+    "SPR"
+   ],
+   "category": "Khoa học và tri thức",
+   "note": "Знание и создание текстов. Может использоваться для подделки документов, написания пропаганды и т.д.",
+   "vignette": "ORPP investigator Yakovenko nhận trong thư tự sát một câu trích Mayakovsky «How Are You?» — câu hầu như không ai trong Nga hiện đại nhận. Chữ ký «kẻ tự sát» được kiểm: thi sĩ viết rõ ràng hơn.",
+   "desc": "Văn học: kiến thức truyền thống văn học thế giới và quốc gia. INT + SPR.\n\n**Bao gồm:** văn học cổ điển và hiện đại, thi pháp, phê bình văn học, mã văn hóa (allusion, trích dẫn), ứng dụng (nhận diện văn học sùng bái, văn học làm bằng chứng).\n\n**Đặc trưng:** mức thấp — đọc. Trung — phân tích. Cao — chuyên môn. Expert — nghiên cứu."
+  },
+  {
+   "id": "kompyuting",
+   "name": "Tin học",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Công nghệ",
+   "note": "Использование компьютерных систем, баз данных, интерфейсов. Пользовательский уровень и выше.",
+   "vignette": "Khi database Trung tâm ORPP về sanguinophage sập sau cyber-attack, và technician gọi mọi người trong hoảng loạn, người duy nhất tại chỗ là Zorina từ phòng quản trị dữ liệu. Zorina không cần cà phê, mở terminal, nâng backup.",
+   "desc": "Làm việc máy tính tổng quát: hệ thống, mạng, database, quản trị. INT + PER.\n\n**Bao gồm:** hệ điều hành (Windows/Linux/macOS), quản trị server, mạng (TCP/IP, routing, DNS), database (SQL, NoSQL), ảo hóa và container, scripting (Bash, PowerShell).\n\n**Đặc trưng:** mức thấp — user. Trung — quản trị. Cao — chuyên gia. Expert — kiến trúc."
+  },
+  {
+   "id": "programmirovanie",
+   "name": "Lập trình",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Công nghệ",
+   "note": "Написание кода, алгоритмы, архитектура ПО.",
+   "vignette": "Khi đặc vụ Gordeyev mang về từ search một ổ cứng mã hóa với vụ giết người nghi lễ, programmer OPI Reshetnikov nhìn cipher, nhìn metadata OS, nhìn file header. Nói: «Mã hóa lười. Phá trong giờ.»",
+   "desc": "Tạo phần mềm: viết, debug, tối ưu, thiết kế. INT.\n\n**Bao gồm:** lập trình nhiều ngôn ngữ (C/C++, Python, Java, Rust, JavaScript, Kotlin), thiết kế phần mềm, làm việc với thư viện và framework, debug, tối ưu, đọc và sửa code người khác.\n\n**Đặc trưng:** mức thấp — script. Trung — application. Cao — system. Expert — chuyên gia."
+  },
+  {
+   "id": "haking-kiberbezopasnost",
+   "name": "Hack / An ninh mạng",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPD"
+   ],
+   "category": "Công nghệ",
+   "note": "Взлом и защита систем. СК — скорость реакции в реалтайм-противостоянии.",
+   "vignette": "Khi OPI cần phá ngân hàng tài trợ tà giáo Moscow, hacker Demidov ngồi terminal ba ngày. Ngày bốn tất cả giao dịch tà giáo năm năm nằm trong database OPI. Ngân hàng vẫn không biết vụ phá.",
+   "desc": "Hacking và an ninh mạng. INT + PER + SPR — vì công việc cần khả năng, kiên nhẫn và thần kinh.\n\n**Bao gồm:** pentest, reverse engineering, tấn công mạng (intrusion, MITM, DNS-spoofing), khai thác lỗ hổng, malware (tạo và phòng), forensics.\n\n**Đặc trưng:** mức thấp — script kiddie. Trung — chuyên môn. Cao — APT. Expert — nation-state."
+  },
+  {
+   "id": "elektronika",
+   "name": "Điện tử",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Công nghệ",
+   "note": "Схемы, платы, датчики, ремонт электронных систем. КО — пайка и тонкая работа.",
+   "vignette": "Khi bug đặc biệt dạng đồng hồ trên cổ tay nghi can cần vô hiệu hóa không tháo, OPI electronics expert Kuzin mở case trong chín phút, tìm module radio, ngắt nguồn qua bypass.",
+   "desc": "Điện tử: mạch, linh kiện, tín hiệu. INT + COR.\n\n**Bao gồm:** điện tử tương tự và số, thiết kế và đọc mạch, làm việc với linh kiện (điện trở, tụ, vi mạch), sửa thiết bị điện tử, hàn và lắp ráp, làm việc với oscilloscope và máy đo.\n\n**Đặc trưng:** mức thấp — sửa thay thế. Trung — chẩn đoán. Cao — thiết kế. Expert — micro-mạch."
+  },
+  {
+   "id": "mehanika",
+   "name": "Cơ khí",
+   "attrs": [
+    "INT",
+    "COR",
+    "STR"
+   ],
+   "category": "Công nghệ",
+   "note": "Двигатели, механизмы, слесарка, ремонт машин. СЛ — физическая работа с тяжёлыми деталями.",
+   "vignette": "Khi Tigr-2330 của «Alpha» hỏng trên núi Caucasus, mechanic Sandzhiev khởi động máy trong 42 phút từ phụ tùng improvise (stamping vỡ thay bằng sleeve từ lon, bushing là đoạn vỏ cáp).",
+   "desc": "Cơ khí: máy, cơ cấu, sửa. INT + COR + STR.\n\n**Bao gồm:** sửa ô tô, máy và máy kéo, làm việc với dụng cụ tay và máy, sửa cơ cấu phức, vẽ kỹ thuật cơ bản, công việc thợ lắp, làm cơ cấu improvise.\n\n**Đặc trưng:** mức thấp — sửa thay. Trung — chẩn đoán. Cao — chế tạo. Expert — improvise."
+  },
+  {
+   "id": "elektrotehnika",
+   "name": "Kỹ thuật điện",
+   "attrs": [
+    "INT",
+    "COR"
+   ],
+   "category": "Công nghệ",
+   "note": "Силовые системы, проводка, генераторы, электросети.",
+   "vignette": "Điện công trình Karpov đi dây mới văn phòng cover-front OPI trong ba giờ. Mười sáu ổ cắm, bốn công tắc, chiếu sáng trên mười hai mạch. Tuân thủ. Kiểm tra. Cuối ngày văn phòng hoạt động.",
+   "desc": "Kỹ thuật điện: cấp điện, motor, biến áp. INT + COR.\n\n**Bao gồm:** sơ đồ dây, làm việc với điện áp cao (an toàn), motor điện, biến áp, làm việc với bảng phân phối, hệ thống điện cho tòa nhà và xe, ổ điện.\n\n**Đặc trưng:** mức thấp — sửa nhà. Trung — công trình. Cao — chuyên môn. Expert — thiết kế."
+  },
+  {
+   "id": "inzhenernoe-konstruirovanie",
+   "name": "Thiết kế kỹ thuật",
+   "attrs": [
+    "INT",
+    "PER",
+    "COR"
+   ],
+   "category": "Công nghệ",
+   "note": "Проектирование устройств, механизмов, систем. От часов до космических кораблей.",
+   "vignette": "OPI engineer Pirogov thiết kế exoskeleton cho đặc vụ bại liệt trong mười bốn tháng. Ba iteration. Thứ ba — hoạt động: đặc vụ đi, giữ súng trường, bắn đứng. Trọng lượng exoskeleton 14kg, pin — 6 giờ.",
+   "desc": "Thiết kế kỹ thuật: thiết kế hệ cơ và điện cơ. INT + PER + COR.\n\n**Bao gồm:** thiết kế cơ học (bánh răng, đòn bẩy, trục), khí nén và thủy lực, thiết kế vỏ và lắp ráp, vẽ kỹ thuật trong CAD, prototyping, làm việc với composite.\n\n**Đặc trưng:** mức thấp — drawing. Trung — thiết kế đơn. Cao — phức. Expert — sáng tạo."
+  },
+  {
+   "id": "nanotehnologii",
+   "name": "Công nghệ nano",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Công nghệ",
+   "note": "Работа на наноуровне. [ВТ] только для высоких ТУ.",
+   "vignette": "Nhà nghiên cứu Vorontsov phát triển nano-particles có khả năng liên kết chì trong cơ thể. Đối tượng test đầu OPI ở giai đoạn ba ngộ độc chì được chữa trong mười một ngày. Công nghệ vào sản xuất hàng loạt.",
+   "desc": "Nanotechnology. **[HT]** — cho thế giới công nghệ cao. INT.\n\n**Bao gồm:** nano-vật liệu (carbon, silicon, polymer), hệ tự lắp ráp, nano-y học, nano-điện tử, thiết kế nano-cơ cấu, làm việc với kính hiển vi điện tử và lực nguyên tử.\n\n**Đặc trưng:** mức thấp — đọc. Trung — chuyên môn. Cao — sản xuất. Expert — nghiên cứu."
+  },
+  {
+   "id": "biotehnologii",
+   "name": "Công nghệ sinh học",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Công nghệ",
+   "note": "Генная инженерия, клонирование, синтетическая биология. [ВТ] для высоких ТУ.",
+   "vignette": "OPI bioengineer Vetrov nuôi lớp da cho đặc vụ bị bỏng độ hai trên 40% cơ thể. Thời gian nuôi — sáu tuần. Da sống sót sau ghép. Đặc vụ trở lại phục vụ sau chín tháng.",
+   "desc": "Biotechnology. **[HT]**. INT.\n\n**Bao gồm:** kỹ thuật di truyền, kỹ thuật y sinh, tin sinh học, làm việc với nuôi tế bào, nuôi cơ quan và mô, biopharmaceuticals (insulin, kháng thể), liệu pháp gen.\n\n**Đặc trưng:** mức thấp — đọc. Trung — chuyên môn. Cao — sản xuất. Expert — nghiên cứu."
+  },
+  {
+   "id": "pervaya-pomosch",
+   "name": "Sơ cứu",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Y học",
+   "note": "Перевязка, остановка кровотечения, шинирование, СЛР, противошоковые мероприятия. Может быть у любого — солдата, полицейского, туриста. **Может:** остановить кровотечение, наложить шину, провести СЛР, не дать человеку умереть до приезда врача. **Не может:** диагностировать, назначить лечение, оперировать, определить внутреннее кровотечение. Разница между первой помощью и полевой медициной: первая помощь — «не дай умереть», полевая медицина — «верни в бой».",
+   "vignette": "Khi ở Moscow một người qua đường bị đột quỵ ngoài phố, người duy nhất không bối rối trong đám đông là kế toán Lena — gần đây cô đã học khóa cấp cứu. Lena đặt người nằm nghiêng, gọi cấp cứu, theo dõi hô hấp và mạch đến khi cấp cứu đến.",
+   "desc": "Chăm sóc cơ bản đến khi cấp cứu đến. INT + COR + PER.\n\n**Bao gồm:** đánh giá tình trạng nạn nhân, cầm máu (garô, băng ép, haemostatic), CPR, bất động gãy xương, cấp cứu bỏng, chấn thương điện, ngạt, đắp băng, tư thế phục hồi.\n\n**Đặc trưng:** mức thấp — sơ cứu cơ bản. Trung — đầy đủ. Cao — đa nạn nhân. Expert — improvise."
+  },
+  {
+   "id": "polevaya-medicina",
+   "name": "Y học chiến trường",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER",
+    "SPD"
+   ],
+   "category": "Y học",
+   "note": "Медицина в боевых и экстремальных условиях. Четыре атрибута — потому что работаешь быстро (СК), точно (КО), под огнём, при плохом освещении, грязными руками. **Может:** извлечь пулю/осколок, зашить рану в поле, провести экстренную трахеотомию, определить пневмоторакс и дренировать, вправить вывих, собрать перелом. **Не может:** провести полостную операцию, лечить хронические заболевания, работать с нейрохирургией. Полевой медик — это человек, который делает страшные вещи кухонным ножом в грязном подвале и спасает жизни. Хирург в стерильной операционной сделает лучше, но хирурга рядом нет, а осколок в лёгком — есть.",
+   "vignette": "Khi «Alpha» trong hầm đền thờ phải đợi sáu giờ evacuation với ba ca nặng, medic duy nhất là Kronin — paramedic nhóm. Kronin làm việc sáu giờ không nghỉ: hai truyền tĩnh mạch mỗi người, hai intubation, ba ngừng máu áp lực cao.",
+   "desc": "Trợ giúp trong điều kiện thực địa, xa bệnh viện. INT + COR + PER + SPR. **Bốn thuộc tính** — field medic trên thực địa phải quyết định nhanh.\n\n**Bao gồm:** cấp cứu mở rộng, truyền tĩnh mạch trên thực địa, oxy hóa, intubation, làm việc trong tải nặng và môi trường khó.\n\n**Đặc trưng:** mức thấp — cấp cứu mở rộng. Trung — ổn định ngắn hạn. Cao — đa ca. Expert — phẫu thuật trên thực địa."
+  },
+  {
+   "id": "terapiya",
+   "name": "Nội khoa",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Y học",
+   "note": "Диагностика, лечение болезней, назначение терапии, ведение пациентов. Врач общей практики. ВО — потому что терапевт должен видеть то, что пациент не говорит: цвет кожи, характер дыхания, походку, зрачки. **Может:** поставить диагноз, назначить лечение, определить, нужна ли операция, вести хронических больных, распознать отравление. **Не может:** оперировать, проводить нейрохирургические вмешательства. Терапевт — это детектив от медицины: его работа — понять что не так. Починить — работа хирурга.",
+   "vignette": "ORPP doctor Zubova trong khám định kỳ chẩn đoán lao phổi giai đoạn 1 ở đặc vụ Voronchuk — bằng nghe phổi và bất đối xứng nhẹ trên X-quang. Voronchuk không khiếu nại. Điều trị sáu tháng. Voronchuk trở lại phục vụ.",
+   "desc": "Nội khoa: chẩn đoán và điều trị bệnh nội tạng. INT + PER.\n\n**Bao gồm:** chẩn đoán chung (anamnesis, sờ nắn, nghe, gõ), giải thích xét nghiệm và khám cận lâm sàng (X-quang, ECG, siêu âm, MRI), điều trị nội khoa, theo dõi mãn tính, làm việc với bệnh siêu nhiên.\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — chuyên môn. Cao — chuyên gia. Expert — nghiên cứu."
+  },
+  {
+   "id": "hirurgiya",
+   "name": "Phẫu thuật",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Y học",
+   "note": "Оперативное вмешательство: от аппендэктомии до пересадки органов. ИНТ — знание анатомии и процедур. КО — руки, которые не дрожат. ВО — видеть что делаешь. **Может:** всё, что требует скальпеля, за исключением мозга и нервной системы (это нейрохирургия). **Не может:** работать без оборудования и стерильности (это полевая медицина), диагностировать сложные случаи так же хорошо, как терапевт. В поле хирург без инструментов — дорогой полевой медик.",
+   "vignette": "Surgeon Lyashchenko của OPI trong điều kiện thực địa cầm máu từ động mạch chậu rách ở đặc vụ Kovalyov, khâu động mạch tại chỗ. Phẫu thuật trong hầm, mười tám phút, không phòng mổ. Kovalyov sống.",
+   "desc": "Phẫu thuật: can thiệp ngoại khoa. INT + COR + PER + SPR.\n\n**Bao gồm:** phẫu thuật chung (mở bụng, mạch máu, chấn thương), chuyên (tim, phổi), làm việc với dụng cụ phẫu thuật, vô khuẩn và sát khuẩn, các bước phẫu thuật (tiếp cận, di động, can thiệp, đóng).\n\n**Đặc trưng:** mức thấp — phẫu thuật đơn. Trung — chung. Cao — chuyên. Expert — improvise thực địa."
+  },
+  {
+   "id": "neyrohirurgiya",
+   "name": "Phẫu thuật thần kinh",
+   "attrs": [
+    "INT",
+    "COR"
+   ],
+   "category": "Y học",
+   "note": "Операции на мозге и нервной системе. Высшая медицинская специализация. Только ИНТ и КО — никакая скорость и восприятие не заменят чистое знание и ювелирные руки. **Может:** операции на мозге, спинном мозге, периферической нервной системе. В [ВТ] мирах — работа с нейроимплантами. **Не может:** то, что не относится к нервной системе, нейрохирург делает как обычный хирург, не лучше.",
+   "vignette": "Neurosurgeon Petrosyan ở OPI lấy mảnh kim loại ra khỏi não đặc vụ Levenchuk, hai cm từ vỏ não thị giác. Mười một giờ phẫu thuật. Levenchuk giữ thị lực 70%. Trở lại phục vụ.",
+   "desc": "Phẫu thuật thần kinh: phẫu thuật trên não và tủy sống. INT + COR + PER + SPR.\n\n**Bao gồm:** mở sọ, lấy u, chấn thương não, làm việc với tủy sống, vi phẫu, làm việc với dây thần kinh sọ, hình ảnh thần kinh (CT/MRI), chăm sóc thần kinh sau phẫu thuật.\n\n**Đặc trưng:** mức thấp — chẩn đoán. Trung — đơn giản. Cao — phức. Expert — vi phẫu."
+  },
+  {
+   "id": "farmakologiya",
+   "name": "Dược học",
+   "attrs": [
+    "INT"
+   ],
+   "category": "Y học",
+   "note": "Лекарства, яды, дозировки, взаимодействия, побочные эффекты, синтез. Чистое знание — руки не нужны. **Может:** подобрать лекарство, рассчитать дозу, определить отравление по симптомам, синтезировать препарат (при наличии оборудования), определить неизвестное вещество. **Не может:** лечить руками. Фармаколог знает, что нужно ввести 10 мг морфина, но если у него нет навыка «Первая помощь», он может промахнуться мимо вены.",
+   "vignette": "OPI pharmacologist Sergeyeva theo triệu chứng đặc vụ bất tỉnh nhận biết ngộ độc barbiturate, nhưng với diễn tiến thời gian bất thường (chậm). Đề xuất barbiturate tổng hợp đặc biệt thập niên 90. OPI kiểm: bingo. Thuốc giải có sẵn.",
+   "desc": "Dược lý: thuốc, liều, tương tác, tác dụng phụ. INT.\n\n**Bao gồm:** lớp thuốc (kháng sinh, giảm đau, chống sốc, kháng độc), liều theo cân nặng/tuổi/trạng thái, tương tác thuốc, nhận diện quá liều và ngộ độc, thuốc giải (siêu nhiên và bình thường).\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — dược sĩ. Cao — chuyên môn. Expert — siêu nhiên."
+  },
+  {
+   "id": "psihiatriya",
+   "name": "Tâm thần học",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPR",
+    "CHR"
+   ],
+   "category": "Y học",
+   "note": "Четыре атрибута — элитный навык. ИНТ — знание. ВО — наблюдательность (читать невербалику). ДУХ — собственная психическая устойчивость (нельзя лечить чужое безумие, если своё трещит). ОБ — умение установить контакт с пациентом, который может быть параноиком, психотиком или манипулятором. **Может:** диагностировать психические расстройства, проводить терапию, гипноз, оценивать вменяемость, противостоять ментальным манипуляциям. **Не может:** лечить физические болезни. В [П] мирах — может быть частичной защитой от телепатии (понимание механизмов внушения).",
+   "vignette": "ORPP psychiatrist Yakovlev trong tám buổi xử lý PTSD đặc vụ Kashirin sau chiến dịch «Mùa Xuân Đen». CBT + thuốc. Kashirin trở lại phục vụ không hạn chế. Yakovlev: «Đừng phá người bằng lời sai. Lời hoạt động chậm.»",
+   "desc": "Tâm thần học: rối loạn tâm thần. INT + PER + SPR.\n\n**Bao gồm:** chẩn đoán bệnh tâm thần (tâm thần phân liệt, lưỡng cực, PTSD, trầm cảm, lo âu), dược lý tâm thần, tâm lý trị liệu (CBT, psychodynamic, EMDR), làm việc với trauma (chiến đấu, tai nạn, mất mát).\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — chuyên môn. Cao — chuyên gia. Expert — siêu nhiên."
+  },
+  {
+   "id": "mikrobiologiya",
+   "name": "Vi sinh học",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Y học",
+   "note": "Патогены, вирусы, бактерии, эпидемиология, вакцины, биологическое оружие. **Может:** определить возбудителя, оценить эпидемиологическую угрозу, разработать вакцину (время + оборудование), работать с биологическим оружием. **Не может:** лечить конкретного пациента — это терапия. Микробиолог знает, чем болен город. Терапевт знает, чем болен Иван Петрович.",
+   "vignette": "OPI microbiologist Konnov theo smear từ vết thương nhận Staphylococcus aureus kháng kháng sinh — khuyến nghị thay kháng sinh trong hai mươi phút. Bệnh nhân trở về từ bờ sepsis.",
+   "desc": "Vi sinh học: vi khuẩn, virus, nấm, ký sinh. INT.\n\n**Bao gồm:** kính hiển vi, phân lập nuôi cấy, nhận diện mầm bệnh, kháng sinh đồ, virus học (cơ sở), ký sinh trùng (giun, ngoại ký sinh), chẩn đoán vi sinh bệnh nhiễm.\n\n**Đặc trưng:** mức thấp — kỹ thuật viên. Trung — chuyên môn. Cao — chuyên gia. Expert — siêu nhiên."
+  },
+  {
+   "id": "implantologiya",
+   "name": "Cấy ghép",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Y học",
+   "note": "[ВТ] Установка, настройка, обслуживание и удаление имплантов: от кардиостимулятора до нейроимпланта «Цереброн». Гибрид хирургии и электроники. **Может:** имплантировать, калибровать, диагностировать сбои импланта, удалить. **Не может:** разработать новый имплант (это инженерное конструирование + биотехнологии). Имплантолог — это хирург для киборгов.",
+   "vignette": "OPI implantologist Vrubov cài đặt implant thần kinh đặc biệt cho đặc vụ mất tay tại vai. Implant nối vỏ não vận động trực tiếp với prosthetic. Đặc vụ học dùng trong ba tháng. Bây giờ cầm súng.",
+   "desc": "Implantology. **[HT]**. INT + COR. Cài đặt implant cơ và điện tử trong cơ thể người.\n\n**Bao gồm:** thiết kế và cài implant, làm việc với prosthetic thần kinh, nối với hệ thần kinh, theo dõi sau phẫu thuật, hiệu chỉnh implant, làm việc với cấp cứu hỏng implant.\n\n**Đặc trưng:** mức thấp — đơn giản. Trung — phức. Cao — thần kinh. Expert — sáng tạo."
+  },
+  {
+   "id": "kuznechnoe-delo",
+   "name": "Rèn",
+   "attrs": [
+    "STR",
+    "COR",
+    "INT"
+   ],
+   "category": "Thủ công và sản xuất",
+   "note": "Ковка оружия, брони, инструментов. Сила для молота, КО для точности, ИНТ для знания материалов.",
+   "vignette": "Thợ rèn Velimir làm việc trong lò rèn Podmoskovye bốn mươi năm. Khi OPI đặt từ hắn mười hai cọc gỗ dương với đầu bạc và sleeve sắt lạnh, Velimir làm trong mười một ngày.",
+   "desc": "Làm việc kim loại trên đe. STR + COR + INT.\n\n**Bao gồm:** rèn, tôi, ủ, nóng và lạnh, làm dụng cụ, vũ khí và giáp cơ bản, phục chế cũ, làm việc với thép/sắt/đồng.\n\n**Đặc trưng:** mức thấp — đơn giản. Trung — chuyên môn. Cao — master. Expert — siêu nhiên."
+  },
+  {
+   "id": "oruzheynoe-delo",
+   "name": "Chế súng",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Thủ công và sản xuất",
+   "note": "Обслуживание, модификация и изготовление огнестрельного оружия.",
+   "vignette": "Thợ vũ khí Zharkov trong xưởng gần Tula phục chế súng trường bắn tỉa Đức từ 1944 — tìm thấy trong khai quật đền thờ nơi sniper-hunter Đức trốn trong chiến tranh. Ba tháng làm việc. Súng bắt đầu bắn.",
+   "desc": "Sản xuất và sửa vũ khí súng và lưỡi. INT + COR + PER.\n\n**Bao gồm:** thiết kế vũ khí, sản xuất linh kiện chính (nòng, bolt, trigger group), lắp ráp, hiệu chỉnh, làm sạch và bảo quản, sửa kẹt.\n\n**Đặc trưng:** mức thấp — sửa. Trung — lắp ráp. Cao — sản xuất. Expert — sáng tạo."
+  },
+  {
+   "id": "bronnoe-delo",
+   "name": "Chế giáp",
+   "attrs": [
+    "INT",
+    "COR",
+    "STR"
+   ],
+   "category": "Thủ công và sản xuất",
+   "note": "Изготовление и ремонт доспехов.",
+   "vignette": "Armourer Gerhardt của OPI sửa combat suit của đặc vụ Korovina, người đã ăn phát 7.62 ở cự ly gần và sống chỉ nhờ suit. Korovina xem khi Gerhardt cắt phần hỏng và lắp mới.",
+   "desc": "Sản xuất giáp. STR + COR + INT.\n\n**Bao gồm:** chain mail, plate, composite hiện đại, tấm ballistic, riveting và hàn plate, giải phẫu giáp, vừa theo cơ thể, làm việc với kích thước không chuẩn.\n\n**Đặc trưng:** mức thấp — sửa. Trung — sản xuất. Cao — chuyên môn. Expert — custom."
+  },
+  {
+   "id": "kulinariya",
+   "name": "Nấu ăn",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Thủ công và sản xuất",
+   "note": "Приготовление пищи. ВО — обоняние и вкус. Да, это навык. Отравить тоже навык.",
+   "vignette": "Master cook Bagrationov cho đội «Alpha» ăn trong mười sáu giờ chờ ở field stop. Bếp dã chiến, ba nồi, không có cung ứng đàng hoàng. Borscht, kasha với thịt, trà. Đội trong ba ca ăn hết và xin thêm.",
+   "desc": "Nấu ăn. INT + PER + CHR.\n\n**Bao gồm:** kỹ thuật ẩm thực cổ điển (luộc, chiên, nướng, sốt), ẩm thực dân tộc, làm việc với nguyên liệu hạn chế (bếp dã chiến), an toàn thực phẩm, bày trí, ẩm thực siêu nhiên.\n\n**Đặc trưng:** mức thấp — gia đình. Trung — restaurant. Cao — chef. Expert — sáng tạo."
+  },
+  {
+   "id": "alhimiya",
+   "name": "Giả kim",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPR"
+   ],
+   "category": "Thủ công và sản xuất",
+   "note": "Зелья, эликсиры, трансмутация. Если мастер включает магический модуль.",
+   "vignette": "Alchemist già Pyotr Filippovich Khramtsov trong nhà gỗ ở Yaroslavl oblast pha «trà gan» theo công thức thế kỷ XVII — cho đứa trẻ bị ngộ độc siêu nhiên mang từ Moscow. OPI không thể chữa thông thường.",
+   "desc": "Giả kim. INT + PER + SPR. **[F]** cho thế giới fantasy — hoặc — thực hành cho hiện đại (dược lý + nghi lễ).\n\n**Bao gồm:** pha thuốc và tincture, làm việc với nguyên liệu hiếm (mandrake, hellebore, chất siêu nhiên), pha nghi lễ.\n\n**Đặc trưng:** mức thấp — thuốc đơn. Trung — phức. Cao — chuyên môn. Expert — sáng tạo."
+  },
+  {
+   "id": "diplomatiya",
+   "name": "Ngoại giao",
+   "attrs": [
+    "INT",
+    "CHR",
+    "SPR"
+   ],
+   "category": "Xã hội",
+   "note": "Переговоры, компромиссы, союзы, торговые соглашения. Рациональное убеждение: ты предлагаешь решение, выгодное обеим сторонам. ИНТ — потому что нужно понимать интересы собеседника. ОБ — подача. ДУХ — стержень: хороший дипломат не прогибается под давлением. **Когда использовать:** переговоры с равными или сильнейшими, заключение сделок, предотвращение конфликтов, установление союзов. **Не работает:** когда собеседнику нечего терять или он иррационален.",
+   "vignette": "Khi giữa hai nhóm tội phạm Moscow nảy sinh tranh chấp về khu vực, và cả hai bên chuẩn bị bắn nhau, ORPP negotiator Kalinina gặp cả hai — riêng và cùng — trong ba tuần. Tìm điểm chung.",
+   "desc": "Đàm phán, tìm thỏa hiệp, hòa giải. INT + CHR + SPR.\n\n**Bao gồm:** phân tích stakeholders, tách lợi ích khỏi lập trường, tìm điểm chung, hòa giải xung đột, nghi thức và lễ tân cấp cao, hiểu văn hóa.\n\n**Đặc trưng:** mức thấp — đàm phán đơn. Trung — đa bên. Cao — phức tạp. Expert — quốc tế."
+  },
+  {
+   "id": "krasnorechie",
+   "name": "Hùng biện",
+   "attrs": [
+    "SPR",
+    "CHR",
+    "INT"
+   ],
+   "category": "Xã hội",
+   "note": "Публичные выступления, проповеди, пропаганда, мотивационные речи, агитация. Отличается от дипломатии: дипломатия — один на один, красноречие — один перед многими. ДУХ доминирует — толпу ведёт тот, кто горит. **Когда использовать:** поднять боевой дух перед боем, убедить горожан открыть ворота, провести предвыборную речь, обратить в свою веру. **Не работает:** в тихой беседе один на один — там дипломатия.",
+   "vignette": "Khi Tướng Serov ra trước quân đội sau thất bại trong đó hai trăm chiến sĩ ngã, và tinh thần phải nâng, Serov không nói lời pathetic. Hắn đứng, nhìn người, nói: «Hai trăm.»",
+   "desc": "Diễn thuyết công cộng, nghệ thuật hùng biện. SPR + CHR + INT. Khác Diplomacy: ngoại giao là nói với người mà bạn phải hiểu lợi ích; hùng biện là bài cho đám đông mà bạn phải đốt lên.\n\n**Bao gồm:** thuật hùng biện, xây dựng bài, làm việc với khán giả, phản ứng tình huống, sử dụng giọng và pha trộn.\n\n**Đặc trưng:** mức thấp — nhóm nhỏ. Trung — hội nghị. Cao — đám đông lớn. Expert — quốc gia."
+  },
+  {
+   "id": "obolschenie",
+   "name": "Quyến rũ",
+   "attrs": [
+    "SPR",
+    "CHR"
+   ],
+   "category": "Xã hội",
+   "note": "Очарование, соблазнение, манипуляция через привлекательность и эмоциональную связь. ДУХ — потому что настоящее обольщение требует внутренней силы и уверенности, а не только красивого лица. **Когда использовать:** получить информацию от стражника, войти в доверие к цели, отвлечь внимание. **Не работает:** против тех, кто к вам физически/культурно нечувствителен, и против проницательных — они видят манипуляцию. Модификатор Сексапильности (достоинство) добавляется к этому навыку.",
+   "vignette": "Interrogator Roshchina ngồi đối diện nghi can, đặt cốc cà phê ở phía hắn — «của anh ấm hơn của tôi» — nghiêng về phía trước nửa cm. Nghi can, hai lần kết tội cướp có vũ trang, kể tất cả.",
+   "desc": "Quyến rũ. CHR + SPR.\n\n**Bao gồm:** sức hút xã hội, ngôn ngữ cơ thể và biểu hiện, kỹ năng trò chuyện, đọc partner (quan tâm, phòng thủ, mở), dùng trường hấp dẫn cá nhân, ranh giới giữa flirt.\n\n**Đặc trưng:** mức thấp — flirt. Trung — quyến rũ thực. Cao — chuyên môn. Expert — không cưỡng được."
+  },
+  {
+   "id": "zapugivanie",
+   "name": "Đe dọa",
+   "attrs": [
+    "SPR",
+    "STR"
+   ],
+   "category": "Xã hội",
+   "note": "Прямое давление через угрозу насилия. СЛ в формуле — потому что «я тебя убью» от щуплого интеллектуала звучит иначе, чем от двухметрового самбиста. Угроза должна быть подкреплена. **Когда использовать:** допрос пленного, устрашение противника перед боем, заставить бандита заговорить. **Не работает:** против тех, кто сильнее вас (контр-проверка по СЛ+ДУХ), и против фанатиков (высокий ДУХ).",
+   "vignette": "Đại úy Shchur không nâng giọng. Không vẫy tay. Không đe dọa. Đứng đối diện nghi can, cao hai mét, với sẹo từ thái dương đến cằm, nói trong tông bình thường: «Anh sẽ trả lời trong mười lăm phút.»",
+   "desc": "Đe dọa, hiện diện, áp lực. STR + CHR + SPR.\n\n**Bao gồm:** hiện diện vật lý và dáng, giọng (thấp, chậm, có trọng lượng), tiếp xúc mắt, thể hiện khả năng không hành động, biết điểm yếu đối thủ.\n\n**Đặc trưng:** mức thấp — đám đông. Trung — 1-on-1. Cao — chống đào tạo. Expert — không thể."
+  },
+  {
+   "id": "torgovlya",
+   "name": "Mặc cả",
+   "attrs": [
+    "INT",
+    "CHR",
+    "PER"
+   ],
+   "category": "Xã hội",
+   "note": "Купля-продажа, оценка товаров, торг, понимание рынка, определение подделок. ВО — чтение контрагента: нервничает ли продавец? Врёт ли про качество? **Когда использовать:** покупка снаряжения, продажа добычи, оценка артефакта, понимание экономической ситуации в городе. **Отличается от дипломатии:** торговля — про деньги и вещи, дипломатия — про политику и отношения.",
+   "vignette": "OPI procurement officer Bogdanov mặc cả giá ba xe off-road với nhà máy Tigr 18% — bằng ám chỉ đơn hàng thay thế qua kênh MoD. Nhà máy hiểu ám chỉ và đồng ý. Ba Tigr đã giao.",
+   "desc": "Mặc cả. CHR + INT.\n\n**Bao gồm:** đánh giá giá trị hàng và dịch vụ, mặc cả (kỹ năng dịch giá), đọc ý đồ partner (hắn cần bán hơn tôi cần mua hay ngược lại), kiến thức thị trường, hợp đồng.\n\n**Đặc trưng:** mức thấp — chợ. Trung — công việc. Cao — đàm phán phức. Expert — quốc tế."
+  },
+  {
+   "id": "etiket",
+   "name": "Nghi thức",
+   "attrs": [
+    "INT",
+    "CHR"
+   ],
+   "category": "Xã hội",
+   "note": "Знание правил поведения: от королевского двора до корпоративного приёма, от чайной церемонии до воровской малины. Каждая социальная среда имеет свои правила — этикет позволяет не облажаться. **Когда использовать:** первое появление в незнакомом обществе, приём у аристократа, переговоры с чужой культурой. Высокий уровень позволяет интуитивно считывать правила даже незнакомой среды.",
+   "vignette": "Đặc vụ ORPP Polyakov ở tiệc đại sứ nước ngoài biết lúc nào nhận đồ uống, lúc nào đặt xuống, lúc nào nói với ai, lúc nào lùi bước. Đại sứ chú ý.",
+   "desc": "Etiquette và nghi thức — kiến thức quy tắc cho các giới khác nhau.\n\n**Bao gồm:** etiquette thế tục (chào, xưng hô, bàn, nhảy), etiquette công việc (đàm phán, quà, danh thiếp), khác biệt dân tộc (Á, Trung Đông, Phương Tây), quân sự, tôn giáo.\n\n**Đặc trưng:** mức thấp — cơ bản. Trung — đa nền văn hóa. Cao — chuyên môn. Expert — đại sứ."
+  },
+  {
+   "id": "blef",
+   "name": "Lừa phỉnh",
+   "attrs": [
+    "SPR",
+    "CHR"
+   ],
+   "category": "Xã hội",
+   "note": "Ложь, покерфейс, хладнокровное враньё на голубом глазу. ДУХ — не столько моральная устойчивость, сколько внутренний стержень: чтобы врать убедительно, нужно не бояться разоблачения. **Когда использовать:** любая ситуация, где нужно убедительно соврать. От «у меня есть пропуск» до «я понятия не имею, кто убил барона». **Контр-навык:** Проницательность. Спор блефа и проницательности — ключевое социальное противостояние.",
+   "vignette": "Investigator Smolny vào safe-house tà giáo dưới cover, tự xưng người mua «hàng đặc biệt». Ba giờ trò chuyện. Tỏ ra ở thị trường năm năm, biết tên, biết giá, biết quy tắc.",
+   "desc": "Bluff. CHR + SPR.\n\n**Bao gồm:** nói dối thuyết phục với ngôn ngữ cơ thể, giữ vai dưới truy hỏi, manh mối giả, tài liệu giả (miệng), chuyển legend mượt, làm việc không chuẩn bị.\n\n**Đặc trưng:** mức thấp — đơn giản. Trung — dài hạn. Cao — chống chuyên môn. Expert — không nhận ra."
+  },
+  {
+   "id": "pronicatelnost",
+   "name": "Đọc người",
+   "attrs": [
+    "SPR",
+    "INT",
+    "PER"
+   ],
+   "category": "Xã hội",
+   "note": "Чтение людей, распознавание лжи, оценка истинных намерений. Три атрибута: ДУХ — доверяешь ли своей интуиции. ИНТ — анализируешь ли сказанное логически. ВО — видишь ли микровыражения, дрожь рук, бегающие глаза. **Контр-навык** к блефу, обольщению, дипломатии, запугиванию — ко всему, где вас пытаются убедить в том, что не является правдой. Без проницательности в группе — группу обведут вокруг пальца. **Важно:** проницательность не читает мысли. Она говорит «он врёт» — но не говорит «что именно скрывает». Для этого нужен допрос.",
+   "vignette": "Interrogator Roshchina ở câu thứ ba biết nghi can nói dối về alibi. Đồng tử giãn nhẹ ở câu ba; hô hấp giữ một phần ba giây. Roshchina không gọi lừa dối — giữ trong đầu.",
+   "desc": "Trực giác, phát hiện lừa dối, đọc trạng thái. PER + INT + SPR.\n\n**Bao gồm:** microexpressions mặt (Ekman), ngôn ngữ cơ thể, dịch chuyển giọng khi nói dối, tải nhận thức khi nói dối (chậm trong nói), baseline hành vi.\n\n**Đặc trưng:** mức thấp — nói dối thô. Trung — chuyên môn. Cao — chống đào tạo. Expert — không thể che."
+  },
+  {
+   "id": "dopros",
+   "name": "Thẩm vấn",
+   "attrs": [
+    "SPR",
+    "CHR",
+    "PER"
+   ],
+   "category": "Xã hội",
+   "note": "Извлечение информации. Может быть мягким (беседа, расположение к себе, «мы просто разговариваем») или жёстким (давление, угрозы, манипуляция страхом). ОБ — для мягкого допроса: умение расположить к себе. ВО — для чтения реакций допрашиваемого. ДУХ — для жёсткого: давление без потери контроля. **Отличается от запугивания:** запугивание — «делай что говорю». Допрос — «скажи что знаешь». Разные цели, разная техника. Можно допрашивать без угроз. Можно запугать без допроса.",
+   "vignette": "ORPP investigator Kashirin làm việc với tín đồ bị bắt mười một giờ không ngủ. Không áp lực vật lý. Chỉ câu hỏi, theo ca, với intonation khác, cùng chi tiết từ các phía. Đến cuối giờ mười một tín đồ kể.",
+   "desc": "Thẩm vấn — trích xuất thông tin từ đối tượng.\n\n**Bao gồm:** các kỹ thuật (Reid, PEACE, đối đầu cổ điển), áp lực tâm lý trong khung pháp lý, làm việc với người dưới stress (mệt, sợ, cô lập), xây dựng quan hệ, sử dụng mâu thuẫn.\n\n**Đặc trưng:** mức thấp — đơn. Trung — chuyên môn. Cao — kháng cự. Expert — không thể chống."
+  },
+  {
+   "id": "skrytnost",
+   "name": "Lén lút",
+   "attrs": [
+    "SPD",
+    "COR",
+    "PER"
+   ],
+   "category": "Lén lút và phi pháp",
+   "note": "Бесшумное перемещение, прятание, незаметность. Отличается от Маскировки — это активное движение, а не статичная позиция.",
+   "vignette": "Đặc vụ Tenin đi hành lang biệt thự trùm mafia qua hai lính canh, trong ba mét mỗi. Lính canh không quay đầu. Tenin không trốn sau cover. Đơn giản di chuyển theo nhịp hành lang.",
+   "desc": "Di chuyển âm thầm và ẩn hiện diện. SPD + COR + PER.\n\n**Bao gồm:** đi bộ im lặng, dùng cover và bóng, kiểm soát silhouette riêng, tính tuyến nhìn quan sát viên, di chuyển trong ánh sáng thấp, che mùi, đọc môi trường.\n\n**Đặc trưng:** mức thấp — không tiếng nhà. Trung — lính canh. Cao — đa lính canh. Expert — ngay cạnh."
+  },
+  {
+   "id": "vorovstvo",
+   "name": "Trộm cắp",
+   "attrs": [
+    "SPD",
+    "COR",
+    "PER"
+   ],
+   "category": "Lén lút và phi pháp",
+   "note": "Карманная кража, срезание кошельков, мелкая кража на глазах у жертвы.",
+   "vignette": "Pickpocket Yura ở Praha làm việc một ngàn người mỗi ngày và không bị bắt trong mười tám năm. Không phải «kẻ vào nhà» — pickpocket. Từ đám đông ở cầu Charles buổi sáng đến hẻm Wenceslas.",
+   "desc": "Trộm không phá: móc túi, gia đình, tay tinh. SPD + COR + PER.\n\n**Bao gồm:** móc túi, trộm từ túi mở, phương pháp «window-thief» qua phân tâm, khéo léo, lấy đồng hồ và trang sức, làm việc trong đám đông.\n\n**Đặc trưng:** mức thấp — chợ. Trung — đám đông. Cao — chống chuyên môn. Expert — không thể nhận ra."
+  },
+  {
+   "id": "vzlom-zamkov",
+   "name": "Mở khóa",
+   "attrs": [
+    "COR",
+    "INT",
+    "PER"
+   ],
+   "category": "Lén lút và phi pháp",
+   "note": "Механические замки, отмычки, сейфы.",
+   "vignette": "Locksmith Andronov trong mười hai giây mở Mossler home safe bằng tai. OPI mang safe với tiền tà giáo — safe niêm phong là vấn đề; phải mở không dấu vết phá. Andronov ngồi xuống safe.",
+   "desc": "Mở khóa. PER + COR + SPD.\n\n**Bao gồm:** khóa móc (pick và tension), khóa cài (thường và phức), khóa mã (bằng tai và hao mòn), safe-work cracker cổ điển, làm việc với pick, kỹ thuật bumping, dụng cụ giải mã.\n\n**Đặc trưng:** mức thấp — khóa cửa. Trung — phức. Cao — safe. Expert — bất kỳ."
+  },
+  {
+   "id": "vzlom-elektronnyh-sistem",
+   "name": "Vượt rào điện tử",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER",
+    "SPD"
+   ],
+   "category": "Lén lút và phi pháp",
+   "note": "Электронные замки, сигнализации, камеры. [ВТ]",
+   "vignette": "OPI technician Vladislav Bobylyov bypass hệ thống bảo mật bảo tàng tư nhân ở Rublyovka trong mười chín phút. Card cloner trên reader, alarm — câm qua mạng, camera — loop hai phút footage ổn định.",
+   "desc": "Bypass hệ thống bảo mật điện tử. INT + PER + COR.\n\n**Bao gồm:** khóa điện tử (card, sinh trắc, cơ-điện), báo động (cảm biến chuyển động, perimeter, IR), card reader và clone, CCTV (loop, che), hệ thống tổng hợp.\n\n**Đặc trưng:** mức thấp — alarm gia đình. Trung — công ty. Cao — bảo tàng. Expert — ngân hàng."
+  },
+  {
+   "id": "lovushki",
+   "name": "Bẫy",
+   "attrs": [
+    "COR",
+    "INT",
+    "PER"
+   ],
+   "category": "Lén lút và phi pháp",
+   "note": "Установка и обезвреживание. От растяжки до сложного механизма.",
+   "vignette": "Kỹ sư chiến đấu Lavrov đi qua biệt thự tà giáo trước nhóm tấn công — tìm bẫy. Tìm sáu. Cái bảy — tìm hắn. Trip-cord ở chiều cao đùi qua ngưỡng, gắn lựu đạn mảnh.",
+   "desc": "Bẫy — đặt và tháo. INT + PER + COR.\n\n**Bao gồm:** cơ (snare, snag, deadfall), nổ (mìn, IED), điện tử, nghi lễ (siêu nhiên — riêng), nhận diện bẫy đặt trong tòa nhà, tháo có và không thiết bị, cải tiến nhanh.\n\n**Đặc trưng:** mức thấp — bẫy đơn. Trung — đa. Cao — chuyên môn. Expert — tinh xảo."
+  },
+  {
+   "id": "vzryvotehnika",
+   "name": "Phá hủy",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER",
+    "SPD"
+   ],
+   "category": "Lén lút và phi pháp",
+   "note": "Изготовление, установка, обезвреживание взрывных устройств. Четыре атрибута — одна ошибка и тебя нет.",
+   "vignette": "Kỹ sư chiến đấu Kazarinov của «Delta» đặt năm sạc tập trung trên trụ trần nhà cầu nguyện tà giáo. Hai sạc C-4 250g ở bốn trụ, một nửa cân ở trụ trung tâm. Trình tự nổ — chính xác.",
+   "desc": "Phá nổ. INT + COR + PER + SPR.\n\n**Bao gồm:** chất nổ (TNT, RDX, plastic, ammonal), detonator (điện, pyrotechnic, radio, thời gian), đặt sạc (tập trung, phân phối, mảnh), phá cấu trúc, an toàn.\n\n**Đặc trưng:** mức thấp — sạc đơn. Trung — cấu trúc. Cao — chuyên môn. Expert — tinh xảo."
+  },
+  {
+   "id": "slezhka",
+   "name": "Theo dõi",
+   "attrs": [
+    "INT",
+    "PER",
+    "SPR",
+    "CHR"
+   ],
+   "category": "Lén lút và phi pháp",
+   "note": "Наблюдение за объектом. ОБ — способность не привлекать внимание. ДУХ — терпение.",
+   "vignette": "OPI surveillance officer Sergeyenko theo dõi nghi can ba ngày qua ba thành phố. Mất nghi can ba lần — và ba lần tìm lại, dự đoán bước tiếp.",
+   "desc": "Surveillance — quan sát và theo đuôi.\n\n**Bao gồm:** surveillance tĩnh (post, xe), theo đuôi di động (bộ, xe), theo đuôi nhóm (đa agent, luân phiên), counter-surveillance, né đuôi riêng, làm việc với thiết bị (camera, GPS, listening).\n\n**Đặc trưng:** mức thấp — đơn. Trung — chuyên môn. Cao — chống counter. Expert — không bị nhận ra."
+  },
+  {
+   "id": "grim",
+   "name": "Hóa trang",
+   "attrs": [
+    "COR",
+    "CHR",
+    "PER"
+   ],
+   "category": "Lén lút và phi pháp",
+   "note": "Изменение внешности. ВО — оценка результата.",
+   "vignette": "OPI grease-paint artist Kozyrev biến đặc vụ Yashin từ người đàn ông 28 tuổi thành «kỹ sư nghỉ hưu» 70 tuổi trong 3 giờ. Prosthetic má, makeup tay già, tóc giả xám, kính, gậy đi.",
+   "desc": "Hóa trang — thay đổi ngoại hình bằng grease-paint, prosthetic, costume. INT + COR + CHR.\n\n**Bao gồm:** grease-paint sân khấu cổ điển, prosthetic mũi/má/cằm, thay màu và kiểu tóc, tóc giả, makeup tuổi, makeup chiến đấu (sẹo, bầm).\n\n**Đặc trưng:** mức thấp — đơn. Trung — chuyên môn. Cao — không thể nhận. Expert — chống soi gần."
+  },
+  {
+   "id": "poddelka-dokumentov",
+   "name": "Giả mạo giấy tờ",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER"
+   ],
+   "category": "Lén lút và phi pháp",
+   "note": "Создание фальшивых документов, подписей, печатей.",
+   "vignette": "OPI forger Plotnikov làm hộ chiếu cho đặc vụ Krylov dưới tên khác trong tám giờ. Giấy thật, ảnh thật, hologram thật, dấu thật. Krylov đi cover sáu tháng làm người khác.",
+   "desc": "Làm giả tài liệu. INT + COR + PER.\n\n**Bao gồm:** sao hộ chiếu, ID, chứng chỉ, hợp đồng, làm việc với watermark và dấu, kiến thức bảo mật (hologram, microtext, UV), làm tài liệu cũ (làm việc với giấy và mực).\n\n**Đặc trưng:** mức thấp — đơn. Trung — chuyên môn. Cao — chống chuyên môn. Expert — không thể phát hiện."
+  },
+  {
+   "id": "yady",
+   "name": "Độc dược",
+   "attrs": [
+    "INT",
+    "COR"
+   ],
+   "category": "Lén lút và phi pháp",
+   "note": "Знание и применение ядов. Отдельно от фармакологии — это специфическое, целенаправленно деструктивное знание.",
+   "vignette": "Cossack già Mikhail Bogdanov biết ba mươi hai chất độc thảo dược theo tên và có thể nhận chúng trong đồng cỏ một cái nhìn. ORPP có từ hắn danh sách thuốc giải thực vật dùng trong truyền thống Cossack.",
+   "desc": "Chất độc — pha chế, ứng dụng, nhận biết. INT.\n\n**Bao gồm:** chất độc thực vật (hellebore, hemlock, monkshood), động vật (rắn, ếch, cá), khoáng (asen, thủy ngân), tổng hợp (cyanide, ricin), pha chế, ứng dụng (tiếp xúc, đường tiêu hóa, hô hấp).\n\n**Đặc trưng:** mức thấp — đơn. Trung — chuyên môn. Cao — phức. Expert — sáng tạo."
+  },
+  {
+   "id": "legkaya-atletika",
+   "name": "Điền kinh",
+   "attrs": [
+    "COR",
+    "SPD"
+   ],
+   "category": "Thể thao và thể chất",
+   "note": "Бег, прыжки, спринт.",
+   "vignette": "Khi «Beta» phải đuổi người chạy qua mái nhà ở Biryulyovo, người duy nhất bắt được là Turov — cựu vận động viên chạy đường dài. Sáu mái, ba thả an toàn, hai nhảy. Turov bắt.",
+   "desc": "Điền kinh: chạy, nhảy, ném. COR + SPD.\n\n**Bao gồm:** sprint và stayer, nhảy (dài, cao, ba), ném (búa, đĩa, lao), vượt rào, parkour, sức bền chạy chung, nhảy qua chướng ngại.\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — đại học. Cao — quốc gia. Expert — Olympic."
+  },
+  {
+   "id": "tyazhelaya-atletika",
+   "name": "Cử tạ",
+   "attrs": [
+    "STR",
+    "TGH"
+   ],
+   "category": "Thể thao và thể chất",
+   "note": "Подъём тяжестей, силовые упражнения.",
+   "vignette": "Khi «Alpha» kẹt dưới đống đổ nát trong hầm khu công nghiệp và phải nâng tấm bê tông để lấy người bị thương ra, người duy nhất thực sự làm được là Trung sĩ Pavlov — kiện tướng cử tạ.",
+   "desc": "Cử tạ và bài tập sức mạnh. STR + TGH.\n\n**Bao gồm:** deadlift, squat, bench press, snatch và clean (Olympic cổ điển), powerlifting, strongman events (atlas stones, log-press, yoke).\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — đại học. Cao — quốc gia. Expert — kỷ lục."
+  },
+  {
+   "id": "akrobatika",
+   "name": "Nhào lộn",
+   "attrs": [
+    "COR",
+    "SPD",
+    "STR"
+   ],
+   "category": "Thể thao và thể chất",
+   "note": "Кувырки, сальто, паркур, балансирование.",
+   "vignette": "Đặc vụ Stepashina, cựu thể dục, lăn từ xe đang di chuyển 40 km/h, đập xuống nhựa đường và lăn ra không thương tích. Đứng dậy — và chạy hẻm, súng ra. Chỉ huy đội qua radio: «Sao em không chết?»",
+   "desc": "Acrobatics và thể dục. COR + SPD.\n\n**Bao gồm:** lăn, somersault, handstand, làm việc trên xà/song song/vòng (thể dục), parkour với phần tử acrobatic, ngã không thương tích (trường judo), thể dục trên không (đu dây, vòng).\n\n**Đặc trưng:** mức thấp — lăn đơn. Trung — đa. Cao — chuyên môn. Expert — Olympic."
+  },
+  {
+   "id": "pryzhki-s-parashyutom",
+   "name": "Nhảy dù",
+   "attrs": [
+    "SPR",
+    "COR",
+    "SPD"
+   ],
+   "category": "Thể thao và thể chất",
+   "note": "Дух — потому что надо прыгнуть.",
+   "vignette": "ORPP airborne specialist Yermilov nhảy HAHO từ 8000m ban đêm trên rừng Tver oblast. Thời gian dưới canopy 32 phút, 14 km di chuyển ngang. Đáp xuống chỗ trống 30 mét trong tối hoàn toàn.",
+   "desc": "Nhảy dù. COR + SPD + SPR.\n\n**Bao gồm:** nhảy static-line, rơi tự do (mở thủ công), độ cao lớn (HALO/HAHO), đáp chiến thuật trên địa hình, tính gió và độ cao, làm việc với gear (D-1-5U, D-6, đặc biệt).\n\n**Đặc trưng:** mức thấp — đơn. Trung — chiến thuật. Cao — HALO. Expert — improvise."
+  },
+  {
+   "id": "muzyka",
+   "name": "Âm nhạc",
+   "attrs": [
+    "COR",
+    "SPD",
+    "SPR"
+   ],
+   "category": "Sáng tạo",
+   "note": "Каждый инструмент — отдельный навык (гитара, фортепиано, скрипка и т.д.).",
+   "vignette": "Khi nhà huyền bí Somov chơi violin ở nhà Moscow, không ai hiểu tại sao hắn làm. Somov chơi Bach — không kỹ thuật, nhưng với cảm xúc. Hàng xóm: hay. Nhưng một lần Somov chơi «Chaconne d-moll» từ nghi lễ.",
+   "desc": "Chơi nhạc cụ. COR + SPD + SPR. **Mỗi cụ / họ là chuyên môn riêng.**\n\n**Bao gồm:** thành thạo cụ, đọc nhìn, improvisation, làm việc nhóm, repertoire, kiến thức lý thuyết âm nhạc.\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — chuyên môn. Cao — concert. Expert — virtuoso."
+  },
+  {
+   "id": "penie",
+   "name": "Ca hát",
+   "attrs": [
+    "SPR",
+    "CHR"
+   ],
+   "category": "Sáng tạo",
+   "note": "Вокал. Один навык, без деления на жанры — жанр определяется репертуаром, а не механикой.",
+   "vignette": "Ở tu viện gần Moscow nơi «cái gì đó» đang xảy ra, Cha Anthony xin tăng cường — ca sĩ tốt. Họ gửi đặc vụ Krasnov với baritone đào tạo. Krasnov hát akathist với Cha Anthony hai giờ.",
+   "desc": "Nghệ thuật giọng. SPR + CHR.\n\n**Bao gồm:** giọng học thuật, pop, dân gian, nhà thờ (chant, akathist), improvisation và canonical, hát nhóm, kiểm soát giọng dưới stress, projection qua phòng không khuếch đại.\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — chuyên môn. Cao — concert. Expert — quốc tế."
+  },
+  {
+   "id": "zhivopis",
+   "name": "Hội họa",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER",
+    "SPR"
+   ],
+   "category": "Sáng tạo",
+   "note": "Четыре атрибута: знание, руки, глаз, душа.",
+   "vignette": "Họa sĩ Kalinkina của OPI phục chế icon từ thế kỷ XVIII trở thành anchor tà giáo. Phục chế như counter-ritual. Tám tháng làm việc. Icon bắt đầu «hoạt động» lại — haunting ở tu viện nơi nó từng dừng.",
+   "desc": "Hội họa. COR + INT + CHR.\n\n**Bao gồm:** vẽ (bút chì, charcoal, sanguine), hội họa (dầu, watercolour, tempera, acrylic), bố cục, làm việc với giải phẫu, phối cảnh, ánh sáng, hội họa nghi lễ (icon, mandala, siêu nhiên).\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — đại học. Cao — chuyên môn. Expert — master."
+  },
+  {
+   "id": "akterskoe-masterstvo",
+   "name": "Diễn xuất",
+   "attrs": [
+    "SPR",
+    "CHR",
+    "PER"
+   ],
+   "category": "Sáng tạo",
+   "note": "Перевоплощение, убедительная игра. ВО — чтение аудитории.",
+   "vignette": "OPI đặc vụ deep cover Solovyova đóng vai vợ tín đồ cấp cao trong hai năm. Mỗi ngày. Hai mươi bốn bảy. Không nghỉ. Cả ở nhà, một mình, cô không rời vai — phòng bug.",
+   "desc": "Nghệ thuật diễn. CHR + SPR + INT.\n\n**Bao gồm:** trường (Stanislavsky, Meisner, Strasberg), nhập vai, giọng và phát âm, dẻo, làm việc với văn bản, improvisation, diễn sân khấu và phim, làm việc trong cover (legend, hành vi).\n\n**Đặc trưng:** mức thấp — vai đơn. Trung — chuyên môn. Cao — chống soi. Expert — không thể phát hiện."
+  },
+  {
+   "id": "zhurnalistika",
+   "name": "Báo chí",
+   "attrs": [
+    "INT",
+    "CHR",
+    "PER"
+   ],
+   "category": "Sáng tạo",
+   "note": "Сбор, анализ и подача информации.",
+   "vignette": "OPI consultant journalist Volynsky phơi bày tà giáo «Children of the Underworld» qua điều tra báo chí hai năm. Mười tám bài, ba phim tài liệu, một sách. Tà giáo bị phơi bày công khai.",
+   "desc": "Báo chí. INT + SPR + PER.\n\n**Bao gồm:** điều tra báo chí, kỹ thuật phỏng vấn, xác minh nguồn, viết theo deadline, fact-checking, làm việc với lưu trữ, ảnh báo chí (cơ sở), luật truyền thông.\n\n**Đặc trưng:** mức thấp — đưa tin. Trung — chuyên môn. Cao — điều tra. Expert — quốc tế."
+  },
+  {
+   "id": "fotografiya-video",
+   "name": "Nhiếp ảnh / Video",
+   "attrs": [
+    "PER",
+    "COR",
+    "INT"
+   ],
+   "category": "Sáng tạo",
+   "note": "Композиция, свет, момент. [ВТ] для цифровых технологий.",
+   "vignette": "OPI surveillance photographer Vorobyov chụp cuộc gặp bí mật của patron tà giáo với liên hệ chưa xác định ở 200 mét qua cửa sổ căn hộ tầng cao đối diện. Lens 600mm, ISO 800, focus thủ công.",
+   "desc": "Ảnh và video. COR + PER + INT.\n\n**Bao gồm:** kỹ thuật (camera, lens, phơi sáng, focus), bố cục, ánh sáng, làm việc di động (paparazzi, surveillance), reportage sự kiện, hậu kỳ, video (camera, montage, âm thanh).\n\n**Đặc trưng:** mức thấp — phổ thông. Trung — chuyên môn. Cao — paparazzi. Expert — sáng tạo."
+  },
+  {
+   "id": "fortifikaciya",
+   "name": "Phòng thủ",
+   "attrs": [
+    "INT",
+    "COR",
+    "STR"
+   ],
+   "category": "Công sự và xây dựng",
+   "note": "Строительство и разрушение укреплений. От окопа до крепости.",
+   "vignette": "Khi «Alpha» phải đào hào ở cơ sở biên giới đến khi tăng viện đến (ba giờ), fortifier Karkayev trong ba mươi phút biến hàng rào thường thành tuyến chiến đấu: bao cát từ kho, vị trí bắn, ngụy trang.",
+   "desc": "Công sự dã chiến và kỹ thuật vị trí. INT + COR + STR.\n\n**Bao gồm:** xây hào và dugout, bao cát và barricade, ngụy trang vị trí, sector bắn và quan sát, chướng ngại chống tăng, mìn (cơ bản), giao thông liên lạc.\n\n**Đặc trưng:** mức thấp — vị trí đơn. Trung — đội. Cao — chuyên môn. Expert — chiến lược."
+  },
+  {
+   "id": "stroitelstvo",
+   "name": "Xây dựng",
+   "attrs": [
+    "INT",
+    "COR",
+    "STR"
+   ],
+   "category": "Công sự và xây dựng",
+   "note": "Гражданское строительство: дома, мосты, дороги. Отличается от фортификации целью.",
+   "vignette": "Khi OPI cần trang bị căn cứ nghiên cứu bí mật dưới khu công nghiệp gần Moscow, foreman Gonchar đích thân dẫn dắt công trình tám tháng. Hắn không «xây» — biến hầm thành lab: thông gió, dây điện, sàn.",
+   "desc": "Xây dựng dân sự và công nghiệp. INT + COR + STR. Khác Fortification: công sự cho phòng thủ; xây dựng cho tạo tòa nhà và hạ tầng.\n\n**Bao gồm:** đọc và soạn tài liệu xây dựng, làm việc với vật liệu, lắp ráp cấu trúc, hệ thống kỹ thuật (điện, nước, thông gió), an toàn xây dựng.\n\n**Đặc trưng:** mức thấp — sửa nhà. Trung — chuyên môn. Cao — công trình lớn. Expert — đặc biệt."
+  },
+  {
+   "id": "sapernoe-delo",
+   "name": "Kỹ thuật chiến đấu",
+   "attrs": [
+    "INT",
+    "COR",
+    "PER",
+    "SPR"
+   ],
+   "category": "Công sự và xây dựng",
+   "note": "Минирование и разминирование. Отличается от взрывотехники тем, что это про полевую работу под огнём, а не про лабораторную сборку.",
+   "vignette": "Kỹ sư chiến đấu Krylov của «Delta» gài mìn tiếp cận compound tà giáo đêm trước cuộc tấn công. Tám mìn POM-2R ở perimeter, hai MON-50 trong hẻm. Rà mìn — theo tín hiệu tấn công.",
+   "desc": "Kỹ thuật chiến đấu — mìn, bẫy, phá vỡ.\n\n**Bao gồm:** gài mìn (chống bộ binh, chống tăng, điều khiển), rà mìn (thủ công, kỹ thuật, chó), sạc phá vỡ, vượt nước và chướng ngại (cầu improvise, life-jacket), kỹ thuật cầu.\n\n**Đặc trưng:** mức thấp — đơn. Trung — chuyên môn. Cao — phức. Expert — chiến dịch."
+  },
+  {
+   "id": "psihokinez",
+   "name": "Lực tâm linh",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Siêu nhiên",
+   "note": "Перемещение предметов усилием воли.",
+   "vignette": "Khi «Alpha» vào hang tín đồ, và đặc vụ Yermakov, psionic-psychokinetic, thấy tín đồ với liềm sau partner, Yermakov có nửa giây. Không vũ khí trong tay — Yermakov bắn psychokinetically.",
+   "desc": "Di chuyển vật chất bằng ý chí. **[P]** — chỉ cho thế giới có psionics. INT + SPR + PER.\n\n**Bao gồm:** telekinesis (di chuyển vật), psychokinetic push (đòn có hướng), giữ (cố định tĩnh), tinh xảo (mở khóa, di chuyển nhỏ), tấn công lớn (vỡ tường), bảo vệ (lá chắn).\n\n**Đặc trưng:** mức thấp — vật nhẹ. Trung — người. Cao — cấu trúc. Expert — tinh xảo cực."
+  },
+  {
+   "id": "pirokinez",
+   "name": "Hỏa thuật",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Siêu nhiên",
+   "note": "Изменение температуры объектов.",
+   "vignette": "Đặc vụ xông vào hầm nơi tín đồ đang cố triệu Thần Cổ. Một mình. Trên bàn thờ — partner, bị cởi và sơn ochre và henna trong dấu hiệu. Xung quanh — mười tám tín đồ. Pyrokinesis bắt lửa từng người.",
+   "desc": "Kiểm soát lửa và nhiệt độ qua ý chí. **[P]**. INT + SPR + PER.\n\n**Bao gồm:** đốt cháy (không nguồn lửa), bùng lửa (lửa có hướng), bản địa hóa nhiệt (nâng nhiệt độ một điểm), kháng nhiệt (bảo vệ riêng), kiểm soát ngọn lửa hiện hữu.\n\n**Đặc trưng:** mức thấp — đốt đơn. Trung — bùng. Cao — đa mục tiêu. Expert — phá hủy phân tử."
+  },
+  {
+   "id": "telepatiya",
+   "name": "Thần giao cách cảm",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Siêu nhiên",
+   "note": "Чтение мыслей, передача мыслей, ментальные атаки.",
+   "vignette": "OPI telepath Sheremetyeva đọc tín đồ bị bắt mười tám phút. Không thẩm vấn — đọc trực tiếp. Tín đồ không cảm thấy gì. Cuối mười tám phút Sheremetyeva có: hệ thống tà giáo đầy đủ, vị trí ba phòng.",
+   "desc": "Telepathy. **[P]**. INT + SPR + CHR.\n\n**Bao gồm:** đọc tâm trí (suy nghĩ bề mặt), đọc sâu (ký ức, ẩn), projection tâm trí (gửi ý nghĩ), giao tiếp telepathic với psionic khác, chặn tâm trí riêng, ảnh hưởng (cám dỗ, ức chế).\n\n**Đặc trưng:** mức thấp — bề mặt. Trung — sâu. Cao — chống chặn. Expert — không nhận ra."
+  },
+  {
+   "id": "ekstrasensorika",
+   "name": "Giác quan thứ sáu",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Siêu nhiên",
+   "note": "Расширенное восприятие: ауры, аномалии, скрытые объекты.",
+   "vignette": "OPI extrasense Vereshchagin trong căn hộ Moscow cảm nhận từ xa hiện diện hang ma cà rồng ba cây số. Chỉ trên bản đồ: «Ở đây. Ba ma cà rồng, một cổ. Hang dưới hầm cũ. Lối vào qua tiệm cắt tóc.»",
+   "desc": "Cảm nhận ngoại cảm. **[P]**. PER + SPR + INT.\n\n**Bao gồm:** thấu thị (nhìn xa hoặc ẩn), thấu thính, dự cảm (chớp trực giác tương lai), đọc aura, cảm nhận hiện diện kẻ không thánh thiện, liên kết với vật phẩm.\n\n**Đặc trưng:** mức thấp — chớp đơn. Trung — chuyên môn. Cao — chính xác. Expert — kiểm soát tuyệt đối."
+  },
+  {
+   "id": "biokinetika",
+   "name": "Sinh động lực",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Siêu nhiên",
+   "note": "Управление биологическими процессами. Лечение и убийство.",
+   "vignette": "OPI biokinetic Sheremetyeva (Sheremetyeva khác — healer-Sheremetyeva, partner của Serov trong «Gamma») trong hầm compound tà giáo chữa đặc vụ Volkov gan rách trong 14 phút. Volkov lẽ ra đã chết.",
+   "desc": "Biokinetics — thao tác mô sinh học. **[P]**. INT + COR + SPR.\n\n**Bao gồm:** chữa lành (gia tốc regeneration), đóng vết thương (niêm phong mạch, khâu mô bằng ý chí), giảm đau, thao tác chức năng (nhịp tim, hô hấp), bảo vệ chống bệnh.\n\n**Đặc trưng:** mức thấp — vết nhỏ. Trung — phẫu thuật. Cao — mất chi. Expert — hồi sinh tạm."
+  },
+  {
+   "id": "psihotemporalnyy-kontrol",
+   "name": "Điều khiển thời gian",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Siêu nhiên",
+   "note": "Манипуляция временем. Высшая форма.",
+   "vignette": "OPI psycho-temporal Mikhalkov cảm nhận glade tiên trong rừng Tver 200 mét trước khi bước vào. «Đừng vào,» hắn nói với nhóm. «Thời gian sai ở đó. Ta ra sau ba năm nếu vào bây giờ.»",
+   "desc": "Kiểm soát tâm-thời gian. **[P]** — khả năng hiếm. INT + SPR.\n\n**Bao gồm:** chậm thời gian chủ quan (người mang cảm thời gian chậm — phản ứng nhanh hơn), dự đoán (chớp tức thì 1–3 giây tiếp), nhảy ngắn ngược (lặp lại quyết định), cảm nhận dị thường thời gian.\n\n**Đặc trưng:** mức thấp — chớp. Trung — kiểm soát. Cao — phức. Expert — nhảy thời gian."
+  },
+  {
+   "id": "kontrol-materii",
+   "name": "Điều khiển vật chất",
+   "attrs": [
+    "INT",
+    "SPR",
+    "PER"
+   ],
+   "category": "Siêu nhiên",
+   "note": "Разрушение и перестроение атомарной структуры. Высшая форма.",
+   "vignette": "OPI matter-controller Verbitskaya nung chảy cửa vault bằng nâng nhiệt độ kim loại một điểm 1100°C trong mười bốn giây. Không nguồn nhiệt ngoài. Không chất nổ. Vault mở. Bên trong — ba.",
+   "desc": "Kiểm soát vật chất — thay đổi trạng thái vật chất bằng ý chí. **[P]** — hiếm. INT + SPR + COR.\n\n**Bao gồm:** thay đổi trạng thái tổng hợp (nước thành băng, băng thành hơi), thay đổi tính chất vật chất (thép thành kim loại mềm tại một điểm), phân rã ở mức nguyên tử.\n\n**Đặc trưng:** mức thấp — đơn. Trung — chuyên môn. Cao — phức. Expert — chuyển hóa."
+  },
+  {
+   "id": "morskaya-navigaciya",
+   "name": "Định hướng biển",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Định vị",
+   "note": "Штурманское дело на море.",
+   "vignette": "Khi tàu «Alfa-7» vào bão ở biển Kara và hệ thống navigation hỏng, người duy nhất biển-navigator trên tàu là mate đầu Gromyko. Gromyko làm việc tại bàn chart với sextant và chronometer bốn mươi phút — giữa pitches bão hắn bắt mặt trời một khoảnh khắc qua khe mây.",
+   "desc": "Navigation biển không GPS. INT + PER. Khác với Định hướng chung: biển là disciplines chuyên với thiết bị và phương pháp riêng.\n\n**Bao gồm:** làm việc với sextant, compass biển, độ lệch từ tính, bản đồ và chart biển, vẽ course theo dòng và gió, làm việc với chronometer, tính vị trí theo sao và mặt trời, dead reckoning.\n\n**Đặc trưng:** mức thấp — gần bờ. Trung — đa ngày. Cao — bão. Expert — improvise."
+  },
+  {
+   "id": "astronavigaciya",
+   "name": "Định hướng vũ trụ",
+   "attrs": [
+    "INT",
+    "PER"
+   ],
+   "category": "Định vị",
+   "note": "Прокладка курсов в космосе.",
+   "vignette": "Trên «Prometheus-2» (tàu liên hành tinh thí nghiệm của OPI) navigator on-board Lev Dyomin tính Hohmann transfer đến sao Hỏa. Không phải «nhập dữ liệu» — tự vẽ quỹ đạo thay thế bằng tay, trên giấy, với slide rule và chronometer, phòng máy tính hỏng.",
+   "desc": "Navigation trong vũ trụ. INT + PER. **[HT]** — cho thế giới có công nghệ vũ trụ. Liên kết chặt với Astrophysics và Space Piloting — nhưng kỹ năng riêng: phi công lái, astronavigator TÍNH.\n\n**Bao gồm:** cơ học quỹ đạo (Hohmann, bi-elliptic, gravitational slingshot), navigation liên hành tinh, tính delta-v, làm việc với máy tính onboard và backup, xử lý dữ liệu cảm biến (radar, lidar).\n\n**Đặc trưng:** mức thấp — quỹ đạo cơ bản. Trung — đa hành tinh. Cao — chiến đấu. Expert — improvise không máy."
+  },
+  {
+   "id": "kartografiya",
+   "name": "Bản đồ",
+   "attrs": [
+    "INT",
+    "PER",
+    "COR"
+   ],
+   "category": "Định vị",
+   "note": "Составление и чтение карт. КО — для точности рисунка.",
+   "vignette": "Wang Shi, master cartographer mù, vẽ bản đồ relief Quần Đảo bằng xúc giác. Ngón tay hắn cảm nhận khác biệt 0.1 mm trong relief — chính xác đến độ mỏng đường, góc dốc, độ sâu vịnh. Bản đồ thành canonical cho hạm đội Vĩnh Đô.",
+   "desc": "Cartography — làm và đọc bản đồ.\n\n**Bao gồm:** bản đồ địa hình, chart biển, bản đồ chiến thuật, projection (Mercator, gnomonic), tỷ lệ và độ chính xác, tổng hợp từ nguồn (ảnh hàng không, đo trường, vệ tinh), đọc ký hiệu và contour, vẽ tuyến, tính khoảng cách và độ cao.\n\n**Đặc trưng:** mức thấp — đọc. Trung — đo trường. Cao — vẽ chuyên. Expert — improvise không thiết bị."
+  }
+ ]
+}

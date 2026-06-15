@@ -1,0 +1,78 @@
+{
+ "version": "0.2",
+ "calibration": "Калибровка по «Васе Пупкину» — эталонному персонажу: все атрибуты 45, все навыки средние (50). Его ЗПН для любой проверки ≈ 46. СВД 0 = средняя для него задача (~46% успеха), якорь шкалы — обычный навесной замок. Невыполнимое для Васи начинается с СВД ≈ 46. Тип action — самодостаточная сложность действия; modifier — штраф, складывается с действием.",
+ "entries": [
+  { "id": "lock-padlock-simple", "type": "action", "category": "Замки и взлом", "name": "Открыть обычный навесной замок", "svd": 0,  "skill": "vzlom-zamkov", "note": "Якорь шкалы. Для Васи — средняя задача (~46%)." },
+  { "id": "lock-mortise-simple", "type": "action", "category": "Замки и взлом", "name": "Открыть обычный врезной замок", "svd": 12, "skill": "vzlom-zamkov", "note": "Стандартный дверной замок — врезной сложнее навесного." },
+  { "id": "lock-padlock-hard",   "type": "action", "category": "Замки и взлом", "name": "Открыть сложный навесной замок", "svd": 20, "skill": "vzlom-zamkov", "note": "Замок с защитой от отмычки. Для Васи ~26%." },
+  { "id": "lock-code",           "type": "action", "category": "Замки и взлом", "name": "Подобрать код кодового замка", "svd": 25, "skill": "vzlom-zamkov", "note": "На слух или по износу кнопок." },
+  { "id": "lock-electronic",     "type": "action", "category": "Замки и взлом", "name": "Обойти электронный замок", "svd": 32, "skill": "vzlom-elektronnyh-sistem", "note": "Карточный или биометрический доступ." },
+  { "id": "lock-mortise-hard",   "type": "action", "category": "Замки и взлом", "name": "Открыть сложный врезной замок", "svd": 48, "skill": "vzlom-zamkov", "note": "Для Васи невыполнимо. Нужен специалист." },
+  { "id": "lock-safe-simple",    "type": "action", "category": "Замки и взлом", "name": "Вскрыть простой сейф", "svd": 55, "skill": "vzlom-zamkov", "note": "Бытовой/офисный сейф. Только опытный взломщик." },
+  { "id": "lock-safe-bank",      "type": "action", "category": "Замки и взлом", "name": "Вскрыть банковский сейф", "svd": 72, "skill": "vzlom-zamkov", "note": "Хранилище. Даже мастер — без оборудования почти никак." },
+
+  { "id": "force-door",       "type": "action", "category": "Сила и тело", "name": "Выбить обычную дверь", "svd": 0,  "skill": "rukopashnyy-boy", "note": "Деревянная дверь с одного-двух ударов — для Васи средне." },
+  { "id": "force-door-steel", "type": "action", "category": "Сила и тело", "name": "Выбить стальную дверь", "svd": 45, "skill": "rukopashnyy-boy", "note": "Для Васи невыполнимо без инструмента." },
+  { "id": "climb-wall",       "type": "action", "category": "Сила и тело", "name": "Влезть по водосточной трубе", "svd": 10, "skill": "alpinizm", "note": "Невысокая стена с зацепами." },
+  { "id": "climb-sheer",      "type": "action", "category": "Сила и тело", "name": "Влезть по гладкой стене", "svd": 50, "skill": "alpinizm", "note": "Без снаряжения — для Васи невыполнимо." },
+
+  { "id": "search-room",     "type": "action", "category": "Поиск и наблюдение", "name": "Обыскать комнату", "svd": 5,  "skill": "obysk", "note": "Найти спрятанное обычным образом." },
+  { "id": "search-hidden",   "type": "action", "category": "Поиск и наблюдение", "name": "Найти умело спрятанный тайник", "svd": 30, "skill": "obysk", "note": "Профессионально скрытое." },
+  { "id": "spot-ambush",     "type": "action", "category": "Поиск и наблюдение", "name": "Заметить засаду", "svd": 20, "skill": "predostorozhnost", "note": "Враг профессионально укрылся." },
+  { "id": "track-fresh",     "type": "action", "category": "Поиск и наблюдение", "name": "Идти по свежему следу", "svd": 5,  "skill": "ohota-i-vyslezhivanie", "note": "След не старше часа, мягкая земля." },
+  { "id": "track-cold",      "type": "action", "category": "Поиск и наблюдение", "name": "Идти по остывшему следу", "svd": 35, "skill": "ohota-i-vyslezhivanie", "note": "Сутки, твёрдый грунт." },
+
+  { "id": "firstaid-stop",   "type": "action", "category": "Медицина", "name": "Остановить кровотечение", "svd": 5,  "skill": "pervaya-pomosch", "note": "Лёгкая/средняя рана." },
+  { "id": "firstaid-crit",   "type": "action", "category": "Медицина", "name": "Стабилизировать умирающего", "svd": 30, "skill": "polevaya-medicina", "note": "Критическая рана, минуты на счету." },
+  { "id": "diagnose",        "type": "action", "category": "Медицина", "name": "Поставить диагноз", "svd": 10, "skill": "terapiya", "note": "Типичное заболевание." },
+  { "id": "identify-poison", "type": "action", "category": "Медицина", "name": "Опознать яд по симптомам", "svd": 25, "skill": "farmakologiya", "note": "Распространённый яд." },
+
+  { "id": "repair-simple",   "type": "action", "category": "Техника", "name": "Починить простой механизм", "svd": 5,  "skill": "mehanika", "note": "Знакомое устройство, есть инструмент." },
+  { "id": "repair-complex",  "type": "action", "category": "Техника", "name": "Починить сложную технику", "svd": 30, "skill": "mehanika", "note": "Незнакомое или повреждённое устройство." },
+  { "id": "hotwire",         "type": "action", "category": "Техника", "name": "Завести машину без ключа", "svd": 15, "skill": "elektronika", "note": "Обычный автомобиль." },
+
+  { "id": "occult-common",   "type": "action", "category": "Паранормальное", "name": "Опознать распространённую тварь", "svd": 10, "skill": "okkultizm", "note": "Вампир, обращённый — то, что в сводках ОРПП." },
+  { "id": "occult-rare",     "type": "action", "category": "Паранормальное", "name": "Опознать редкую сущность", "svd": 40, "skill": "okkultizm", "note": "Для Васи почти невыполнимо." },
+
+  { "id": "light-bright",   "type": "modifier", "category": "Освещение", "name": "Яркий дневной свет", "svd": 0,  "note": "Помех нет." },
+  { "id": "light-dusk",     "type": "modifier", "category": "Освещение", "name": "Сумерки", "svd": 5,  "note": "Контуры размыты." },
+  { "id": "light-dark",     "type": "modifier", "category": "Освещение", "name": "Темнота со слабым источником", "svd": 15, "note": "Фонарь, луна, отсветы." },
+  { "id": "light-pitch",    "type": "modifier", "category": "Освещение", "name": "Полная тьма", "svd": 35, "note": "Без прибора ночного видения — наугад." },
+  { "id": "light-blinding", "type": "modifier", "category": "Освещение", "name": "Слепящий свет в глаза", "svd": 15, "note": "Солнце, фара, вспышка." },
+
+  { "id": "weather-rain",  "type": "modifier", "category": "Погода", "name": "Дождь", "svd": 5,  "note": "Сниженная видимость, скользко." },
+  { "id": "weather-wind",  "type": "modifier", "category": "Погода", "name": "Сильный ветер", "svd": 10, "note": "Сносит траекторию, мешает слышать." },
+  { "id": "weather-storm", "type": "modifier", "category": "Погода", "name": "Шторм или буран", "svd": 22, "note": "Стихия против тебя." },
+  { "id": "weather-temp",  "type": "modifier", "category": "Погода", "name": "Экстремальная жара или мороз", "svd": 12, "note": "Руки не слушаются, пот заливает глаза." },
+
+  { "id": "range-pointblank", "type": "modifier", "category": "Стрельба: дистанция", "name": "Выстрел в упор", "svd": -20, "note": "Промахнуться сложно." },
+  { "id": "range-medium",     "type": "modifier", "category": "Стрельба: дистанция", "name": "Средняя дистанция", "svd": 8,   "note": "В пределах эффективной дальности." },
+  { "id": "range-long",       "type": "modifier", "category": "Стрельба: дистанция", "name": "Дальняя дистанция", "svd": 20,  "note": "На грани эффективной дальности." },
+  { "id": "range-extreme",    "type": "modifier", "category": "Стрельба: дистанция", "name": "Предельная дистанция", "svd": 38,  "note": "За паспортной дальностью." },
+
+  { "id": "shoot-moving",    "type": "modifier", "category": "Стрельба: условия", "name": "Цель движется", "svd": 12, "note": "Бегущая или маневрирующая цель." },
+  { "id": "shoot-cover",     "type": "modifier", "category": "Стрельба: условия", "name": "Цель в частичном укрытии", "svd": 12, "note": "Виден силуэт наполовину." },
+  { "id": "shoot-cover-full","type": "modifier", "category": "Стрельба: условия", "name": "Цель за укрытием, видна часть", "svd": 28, "note": "Голова из-за стены." },
+  { "id": "shoot-dual",      "type": "modifier", "category": "Стрельба: условия", "name": "Стрельба с двух рук без Двоерукости", "svd": 15, "note": "С достоинством «Двоерукость» — без штрафа." },
+  { "id": "shoot-running",   "type": "modifier", "category": "Стрельба: условия", "name": "Стрельба на бегу", "svd": 22, "note": "Своё движение сбивает прицел." },
+  { "id": "shoot-aim",       "type": "modifier", "category": "Стрельба: условия", "name": "Тщательное прицеливание (раунд)", "svd": -12, "note": "Раунд потрачен только на прицел." },
+
+  { "id": "phys-wound-light", "type": "modifier", "category": "Состояние персонажа", "name": "Лёгкая рана", "svd": 3,  "note": "Кровит, отвлекает." },
+  { "id": "phys-wound-heavy", "type": "modifier", "category": "Состояние персонажа", "name": "Тяжёлая рана", "svd": 12, "note": "Боль и кровопотеря." },
+  { "id": "phys-wound-crit",  "type": "modifier", "category": "Состояние персонажа", "name": "Критическая рана", "svd": 25, "note": "На грани сознания." },
+  { "id": "phys-exhausted",   "type": "modifier", "category": "Состояние персонажа", "name": "Сильная усталость", "svd": 12, "note": "Стамина на нуле." },
+  { "id": "phys-drunk",       "type": "modifier", "category": "Состояние персонажа", "name": "Опьянение", "svd": 15, "note": "Алкоголь или препараты." },
+
+  { "id": "tool-wrong",   "type": "modifier", "category": "Инструмент и обстановка", "name": "Неподходящий инструмент", "svd": 15, "note": "Не то, чем работают профессионалы." },
+  { "id": "tool-improv",  "type": "modifier", "category": "Инструмент и обстановка", "name": "Импровизированный инструмент", "svd": 28, "note": "Шпилька вместо отмычки." },
+  { "id": "tool-none",    "type": "modifier", "category": "Инструмент и обстановка", "name": "Вообще без инструмента", "svd": 45, "note": "Голые руки там, где нужен инструмент." },
+  { "id": "tool-rush",    "type": "modifier", "category": "Инструмент и обстановка", "name": "Жёсткий цейтнот", "svd": 15, "note": "Секунды на счету." },
+  { "id": "tool-noise",   "type": "modifier", "category": "Инструмент и обстановка", "name": "Сильный отвлекающий шум", "svd": 6,  "note": "Грохот, крики, сирена." },
+  { "id": "tool-ideal",   "type": "modifier", "category": "Инструмент и обстановка", "name": "Идеальные условия и время", "svd": -18, "note": "Тихо, светло, всё под рукой, никто не торопит." },
+
+  { "id": "soc-friendly", "type": "modifier", "category": "Социальное", "name": "Собеседник дружелюбен", "svd": -15, "note": "На твоей стороне." },
+  { "id": "soc-wary",     "type": "modifier", "category": "Социальное", "name": "Собеседник насторожен", "svd": 12, "note": "Подозревает, держит дистанцию." },
+  { "id": "soc-hostile",  "type": "modifier", "category": "Социальное", "name": "Собеседник враждебен", "svd": 28, "note": "Готов сорваться." },
+  { "id": "soc-language", "type": "modifier", "category": "Социальное", "name": "Языковой барьер", "svd": 22, "note": "Общего языка почти нет." }
+ ]
+}
