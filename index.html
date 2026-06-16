@@ -17,7 +17,7 @@
             color: #C4A35A;
         }
         #boot {
-            position: absolute;
+            position: fixed;
             inset: 0;
             display: flex;
             align-items: center;
@@ -25,11 +25,30 @@
             font-size: 14px;
             color: #C4A35A;
             opacity: 0.6;
+            pointer-events: none;  /* НЕ блокируем clicks/input */
+            z-index: -1;            /* за canvas'ом */
+            background: #1A1714;
         }
+        canvas { background: #1A1714; }
     </style>
 </head>
 <body>
     <div id="boot">RURK · загрузка…</div>
+    <script src="https://unpkg.com/peerjs@1.5.4/dist/peerjs.min.js"></script>
+    <script src="peerSync.js"></script>
     <script src="rurkTable.js"></script>
+    <script>
+        // Убираем boot-div как только Compose canvas появится в body.
+        const obs = new MutationObserver(() => {
+            if (document.querySelector('canvas')) {
+                const b = document.getElementById('boot');
+                if (b) b.remove();
+                obs.disconnect();
+            }
+        });
+        obs.observe(document.body, { childList: true, subtree: true });
+        // Failsafe: убрать через 8 сек в любом случае
+        setTimeout(() => { const b = document.getElementById('boot'); if (b) b.remove(); }, 8000);
+    </script>
 </body>
 </html>
